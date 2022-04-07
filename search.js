@@ -9,7 +9,7 @@ const createNew = (name) => {
     if (fs.existsSync(`./data/${name}.json`)) {
       return
     } else {
-      fs.writeFile(`./data/${name}.json`, '[]', (error, data) => {
+      fs.writeFile(`./data/${name}.json`, '', (error, data) => {
         if (error) {
           console.log('createNew error: ', error)
           return
