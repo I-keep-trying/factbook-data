@@ -1140,4 +1140,189 @@
       }
     }
   }
+}": "15.49 million (2021)"
+      },
+      "percent of population": {
+        "text": "78.46% (2020 est.)"
+      }
+    },
+    "Broadband - fixed subscriptions": {
+      "total": {
+        "text": "5.685 million (2020)"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "29.55 (2020 est.)"
+      }
+    }
+  },
+  "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "8 (2020)"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "60"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "4,908,235 (2018)"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2.71 million mt-km (2018)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "YR"
+    },
+    "Airports": {
+      "total": {
+        "text": "45 (2013)"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "26"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "19"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "14 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Pipelines": {
+      "text": "3726 km gas, 2451 km oil (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "11,268 km (2014)"
+      },
+      "standard gauge": {
+        "text": "10,781 km 1.435-m gauge (3,292 km electrified) (2014)"
+      },
+      "narrow gauge": {
+        "text": "427 km 0.760-m gauge (2014)"
+      },
+      "broad gauge": {
+        "text": "60 km 1.524-m gauge (2014)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "84,185 km (2012)"
+      },
+      "paved": {
+        "text": "49,873 km (includes 337 km of expressways) (2012)"
+      },
+      "unpaved": {
+        "text": "34,312 km (2012)"
+      }
+    },
+    "Waterways": {
+      "text": "1,731 km (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "121"
+      },
+      "by type": {
+        "text": "general cargo 11, oil tanker 6, other 104 (2021)"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Constanta, Midia"
+      },
+      "river port(s)": {
+        "text": "Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube River)"
+      }
+    }
+  },
+  "Military and Security": {
+    "Military and security forces": {
+      "text": "Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie (2021)"
+    },
+    "Military expenditures": {
+      "Military Expenditures 2021": {
+        "text": "2% of GDP (2021 est.)"
+      },
+      "Military Expenditures 2020": {
+        "text": "2.1% of GDP (2020)"
+      },
+      "Military Expenditures 2019": {
+        "text": "1.8% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.8% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.7% of GDP (2017)"
+      }
+    },
+    "Military and security service personnel strengths": {
+      "text": "the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2021)"
+    },
+    "Military equipment inventories and acquisitions": {
+      "text": "the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment received in more recent years from European countries and the US&nbsp; (2021)"
+    },
+    "Military service age and obligation": {
+      "text": "conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2021)"
+    },
+    "Military deployments": {
+      "text": "up to 120 Poland (NATO) (2021)"
+    },
+    "Military - note": {
+      "text": "Romania officially became a member of NATO in 2004<br> <p>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance</p>"
+    }
+  },
+  "Terrorism": {
+    "Terrorist group(s)": {
+      "text": "Islamic State of Iraq and ash-Sham (ISIS)",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "<p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p>"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "608,936 (Ukraine) (as of 29 March 2022)"
+      },
+      "stateless persons": {
+        "text": "314 (mid-year 2021)"
+      },
+      "note": "<strong>note:</strong> 9,519 estimated refugee and migrant arrivals (January 2015-February 2022)"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List &mdash; Romania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government identified more trafficking victims during the reporting period, participated in more international investigations, and conducted awareness campaigns; however, authorities investigated, prosecuted, and convicted fewer traffickers; officials complicit in trafficking crimes, especially with minors in government-run homes or placement centers, were not prosecuted; government funding of services for child trafficking victims remained inadequate (2020)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "<p>a source country for cannabis</p>"
+    }
+  }
 }

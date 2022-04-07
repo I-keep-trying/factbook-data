@@ -2,6 +2,8 @@ const fs = require('fs')
 const allData = require('./data.json')
 const names = require('./countryNames.json')
 
+const files = require('./data')
+
 const createNew = (name) => {
   try {
     if (fs.existsSync(`./data/${name}.json`)) {
@@ -20,39 +22,56 @@ const createNew = (name) => {
 }
 
 const findCountries = () =>
+  // map entire collection from ./data.json
   allData.map((item) => {
     if (item.Government['Country name'] !== undefined) {
+      // there will always (probably) be one undefined from source data
       const findName =
         item.Government['Country name']['conventional short form'].text
-      names.map((name) => {
+      // map list of names from restcountries api
+      return names.map((name) => {
         createNew(name)
-        if (findName === name) {
-          console.log('found item', name)
+        if (findName.toLocaleLowerCase().includes(name.toLocaleLowerCase())) {
+          console.log('findName.includes(name)', name)
           fs.readFile(`./data/${name}.json`, (error, data) => {
             if (error) {
               console.log(error)
-              return
             }
             fs.writeFile(
-                `./data/${name}.json`,
-                JSON.stringify(item, null, 2),
-                (err) => {
-                  if (err) {
-                    console.log('Failed to write data')
-                    return
-                  }
-                  console.log('Updated data file successfully')
+              `./data/${name}.json`,
+              JSON.stringify(item, null, 2),
+              (err) => {
+                if (err) {
+                  console.log('Failed to write data')
                 }
-              )
+                console.log('1: Updated data file successfully')
+              }
+            )
           })
-          return item
+        } else if (
+          name.toLocaleLowerCase().includes(findName.toLocaleLowerCase())
+        ) {
+          console.log('name.includes(findName)', name)
+          fs.readFile(`./data/${name}.json`, (error, data) => {
+            if (error) {
+              console.log(error)
+            }
+            fs.writeFile(
+              `./data/${name}.json`,
+              JSON.stringify(item, null, 2),
+              (err) => {
+                if (err) {
+                  console.log('Failed to write data')
+                }
+                console.log('2: Updated data file successfully')
+              }
+            )
+          })
         }
       })
-      return
     }
     console.log('item undefined')
     return
   })
 
 findCountries()
-

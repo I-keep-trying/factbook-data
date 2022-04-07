@@ -1,444 +1,412 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>Guinea's deep Muslim heritage arrived via the neighboring Almoravid Empire in the 11th century. Following Almoravid decline, Guinea existed on the fringe of several African kingdoms, all competing for regional dominance. In the 13th century, the Mali Empire took control of Guinea, encouraging its already growing Muslim faith. After the fall of the West African empires, various smaller kingdoms controlled Guinea. In the 18th century, Fulani Muslims established an Islamic state in central Guinea that represents one of the earliest examples of a written constitution and alternating leadership. While European traders first arrived in the 16th century, it was the French who secured colonial rule in the 19th century.</p> <p>In 1958, Guinea achieved independence from France. Sekou TOURE became Guinea’s first post-independence president; he established a dictatorial regime and ruled until his death in 1984, after which General Lansana CONTE staged a coup and seized the government. He too established an authoritarian regime and manipulated presidential elections until his death in December 2008, when Captain Moussa Dadis CAMARA led a military coup, seized power, and suspended the constitution. In September 2009, presidential guards opened fire on an opposition rally, killing more than 150 people in Conakry, the capital. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. In 2010 and 2013 respectively, the country held its first free and fair presidential and legislative elections. Alpha CONDE won the 2010 and 2015 presidential elections. CONDE's first cabinet was the first all-civilian government in Guinean history. In March 2020, Guinea passed a new constitution in a national referendum that changed presidential term limit rules. CONDE argued that, given this change, he was allowed to run for a third term, which he then won in October 2020. On 5 September 2021, Col Mamady DOUMBOUYA led special forces troops in a successful military coup, ousting and arresting CONDE and establishing the National Committee of Rally and Development (CNRD). DOUMBOUYA and the CNRD  suspended the constitution and dissolved the government and the legislature. DOUMBOUYA was sworn in as transition president on 1 October 2021, and appointed Mohamed BEAVOGUI as transition prime minister. BEAVOGUI subsequently formed a largely technocratic cabinet. Guinean authorities are attempting to form a National Transition Council, which will act as a transitional legislature.<br><br></p>"
+      "text": "<p>Papua New Guinea (PNG) was first settled between 50,000 and 60,000 years ago. PNG’s harsh geography consisting of mountains, jungles, and numerous river valleys, kept many of the arriving groups isolated, giving rise to PNG’s incredible ethnic and linguistic diversity. Agriculture was independently developed by some of these groups. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate - and eventually a colony - over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s, led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville, an island well endowed in copper and gold resources, reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. Following elections in 1992, the PNG government took a hardline stance against Bougainville rebels and the resulting civil war led to about 20,000 deaths. In 1997, the PNG government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001, which granted Bougainville autonomy. An internationally-monitored nonbinding referendum asking Bougainvilleans to chose independence or greater self rule occurred in November 2019, with 98% of voters opting for independence.</p>"
     }
   },
   "Geography": {
     "Location": {
-      "text": "Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Sierra Leone"
+      "text": "Oceania, group of islands including the eastern half of the island of New Guinea between the Coral Sea and the South Pacific Ocean, east of Indonesia"
     },
     "Geographic coordinates": {
-      "text": "11 00 N, 10 00 W"
+      "text": "6 00 S, 147 00 E"
     },
     "Map references": {
-      "text": "Africa"
+      "text": "Oceania"
     },
     "Area": {
       "total": {
-        "text": "245,857 sq km"
+        "text": "462,840 sq km"
       },
       "land": {
-        "text": "245,717 sq km"
+        "text": "452,860 sq km"
       },
       "water": {
-        "text": "140 sq km"
+        "text": "9,980 sq km"
       }
     },
     "Area - comparative": {
-      "text": "slightly smaller than Oregon; slightly larger than twice the size of Pennsylvania"
+      "text": "slightly larger than California"
     },
     "Land boundaries": {
       "total": {
-        "text": "4,046 km"
+        "text": "824 km"
       },
       "border countries": {
-        "text": "Cote d'Ivoire 816 km; Guinea-Bissau 421 km; Liberia 590 km; Mali 1062 km; Senegal 363 km; Sierra Leone 794 km"
+        "text": "Indonesia 824 km"
       }
     },
     "Coastline": {
-      "text": "320 km"
+      "text": "5,152 km"
     },
     "Maritime claims": {
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
+      "continental shelf": {
+        "text": "200-m depth or to the depth of exploitation"
+      },
+      "exclusive fishing zone": {
         "text": "200 nm"
-      }
+      },
+      "note": "measured from claimed archipelagic baselines"
     },
     "Climate": {
-      "text": "generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds"
+      "text": "tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation"
     },
     "Terrain": {
-      "text": "generally flat coastal plain, hilly to mountainous interior"
+      "text": "mostly mountains with coastal lowlands and rolling foothills"
     },
     "Elevation": {
       "highest point": {
-        "text": "Mont Nimba 1,752 m"
+        "text": "Mount Wilhelm 4,509 m"
       },
       "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+        "text": "Pacific Ocean 0 m"
       },
       "mean elevation": {
-        "text": "472 m"
+        "text": "667 m"
       }
     },
     "Natural resources": {
-      "text": "bauxite, iron ore, diamonds, gold, uranium, hydropower, fish, salt"
+      "text": "gold, copper, silver, natural gas, timber, oil, fisheries"
     },
     "Land use": {
       "agricultural land": {
-        "text": "58.1% (2018 est.)"
+        "text": "2.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 11.8% (2018 est.)"
+        "text": "arable land: 0.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 2.8% (2018 est.)"
+        "text": "permanent crops: 1.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 43.5% (2018 est.)"
+        "text": "permanent pasture: 0.4% (2018 est.)"
       },
       "forest": {
-        "text": "26.5% (2018 est.)"
+        "text": "63.1% (2018 est.)"
       },
       "other": {
-        "text": "15.4% (2018 est.)"
+        "text": "34.3% (2018 est.)"
       }
     },
     "Irrigated land": {
-      "text": "950 sq km (2012)"
+      "text": "0 sq km (2012)"
     },
     "Major rivers (by length in km)": {
-      "text": "Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)"
+      "text": "Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km"
     },
     "Population distribution": {
-      "text": "areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map"
+      "text": "population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas"
     },
     "Natural hazards": {
-      "text": "hot, dry, dusty harmattan haze may reduce visibility during dry season"
+      "text": "<p>active volcanism; the country is subject to frequent and sometimes severe earthquakes; mud slides; tsunamis</p><p><strong>volcanism:</strong> severe volcanic activity; Ulawun (2,334 m), one of Papua New Guinea's potentially most dangerous volcanoes, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Rabaul (688 m) destroyed the city of Rabaul in 1937 and 1994; Lamington erupted in 1951 killing 3,000 people; Manam's 2004 eruption forced the island's abandonment; other historically active volcanoes include Bam, Bagana, Garbuna, Karkar, Langila, Lolobau, Long Island, Pago, St. Andrew Strait, Victory, and Waiowa; see note 2 under \"Geography - note\"</p>"
     },
     "Geography - note": {
-      "text": "the Niger and its important tributary the Milo River have their sources in the Guinean highlands"
+      "text": "<p><strong>note 1:</strong> shares island of New Guinea with Indonesia; generally east-west trending highlands break up New Guinea into diverse ecoregions; one of world's largest swamps along southwest coast<br><br><strong>note 2: </strong>two major food crops apparently developed on the island of New Guinea: bananas and sugarcane</p> <p><strong>note 3:</strong> Papua New Guinea is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p>"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "12,877,894 (July 2021 est.)"
+      "text": "7,399,757 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
-        "text": "Guinean(s)"
+        "text": "Papua New Guinean(s)"
       },
       "adjective": {
-        "text": "Guinean"
+        "text": "Papua New Guinean"
       }
     },
     "Ethnic groups": {
-      "text": "Fulani (Peuhl) 33.4%, Malinke 29.4%, Susu 21.2%, Guerze 7.8%, Kissi 6.2%, Toma 1.6%, other/foreign 0.4% (2018 est.)"
+      "text": "Melanesian, Papuan, Negrito, Micronesian, Polynesian"
     },
     "Languages": {
-      "text": "French (official), Pular, Maninka, Susu, other native languages",
-      "note": "<strong>note:</strong> about 40 languages are spoken; each ethnic group has its own language"
+      "text": "Tok Pisin (official), English (official), Hiri Motu (official), some 839 indigenous languages spoken (about 12% of the world's total); many languages have fewer than 1,000 speakers",
+      "note": "<strong>note:</strong> Tok Pisin, a creole language, is widely used and understood; English is spoken by 1%-2%; Hiri Motu is spoken by less than 2%"
     },
     "Religions": {
-      "text": "Muslim 89.1%, Christian 6.8%, animist 1.6%, other 0.1%, none 2.4% (2014 est.)"
-    },
-    "Demographic profile": {
-      "text": "<p>Guinea’s strong population growth is a result of declining mortality rates and sustained elevated fertility. The population growth rate was somewhat tempered in the 2000s because of a period of net outmigration. Although life expectancy and mortality rates have improved over the last two decades, the nearly universal practice of female genital cutting continues to contribute to high infant and maternal mortality rates. Guinea’s total fertility remains high at about 5 children per woman because of the ongoing preference for larger families, low contraceptive usage and availability, a lack of educational attainment and empowerment among women, and poverty. A lack of literacy and vocational training programs limit job prospects for youths, but even those with university degrees often have no option but to work in the informal sector. About 60% of the country’s large youth population is unemployed.</p><p>Tensions and refugees have spilled over Guinea’s borders with Sierra Leone, Liberia, and Cote d’Ivoire. During the 1990s Guinea harbored as many as half a million refugees from Sierra Leone and Liberia, more refugees than any other African country for much of that decade. About half sought refuge in the volatile \"Parrot’s Beak\" region of southwest Guinea, a wedge of land jutting into Sierra Leone near the Liberian border. Many were relocated within Guinea in the early 2000s because the area suffered repeated cross-border attacks from various government and rebel forces, as well as anti-refugee violence.</p>"
+      "text": "Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pentecostal 10.4%, United Church 10.3%, Evangelical Alliance 5.9%, Anglican 3.2%, Baptist 2.8%, Salvation Army .4%), Roman Catholic 26%, other Christian 5.3%, non-Christian 1.4%, unspecified 3.1% (2011 est.)",
+      "note": "<strong>note:</strong> data represent only the citizen population; roughly 0.3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "41.2% (male 2,601,221/female 2,559,918)"
+        "text": "31.98% (male 1,182,539/female 1,139,358)"
       },
       "15-24 years": {
-        "text": "19.32% (male 1,215,654/female 1,204,366)"
+        "text": "19.87% (male 731,453/female 711,164)"
       },
       "25-54 years": {
-        "text": "30.85% (male 1,933,141/female 1,930,977)"
+        "text": "37.68% (male 1,397,903/female 1,337,143)"
       },
       "55-64 years": {
-        "text": "4.73% (male 287,448/female 305,420)"
+        "text": "5.83% (male 218,529/female 204,717)"
       },
       "65 years and over": {
-        "text": "3.91% (male 218,803/female 270,492) (2020 est.)"
+        "text": "4.64% (male 164,734/female 171,916) (2020 est.)"
       }
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "85.2"
+        "text": "63.2"
       },
       "youth dependency ratio": {
-        "text": "79.7"
+        "text": "57.4"
       },
       "elderly dependency ratio": {
-        "text": "5.5"
+        "text": "5.8"
       },
       "potential support ratio": {
-        "text": "18.3 (2020 est.)"
+        "text": "17.2 (2020 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "19.1 years"
+        "text": "24 years"
       },
       "male": {
-        "text": "18.9 years"
+        "text": "24 years"
       },
       "female": {
-        "text": "19.4 years (2020 est.)"
+        "text": "24 years (2020 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2.76% (2021 est.)"
+      "text": "1.61% (2021 est.)"
     },
     "Birth rate": {
-      "text": "35.67 births/1,000 population (2022 est.)"
+      "text": "29.03 births/1,000 population (2022 est.)"
     },
     "Death rate": {
-      "text": "8.12 deaths/1,000 population (2022 est.)"
+      "text": "5.54 deaths/1,000 population (2022 est.)"
     },
     "Net migration rate": {
       "text": "0 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map"
+      "text": "population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas"
     },
     "Urbanization": {
       "urban population": {
-        "text": "37.7% of total population (2022)"
+        "text": "13.6% of total population (2022)"
       },
       "rate of urbanization": {
-        "text": "3.64% annual rate of change (2020-25 est.)"
+        "text": "2.91% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
-      "text": "2.049 million CONAKRY (capital) (2022)"
+      "text": "400,000 PORT MORESBY (capital) (2022)"
     },
     "Sex ratio": {
       "at birth": {
-        "text": "1.03 male(s)/female"
+        "text": "1.05 male(s)/female"
       },
       "0-14 years": {
-        "text": "1.02 male(s)/female"
+        "text": "1.04 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.01 male(s)/female"
+        "text": "1.03 male(s)/female"
       },
       "25-54 years": {
-        "text": "1 male(s)/female"
+        "text": "1.05 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.94 male(s)/female"
+        "text": "1.07 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.81 male(s)/female"
+        "text": "0.96 male(s)/female"
       },
       "total population": {
-        "text": "1 male(s)/female (2020 est.)"
+        "text": "1.04 male(s)/female (2020 est.)"
       }
     },
     "Mother's mean age at first birth": {
-      "text": "19.9 years (2018 est.)",
-      "note": "<strong>note:</strong> median age at first birth among women 20-49"
+      "text": "<strong>note:</strong> median age a first birth among women 25-49"
     },
     "Maternal mortality ratio": {
-      "text": "576 deaths/100,000 live births (2017 est.)"
+      "text": "145 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "50.99 deaths/1,000 live births"
+        "text": "40.33 deaths/1,000 live births"
       },
       "male": {
-        "text": "55.83 deaths/1,000 live births"
+        "text": "45.32 deaths/1,000 live births"
       },
       "female": {
-        "text": "46 deaths/1,000 live births (2021 est.)"
+        "text": "35.09 deaths/1,000 live births (2021 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "63.53 years"
+        "text": "69.86 years"
       },
       "male": {
-        "text": "61.7 years"
+        "text": "67.37 years"
       },
       "female": {
-        "text": "65.42 years (2021 est.)"
+        "text": "72.48 years (2021 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "4.89 children born/woman (2021 est.)"
+      "text": "2.79 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
-      "text": "10.9% (2018)"
+      "text": "36.7% (2016/18)"
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 99.5% of population"
+        "text": "urban: 86.2% of population"
       },
       "improved: rural": {
-        "text": "rural: 76.9% of population"
+        "text": "rural: 41.5% of population"
       },
       "improved: total": {
-        "text": "total: 85.2% of population"
+        "text": "total: 47.5% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0.5% of population"
+        "text": "urban: 13.8% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 23.1% of population"
+        "text": "rural: 58.5% of population"
       },
       "unimproved: total": {
-        "text": "total: 14.8% of population (2020 est.)"
+        "text": "total: 52.5% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
-      "text": "4% (2019)"
+      "text": "2.3% (2019)"
     },
     "Physicians density": {
-      "text": "0.08 physicians/1,000 population (2016)"
-    },
-    "Hospital bed density": {
-      "text": "0.3 beds/1,000 population (2011)"
+      "text": "0.07 physicians/1,000 population (2018)"
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 90.9% of population"
+        "text": "urban: 57.8% of population"
       },
       "improved: rural": {
-        "text": "rural: 38.7% of population"
+        "text": "rural: 18.2% of population"
       },
       "improved: total": {
-        "text": "total: 58% of population"
+        "text": "total: 23.5% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 9.1% of population"
+        "text": "urban: 42.2% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 61.3% of population"
+        "text": "rural: 81.8% of population"
       },
       "unimproved: total": {
-        "text": "total: 42% of population (2020 est.)"
+        "text": "total: 76.5% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.4% (2020 est.)"
+      "text": "0.9% (2020 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "110,000 (2020 est.)"
+      "text": "55,000 (2020 est.)",
+      "note": "<strong>note: </strong>estimate does not include children"
     },
     "HIV/AIDS - deaths": {
-      "text": "3,300 (2020 est.)"
+      "text": "&lt;500 (2020 est.)",
+      "note": "<strong>note: </strong>estimate does not include children"
     },
     "Major infectious diseases": {
       "degree of risk": {
         "text": "very high (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "malaria, dengue fever, and yellow fever"
-      },
-      "water contact diseases": {
-        "text": "schistosomiasis"
-      },
-      "animal contact diseases": {
-        "text": "rabies"
-      },
-      "aerosolized dust or soil contact diseases": {
-        "text": "Lassa fever (2016)"
-      },
-      "note": "<strong>note:</strong> on 14 February 2021, the Guinea government declared an outbreak of Ebola in N'Zerekore; the Centers for Disease Control and Prevention has issued a Travel Advisory recommending travelers avoid non-essential travel to Guinea; travelers to this area could be infected with Ebola if they come into contact with an infected person’s blood or other body fluids; travelers should seek medical care immediately if they develop fever, muscle pain, sore throat, diarrhea, weakness, vomiting, stomach pain, or unexplained bleeding or bruising during or after travel"
+        "text": "dengue fever and malaria"
+      }
     },
     "Obesity - adult prevalence rate": {
-      "text": "7.7% (2016)"
+      "text": "21.3% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "16.3% (2018)"
+      "text": "27.8% (2009/11)"
     },
     "Education expenditures": {
-      "text": "2.2% of GDP (2020)"
+      "text": "1.9% of GDP (2018)"
     },
     "Literacy": {
       "definition": {
         "text": "age 15 and over can read and write"
       },
       "total population": {
-        "text": "39.6%"
+        "text": "64.2%"
       },
       "male": {
-        "text": "54.4%"
+        "text": "65.6%"
       },
       "female": {
-        "text": "27.7% (2018)"
+        "text": "62.8% (2015)"
       }
     },
-    "School life expectancy (primary to tertiary education)": {
-      "total": {
-        "text": "9 years"
-      },
-      "male": {
-        "text": "10 years"
-      },
-      "female": {
-        "text": "8 years (2014)"
-      }
-    },
-    "Unemployment, youth ages 15-24": {
-      "total": {
-        "text": "7.1%"
-      },
-      "male": {
-        "text": "6.1%"
-      },
-      "female": {
-        "text": "7.9% (2019 est.)"
-      }
+    "People - note": {
+      "text": "the indigenous population of Papua New Guinea (PNG) is one of the most heterogeneous in the world; PNG has several thousand separate communities, most with only a few hundred people; divided by language, customs, and tradition, some of these communities have engaged in low-scale tribal conflict with their neighbors for millennia; the advent of modern weapons and modern migrants into urban areas has greatly magnified the impact of this lawlessness"
     }
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "deforestation; inadequate potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices lead to environmental damage; water pollution; improper waste disposal"
+      "text": "rain forest loss as a result of growing commercial demand for tropical timber; unsustainable logging practices result in soil erosion, water quality degredation, and loss of habitat and biodiversity; large-scale mining projects cause adverse impacts on forests and water quality (discharge of heavy metals, cyanide, and acids into rivers); severe drought; inappropriate farming practices accelerate land degradion (soil erosion, siltation, loss of soil fertility); destructive fishing practices and coastal pollution due to run-off from land-based activities and oil spills"
     },
     "Environment - international agreements": {
       "party to": {
-        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+        "text": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "Comprehensive Nuclear Test Ban"
       }
     },
     "Air pollutants": {
       "particulate matter emissions": {
-        "text": "22.43 micrograms per cubic meter (2016 est.)"
+        "text": "10.91 micrograms per cubic meter (2016 est.)"
       },
       "carbon dioxide emissions": {
-        "text": "3 megatons (2016 est.)"
+        "text": "7.54 megatons (2016 est.)"
       },
       "methane emissions": {
-        "text": "11.13 megatons (2020 est.)"
+        "text": "11.05 megatons (2020 est.)"
       }
     },
     "Climate": {
-      "text": "generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds"
+      "text": "tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation"
     },
     "Land use": {
       "agricultural land": {
-        "text": "58.1% (2018 est.)"
+        "text": "2.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 11.8% (2018 est.)"
+        "text": "arable land: 0.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 2.8% (2018 est.)"
+        "text": "permanent crops: 1.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 43.5% (2018 est.)"
+        "text": "permanent pasture: 0.4% (2018 est.)"
       },
       "forest": {
-        "text": "26.5% (2018 est.)"
+        "text": "63.1% (2018 est.)"
       },
       "other": {
-        "text": "15.4% (2018 est.)"
+        "text": "34.3% (2018 est.)"
       }
     },
     "Urbanization": {
       "urban population": {
-        "text": "37.7% of total population (2022)"
+        "text": "13.6% of total population (2022)"
       },
       "rate of urbanization": {
-        "text": "3.64% annual rate of change (2020-25 est.)"
+        "text": "2.91% annual rate of change (2020-25 est.)"
       }
     },
     "Revenue from forest resources": {
       "forest revenues": {
-        "text": "4.81% of GDP (2018 est.)"
+        "text": "2.08% of GDP (2018 est.)"
       }
     },
     "Revenue from coal": {
@@ -451,132 +419,117 @@
         "text": "very high (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "malaria, dengue fever, and yellow fever"
-      },
-      "water contact diseases": {
-        "text": "schistosomiasis"
-      },
-      "animal contact diseases": {
-        "text": "rabies"
-      },
-      "aerosolized dust or soil contact diseases": {
-        "text": "Lassa fever (2016)"
-      },
-      "note": "<strong>note:</strong> on 14 February 2021, the Guinea government declared an outbreak of Ebola in N'Zerekore; the Centers for Disease Control and Prevention has issued a Travel Advisory recommending travelers avoid non-essential travel to Guinea; travelers to this area could be infected with Ebola if they come into contact with an infected person’s blood or other body fluids; travelers should seek medical care immediately if they develop fever, muscle pain, sore throat, diarrhea, weakness, vomiting, stomach pain, or unexplained bleeding or bruising during or after travel"
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "due to localized shortfalls of cereal production - despite overall favorable food security conditions, the most vulnerable households still need external food assistance; the aggregate number of severely food insecure people was estimated at 267,000 during the lean season between June and August 2020;&nbsp;&nbsp;it is very likely that the number of food insecure population increased with the impact of COVID‑19 (2021)"
+        "text": "dengue fever and malaria"
       }
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "596,911 tons (1996 est.)"
+        "text": "1 million tons (2014 est.)"
       },
       "municipal solid waste recycled annually": {
-        "text": "29,846 tons (2005 est.)"
+        "text": "20,000 tons (2016 est.)"
       },
       "percent of municipal solid waste recycled": {
-        "text": "5% (2005 est.)"
+        "text": "2% (2016 est.)"
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)"
+      "text": "Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km"
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "224.8 million cubic meters (2017 est.)"
+        "text": "223.5 million cubic meters (2017 est.)"
       },
       "industrial": {
-        "text": "56.2 million cubic meters (2017 est.)"
+        "text": "167.6 million cubic meters (2017 est.)"
       },
       "agricultural": {
-        "text": "292.9 million cubic meters (2017 est.)"
+        "text": "1 million cubic meters (2017 est.)"
       }
     },
     "Total renewable water resources": {
-      "text": "226 billion cubic meters (2017 est.)"
+      "text": "801 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "Republic of Guinea"
+        "text": "Independent State of Papua New Guinea"
       },
       "conventional short form": {
-        "text": "Guinea"
-      },
-      "local long form": {
-        "text": "Republique de Guinee"
+        "text": "Papua New Guinea"
       },
       "local short form": {
-        "text": "Guinee"
+        "text": "Papuaniugini"
       },
       "former": {
-        "text": "French Guinea"
+        "text": "German New Guinea, British New Guinea, Territory of Papua and New Guinea"
+      },
+      "abbreviation": {
+        "text": "PNG"
       },
       "etymology": {
-        "text": "the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel"
+        "text": "the word \"papua\" derives from the Malay \"papuah\" describing the frizzy hair of the Melanesians; Spanish explorer Ynigo ORTIZ de RETEZ applied the term \"Nueva Guinea\" to the island of New Guinea in 1545 after noting the resemblance of the locals to the peoples of the Guinea coast of Africa"
       }
     },
     "Government type": {
-      "text": "presidential republic"
+      "text": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
-        "text": "Conakry"
+        "text": "Port Moresby"
       },
       "geographic coordinates": {
-        "text": "9 30 N, 13 42 W"
+        "text": "9 27 S, 147 11 E"
       },
       "time difference": {
-        "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
+        "text": "UTC+10 (15 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "time zone note": {
+        "text": "Papua New Guinea has two time zones, including Bougainville (UTC+11)"
       },
       "etymology": {
-        "text": "according to tradition, the name derives from the fusion of the name \"Cona,\" a Baga wine and cheese producer who lived on Tombo Island (the original site of the present-day capital), and the word \"nakiri,\" which in Susu means \"the other bank\" or \"the other side\"; supposedly, Baga's palm grove produced the best wine on the island and people traveling to sample his vintage, would say: \"I am going to Cona, on the other bank (Cona-nakiri),\" which over time became Conakry"
+        "text": "named in 1873 by Captain John Moresby (1830-1922) in honor of his father, British Admiral Sir Fairfax Moresby (1786-1877)"
       }
     },
     "Administrative divisions": {
-      "text": "7 regions administrative and 1 gouvenorat*; Boke, Conakry*, Faranah, Kankan, Kindia, Labe, Mamou, N'Zerekore"
+      "text": "20 provinces, 1 autonomous region*, and 1 district**; Bougainville*, Central, Chimbu, Eastern Highlands, East New Britain, East Sepik, Enga, Gulf, Hela, Jiwaka, Madang, Manus, Milne Bay, Morobe, National Capital**, New Ireland, Northern, Southern Highlands, Western, Western Highlands, West New Britain, West Sepik"
     },
     "Independence": {
-      "text": "2 October 1958 (from France)"
+      "text": "16 September 1975 (from the Australia-administered UN trusteeship)"
     },
     "National holiday": {
-      "text": "Independence Day, 2 October (1958)"
+      "text": "Independence Day, 16 September (1975)"
     },
     "Constitution": {
       "history": {
-        "text": "previous 1958, 1990; latest promulgated 19 April 2010, approved 7 May 2010"
+        "text": "adopted 15 August 1975, effective at independence 16 September 1975"
       },
       "amendments": {
-        "text": "proposed by the National Assembly or by the president of the republic; consideration of proposals requires approval by simple majority vote by the Assembly; passage requires approval in referendum; the president can opt to submit amendments directly to the Assembly, in which case approval requires at least two-thirds majority vote; revised in 2020"
+        "text": "proposed by the National Parliament; passage has prescribed majority vote requirements depending on the constitutional sections being amended &ndash; absolute majority, two-thirds majority, or three-fourths majority; amended many times, last in 2016"
       }
     },
     "Legal system": {
-      "text": "civil law system based on the French model"
+      "text": "mixed legal system of English common law and customary law"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
       "citizenship by birth": {
         "text": "no"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Guinea"
+        "text": "at least one parent must be a citizen of Papua New Guinea"
       },
       "dual citizenship recognized": {
         "text": "no"
       },
       "residency requirement for naturalization": {
-        "text": "na"
+        "text": "8 years"
       }
     },
     "Suffrage": {
@@ -584,483 +537,467 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup that arrested President CONDE, suspended the constitution, and dissolved the government and legislature. On 1 October 2021, Doumbouya was sworn in as transitional president."
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)"
       },
       "head of government": {
-        "text": "Prime Minister Mohamed BEAVOGUI (since 6 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup that arrested President CONDE, suspended the constitution, and dissolved the government of Prime Minister Ibrahima Kassory FOFANA"
+        "text": "Prime Minister James MARAPE (since 30 May 2019); Deputy Prime Minister Sam BASIL (since 20 December 2020)"
       },
       "cabinet": {
-        "text": "Council of Ministers appointed by the president"
+        "text": "National Executive Council appointed by the governor general on the recommendation of the prime minister"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 October 2020 (next to be held in October 2025); prime minister appointed by the president"
+        "text": "the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote"
       },
       "election results": {
-        "text": "Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%"
+        "text": "James MARAPE elected prime minister; National Parliament vote - 101 to 8"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral People's National Assembly or Assemblee Nationale Populaire (114 seats; 76 members directly elected in a single nationwide constituency by proportional representation vote and 38 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)"
+        "text": "unicameral National Parliament (111 seats; members directly elected in single-seat constituencies - 89 local, 20 provinicial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats"
       },
       "elections": {
-        "text": "last held on 21 March 2020 (next to be held 1 March 2027)"
+        "text": "last held from 24 June 2017 to 8 July 2017 (next to be held in June 2022)"
       },
       "election results": {
-        "text": "In parliamentary elections, the Rally of the Guinean People-Rainbow wins 57.5% of the vote (79 of 114 seats), the Democratic Union of Guinea 5.3% (4), the Democratic Popular Movement of Guinea 4.1% (3), and the New Democratic Forces 2.8% (3). Turnout is 58.0%. The military junta dissolved the legislature in September 2021 after military officers overthrew President Alpha CONDE. Junta leaders intend to create a transitional legislature by appointment. New legislative elections will be held on an unspecified date in the future."
+        "text": "percent of vote by party - PNC 37%; NA 13%; Pangu 14%; URP 11%; PPP 4%; SDP 4%; Independents 3%; and smaller parties 14%; seats by party - NA; composition - men 108, women 3, percent of women 3%"
       }
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents,&nbsp;10 councilors, the solicitor general, and NA deputies); Constitutional Court (consists of 9 members)"
+        "text": "Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)"
       },
       "judge selection and term of office": {
-        "text": "Supreme Court first president appointed by the national president after consultation with the National Assembly; other members appointed by presidential decree; members serve until age 65; Constitutional Court member appointments - 2 by the National Assembly and the president of the republic, 3 experienced judges designated by their peers, 1 experienced lawyer, 1 university professor with expertise in public law designated by peers, and 2 experienced representatives of the Independent National Institution of Human Rights; members serve single 9-year terms"
+        "text": "Supreme Court chief justice appointed by the governor general upon advice of the National Executive Council (cabinet) after consultation with the National Justice Administration minister; deputy chief justice and other justices appointed by the Judicial and Legal Services Commission, a 5-member body that includes the Supreme Court chief and deputy chief justices, the chief ombudsman, and a member of the National Parliament; full-time citizen judges appointed for 10-year renewable terms; non-citizen judges initially appointed for 3-year renewable terms and after first renewal can serve until age 70; appointment and tenure of National Court resident judges NA"
       },
       "subordinate courts": {
-        "text": "Court of Appeal or Cour d'Appel; High Court of Justice or Cour d'Assises; Court of Account (Court of Auditors); Courts of First Instance (Tribunal de Premiere Instance); labor court; military tribunal; justices of the peace; specialized courts"
+        "text": "district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Bloc Liberal or BL [Faya MILLIMONO]<br>National Party for Hope and Development or PEDN [Lansana KOUYATE]<br>Rally for the Guinean People or RPG [Vacant]<br>Union for the Progress of Guinea or UPG<br>Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO]<br>Union of Republican Forces or UFR [Sidya TOURE]",
-      "note": "<h3>Ruling party</h3>\r\n<ul>\r\n<li>Former ruling party Rally of the Guinean People (<em>Rassemblement du Peuple Guinéen, RPG</em>)</li>\r\n</ul>\r\n<h3>Opposition parties</h3>\r\n<ul>\r\n<li>African Democratic Party of Guinea (<em>Parti démocratique africain de Guinée</em>)</li>\r\n<li>Party of Unity and Progress (<em>Parti de l'Unité et du Progrès, PUP</em>)</li>\r\n<li>Union for Progress and Renewal (<em>Union pour le Progrès et le Renouveau, UPR</em>)</li>\r\n<li>Union for Progress of Guinea (<em>Union pour le Progrès de la Guinée, UPG</em>)</li>\r\n<li>Democratic Party of Guinea-African Democratic Rally (<em>Parti Démocratique de Guinée-Rassemblement Démocratique Africain, PDG-RDA</em>)</li>\r\n<li>National Alliance for Progress (<em>Alliance Nationale pour le Progrès, ANP</em>)</li>\r\n<li>Party of the Union for Development (<em>Parti de l’Union pour le Développement, PUD</em>)</li>\r\n<li>Union of Democratic Forces of Guinea ( Union des Forces Démocratiques de Guinée, UFDG ), led by Cellou Dalein Diallo</li>\r\n<li>Union of Republican Forces (<em>Union des Forces Républicaines</em>, UFR)</li>\r\n<li>the Party of Democrats for Hope  (\" PADES\") Led by Dr Ousmane Kaba</li>\r\n<li>National Alliance for Change and Democracy (ANAD) led by Cellou Dalein Diallo</li>\r\n</ul>"
+      "text": "National Alliance Party or NAP [Patrick PRUAITCH]<br>Papua and Niugini Union Party or PANGU [Sam BASIL]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Resources Party or URP [William DUMA]",
+      "note": "<strong>note:</strong> as of 8 July 2017, 45 political parties were registered"
     },
     "International organization participation": {
-      "text": "ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+      "text": "ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Kerfalla YANSANE (since 24 January 2018)"
+        "text": "Ambassador (vacant); Charge D&rsquo;Affaires Cephas KAYO, Minister (since 31 January 2018)"
       },
       "chancery": {
-        "text": "2112 Leroy Place NW, Washington, DC 20008"
+        "text": "1825 K Street NW, Suite 1010, Washington, DC 20006"
       },
       "telephone": {
-        "text": "[1] (202) 986-4300"
+        "text": "[1] (202) 745-3680"
       },
       "FAX": {
-        "text": "[1] (202) 986-3800"
+        "text": "[1] (202) 745-3679"
       },
       "email address and website": {
-        "text": "<br>http://guineaembassyusa.org/en/welcome-to-the-embassy-of-guinea-washington-usa/"
+        "text": "<br>info@pngembassy.org<br><br>http://www.pngembassy.org/"
       }
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charge d'Affaires Steven KOUTSIS (since September 2020)"
+        "text": "Ambassador Erin Elizabeth MCKEE (since 27&nbsp;November 2019); note - also accredited to the Solomon Islands and Vanuatu"
       },
       "embassy": {
-        "text": "Transversale No. 2, Centre Administratif de Koloma, Commune de Ratoma, Conakry"
+        "text": "P.O. Box 1492, Port Moresby"
       },
       "mailing address": {
-        "text": "2110 Conakry Place, Washington DC&nbsp; 20521-2110"
+        "text": "4240 Port Moresby Place, Washington DC&nbsp; 20521-4240"
       },
       "telephone": {
-        "text": "[224] 65-10-40-00"
-      },
-      "FAX": {
-        "text": "[224] 65-10-42-97"
+        "text": "[675] 308-2100"
       },
       "email address and website": {
-        "text": "<br>ConakryACS@state.gov<br><br>https://gn.usembassy.gov/"
+        "text": "<br>ConsularPortMoresby@state.gov<br><br>https://pg.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "three equal vertical bands of red (hoist side), yellow, and green; red represents the people's sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country's vegetation and unity",
-      "note": "<strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal"
+      "text": "divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five, white, five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are traditional colors of Papua New Guinea; the bird of paradise - endemic to the island of New Guinea - is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross, visible in the night sky, symbolizes Papua New Guinea's connection with Australia and several other countries in the South Pacific"
     },
     "National symbol(s)": {
-      "text": "elephant; national colors: red, yellow, green"
+      "text": "bird of paradise; national colors: red, black"
     },
     "National anthem": {
       "name": {
-        "text": "\"Liberte\" (Liberty)"
+        "text": "O Arise All You Sons"
       },
       "lyrics/music": {
-        "text": "unknown/Fodeba KEITA"
+        "text": "Thomas SHACKLADY"
       },
-      "note": "<strong>note:</strong> adopted 1958"
+      "note": "<strong>note:</strong> adopted 1975"
     },
     "National heritage": {
       "total World Heritage Sites": {
-        "text": "1 (natural)"
+        "text": "1 (cultural)"
       },
       "selected World Heritage Site locales": {
-        "text": "Mount Nimba Strict Nature Reserve"
+        "text": "Kuk Early Agricultural Site"
       }
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Guinea is a poor country of approximately 12.9 million people in 2016 that possesses the world's largest reserves of bauxite and largest untapped high-grade iron ore reserves, as well as gold and diamonds. In addition, Guinea has fertile soil, ample rainfall, and is the source of several West African rivers, including the Senegal, Niger, and Gambia. Guinea's hydro potential is enormous and the country could be a major exporter of electricity. The country also has tremendous agriculture potential. Gold, bauxite, and diamonds are Guinea’s main exports. International investors have shown interest in Guinea's unexplored mineral reserves, which have the potential to propel Guinea's future growth.</p><p></p><p>Following the death of long-term President Lansana CONTE in 2008 and the coup that followed, international donors, including the G-8, the IMF, and the World Bank, significantly curtailed their development programs in Guinea. However, the IMF approved a 3-year Extended Credit Facility arrangement in 2012, following the December 2010 presidential elections. In September 2012, Guinea achieved Heavily Indebted Poor Countries completion point status. Future access to international assistance and investment will depend on the government’s ability to be transparent, combat corruption, reform its banking system, improve its business environment, and build infrastructure. In April 2013, the government amended its mining code to reduce taxes and royalties. In 2014, Guinea complied with requirements of the Extractive Industries Transparency Initiative by publishing its mining contracts. Guinea completed its program with the IMF in October 2016 even though some targeted reforms have been delayed. Currently Guinea is negotiating a new IMF program which will be based on Guinea’s new five-year economic plan, focusing on the development of higher value-added products, including from the agro-business sector and development of the rural economy.</p><p></p><p>Political instability, a reintroduction of the Ebola virus epidemic, low international commodity prices, and an enduring legacy of corruption, inefficiency, and lack of government transparency are factors that could impact Guinea’s future growth. Economic recovery will be a long process while the government adjusts to lower inflows of international donor aid following the surge of Ebola-related emergency support. Ebola stalled promising economic growth in the 2014-15 period and impeded several projects, such as offshore oil exploration and the Simandou iron ore project. The economy, however, grew by 6.6% in 2016 and 6.7% in 2017, mainly due to growth from bauxite mining and thermal energy generation as well as the resiliency of the agricultural sector. The 240-megawatt Kaleta Dam, inaugurated in September 2015, has expanded access to electricity for residents of Conakry. An combined with fears of Ebola virus, continue to undermine Guinea's economic viability.</p><p></p><p>Guinea’s iron ore industry took a hit in 2016 when investors in the Simandou iron ore project announced plans to divest from the project. In 2017, agriculture output and public investment boosted economic growth, while the mining sector continued to play a prominent role in economic performance.</p><p></p><p>Successive governments have failed to address the country's crumbling infrastructure. Guinea suffers from chronic electricity shortages; poor roads, rail lines and bridges; and a lack of access to clean water - all of which continue to plague economic development. The present government, led by President Alpha CONDE, is working to create an environment to attract foreign investment and hopes to have greater participation from western countries and firms in Guinea's economic development.</p>"
+      "text": "<p>Papua New Guinea (PNG) is richly endowed with natural resources, but exploitation has been hampered by rugged terrain, land tenure issues, and the high cost of developing infrastructure. The economy has a small formal sector, focused mainly on the export of those natural resources, and an informal sector, employing the majority of the population. Agriculture provides a subsistence livelihood for 85% of the people. The global financial crisis had little impact because of continued foreign demand for PNG's commodities.</p><p></p><p>Mineral deposits, including copper, gold, and oil, account for nearly two-thirds of export earnings. Natural gas reserves amount to an estimated 155 billion cubic meters. Following construction of a $19 billion liquefied natural gas (LNG) project, PNG LNG, a consortium led by ExxonMobil, began exporting liquefied natural gas to Asian markets in May 2014. The project was delivered on time and only slightly above budget. The success of the project has encouraged other companies to look at similar LNG projects. French supermajor Total is hopes to begin construction on the Papua LNG project by 2020. Due to lower global commodity prices, resource revenues of all types have fallen dramatically. PNG’s government has recently been forced to adjust spending levels downward.</p><p></p><p>Numerous challenges still face the government of Peter O'NEILL, including providing physical security for foreign investors, regaining investor confidence, restoring integrity to state institutions, promoting economic efficiency by privatizing moribund state institutions, and maintaining good relations with Australia, its former colonial ruler. Other socio-cultural challenges could upend the economy including chronic law and order and land tenure issues. In August, 2017, PNG launched its first-ever national trade policy, PNG Trade Policy 2017-2032. The policy goal is to maximize trade and investment by increasing exports, to reduce imports, and to increase foreign direct investment (FDI).</p>"
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
-        "text": "$35.08 billion note: data are in 2017 dollars (2020 est.)"
+        "text": "$36.69 billion note: data are in 2017 dollars (2020 est.)"
       },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$32.78 billion note: data are in 2017 dollars (2019 est.)"
+        "text": "$38.17 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$31.03 billion note: data are in 2017 dollars (2018 est.)"
+        "text": "$36.06 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
-        "text": "8.2% (2017 est.)"
+        "text": "2.5% (2017 est.)"
       },
       "Real GDP growth rate 2016": {
-        "text": "10.5% (2016 est.)"
+        "text": "1.6% (2016 est.)"
       },
       "Real GDP growth rate 2015": {
-        "text": "3.8% (2015 est.)"
+        "text": "5.3% (2015 est.)"
       }
     },
     "Real GDP per capita": {
       "Real GDP per capita 2020": {
-        "text": "$2,700 note: data are in 2017 dollars (2020 est.)"
+        "text": "$4,100 note: data are in 2017 dollars (2020 est.)"
       },
       "Real GDP per capita 2019": {
-        "text": "$2,600 note: data are in 2017 dollars (2019 est.)"
+        "text": "$4,300 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$2,500 note: data are in 2017 dollars (2018 est.)"
+        "text": "$4,200 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$13.55 billion (2019 est.)"
+      "text": "$19.82 billion (2017 est.)"
     },
     "Inflation rate (consumer prices)": {
-      "Inflation rate (consumer prices) 2019": {
-        "text": "9.4% (2019 est.)"
-      },
-      "Inflation rate (consumer prices) 2018": {
-        "text": "9.8% (2018 est.)"
-      },
       "Inflation rate (consumer prices) 2017": {
-        "text": "8.9% (2017 est.)"
+        "text": "5.4% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "6.7% (2016 est.)"
+      }
+    },
+    "Credit ratings": {
+      "Moody's rating": {
+        "text": "B2 (2016)"
+      },
+      "Standard & Poors rating": {
+        "text": "B- (2020)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "19.8% (2017 est.)"
+        "text": "22.1% (2017 est.)"
       },
       "industry": {
-        "text": "32.1% (2017 est.)"
+        "text": "42.9% (2017 est.)"
       },
       "services": {
-        "text": "48.1% (2017 est.)"
+        "text": "35% (2017 est.)"
       }
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "80.8% (2017 est.)"
+        "text": "43.7% (2017 est.)"
       },
       "government consumption": {
-        "text": "6.6% (2017 est.)"
+        "text": "19.7% (2017 est.)"
       },
       "investment in fixed capital": {
-        "text": "9.1% (2017 est.)"
+        "text": "10% (2017 est.)"
       },
       "investment in inventories": {
-        "text": "18.5% (2017 est.)"
+        "text": "0.4% (2017 est.)"
       },
       "exports of goods and services": {
-        "text": "21.9% (2017 est.)"
+        "text": "49.3% (2017 est.)"
       },
       "imports of goods and services": {
-        "text": "-36.9% (2017 est.)"
+        "text": "-22.3% (2017 est.)"
       }
     },
     "Agricultural products": {
-      "text": "rice, cassava, groundnuts, maize, oil palm fruit, fonio, plantains, sugar cane, sweet potatoes, vegetables"
+      "text": "oil palm fruit, bananas, coconuts, fruit, sweet potatoes, game meat, yams, roots/tubers nes, vegetables, taro"
     },
     "Industries": {
-      "text": "bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing"
+      "text": "copra crushing, palm oil processing, plywood production, wood chip production; mining (gold, silver, copper); crude oil and petroleum products; construction, tourism, livestock (pork, poultry, cattle), dairy products, spice products (turmeric, vanilla, ginger, cardamom, chili, pepper, citronella, and nutmeg), fisheries products"
     },
     "Industrial production growth rate": {
-      "text": "11% (2017 est.)"
+      "text": "3.3% (2017 est.)"
     },
     "Labor force": {
-      "text": "5.558 million (2017 est.)"
+      "text": "3.681 million (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "76%"
+        "text": "85%"
       },
       "industry": {
-        "text": "24% (2006 est.)"
+        "text": "NA"
+      },
+      "services": {
+        "text": "NA"
       }
     },
     "Unemployment rate": {
       "Unemployment rate 2017": {
-        "text": "2.7% (2017 est.)"
+        "text": "2.5% (2017 est.)"
       },
       "Unemployment rate 2016": {
-        "text": "2.8% (2016 est.)"
-      }
-    },
-    "Unemployment, youth ages 15-24": {
-      "total": {
-        "text": "7.1%"
-      },
-      "male": {
-        "text": "6.1%"
-      },
-      "female": {
-        "text": "7.9% (2019 est.)"
+        "text": "2.5% (2016 est.)"
       }
     },
     "Population below poverty line": {
-      "text": "43.7% (2018 est.)"
+      "text": "37% (2002 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
-      "Gini Index coefficient - distribution of family income 2012": {
-        "text": "33.7 (2012 est.)"
-      },
-      "Gini Index coefficient - distribution of family income 1994": {
-        "text": "40.3 (1994)"
+      "Gini Index coefficient - distribution of family income 1996": {
+        "text": "50.9 (1996)"
       }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "2.7%"
+        "text": "1.7%"
       },
       "highest 10%": {
-        "text": "30.3% (2007)"
+        "text": "40.5% (1996)"
       }
     },
     "Budget": {
       "revenues": {
-        "text": "1.7 billion (2017 est.)"
+        "text": "3.638 billion (2017 est.)"
       },
       "expenditures": {
-        "text": "1.748 billion (2017 est.)"
+        "text": "4.591 billion (2017 est.)"
       }
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.5% (of GDP) (2017 est.)"
+      "text": "-4.8% (of GDP) (2017 est.)"
     },
     "Public debt": {
       "Public debt 2017": {
-        "text": "37.9% of GDP (2017 est.)"
+        "text": "36.9% of GDP (2017 est.)"
       },
       "Public debt 2016": {
-        "text": "41.8% of GDP (2016 est.)"
+        "text": "36.9% of GDP (2016 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "16.6% (of GDP) (2017 est.)"
+      "text": "18.4% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
       "Current account balance 2017": {
-        "text": "-$705 million (2017 est.)"
+        "text": "$4.859 billion (2017 est.)"
       },
       "Current account balance 2016": {
-        "text": "-$2.705 billion (2016 est.)"
+        "text": "$4.569 billion (2016 est.)"
       }
     },
     "Exports": {
-      "Exports 2019": {
-        "text": "$4.04 billion note: data are in current year dollars (2019 est.)"
-      },
       "Exports 2018": {
-        "text": "$4.08 billion note: data are in current year dollars (2018 est.)"
+        "text": "$10.6 billion note: data are in current year dollars (2018 est.)"
       },
-      "Exports 2017": {
-        "text": "$4.733 billion (2017 est.)"
+      "Exports 2016": {
+        "text": "$9.224 billion (2016 est.)"
       }
     },
     "Exports - partners": {
-      "text": "United Arab Emirates 39%, China 36%, India 6% (2019)"
+      "text": "Australia 26%, China 26%, Japan 22%, Taiwan 7% (2019)"
     },
     "Exports - commodities": {
-      "text": "aluminum, gold, bauxite, diamonds, fish, cashews (2019)"
+      "text": "natural gas, gold, copper, lumber, crude petroleum, nickel, palm oil, fish, coffee (2019)"
     },
     "Imports": {
-      "Imports 2019": {
-        "text": "$4.32 billion note: data are in current year dollars (2019 est.)"
-      },
       "Imports 2018": {
-        "text": "$4.18 billion note: data are in current year dollars (2018 est.)"
+        "text": "$4.84 billion note: data are in current year dollars (2018 est.)"
       },
-      "Imports 2017": {
-        "text": "$7.317 billion (2017 est.)"
+      "Imports 2016": {
+        "text": "$2.077 billion (2016 est.)"
       }
     },
     "Imports - partners": {
-      "text": "China 39%, India 8%, Netherlands 6%, Belgium 5%, United Arab Emirates 5% (2019)"
+      "text": "Australia 33%, China 19%, Singapore 14%, Malaysia 9% (2019)"
     },
     "Imports - commodities": {
-      "text": "rice, refined petroleum, packaged medicines, delivery trucks, cars (2019)"
+      "text": "refined petroleum, excavation machinery, crude petroleum, foodstuffs, delivery trucks (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
-        "text": "$331.8 million (31 December 2017 est.)"
+        "text": "$1.735 billion (31 December 2017 est.)"
       },
       "Reserves of foreign exchange and gold 31 December 2016": {
-        "text": "$383.4 million (31 December 2016 est.)"
+        "text": "$1.656 billion (31 December 2016 est.)"
       }
     },
     "Debt - external": {
       "Debt - external 31 December 2017": {
-        "text": "$1.458 billion (31 December 2017 est.)"
+        "text": "$17.94 billion (31 December 2017 est.)"
       },
       "Debt - external 31 December 2016": {
-        "text": "$1.462 billion (31 December 2016 est.)"
+        "text": "$18.28 billion (31 December 2016 est.)"
       }
     },
     "Exchange rates": {
       "currency": {
-        "text": "Guinean francs (GNF) per US dollar -"
+        "text": "kina (PGK) per US dollar -"
       },
       "Exchange rates 2020": {
-        "text": "9,953 (2020 est.)"
+        "text": "3.5131 (2020 est.)"
       },
       "Exchange rates 2019": {
-        "text": "9,542.5 (2019 est.)"
+        "text": "3.4042 (2019 est.)"
       },
       "Exchange rates 2018": {
-        "text": "9,092 (2018 est.)"
+        "text": "3.36915 (2018 est.)"
       },
       "Exchange rates 2014": {
-        "text": "7,485.5 (2014 est.)"
+        "text": "2.7684 (2014 est.)"
       },
       "Exchange rates 2013": {
-        "text": "7,014.1 (2013 est.)"
+        "text": "2.4614 (2013 est.)"
       }
     }
   },
   "Energy": {
     "Electricity access": {
       "electrification - total population": {
-        "text": "46% (2019)"
+        "text": "58.9% (2018)"
       },
       "electrification - urban areas": {
-        "text": "84% (2019)"
+        "text": "82% (2018)"
       },
       "electrification - rural areas": {
-        "text": "24% (2019)"
+        "text": "55.4% (2018)"
       }
     },
     "Electricity - production": {
-      "text": "598 million kWh (2016 est.)"
+      "text": "3.481 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "556.1 million kWh (2016 est.)"
+      "text": "3.237 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)"
+      "text": "0 kWh (2017 est.)"
     },
     "Electricity - imports": {
       "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "550,000 kW (2016 est.)"
+      "text": "900,900 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "33% of total installed capacity (2016 est.)"
+      "text": "63% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
       "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "67% of total installed capacity (2017 est.)"
+      "text": "30% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)"
+      "text": "7% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)"
+      "text": "45,000 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)"
+      "text": "55,600 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)"
+      "text": "22,220 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)"
+      "text": "183.8 million bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)"
+      "text": "22,170 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "19,000 bbl/day (2016 est.)"
+      "text": "37,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "18,460 bbl/day (2015 est.)"
+      "text": "17,110 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)"
+      "text": "11.18 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)"
+      "text": "99.11 million cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
+      "text": "11.1 billion cu m (2017 est.)"
     },
     "Natural gas - imports": {
       "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
+      "text": "210.5 billion cu m (1 January 2018 est.)"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "0 (2018)"
+        "text": "158,000 (2018)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "0 (2018 est.)"
+        "text": "1.87 (2018 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "12.873 million (2019)"
+        "text": "4.018 million (2018)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "100.8 (2019 est.)"
+        "text": "47.62 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Guinea&rsquo;s mobile subscribership growing through investment of South African telecom operators and Chinese Huawei management; m-transactions supported commerce; broadband still limited and expensive though submarine cable and IXP improved reliability of infrastructure; 4G Wi-Fi in the capital; National Backbone Network will connect regional administrative centers; ECOWAS countries to launch free roaming; importer of broadcasting equipment from China (2020)"
+        "text": "telecom services stymied by rugged terrain, high cost of infrastructure, and poverty of citizens; services are minimal with little change in fixed-line tele-density in two decades; progress in mobile platforms with almost 90% coverage on 3G and LTE; GSM available in remote areas; Internet slow and expensive, available to pockets of the population; facilities provide radiotelephone, telegraph, coastal radio, aeronautical radio, and international radio communication services; launch of satellite and landing of submarine cable will improve most services in the region; government supports training to boost digital transformation; Australia attempted to block Chinese investment in cooperative network; importer of broadcasting equipment from China (2020)"
       },
       "domestic": {
-        "text": "there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity is less than 1 per 100 persons; mobile-cellular subscribership is just over 100 per 100 persons (2019)"
+        "text": "access to telephone services is not widely available; fixed-line nearly 2 per 100 and mobile-cellular nearly 48 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)"
+        "text": "country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS and the PPC-1&nbsp;submarine cables to Australia, Guam, PNG and Solomon Islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
       },
       "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "<p>government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a dozen private television stations; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services </p> (2019)"
+      "text": "4 TV stations: 1 commercial station operating since 1987, 1 state-run station launched in 2008, 1 digital free-to-view network launched in 2014, and 1 satellite network Click TV (PNGTV) launched in 2015; the state-run National Broadcasting Corporation operates 3 radio networks with multiple repeaters and about 20 provincial stations; several commercial radio stations with multiple transmission points as well as several community stations; transmissions of several international broadcasters are accessible (2018)"
     },
     "Internet country code": {
-      "text": ".gn"
+      "text": ".pg"
     },
     "Internet users": {
       "total": {
-        "text": "2.91 million (2021 est.)"
+        "text": "1.37 million (2021 est.)"
       },
       "percent of population": {
-        "text": "18% (2019 est.)"
+        "text": "11.21% (2019 est.)"
       }
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "1,250 (2019)"
+        "text": "18,000 (2017 est.)"
       },
       "subscriptions per 100 inhabitants": {
         "text": "less than 1 (2019 est.)"
@@ -1068,65 +1005,161 @@
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "6 (2020)"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "48"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "964,713 (2018)"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "30.93 million mt-km (2018)"
+      }
+    },
     "Civil aircraft registration country code prefix": {
-      "text": "3X"
+      "text": "P2"
     },
     "Airports": {
       "total": {
-        "text": "16 (2013)"
+        "text": "561 (2013)"
       }
     },
     "Airports - with paved runways": {
       "total": {
-        "text": "4"
+        "text": "21"
       },
       "over 3,047 m": {
         "text": "1"
       },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
       "1,524 to 2,437 m": {
-        "text": "3 (2019)"
+        "text": "12"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "1 (2017)"
       }
     },
     "Airports - with unpaved runways": {
       "total": {
-        "text": "12"
+        "text": "540"
       },
       "1,524 to 2,437 m": {
-        "text": "7"
+        "text": "11"
       },
       "914 to 1,523 m": {
-        "text": "3"
+        "text": "53"
       },
       "under 914 m": {
-        "text": "2 (2013)"
+        "text": "476 (2013)"
       }
     },
-    "Railways": {
-      "total": {
-        "text": "1,086 km (2017)"
-      },
-      "standard gauge": {
-        "text": "279 km 1.435-m gauge (2017)"
-      },
-      "narrow gauge": {
-        "text": "807 km 1.000-m gauge (2017)"
-      }
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Pipelines": {
+      "text": "264 km oil (2013)"
     },
     "Roadways": {
       "total": {
-        "text": "44,301 km (2018)"
+        "text": "9,349 km (2011)"
       },
       "paved": {
-        "text": "3,346 km (2018)"
+        "text": "3,000 km (2011)"
       },
       "unpaved": {
-        "text": "40,955 km (2018)"
+        "text": "6,349 km (2011)"
       }
     },
     "Waterways": {
-      "text": "1,300 km (navigable by shallow-draft native craft in the northern part of the Niger River system) (2011)"
+      "text": "11,000 km (2011)"
     },
     "Merchant marine": {
+      "total": {
+        "text": "177"
+      },
+      "by type": {
+        "text": "container ship 6, general cargo 81, oil tanker 3, other 87 (2021)"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Kimbe, Lae, Madang, Rabaul, Wewak"
+      },
+      "LNG terminal(s) (export)": {
+        "text": "Port Moresby"
+      }
+    }
+  },
+  "Military and Security": {
+    "Military and security forces": {
+      "text": "Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary (2021)"
+    },
+    "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "0.4% of GDP (2020 est.)"
+      },
+      "Military Expenditures 2019": {
+        "text": "0.3% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "0.3% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "0.3% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "0.4% of GDP (2016)"
+      }
+    },
+    "Military and security service personnel strengths": {
+      "text": "the Papau New Guinea Defense Force has approximately 3,000 active duty troops, including a land element of about 2,500 (2021)"
+    },
+    "Military equipment inventories and acquisitions": {
+      "text": "the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplied weapons and equipment; Papua New Guinea has received most of its military assistance from Australia (2021)"
+    },
+    "Military service age and obligation": {
+      "text": "16 years of age for voluntary military service (with parental consent); no conscription (2021)"
+    },
+    "Military - note": {
+      "text": "<p>as of 2021, Australia and the US were assisting Papua New Guinea with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II</p>"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "<p>relies on assistance from Australia to keep out illegal cross-border activities from primarily Indonesia, including goods smuggling, illegal narcotics trafficking, and squatters and secessionists</p>"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "11,601 (Indonesia) (mid-year 2021)"
+      },
+      "IDPs": {
+        "text": "14,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2020)"
+      },
+      "stateless persons": {
+        "text": "9 (mid-year 2021)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Papua New Guinea is a source, destination, and transit country for men, women, and children subjected to sex trafficking and forced labor; women and children are subjected to sex trafficking and domestic servitude; families may sell girls into forced marriages to settle debts, leaving them vulnerable to forced domestic service; local and Chinese men are forced to labor in logging and mining camps; migrant women from Malaysia, Thailand, China, and the Philippines are subjected to sex trafficking and domestic servitude at logging and mining camps, fisheries, and entertainment sites"
+      },
+      "tier rating": {
+        "text": "Tier 3 &mdash; Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; despite remaining at Tier 3, the government continued to identify some trafficking victims and a prominent trafficking case was advanced; however, the government did not provide protective services for victims and did not systematically implement its victim identification procedures; corruption among officials in the logging sector remains a problem, and they continue to facilitate sex trafficking and forced labor; no alleged traffickers were convicted; the government dedicates little financial and human resources to combat trafficking, and awareness of trafficking is low among government officials (2020)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "<p>transit point for smuggling drugs such as methamphetamine and cocaine; major consumer of cannabis</p>"
+    }
+  }
+}"Merchant marine": {
       "total": {
         "text": "2"
       },
