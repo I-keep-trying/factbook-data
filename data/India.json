@@ -1,340 +1,323 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>The Indus Valley civilization, one of the world's oldest, flourished during the 3rd and 2nd millennia B.C. and extended into northwestern India. Aryan tribes from the northwest infiltrated the Indian subcontinent about 1500 B.C.; their merger with the earlier Dravidian inhabitants created the classical Indian culture. The Maurya Empire of the 4th and 3rd centuries B.C. - which reached its zenith under ASHOKA - united much of South Asia. The Golden Age ushered in by the Gupta dynasty (4th to 6th centuries A.D.) saw a flowering of Indian science, art, and culture. Islam spread across the subcontinent over a period of 700 years. In the 10th and 11th centuries, Turks and Afghans invaded India and established the Delhi Sultanate. In the early 16th century, the Emperor BABUR established the Mughal Dynasty, which ruled India for more than three centuries. European explorers began establishing footholds in India during the 16th century.</p> <p>By the 19th century, Great Britain had become the dominant political power on the subcontinent and India was seen as the \"Jewel in the Crown\" of the British Empire. The British Indian Army played a vital role in both World Wars. Years of nonviolent resistance to British rule, led by Mohandas GANDHI and Jawaharlal NEHRU, eventually resulted in Indian independence in 1947. Large-scale communal violence took place before and after the subcontinent partition into two separate states - India and Pakistan. The neighboring countries have fought three wars since independence, the last of which was in 1971 and resulted in East Pakistan becoming the separate nation of Bangladesh. India's nuclear weapons tests in 1998 emboldened Pakistan to conduct its own tests that same year. In November 2008, terrorists originating from Pakistan conducted a series of coordinated attacks in Mumbai, India's financial capital. India's economic growth following the launch of economic reforms in 1991, a massive youthful population, and a strategic geographic location have contributed to India's emergence as a regional and global power. However, India still faces pressing problems such as environmental degradation, extensive poverty, and widespread corruption, and its restrictive business climate challenges economic growth expectations.</p>"
+      "text": "<p>Formerly administered as part of the British Crown Colony of Mauritius, the British Indian Ocean Territory (BIOT) was established as an overseas territory of the UK in 1965. A number of the islands of the territory were later transferred to the Seychelles when it attained independence in 1976. Subsequently, BIOT has consisted only of the six main island groups comprising the Chagos Archipelago. Only Diego Garcia, the largest and most southerly of the islands, is inhabited. It contains a joint UK-US naval support facility and hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Kwajalein (Marshall Islands), at Cape Canaveral, Florida (US), and on Ascension Island (Saint Helena, Ascension, and Tristan da Cunha)). The US Air Force also operates a telescope array on Diego Garcia as part of the Ground-Based Electro-Optical Deep Space Surveillance System (GEODSS) for tracking orbital debris, which can be a hazard to spacecraft and astronauts.</p> <p>Between 1967 and 1973, former agricultural workers, earlier residents in the islands, were relocated primarily to Mauritius, but also to the Seychelles. Negotiations between 1971 and 1982 resulted in the establishment of a trust fund by the British Government as compensation for the displaced islanders, known as Chagossians. Beginning in 1998, the islanders pursued a series of lawsuits against the British Government seeking further compensation and the right to return to the territory. In 2006 and 2007, British court rulings invalidated the immigration policies contained in the 2004 BIOT Constitution Order that had excluded the islanders from the archipelago, but upheld the special military status of Diego Garcia. In 2008, the House of Lords, as the final court of appeal in the UK, ruled in favor of the British Government by overturning the lower court rulings and finding no right of return for the Chagossians. In March 2015, the Permanent Court of Arbitration unanimously held that the marine protected area (MPA) that the UK declared around the Chagos Archipelago in April 2010 was in violation of the UN Convention on the Law of the Sea.<br><br>In February 2019, the International Court of Justice ruled in an advisory opinion that Britain’s decolonization of Mauritius was not completed lawfully because of continued Chagossian claims. A non-binding May 2019 UN General Assembly vote demanded that Britain end its “colonial administration” of the Chagos Archipelago and that it be returned to Mauritius. UK officials defend Britain's sovereignty over the islands and argue that the issue is a bilateral dispute between Mauritius and the UK that does not warrant international intervention. <br><br><br></p>"
     }
   },
   "Geography": {
     "Location": {
-      "text": "Southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma and Pakistan"
+      "text": "archipelago in the Indian Ocean, south of India, about halfway between Africa and Indonesia"
     },
     "Geographic coordinates": {
-      "text": "20 00 N, 77 00 E"
+      "text": "6 00 S, 71 30 E;note - Diego Garcia 7 20 S, 72 25 E"
     },
     "Map references": {
-      "text": "Asia"
+      "text": "Political Map of the World"
     },
     "Area": {
       "total": {
-        "text": "3,287,263 sq km"
+        "text": "60 sq km"
       },
       "land": {
-        "text": "2,973,193 sq km"
+        "text": "60 sq km (44 Diego Garcia)"
       },
       "water": {
-        "text": "314,070 sq km"
-      }
+        "text": "54,340 sq km"
+      },
+      "note": "<strong>note:</strong> includes the entire Chagos Archipelago of 55 islands"
     },
     "Area - comparative": {
-      "text": "slightly more than one-third the size of the US"
+      "text": "land area is about one-third the size of Washington, DC"
     },
     "Land boundaries": {
       "total": {
-        "text": "13,888 km"
-      },
-      "border countries": {
-        "text": "Bangladesh 4,142 km; Bhutan 659 km; Burma 1,468 km; China 2,659 km; Nepal 1,770 km; Pakistan 3,190 km"
+        "text": "0 km"
       }
     },
     "Coastline": {
-      "text": "7,000 km"
+      "text": "698 km"
     },
     "Maritime claims": {
       "territorial sea": {
         "text": "12 nm"
       },
-      "contiguous zone": {
-        "text": "24 nm"
-      },
-      "exclusive economic zone": {
+      "Environment (Protection and Preservation) Zone": {
         "text": "200 nm"
-      },
-      "continental shelf": {
-        "text": "200 nm or to the edge of the continental margin"
       }
     },
     "Climate": {
-      "text": "varies from tropical monsoon in south to temperate in north"
+      "text": "tropical marine; hot, humid, moderated by trade winds"
     },
     "Terrain": {
-      "text": "upland plain (Deccan Plateau) in south, flat to rolling plain along the Ganges, deserts in west, Himalayas in north"
+      "text": "flat and low (most areas do not exceed two m in elevation)"
     },
     "Elevation": {
       "highest point": {
-        "text": "Kanchenjunga 8,586 m"
+        "text": "ocean-side dunes on Diego Garcia 9 m"
       },
       "lowest point": {
         "text": "Indian Ocean 0 m"
-      },
-      "mean elevation": {
-        "text": "160 m"
       }
     },
     "Natural resources": {
-      "text": "coal (fourth-largest reserves in the world), antimony, iron ore, lead, manganese, mica, bauxite, rare earth elements, titanium ore, chromite, natural gas, diamonds, petroleum, limestone, arable land"
+      "text": "coconuts, fish, sugarcane"
     },
     "Land use": {
       "agricultural land": {
-        "text": "60.5% (2018 est.)"
+        "text": "0% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 52.8% (2018 est.)"
+        "text": "arable land: 0% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 4.2% (2018 est.)"
+        "text": "permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 3.5% (2018 est.)"
+        "text": "permanent pasture: 0% (2018 est.)"
       },
       "forest": {
-        "text": "23.1% (2018 est.)"
+        "text": "0% (2018 est.)"
       },
       "other": {
-        "text": "16.4% (2018 est.)"
+        "text": "100% (2018 est.)"
       }
-    },
-    "Irrigated land": {
-      "text": "667,000 sq km (2012)"
-    },
-    "Major lakes (area sq km)": {
-      "Salt water lake(s)": {
-        "text": "Chilika Lake - 1,170 sq km"
-      }
-    },
-    "Major rivers (by length in km)": {
-      "text": "Brahmaputra (shared with China [s] and Bangladesh [m]) - 3,969 km; Indus (shared with China [s] and Pakistan [m]) - 3,610 km; Ganges river source (shared with Bangladesh [m]) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with China [s] and Pakistan [m]) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab river source (shared with Pakistan [m]) - 1,086 km; Ghaghara river mouth (shared with China [s] and Nepal) - 1,080 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)"
-    },
-    "Major aquifers": {
-      "text": "Indus-Ganges-Brahmaputra Basin"
-    },
-    "Population distribution": {
-      "text": "with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations"
     },
     "Natural hazards": {
-      "text": "<p>droughts; flash floods, as well as widespread and destructive flooding from monsoonal rains; severe thunderstorms; earthquakes</p><p><strong>volcanism:</strong> Barren Island (354 m) in the Andaman Sea has been active in recent years</p>"
+      "text": "none; located outside routes of Indian Ocean cyclones"
     },
     "Geography - note": {
-      "text": "dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal"
+      "text": "<p><strong>note 1:</strong> archipelago of 55 islands; Diego Garcia, the largest and southernmost island, occupies a strategic location in the central Indian Ocean; the island is the site of a joint US-UK military facility</p> <p><strong>note 2:</strong> Diego Garcia is the only inhabited island of the BIOT and one of only two British territories where traffic drives on the right, the other being Gibraltar</p>"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "1,339,330,514 (July 2021 est.)"
-    },
-    "Nationality": {
-      "noun": {
-        "text": "Indian(s)"
-      },
-      "adjective": {
-        "text": "Indian"
-      }
-    },
-    "Ethnic groups": {
-      "text": "Indo-Aryan 72%, Dravidian 25%, and other 3% (2000)"
-    },
-    "Languages": {
-      "Languages": {
-        "text": "Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%; note - English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2011 est.)"
-      },
-      "major-language sample(s)": {
-        "text": "<br>विश्व फ़ैक्टबुक, आधारभूत जानकारी का एक अपरिहार्य स्त्रोत  (Hindi)<br><br>The World Factbook, the indispensable source for basic information."
-      }
-    },
-    "Religions": {
-      "text": "Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (2011 est.)"
+      "text": "no indigenous inhabitants",
+      "note": "<strong>note:</strong> approximately 1,200 former agricultural workers resident in the Chagos Archipelago, often referred to as Chagossians or Ilois, were relocated to Mauritius and the Seychelles in the 1960s and 1970s; approximately 3,000 UK and US military personnel and civilian contractors living on the island of Diego Garcia (2018)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "26.31% (male 185,017,089/female 163,844,572)"
+        "text": "NA"
       },
       "15-24 years": {
-        "text": "17.51% (male 123,423,531/female 108,739,780)"
+        "text": "NA"
       },
       "25-54 years": {
-        "text": "41.56% (male 285,275,667/female 265,842,319)"
+        "text": "NA"
       },
       "55-64 years": {
-        "text": "7.91% (male 52,444,817/female 52,447,038)"
+        "text": "NA"
       },
       "65 years and over": {
-        "text": "6.72% (male 42,054,459/female 47,003,975) (2020 est.)"
+        "text": "NA"
       }
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "48.7"
+        "text": "NA"
       },
       "youth dependency ratio": {
-        "text": "38.9"
+        "text": "NA"
       },
       "elderly dependency ratio": {
-        "text": "9.8"
+        "text": "NA"
       },
       "potential support ratio": {
-        "text": "10.2 (2020 est.)"
+        "text": "NA"
       }
-    },
-    "Median age": {
-      "total": {
-        "text": "28.7 years"
-      },
-      "male": {
-        "text": "28 years"
-      },
-      "female": {
-        "text": "29.5 years (2020 est.)"
-      }
-    },
-    "Population growth rate": {
-      "text": "1.04% (2021 est.)"
     },
     "Birth rate": {
-      "text": "16.82 births/1,000 population (2022 est.)"
+      "text": "NA"
     },
     "Death rate": {
-      "text": "10.3 deaths/1,000 population (2022 est.)"
-    },
-    "Net migration rate": {
-      "text": "-0.04 migrant(s)/1,000 population (2021 est.)"
-    },
-    "Population distribution": {
-      "text": "with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations"
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "35.9% of total population (2022)"
-      },
-      "rate of urbanization": {
-        "text": "2.33% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Major urban areas - population": {
-      "text": "32.066 million NEW DELHI (capital), 20.961 million Mumbai, 15.134 million Kolkata, 13.193 million Bangalore, 11.503 million Chennai, 10.534 million Hyderabad (2022)"
-    },
-    "Sex ratio": {
-      "at birth": {
-        "text": "1.11 male(s)/female"
-      },
-      "0-14 years": {
-        "text": "1.13 male(s)/female"
-      },
-      "15-24 years": {
-        "text": "1.14 male(s)/female"
-      },
-      "25-54 years": {
-        "text": "1.07 male(s)/female"
-      },
-      "55-64 years": {
-        "text": "1 male(s)/female"
-      },
-      "65 years and over": {
-        "text": "0.89 male(s)/female"
-      },
-      "total population": {
-        "text": "1.08 male(s)/female (2020 est.)"
-      }
-    },
-    "Mother's mean age at first birth": {
-      "text": "21 years (2015/16)",
-      "note": "<strong>note:</strong> median age a first birth among women 25-49"
-    },
-    "Maternal mortality ratio": {
-      "text": "145 deaths/100,000 live births (2017 est.)"
-    },
-    "Infant mortality rate": {
-      "total": {
-        "text": "39.55 deaths/1,000 live births"
-      },
-      "male": {
-        "text": "39.47 deaths/1,000 live births"
-      },
-      "female": {
-        "text": "39.63 deaths/1,000 live births (2021 est.)"
-      }
-    },
-    "Life expectancy at birth": {
-      "total population": {
-        "text": "70.03 years"
-      },
-      "male": {
-        "text": "68.71 years"
-      },
-      "female": {
-        "text": "71.49 years (2021 est.)"
-      }
-    },
-    "Total fertility rate": {
-      "text": "2.28 children born/woman (2021 est.)"
+      "text": "NA"
     },
     "Contraceptive prevalence rate": {
-      "text": "53.5% (2015/16)"
+      "text": "NA"
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 96.9% of population"
+        "text": "urban: NA"
       },
       "improved: rural": {
-        "text": "rural: 94.7% of population"
+        "text": "rural: NA"
       },
       "improved: total": {
-        "text": "total: 95.5% of population"
+        "text": "total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: 3.1% of population"
+        "text": "urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: 5.3% of population"
+        "text": "rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 4.5% of population (2020 est.)"
+        "text": "total: NA"
       }
     },
     "Current Health Expenditure": {
-      "text": "3% (2019)"
-    },
-    "Physicians density": {
-      "text": "0.86 physicians/1,000 population (2018)"
-    },
-    "Hospital bed density": {
-      "text": "0.5 beds/1,000 population (2017)"
-    },
-    "Sanitation facility access": {
-      "improved: urban": {
-        "text": "urban: 98.6% of population"
-      },
-      "improved: rural": {
-        "text": "rural: 75.2% of population"
-      },
-      "improved: total": {
-        "text": "total: 83.4% of population"
-      },
-      "unimproved: urban": {
-        "text": "urban: 1.4% of population"
-      },
-      "unimproved: rural": {
-        "text": "rural: 24.8% of population"
-      },
-      "unimproved: total": {
-        "text": "total: 16.6% of population (2020 est.)"
-      }
+      "text": "NA"
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.2% (2017 est.)"
+      "text": "NA"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "2.3 million (2020 est.)"
+      "text": "NA"
     },
     "HIV/AIDS - deaths": {
-      "text": "69,000 (2017 est.)"
+      "text": "NA"
     },
-    "Major infectious diseases": {
-      "degree of risk": {
-        "text": "very high (2020)"
+    "Children under the age of 5 years underweight": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "wastewater discharge into the lagoon on Diego Garcia"
+    },
+    "Climate": {
+      "text": "tropical marine; hot, humid, moderated by trade winds"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "0% (2018 est.)"
       },
-      "food or waterborne diseases": {
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2018 est.)"
+      },
+      "forest": {
+        "text": "0% (2018 est.)"
+      },
+      "other": {
+        "text": "100% (2018 est.)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "British Indian Ocean Territory"
+      },
+      "conventional short form": {
+        "text": "none"
+      },
+      "abbreviation": {
+        "text": "BIOT"
+      },
+      "etymology": {
+        "text": "self-descriptive name specifying the territory's affiliation and location"
+      }
+    },
+    "Dependency status": {
+      "text": "overseas territory of the UK; administered by a commissioner, resident in the Foreign and Commonwealth Office in London"
+    },
+    "Legal system": {
+      "text": "the laws of the UK apply where applicable"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952)"
+      },
+      "head of government": {
+        "text": "Commissioner Ben MERRICK (since August 2017); Administrator Kit PYMAN; note - both reside in the UK and are represented by Commander Steven R. DRYSDALE, RN, commanding British Forces on Diego Garcia (since 19 February 2021)"
+      },
+      "cabinet": {
+        "text": "NA"
+      },
+      "elections/appointments": {
+        "text": "the monarchy is hereditary; commissioner and administrator appointed by the monarch"
+      }
+    },
+    "International organization participation": {
+      "text": "UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Diplomatic representation from the US": {
+      "embassy": {
+        "text": "none (overseas territory of the UK)"
+      }
+    },
+    "Flag description": {
+      "text": "white with six blue wavy horizontal stripes; the flag of the UK is in the upper hoist-side quadrant; the striped section bears a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago"
+    }
+  },
+  "Economy": {
+    "Economic overview": {
+      "text": "All economic activity is concentrated on the largest island of Diego Garcia, where a joint UK-US military facility is located. Construction projects and various services needed to support the military installation are performed by military and contract employees from the UK, Mauritius, the Philippines, and the US. Some of the natural resources found in this territory include coconuts, fish, and sugarcane."
+    },
+    "Exchange rates": {
+      "text": "<p>the US dollar is used</p>"
+    }
+  },
+  "Communications": {
+    "Telecommunication systems": {
+      "general assessment": {
+        "text": "separate facilities for military and public needs are available (2018)"
+      },
+      "domestic": {
+        "text": "all commercial telephone services are available, including connection to the Internet (2018)"
+      },
+      "international": {
+        "text": "country code (Diego Garcia) - 246; landing point for the SAFE submarine cable that provides direct connectivity to Africa, Asia and near-by Indian Ocean&nbsp;island countries;&nbsp;international telephone service is carried by satellite (2019)"
+      }
+    },
+    "Broadcast media": {
+      "text": "Armed Forces Radio and Television Service (AFRTS) broadcasts over 3 separate frequencies for US and UK military personnel stationed on the islands"
+    },
+    "Internet country code": {
+      "text": ".io"
+    },
+    "Communications - note": {
+      "text": "Diego Garcia hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Kwajalein (Marshall Islands), at Cape Canaveral, Florida (US), and on Ascension Island (Saint Helena, Ascension, and Tristan da Cunha))"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "total": {
+        "text": "1 (2020)"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2019)"
+      }
+    },
+    "Roadways": {
+      "text": "<p><strong>note:</strong> short section of paved road between port and airfield on Diego Garcia</p>"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Diego Garcia"
+      }
+    }
+  },
+  "Military and Security": {
+    "Military and security forces": {
+      "text": "no regular military forces"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the UK; in November 2016, the UK extended the US lease on Diego Garcia for 20 years; the lease now expires in December 2036"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "<p>Mauritius and Seychelles claim the Chagos Islands; negotiations between 1971 and 1982 resulted in the establishment of a trust fund by the British Government as compensation for the displaced islanders, known as Chagossians, who were evicted between 1967-73; in 2001, the former inhabitants of the archipelago were granted UK citizenship and the right of return; in 2006 and 2007, British court rulings invalidated the immigration policies contained in the 2004 BIOT Constitution Order that had excluded the islanders from the archipelago; in 2008, a House of Lords' decision overturned lower court rulings, once again denying the right of return to Chagossians; in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein</p>"
+    }
+  }
+}aterborne diseases": {
         "text": "bacterial diarrhea, hepatitis A and E, and typhoid fever"
       },
       "vectorborne diseases": {

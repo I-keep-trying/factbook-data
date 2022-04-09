@@ -5,6 +5,8 @@ const countryDirList = require('./countryDirList')
 
 const urls = []
 
+// create individual json file for each country
+
 const createNew = () => {
   try {
     if (fs.existsSync('./data.json')) {
@@ -25,6 +27,8 @@ const createNew = () => {
 
 createNew()
 
+// urls to access data from factbook repo
+
 const makeUrls = (countriesArr, codesArr) =>
   countriesArr.map((country) => {
     return codesArr.filter((f) => {
@@ -39,6 +43,8 @@ const makeUrls = (countriesArr, codesArr) =>
   })
 
 makeUrls(countryDirList, fbCountryCodes)
+
+// fetch data from all factbook files and save as one file
 
 fs.readFile('./data.json', (error, data) => {
   if (error) {
