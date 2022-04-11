@@ -24,10 +24,10 @@
       "water": {
         "text": "2,840 sq km"
       },
-      "note": "<strong>note:</strong> includes 1,520 islands in the Baltic Sea"
+      "note": "Note: includes 1,520 islands in the Baltic Sea"
     },
     "Area - comparative": {
-      "text": "about twice the size of New Jersey"
+      "text": "About twice the size of New Jersey"
     },
     "Land boundaries": {
       "total": {
@@ -45,14 +45,14 @@
         "text": "12 nm"
       },
       "exclusive economic zone": {
-        "text": "limits as agreed to by Estonia, Finland, Latvia, Sweden, and Russia"
+        "text": "Limits as agreed to by Estonia, Finland, Latvia, Sweden, and Russia"
       }
     },
     "Climate": {
-      "text": "maritime; wet, moderate winters, cool summers"
+      "text": "Maritime; wet, moderate winters, cool summers"
     },
     "Terrain": {
-      "text": "marshy, lowlands; flat in the north, hilly in the south"
+      "text": "Marshy, lowlands; flat in the north, hilly in the south"
     },
     "Elevation": {
       "highest point": {
@@ -66,20 +66,20 @@
       }
     },
     "Natural resources": {
-      "text": "oil shale, peat, rare earth elements, phosphorite, clay, limestone, sand, dolomite, arable land, sea mud"
+      "text": "Oil shale, peat, rare earth elements, phosphorite, clay, limestone, sand, dolomite, arable land, sea mud"
     },
     "Land use": {
       "agricultural land": {
         "text": "22.2% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 14.9% (2018 est.)"
+        "text": "Arable land: 14.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.1% (2018 est.)"
+        "text": "Permanent crops: 0.1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 7.2% (2018 est.)"
+        "text": "Permanent pasture: 7.2% (2018 est.)"
       },
       "forest": {
         "text": "52.1% (2018 est.)"
@@ -92,13 +92,13 @@
       "text": "40 sq km (2012)"
     },
     "Population distribution": {
-      "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
+      "text": "A fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
     },
     "Natural hazards": {
-      "text": "sometimes flooding occurs in the spring"
+      "text": "Sometimes flooding occurs in the spring"
     },
     "Geography - note": {
-      "text": "the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1,500 islands"
+      "text": "The mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1,500 islands"
     }
   },
   "People and Society": {
@@ -177,7 +177,7 @@
       "text": "-2.85 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
+      "text": "A fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
     },
     "Urbanization": {
       "urban population": {
@@ -249,22 +249,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 99.6% of population"
+        "text": "Total: 99.6% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0.4% of population (2020 est.)"
+        "text": "Total: 0.4% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -278,22 +278,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 99.8% of population"
+        "text": "Urban: 99.8% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 99.8% of population"
+        "text": "Total: 99.8% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0.2% of population"
+        "text": "Urban: 0.2% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0.2% of population (2020 est.)"
+        "text": "Total: 0.2% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -301,18 +301,18 @@
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "7,100 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "HIV/AIDS - deaths": {
       "text": "&lt;100 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "intermediate (2020)"
+        "text": "Intermediate (2020)"
       },
       "vectorborne diseases": {
-        "text": "tickborne encephalitis"
+        "text": "Tickborne encephalitis"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -326,7 +326,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "99.8%"
@@ -363,14 +363,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "air polluted with sulfur dioxide from oil-shale burning power plants in northeast; however, the amounts of pollutants emitted to the air have fallen dramatically and the pollution load of wastewater at purification plants has decreased substantially due to improved technology and environmental monitoring; Estonia has more than 1,400 natural and manmade lakes, the smaller of which in agricultural areas need to be monitored; coastal seawater is polluted in certain locations"
+      "text": "Air polluted with sulfur dioxide from oil-shale burning power plants in northeast; however, the amounts of pollutants emitted to the air have fallen dramatically and the pollution load of wastewater at purification plants has decreased substantially due to improved technology and environmental monitoring; Estonia has more than 1,400 natural and manmade lakes, the smaller of which in agricultural areas need to be monitored; coastal seawater is polluted in certain locations"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -385,20 +385,20 @@
       }
     },
     "Climate": {
-      "text": "maritime; wet, moderate winters, cool summers"
+      "text": "Maritime; wet, moderate winters, cool summers"
     },
     "Land use": {
       "agricultural land": {
         "text": "22.2% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 14.9% (2018 est.)"
+        "text": "Arable land: 14.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.1% (2018 est.)"
+        "text": "Permanent crops: 0.1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 7.2% (2018 est.)"
+        "text": "Permanent pasture: 7.2% (2018 est.)"
       },
       "forest": {
         "text": "52.1% (2018 est.)"
@@ -427,10 +427,10 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "intermediate (2020)"
+        "text": "Intermediate (2020)"
       },
       "vectorborne diseases": {
-        "text": "tickborne encephalitis"
+        "text": "Tickborne encephalitis"
       }
     },
     "Waste and recycling": {
@@ -477,11 +477,11 @@
         "text": "Estonian Soviet Socialist Republic (while occupied by the USSR)"
       },
       "etymology": {
-        "text": "the country name may derive from the Aesti, an ancient people who lived along the eastern Baltic Sea in the first centuries A.D."
+        "text": "The country name may derive from the Aesti, an ancient people who lived along the eastern Baltic Sea in the first centuries A.D."
       }
     },
     "Government type": {
-      "text": "parliamentary republic"
+      "text": "Parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -497,11 +497,11 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "etymology": {
-        "text": "the Estonian name is generally believed to be derived from \"Taani-linn\" (originally meaning \"Danish castle\", now \"Danish town\") after a stronghold built in the area by the Danes; it could also have come from \"tali-linn\" (\"winter castle\" or \"winter town\") or \"talu-linn\" (\"home castle\" or \"home town\")"
+        "text": "The Estonian name is generally believed to be derived from \"Taani-linn\" (originally meaning \"Danish castle\", now \"Danish town\") after a stronghold built in the area by the Danes; it could also have come from \"tali-linn\" (\"winter castle\" or \"winter town\") or \"talu-linn\" (\"home castle\" or \"home town\")"
       }
     },
     "Administrative divisions": {
-      "text": "15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald)<br><br> <strong>urban municipalities:</strong> Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru<br><br><strong>rural municipalities:</strong> Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru"
+      "text": "15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald) urban municipalities: Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Vorurural municipalities: Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru"
     },
     "Independence": {
       "text": "24 February 1918 (from Soviet Russia); 20 August 1991 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)"
@@ -511,27 +511,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "several previous; latest adopted 28 June 1992, entered into force 3 July 1992"
+        "text": "Several previous; latest adopted 28 June 1992, entered into force 3 July 1992"
       },
       "amendments": {
-        "text": "proposed by at least one-fifth of Parliament members or by the president of the republic; passage requires three readings of the proposed amendment and a simple majority vote in two successive memberships of Parliament; passage of amendments to the \"General Provisions\" and \"Amendment of the Constitution\" chapters requires at least three-fifths majority vote by Parliament to conduct a referendum and majority vote in a referendum; amended several times, last in 2015"
+        "text": "Proposed by at least one-fifth of Parliament members or by the president of the republic; passage requires three readings of the proposed amendment and a simple majority vote in two successive memberships of Parliament; passage of amendments to the \"General Provisions\" and \"Amendment of the Constitution\" chapters requires at least three-fifths majority vote by Parliament to conduct a referendum and majority vote in a referendum; amended several times, last in 2015"
       }
     },
     "Legal system": {
-      "text": "civil law system"
+      "text": "Civil law system"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Estonia"
+        "text": "At least one parent must be a citizen of Estonia"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "5 years"
@@ -551,21 +551,21 @@
         "text": "Cabinet appointed by the prime minister, approved by Parliament"
       },
       "elections/appointments": {
-        "text": "<p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 30-31 August 2021 (next to be held in 2026); in a first round of voting on 30 August, parliament failed to elect a president; in a second round on 31 August, the sole candidate, Alar KARIS, received 72 votes of 101 votes (there were 8 blank votes and 21 electors not present); KARIS was inaugurated on 11 October 2021; prime minister nominated by the president and approved by Parliament</p>"
+        "text": "President indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 30-31 August 2021 (next to be held in 2026); in a first round of voting on 30 August, parliament failed to elect a president; in a second round on 31 August, the sole candidate, Alar KARIS, received 72 votes of 101 votes (there were 8 blank votes and 21 electors not present); KARIS was inaugurated on 11 October 2021; prime minister nominated by the president and approved by Parliament"
       },
       "election results": {
-        "text": "<p>Alar KARIS elected president on 31 August 2021; parliament vote-Alar KARIS (independent) 72 of 101 votes; note – KARIS follows Kersti KALJULAID, who was Estonia's first female president; KALLAS is Estonia's first female prime minister</p>"
+        "text": "Alar KARIS elected president on 31 August 2021; parliament vote-Alar KARIS (independent) 72 of 101 votes; note – KARIS follows Kersti KALJULAID, who was Estonia's first female president; KALLAS is Estonia's first female prime minister"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)"
+        "text": "Unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 3 March 2019 (next to be held in March 2023)"
+        "text": "Last held on 3 March 2019 (next to be held in March 2023)"
       },
       "election results": {
-        "text": "percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 75, women 26, percent of women 25.7%"
+        "text": "Percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 75, women 26, percent of women 25.7%"
       }
     },
     "Judicial branch": {
@@ -573,14 +573,14 @@
         "text": "Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)"
       },
       "judge selection and term of office": {
-        "text": "the chief justice is proposed by the president of the republic and appointed by the Riigikogu; other justices proposed by the chief justice and appointed by the Riigikogu; justices appointed for life"
+        "text": "The chief justice is proposed by the president of the republic and appointed by the Riigikogu; other justices proposed by the chief justice and appointed by the Riigikogu; justices appointed for life"
       },
       "subordinate courts": {
-        "text": "circuit (appellate) courts; administrative, county, city, and specialized courts"
+        "text": "Circuit (appellate) courts; administrative, county, city, and specialized courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Center Party of Estonia (Keskerakond) or K [Juri RATAS]<br>Estonia 200 [Kristina KALLAS]<br>Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Mart HELME]<br>Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]<br>Free Party or EV [Andres HERKEL]<br>Pro Patria (Isamaa) [Helir-Valdor SEEDER]<br>Social Democratic Party or SDE [Jevgeni OSSINOVSKI]"
+      "text": "Center Party of Estonia (Keskerakond) or K [Juri RATAS]Estonia 200 [Kristina KALLAS]Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Mart HELME]Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]Free Party or EV [Andres HERKEL]Pro Patria (Isamaa) [Helir-Valdor SEEDER]Social Democratic Party or SDE [Jevgeni OSSINOVSKI]"
     },
     "International organization participation": {
       "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO"
@@ -599,7 +599,7 @@
         "text": "[1] (202) 588-0108"
       },
       "email address and website": {
-        "text": "<br>Embassy.Washington@mfa.ee<br><br>https://washington.mfa.ee/"
+        "text": "Embassy.Washington@mfa.eehttps://washington.mfa.ee/"
       },
       "consulate(s) general": {
         "text": "New York, San Francisco"
@@ -613,7 +613,7 @@
         "text": "Kentmanni 20, 15099 Tallinn"
       },
       "mailing address": {
-        "text": "4530 Tallinn Place, Washington DC&nbsp; 20521-4530"
+        "text": "4530 Tallinn Place, Washington DC; 20521-4530"
       },
       "telephone": {
         "text": "[372] 668-8100"
@@ -622,14 +622,14 @@
         "text": "[372] 668-8265"
       },
       "email address and website": {
-        "text": "<br>acstallinn@state.gov<br><br>https://ee.usembassy.gov/"
+        "text": "Acstallinn@state.govhttps://ee.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "three equal horizontal bands of blue (top), black, and white; various interpretations are linked to the flag colors; blue represents faith, loyalty, and devotion, while also reminiscent of the sky, sea, and lakes of the country; black symbolizes the soil of the country and the dark past and suffering endured by the Estonian people; white refers to the striving towards enlightenment and virtue, and is the color of birch bark and snow, as well as summer nights illuminated by the midnight sun"
+      "text": "Three equal horizontal bands of blue (top), black, and white; various interpretations are linked to the flag colors; blue represents faith, loyalty, and devotion, while also reminiscent of the sky, sea, and lakes of the country; black symbolizes the soil of the country and the dark past and suffering endured by the Estonian people; white refers to the striving towards enlightenment and virtue, and is the color of birch bark and snow, as well as summer nights illuminated by the midnight sun"
     },
     "National symbol(s)": {
-      "text": "barn swallow, cornflower; national colors: blue, black, white"
+      "text": "Barn swallow, cornflower; national colors: blue, black, white"
     },
     "National anthem": {
       "name": {
@@ -638,7 +638,7 @@
       "lyrics/music": {
         "text": "Johann Voldemar JANNSEN/Fredrik PACIUS"
       },
-      "note": "<strong>note:</strong> adopted 1920, though banned between 1940 and 1990 under Soviet occupation; the anthem, used in Estonia since 1869, shares the same melody as Finland's but has different lyrics"
+      "note": "Note: adopted 1920, though banned between 1940 and 1990 under Soviet occupation; the anthem, used in Estonia since 1869, shares the same melody as Finland's but has different lyrics"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -651,7 +651,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.</p><p></p><p>The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.</p><p></p><p>Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce.</p>"
+      "text": "Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -663,7 +663,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$46.54 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -686,7 +686,7 @@
       "Real GDP per capita 2018": {
         "text": "$35,200 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$31.461 billion (2019 est.)"
@@ -745,10 +745,10 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, milk, barley, rapeseed, rye, oats, peas, potatoes, pork, triticale"
+      "text": "Wheat, milk, barley, rapeseed, rye, oats, peas, potatoes, pork, triticale"
     },
     "Industries": {
-      "text": "food, engineering, electronics, wood and wood products, textiles; information technology, telecommunications"
+      "text": "Food, engineering, electronics, wood and wood products, textiles; information technology, telecommunications"
     },
     "Industrial production growth rate": {
       "text": "9.5% (2017 est.)"
@@ -823,13 +823,13 @@
       "Public debt 2016": {
         "text": "9.4% of GDP (2016 est.)"
       },
-      "note": "<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds"
+      "note": "Note: data cover general government debt and include debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds"
     },
     "Taxes and other revenues": {
       "text": "39.9% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -854,7 +854,7 @@
       "text": "Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Germany 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "broadcasting equipment, refined petroleum, coal tar oil, cars, prefabricated buildings (2019)"
+      "text": "Broadcasting equipment, refined petroleum, coal tar oil, cars, prefabricated buildings (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -871,7 +871,7 @@
       "text": "Russia 12%, Germany 10%, Finland 9%, Lithuania 7%, Latvia 7%, Sweden 6%, Poland 6%, China 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "cars, refined petroleum, coal tar oil, broadcasting equipment, packaged medicines (2019)"
+      "text": "Cars, refined petroleum, coal tar oil, broadcasting equipment, packaged medicines (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -891,7 +891,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "euros (EUR) per US dollar -"
+        "text": "Euros (EUR) per US dollar -"
       },
       "Exchange rates 2020": {
         "text": "0.82771 (2020 est.)"
@@ -1002,18 +1002,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "greatly improved telecom service through a range of regulatory measures, competition, and foreign investment, leading to high-quality voice, data, and Internet services; one of the most advanced mobile markets and highest broadband penetration rates in Europe; government commits 20 million euro to rural broadband program; operators supporting LTE infrastructure and launch of smart services; 5G services in major cities; government provides Internet to schools and libraries (2020)"
+        "text": "Greatly improved telecom service through a range of regulatory measures, competition, and foreign investment, leading to high-quality voice, data, and Internet services; one of the most advanced mobile markets and highest broadband penetration rates in Europe; government commits 20 million euro to rural broadband program; operators supporting LTE infrastructure and launch of smart services; 5G services in major cities; government provides Internet to schools and libraries (2020)"
       },
       "domestic": {
-        "text": "just under 23 per 100 for fixed-line subscribership and approximately 145 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2020)"
+        "text": "Just under 23 per 100 for fixed-line subscribership and approximately 145 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2020)"
       },
       "international": {
-        "text": "country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)"
+        "text": "Country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services"
+      "text": "The publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services"
     },
     "Internet country code": {
       "text": ".ee"
@@ -1099,7 +1099,7 @@
       "broad gauge": {
         "text": "2,146 km 1.520-m and 1.524-m gauge (132 km electrified) (2016)"
       },
-      "note": "<strong>note:</strong> includes 1,510 km public and 636 km non-public railway"
+      "note": "Note: includes 1,510 km public and 636 km non-public railway"
     },
     "Roadways": {
       "total": {
@@ -1120,7 +1120,7 @@
         "text": "68"
       },
       "by type": {
-        "text": "general cargo 2, oil tanker 4, other 62 (2021)"
+        "text": "General cargo 2, oil tanker 4, other 62 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1151,25 +1151,25 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Estonian Defense Forces have approximately 6,500 active duty personnel (2021)"
+      "text": "The Estonian Defense Forces have approximately 6,500 active duty personnel (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Estonian Defense Forces have a limited inventory of Soviet-era and more recently acquired modern weapons systems, largely from western European countries, particularly France and the Netherlands (2021)"
+      "text": "The Estonian Defense Forces have a limited inventory of Soviet-era and more recently acquired modern weapons systems, largely from western European countries, particularly France and the Netherlands (2021)"
     },
     "Military service age and obligation": {
-      "text": "men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)",
-      "note": "note(s) - conscripts comprise about half (approximately 3,000-3,300) of the Estonian military's 6,500 active personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the full-time professional military force"
+      "text": "Men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)",
+      "note": "Note(s) - conscripts comprise about half (approximately 3,000-3,300) of the Estonian military's 6,500 active personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the full-time professional military force"
     },
     "Military deployments": {
-      "text": "approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)"
+      "text": "Approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)"
     },
     "Military - note": {
-      "text": "Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p>"
+      "text": "Estonia officially became a member of NATO in 2004 since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p>"
+      "text": "Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
@@ -1177,7 +1177,7 @@
       }
     },
     "Illicit drugs": {
-      "text": "producer of synthetic drugs; important transshipment zone for cannabis, cocaine, opiates, and synthetic drugs since joining the European Union and the Schengen Accord; potential money laundering related to organized crime and drug trafficking is a concern, as is possible use of the gambling sector to launder funds; major use of opiates and ecstasy"
+      "text": "Producer of synthetic drugs; important transshipment zone for cannabis, cocaine, opiates, and synthetic drugs since joining the European Union and the Schengen Accord; potential money laundering related to organized crime and drug trafficking is a concern, as is possible use of the gambling sector to launder funds; major use of opiates and ecstasy"
     }
   }
 }

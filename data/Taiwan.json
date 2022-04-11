@@ -24,10 +24,10 @@
       "water": {
         "text": "3,720 sq km"
       },
-      "note": "<strong>note:</strong> includes the Pescadores, Matsu, and Quemoy islands"
+      "note": "Note: includes the Pescadores, Matsu, and Quemoy islands"
     },
     "Area - comparative": {
-      "text": "slightly smaller than Maryland and Delaware combined"
+      "text": "Slightly smaller than Maryland and Delaware combined"
     },
     "Land boundaries": {
       "total": {
@@ -46,10 +46,10 @@
       }
     },
     "Climate": {
-      "text": "tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year"
+      "text": "Tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year"
     },
     "Terrain": {
-      "text": "eastern two-thirds mostly rugged mountains; flat to gently rolling plains in west"
+      "text": "Eastern two-thirds mostly rugged mountains; flat to gently rolling plains in west"
     },
     "Elevation": {
       "highest point": {
@@ -63,17 +63,17 @@
       }
     },
     "Natural resources": {
-      "text": "small deposits of coal, natural gas, limestone, marble, asbestos, arable land"
+      "text": "Small deposits of coal, natural gas, limestone, marble, asbestos, arable land"
     },
     "Land use": {
       "agricultural land": {
         "text": "22.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 16.9% (2018 est.)"
+        "text": "Arable land: 16.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 5.8% (2018 est.)"
+        "text": "Permanent crops: 5.8% (2018 est.)"
       },
       "other": {
         "text": "77.3% (2018 est.)"
@@ -83,13 +83,13 @@
       "text": "3,820 sq km (2012)"
     },
     "Population distribution": {
-      "text": "distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts"
+      "text": "Distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts"
     },
     "Natural hazards": {
-      "text": "<p>earthquakes; typhoons</p><p><strong>volcanism:</strong> Kueishantao Island (401 m), east of Taiwan, is its only historically active volcano, although it has not erupted in centuries</p>"
+      "text": "Earthquakes; typhoonsvolcanism: Kueishantao Island (401 m), east of Taiwan, is its only historically active volcano, although it has not erupted in centuries"
     },
     "Geography - note": {
-      "text": "strategic location adjacent to both the Taiwan Strait and the Luzon Strait"
+      "text": "Strategic location adjacent to both the Taiwan Strait and the Luzon Strait"
     }
   },
   "People and Society": {
@@ -103,18 +103,18 @@
       "adjective": {
         "text": "Taiwan (or Taiwanese)"
       },
-      "note": "<strong>note:</strong> example - he or she is from Taiwan; they are from Taiwan"
+      "note": "Note: example - he or she is from Taiwan; they are from Taiwan"
     },
     "Ethnic groups": {
       "text": "Han Chinese (including Holo, who compose approximately 70% of Taiwan's population, Hakka, and other groups originating in mainland China) more than 95%, indigenous Malayo-Polynesian peoples 2.3%",
-      "note": "<strong>note 1:</strong> there are 16 officially recognized indigenous groups: Amis, Atayal, Bunun, Hla'alua, Kanakaravu, Kavalan, Paiwan, Puyuma, Rukai, Saisiyat, Sakizaya, Seediq, Thao, Truku, Tsou, and Yami; Amis, Paiwan, and Atayal are the largest and account for roughly 70% of the indigenous population<br><br><strong>note 2:</strong> although not definitive, the majority of current genetic, archeological, and linguistic data support the theory that Taiwan is the ultimate source for the spread of humans across the Pacific to Polynesia; the expansion (ca. 3000 B.C. to A.D. 1200) took place via the Philippines and eastern Indonesia and reached Fiji and Tonga by about 900 B.C.; from there voyagers spread across the rest of the Pacific islands over the next two millennia"
+      "note": "Note 1: there are 16 officially recognized indigenous groups: Amis, Atayal, Bunun, Hla'alua, Kanakaravu, Kavalan, Paiwan, Puyuma, Rukai, Saisiyat, Sakizaya, Seediq, Thao, Truku, Tsou, and Yami; Amis, Paiwan, and Atayal are the largest and account for roughly 70% of the indigenous populationnote 2: although not definitive, the majority of current genetic, archeological, and linguistic data support the theory that Taiwan is the ultimate source for the spread of humans across the Pacific to Polynesia; the expansion (ca. 3000 B.C. to A.D. 1200) took place via the Philippines and eastern Indonesia and reached Fiji and Tonga by about 900 B.C.; from there voyagers spread across the rest of the Pacific islands over the next two millennia"
     },
     "Languages": {
       "Languages": {
         "text": "Mandarin (official), Taiwanese (Min Nan), Hakka dialects, approximately 16 indigenous languages"
       },
       "major-language sample(s)": {
-        "text": "<br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "世界概況  –  不可缺少的基本消息來源 (Mandarin)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -175,7 +175,7 @@
       "text": "0.75 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts"
+      "text": "Distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts"
     },
     "Urbanization": {
       "urban population": {
@@ -241,22 +241,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       }
     },
     "Current Health Expenditure": {
@@ -264,22 +264,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -299,7 +299,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "98.5%"
@@ -314,20 +314,20 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "air pollution; water pollution from industrial emissions, raw sewage; contamination of drinking water supplies; trade in endangered species; low-level radioactive waste disposal"
+      "text": "Air pollution; water pollution from industrial emissions, raw sewage; contamination of drinking water supplies; trade in endangered species; low-level radioactive waste disposal"
     },
     "Climate": {
-      "text": "tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year"
+      "text": "Tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year"
     },
     "Land use": {
       "agricultural land": {
         "text": "22.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 16.9% (2018 est.)"
+        "text": "Arable land: 16.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 5.8% (2018 est.)"
+        "text": "Permanent crops: 5.8% (2018 est.)"
       },
       "other": {
         "text": "77.3% (2018 est.)"
@@ -353,13 +353,13 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Taiwan"
       },
       "local long form": {
-        "text": "none"
+        "text": "None"
       },
       "local short form": {
         "text": "Taiwan"
@@ -372,7 +372,7 @@
       }
     },
     "Government type": {
-      "text": "semi-presidential republic"
+      "text": "Semi-presidential republic"
     },
     "Capital": {
       "name": {
@@ -385,39 +385,39 @@
         "text": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the Chinese meaning is \"Northern Taiwan,\" reflecting the city's position in the far north of the island"
+        "text": "The Chinese meaning is \"Northern Taiwan,\" reflecting the city's position in the far north of the island"
       }
     },
     "Administrative divisions": {
-      "text": "<p>includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (xian, singular and plural), 3 cities (shi, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan</p> <p><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin</p> <p><strong>cities:</strong> Chiayi, Hsinchu, Keelung</p> <p><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)</p>",
-      "note": "<strong>note:</strong> Taiwan uses a variety of romanization systems; while a modified Wade-Giles system still dominates, the city of Taipei has adopted a Pinyin romanization for street and place names within its boundaries; other local authorities use different romanization systems"
+      "text": "Includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (xian, singular and plural), 3 cities (shi, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan counties: Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin cities: Chiayi, Hsinchu, Keelung special municipalities: Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)",
+      "note": "Note: Taiwan uses a variety of romanization systems; while a modified Wade-Giles system still dominates, the city of Taipei has adopted a Pinyin romanization for street and place names within its boundaries; other local authorities use different romanization systems"
     },
     "National holiday": {
       "text": "Republic Day (National Day), 10 October (1911); note - celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day"
     },
     "Constitution": {
       "history": {
-        "text": "previous 1912, 1931; latest adopted 25 December 1946, promulgated 1 January 1947, effective 25 December 1947"
+        "text": "Previous 1912, 1931; latest adopted 25 December 1946, promulgated 1 January 1947, effective 25 December 1947"
       },
       "amendments": {
-        "text": "proposed by at least one fourth of the Legislative Yuan membership; passage requires approval by at least three-fourths majority vote of at least three fourths of the Legislative Yuan membership and approval in a referendum by more than half of eligible voters; revised several times, last in 2005"
+        "text": "Proposed by at least one fourth of the Legislative Yuan membership; passage requires approval by at least three-fourths majority vote of at least three fourths of the Legislative Yuan membership and approval in a referendum by more than half of eligible voters; revised several times, last in 2005"
       }
     },
     "Legal system": {
-      "text": "civil law system"
+      "text": "Civil law system"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+      "text": "Has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Taiwan"
+        "text": "At least one parent must be a citizen of Taiwan"
       },
       "dual citizenship recognized": {
-        "text": "yes, except that citizens of Taiwan are not recognized as dual citizens of the People's Republic of China"
+        "text": "Yes, except that citizens of Taiwan are not recognized as dual citizens of the People's Republic of China"
       },
       "residency requirement for naturalization": {
         "text": "5 years"
@@ -437,7 +437,7 @@
         "text": "Executive Yuan - ministers appointed by president on recommendation of premier"
       },
       "elections/appointments": {
-        "text": "president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 11 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier"
+        "text": "President and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 11 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier"
       },
       "election results": {
         "text": "TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%; note - TSAI is the first woman elected president of Taiwan"
@@ -445,13 +445,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)"
+        "text": "Unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 11 January 2020 (next to be held on 11 January 2024)"
+        "text": "Last held on 11 January 2020 (next to be held on 11 January 2024)"
       },
       "election results": {
-        "text": "percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%, New Power Party (NPP) 7.5%; seats by party - DPP 61, KMT 38, TPP 5, NPP 3"
+        "text": "Percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%, New Power Party (NPP) 7.5%; seats by party - DPP 61, KMT 38, TPP 5, NPP 3"
       }
     },
     "Judicial branch": {
@@ -462,19 +462,19 @@
         "text": "Supreme Court justices appointed by the president; Constitutional Court justices appointed by the president, with approval of the Legislative Yuan; Supreme Court justices serve for life; Constitutional Court justices appointed for 8-year terms, with half the membership renewed every 4 years"
       },
       "subordinate courts": {
-        "text": "high courts; district courts; hierarchy of administrative courts"
+        "text": "High courts; district courts; hierarchy of administrative courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [CHU Chi-luan, aka Eric CHU]<br>Taiwan People's Party or TPP [KO Wen-je]<br>New Power Party or NPP [KAO Yu-ting]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi] (2021)"
+      "text": "Democratic Progressive Party or DPP [TSAI Ing-wen]Kuomintang or KMT (Nationalist Party) [CHU Chi-luan, aka Eric CHU]Taiwan People's Party or TPP [KO Wen-je]New Power Party or NPP [KAO Yu-ting]Taiwan Statebuilding Party or TSP [CHEN Yi-chi] (2021)"
     },
     "International organization participation": {
       "text": "ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observer), WTO (Taipei, China);",
-      "note": "note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu"
+      "note": "Note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "none; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by HSIAO Bi-khim (since 20 July 2020); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800"
+        "text": "None; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by HSIAO Bi-khim (since 20 July 2020); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800"
       },
       "Taipei Economic and Cultural Offices (branch offices)": {
         "text": "Atlanta, Boston, Chicago, Denver (CO), Houston, Honolulu, Los Angeles, Miami, New York, San Francisco, Seattle"
@@ -482,10 +482,10 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director Sandra OUDKIRK (since July 2021)"
+        "text": "The US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director Sandra OUDKIRK (since July 2021)"
       },
       "mailing address": {
-        "text": "4170 AIT Taipei Place, Washington DC&nbsp; 20521-4170"
+        "text": "4170 AIT Taipei Place, Washington DC; 20521-4170"
       },
       "telephone": {
         "text": "[886] 2-2162-2000"
@@ -494,21 +494,21 @@
         "text": "[886] 2-2162-2251"
       },
       "email address and website": {
-        "text": "<br>TaipeiACS@state.gov<br><br>https://www.ait.org.tw/"
+        "text": "TaipeiACS@state.govhttps://www.ait.org.tw/"
       },
       "branch office(s)": {
-        "text": "American Institute in Taiwan<br>No. 100, Jinhu Road,<br>Neihu District 11461, Taipei City"
+        "text": "American Institute in TaiwanNo. 100, Jinhu Road,Neihu District 11461, Taipei City"
       },
       "other offices": {
         "text": "Kaohsiung (Branch Office)"
       }
     },
     "Flag description": {
-      "text": "red field with a dark blue rectangle in the upper hoist-side corner bearing a white sun with 12 triangular rays; the blue and white design of the canton (symbolizing the sun of progress) dates to 1895; it was later adopted as the flag of the Kuomintang Party; blue signifies liberty, justice, and democracy, red stands for fraternity, sacrifice, and nationalism, and white represents equality, frankness, and the people's livelihood; the 12 rays of the sun are those of the months and the twelve traditional Chinese hours (each ray equals two hours)",
-      "note": "<strong>note:</strong> similar to the flag of Samoa"
+      "text": "Red field with a dark blue rectangle in the upper hoist-side corner bearing a white sun with 12 triangular rays; the blue and white design of the canton (symbolizing the sun of progress) dates to 1895; it was later adopted as the flag of the Kuomintang Party; blue signifies liberty, justice, and democracy, red stands for fraternity, sacrifice, and nationalism, and white represents equality, frankness, and the people's livelihood; the 12 rays of the sun are those of the months and the twelve traditional Chinese hours (each ray equals two hours)",
+      "note": "Note: similar to the flag of Samoa"
     },
     "National symbol(s)": {
-      "text": "white, 12-rayed sun on blue field; national colors: blue, white, red"
+      "text": "White, 12-rayed sun on blue field; national colors: blue, white, red"
     },
     "National anthem": {
       "name": {
@@ -517,12 +517,12 @@
       "lyrics/music": {
         "text": "HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-Yun"
       },
-      "note": "<strong>note:</strong> adopted 1930; also the song of the Kuomintang Party; it is informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); because of political pressure from China, \"Guo Qi Ge\" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the \"National Banner Song\" has gained popularity in Taiwan and is commonly used during flag raisings"
+      "note": "Note: adopted 1930; also the song of the Kuomintang Party; it is informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); because of political pressure from China, \"Guo Qi Ge\" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the \"National Banner Song\" has gained popularity in Taiwan and is commonly used during flag raisings"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Taiwan has a dynamic capitalist economy that is driven largely by industrial manufacturing, and especially exports of electronics, machinery, and petrochemicals. This heavy dependence on exports exposes the economy to fluctuations in global demand. Taiwan's diplomatic isolation, low birth rate, rapidly aging population, and increasing competition from China and other Asia Pacific markets are other major long-term challenges.</p><p></p><p>Following the landmark Economic Cooperation Framework Agreement (ECFA) signed with China in June 2010, Taiwan in July 2013 signed a free trade deal with New Zealand - Taipei’s first-ever with a country with which it does not maintain diplomatic relations - and, in November of that year, inked a trade pact with Singapore. However, follow-on components of the ECFA, including a signed agreement on trade in services and negotiations on trade in goods and dispute resolution, have stalled. In early 2014, the government bowed to public demand and proposed a new law governing the oversight of cross-Strait agreements, before any additional deals with China are implemented; the legislature has yet to vote on such legislation, leaving the future of ECFA uncertain. President TSAI since taking office in May 2016 has promoted greater economic integration with South and Southeast Asia through the New Southbound Policy initiative and has also expressed interest in Taiwan joining the Trans-Pacific Partnership as well as bilateral trade deals with partners such as the US. These overtures have likely played a role in increasing Taiwan’s total exports, which rose 11% during the first half of 2017, buoyed by strong demand for semiconductors.</p><p></p><p>Taiwan's total fertility rate of just over one child per woman is among the lowest in the world, raising the prospect of future labor shortages, falling domestic demand, and declining tax revenues. Taiwan's population is aging quickly, with the number of people over 65 expected to account for nearly 20% of the island's total population by 2025.</p><p></p><p>The island runs a trade surplus with many economies, including China and the US, and its foreign reserves are the world's fifth largest, behind those of China, Japan, Saudi Arabia, and Switzerland. In 2006, China overtook the US to become Taiwan's second-largest source of imports after Japan. China is also the island's number one destination for foreign direct investment. Taiwan since 2009 has gradually loosened rules governing Chinese investment and has also secured greater market access for its investors on the mainland. In August 2012, the Taiwan Central Bank signed a memorandum of understanding (MOU) on cross-Strait currency settlement with its Chinese counterpart. The MOU allows for the direct settlement of Chinese renminbi (RMB) and the New Taiwan dollar across the Strait, which has helped Taiwan develop into a local RMB hub.</p><p></p><p>Closer economic links with the mainland bring opportunities for Taiwan’s economy but also pose challenges as political differences remain unresolved and China’s economic growth is slowing. President TSAI’s administration has made little progress on the domestic economic issues that loomed large when she was elected, including concerns about stagnant wages, high housing prices, youth unemployment, job security, and financial security in retirement. TSAI has made more progress on boosting trade with South and Southeast Asia, which may help insulate Taiwan’s economy from a fall in mainland demand should China’s growth slow in 2018.</p>"
+      "text": "Taiwan has a dynamic capitalist economy that is driven largely by industrial manufacturing, and especially exports of electronics, machinery, and petrochemicals. This heavy dependence on exports exposes the economy to fluctuations in global demand. Taiwan's diplomatic isolation, low birth rate, rapidly aging population, and increasing competition from China and other Asia Pacific markets are other major long-term challenges.Following the landmark Economic Cooperation Framework Agreement (ECFA) signed with China in June 2010, Taiwan in July 2013 signed a free trade deal with New Zealand - Taipei’s first-ever with a country with which it does not maintain diplomatic relations - and, in November of that year, inked a trade pact with Singapore. However, follow-on components of the ECFA, including a signed agreement on trade in services and negotiations on trade in goods and dispute resolution, have stalled. In early 2014, the government bowed to public demand and proposed a new law governing the oversight of cross-Strait agreements, before any additional deals with China are implemented; the legislature has yet to vote on such legislation, leaving the future of ECFA uncertain. President TSAI since taking office in May 2016 has promoted greater economic integration with South and Southeast Asia through the New Southbound Policy initiative and has also expressed interest in Taiwan joining the Trans-Pacific Partnership as well as bilateral trade deals with partners such as the US. These overtures have likely played a role in increasing Taiwan’s total exports, which rose 11% during the first half of 2017, buoyed by strong demand for semiconductors.Taiwan's total fertility rate of just over one child per woman is among the lowest in the world, raising the prospect of future labor shortages, falling domestic demand, and declining tax revenues. Taiwan's population is aging quickly, with the number of people over 65 expected to account for nearly 20% of the island's total population by 2025.The island runs a trade surplus with many economies, including China and the US, and its foreign reserves are the world's fifth largest, behind those of China, Japan, Saudi Arabia, and Switzerland. In 2006, China overtook the US to become Taiwan's second-largest source of imports after Japan. China is also the island's number one destination for foreign direct investment. Taiwan since 2009 has gradually loosened rules governing Chinese investment and has also secured greater market access for its investors on the mainland. In August 2012, the Taiwan Central Bank signed a memorandum of understanding (MOU) on cross-Strait currency settlement with its Chinese counterpart. The MOU allows for the direct settlement of Chinese renminbi (RMB) and the New Taiwan dollar across the Strait, which has helped Taiwan develop into a local RMB hub.Closer economic links with the mainland bring opportunities for Taiwan’s economy but also pose challenges as political differences remain unresolved and China’s economic growth is slowing. President TSAI’s administration has made little progress on the domestic economic issues that loomed large when she was elected, including concerns about stagnant wages, high housing prices, youth unemployment, job security, and financial security in retirement. TSAI has made more progress on boosting trade with South and Southeast Asia, which may help insulate Taiwan’s economy from a fall in mainland demand should China’s growth slow in 2018."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2019": {
@@ -534,7 +534,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$1,083,384,000,000 (2017 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -554,7 +554,7 @@
       "Real GDP per capita 2017": {
         "text": "$23,865 (2017 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$611.391 billion (2019 est.)"
@@ -613,10 +613,10 @@
       }
     },
     "Agricultural products": {
-      "text": "rice, vegetables, pork, cabbages, poultry, sugar cane, milk, eggs, pineapples, tropical fruit"
+      "text": "Rice, vegetables, pork, cabbages, poultry, sugar cane, milk, eggs, pineapples, tropical fruit"
     },
     "Industries": {
-      "text": "electronics, communications and information technology products, petroleum refining, chemicals, textiles, iron and steel, machinery, cement, food processing, vehicles, consumer products, pharmaceuticals"
+      "text": "Electronics, communications and information technology products, petroleum refining, chemicals, textiles, iron and steel, machinery, cement, food processing, vehicles, consumer products, pharmaceuticals"
     },
     "Industrial production growth rate": {
       "text": "3.9% (2017 est.)"
@@ -680,13 +680,13 @@
       "Public debt 2016": {
         "text": "36.2% of GDP (2016 est.)"
       },
-      "note": "<strong>note:</strong> data for central government"
+      "note": "Note: data for central government"
     },
     "Taxes and other revenues": {
       "text": "16% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -711,7 +711,7 @@
       "text": "China 26%, United States 14%, Hong Kong 12%, Japan 7%, Singapore 7%, South Korea 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "integrated circuits, office machinery/parts, computers, refined petroleum, liquid crystal displays (2019)"
+      "text": "Integrated circuits, office machinery/parts, computers, refined petroleum, liquid crystal displays (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -728,7 +728,7 @@
       "text": "China 21%, Japan 16%, United States 11%, South Korea 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "integrated circuits, crude petroleum, photography equipment, natural gas, refined petroleum (2019)"
+      "text": "Integrated circuits, crude petroleum, photography equipment, natural gas, refined petroleum (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -854,18 +854,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "dynamic telecommunications industry defined by excellent infrastructure and competitive mobile market; solid availability of fixed and mobile broadband networks; investors attracted to regulatory certainty, market maturity, an educated workforce, and ICT sector at the heart of economic development; 4G LTE service with fiber is the most popular platform; 5G to 80% of subscribers; government funds development of 5G and IoT market; concerns include China&rsquo;s efforts to influence media and ICT policy (2020)"
+        "text": "Dynamic telecommunications industry defined by excellent infrastructure and competitive mobile market; solid availability of fixed and mobile broadband networks; investors attracted to regulatory certainty, market maturity, an educated workforce, and ICT sector at the heart of economic development; 4G LTE service with fiber is the most popular platform; 5G to 80% of subscribers; government funds development of 5G and IoT market; concerns include China&rsquo;s efforts to influence media and ICT policy (2020)"
       },
       "domestic": {
-        "text": "fixed-line over 53 per 100 and mobile-cellular roughly 123 per 100 (2020)"
+        "text": "Fixed-line over 53 per 100 and mobile-cellular roughly 123 per 100 (2020)"
       },
       "international": {
-        "text": "country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2, FASTER, SJC2, TSE-1, TPE, APG, SeaMeWe-3, FLAG&nbsp;North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN&nbsp;submarine fiber cables provide links throughout Asia, Australia, the Middle East, Europe, Africa and the US; satellite earth stations - 2 (2019)"
+        "text": "Country code - 886; landing points for the EAC-C2C,;APCN-2, FASTER, SJC2, TSE-1, TPE, APG, SeaMeWe-3, FLAG;North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN;submarine fiber cables provide links throughout Asia, Australia, the Middle East, Europe, Africa and the US; satellite earth stations - 2 (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "5 nationwide television networks operating roughly&nbsp;22 TV stations; more than 300 satellite TV channels are available; about 60% of households utilize multi-channel cable TV; 99.9% of households subscribe to digital cable TV;&nbsp;national and regional radio networks with about 171 radio stations (2019)"
+      "text": "5 nationwide television networks operating roughly;22 TV stations; more than 300 satellite TV channels are available; about 60% of households utilize multi-channel cable TV; 99.9% of households subscribe to digital cable TV;;national and regional radio networks with about 171 radio stations (2019)"
     },
     "Internet country code": {
       "text": ".tw"
@@ -951,7 +951,7 @@
       "narrow gauge": {
         "text": "1,118.1 km 1.067-m gauge (793.9 km electrified) (2018)"
       },
-      "note": "150 0.762-m gauge\n<strong>note:</strong> the 0.762-gauge track belongs to three entities: the Forestry Bureau, Taiwan Cement, and TaiPower"
+      "note": "150 0.762-m gauge\nnote: the 0.762-gauge track belongs to three entities: the Forestry Bureau, Taiwan Cement, and TaiPower"
     },
     "Roadways": {
       "total": {
@@ -969,7 +969,7 @@
         "text": "429"
       },
       "by type": {
-        "text": "bulk carrier 37, container ship 49, general cargo 57, oil tanker 33, other 253 (2021)"
+        "text": "Bulk carrier 37, container ship 49, general cargo 57, oil tanker 33, other 253 (2021)"
       }
     },
     "Ports and terminals": {
@@ -987,7 +987,7 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration (a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime) (2021)",
-      "note": "note - the Armed Forces also have Military Police and Armed Forces Reserve commands"
+      "note": "Note - the Armed Forces also have Military Police and Armed Forces Reserve commands"
     },
     "Military expenditures": {
       "Military Expenditures 2021": {
@@ -1007,25 +1007,25 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2021)"
+      "text": "The Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface naval craft and submarines (2021)"
+      "text": "The Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface naval craft and submarines (2021)"
     },
     "Military service age and obligation": {
-      "text": "starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (or substitute civil service in some cases); men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2021)",
-      "note": "note - as of 2018, women made up about 14% of the active duty military"
+      "text": "Starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (or substitute civil service in some cases); men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2021)",
+      "note": "Note - as of 2018, women made up about 14% of the active duty military"
     },
     "Military - note": {
-      "text": "the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2021)"
+      "text": "The US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2021)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>involved in complex dispute with Brunei, China, Malaysia, the Philippines, and Vietnam over the Spratly Islands, and with China and the Philippines over Scarborough Reef; the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" has eased tensions but falls short of a legally binding \"code of conduct\" desired by several of the disputants; Paracel Islands are occupied by China, but claimed by Taiwan and Vietnam; in 2003, China and Taiwan became more vocal in rejecting both Japan's claims to the uninhabited islands of the Senkaku-shoto (Diaoyu Tai) and Japan's unilaterally declared exclusive economic zone in the East China Sea where all parties engage in hydrocarbon prospecting</p>"
+      "text": "Involved in complex dispute with Brunei, China, Malaysia, the Philippines, and Vietnam over the Spratly Islands, and with China and the Philippines over Scarborough Reef; the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" has eased tensions but falls short of a legally binding \"code of conduct\" desired by several of the disputants; Paracel Islands are occupied by China, but claimed by Taiwan and Vietnam; in 2003, China and Taiwan became more vocal in rejecting both Japan's claims to the uninhabited islands of the Senkaku-shoto (Diaoyu Tai) and Japan's unilaterally declared exclusive economic zone in the East China Sea where all parties engage in hydrocarbon prospecting"
     },
     "Illicit drugs": {
-      "text": "<p>major source of precursor chemicals used in the production of illicit narcotics</p>"
+      "text": "Major source of precursor chemicals used in the production of illicit narcotics"
     }
   }
 }

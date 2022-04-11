@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>In 1783, the Sunni Al-Khalifa family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE.</p> <p>The Sunni royal family has long struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. On 15 September 2020, Bahrain and the United Arab Emirates signed peace agreements (the Abraham Accords) with Israel – brokered by the US – in Washington DC. Bahrain and the UAE thus became the third and fourth Middle Eastern countries, along with Egypt and Jordan, to recognize Israel.</p>"
+      "text": "In 1783, the Sunni Al-Khalifa family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE. The Sunni royal family has long struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. On 15 September 2020, Bahrain and the United Arab Emirates signed peace agreements (the Abraham Accords) with Israel – brokered by the US – in Washington DC. Bahrain and the UAE thus became the third and fourth Middle Eastern countries, along with Egypt and Jordan, to recognize Israel."
     }
   },
   "Geography": {
@@ -44,14 +44,14 @@
         "text": "24 nm"
       },
       "continental shelf": {
-        "text": "extending to boundaries to be determined"
+        "text": "Extending to boundaries to be determined"
       }
     },
     "Climate": {
-      "text": "arid; mild, pleasant winters; very hot, humid summers"
+      "text": "Arid; mild, pleasant winters; very hot, humid summers"
     },
     "Terrain": {
-      "text": "mostly low desert plain rising gently to low central escarpment"
+      "text": "Mostly low desert plain rising gently to low central escarpment"
     },
     "Elevation": {
       "highest point": {
@@ -62,20 +62,20 @@
       }
     },
     "Natural resources": {
-      "text": "oil, associated and nonassociated natural gas, fish, pearls"
+      "text": "Oil, associated and nonassociated natural gas, fish, pearls"
     },
     "Land use": {
       "agricultural land": {
         "text": "11.3% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 2.1% (2018 est.)"
+        "text": "Arable land: 2.1% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 3.9% (2018 est.)"
+        "text": "Permanent crops: 3.9% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 5.3% (2018 est.)"
+        "text": "Permanent pasture: 5.3% (2018 est.)"
       },
       "forest": {
         "text": "0.7% (2018 est.)"
@@ -91,19 +91,19 @@
       "text": "Arabian Aquifer System"
     },
     "Population distribution": {
-      "text": "smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq"
+      "text": "Smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq"
     },
     "Natural hazards": {
-      "text": "periodic droughts; dust storms"
+      "text": "Periodic droughts; dust storms"
     },
     "Geography - note": {
-      "text": "close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world's petroleum must transit to reach open ocean"
+      "text": "Close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world's petroleum must transit to reach open ocean"
     }
   },
   "People and Society": {
     "Population": {
       "text": "1,526,929 (July 2021 est.)",
-      "note": "<strong>note:</strong> immigrants make up approximately 45% of the total population, according to UN data (2019)"
+      "note": "Note: immigrants make up approximately 45% of the total population, according to UN data (2019)"
     },
     "Nationality": {
       "noun": {
@@ -121,7 +121,7 @@
         "text": "Arabic (official), English, Farsi, Urdu"
       },
       "major-language sample(s)": {
-        "text": "<br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -182,7 +182,7 @@
       "text": "-0.67 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq"
+      "text": "Smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq"
     },
     "Urbanization": {
       "urban population": {
@@ -251,22 +251,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -280,22 +280,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -318,7 +318,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "97.5%"
@@ -355,14 +355,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "desertification resulting from the degradation of limited arable land, periods of drought, and dust storms; coastal degradation (damage to coastlines, coral reefs, and sea vegetation) resulting from oil spills and other discharges from large tankers, oil refineries, and distribution stations; lack of freshwater resources (groundwater and seawater are the only sources for all water needs); lowered water table leaves aquifers vulnerable to saline contamination; desalinization provides some 90% of the country's freshwater"
+      "text": "Desertification resulting from the degradation of limited arable land, periods of drought, and dust storms; coastal degradation (damage to coastlines, coral reefs, and sea vegetation) resulting from oil spills and other discharges from large tankers, oil refineries, and distribution stations; lack of freshwater resources (groundwater and seawater are the only sources for all water needs); lowered water table leaves aquifers vulnerable to saline contamination; desalinization provides some 90% of the country's freshwater"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -377,20 +377,20 @@
       }
     },
     "Climate": {
-      "text": "arid; mild, pleasant winters; very hot, humid summers"
+      "text": "Arid; mild, pleasant winters; very hot, humid summers"
     },
     "Land use": {
       "agricultural land": {
         "text": "11.3% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 2.1% (2018 est.)"
+        "text": "Arable land: 2.1% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 3.9% (2018 est.)"
+        "text": "Permanent crops: 3.9% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 5.3% (2018 est.)"
+        "text": "Permanent pasture: 5.3% (2018 est.)"
       },
       "forest": {
         "text": "0.7% (2018 est.)"
@@ -464,11 +464,11 @@
         "text": "Dilmun, Tylos, Awal, Mishmahig, Bahrayn, State of Bahrain"
       },
       "etymology": {
-        "text": "the name means \"the two seas\" in Arabic and refers to the water bodies surrounding the archipelago"
+        "text": "The name means \"the two seas\" in Arabic and refers to the water bodies surrounding the archipelago"
       }
     },
     "Government type": {
-      "text": "constitutional monarchy"
+      "text": "Constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -481,12 +481,12 @@
         "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "name derives from the Arabic \"al-manama\" meaning \"place of rest\" or \"place of dreams\""
+        "text": "Name derives from the Arabic \"al-manama\" meaning \"place of rest\" or \"place of dreams\""
       }
     },
     "Administrative divisions": {
       "text": "4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)",
-      "note": "<strong>note:</strong> each governorate administered by an appointed governor"
+      "note": "Note: each governorate administered by an appointed governor"
     },
     "Independence": {
       "text": "15 August 1971 (from the UK)"
@@ -496,27 +496,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "adopted 14 February 2002"
+        "text": "Adopted 14 February 2002"
       },
       "amendments": {
-        "text": "proposed by the king or by at least 15 members of either chamber of the National Assembly followed by submission to an Assembly committee for review and, if approved, submitted to the government for restatement as drafts; passage requires a two-thirds majority vote by the membership of both chambers and validation by the king; constitutional articles on the state religion (Islam), state language (Arabic), and the monarchy and \"inherited rule\" cannot be amended; amended 2012, 2017"
+        "text": "Proposed by the king or by at least 15 members of either chamber of the National Assembly followed by submission to an Assembly committee for review and, if approved, submitted to the government for restatement as drafts; passage requires a two-thirds majority vote by the membership of both chambers and validation by the king; constitutional articles on the state religion (Islam), state language (Arabic), and the monarchy and \"inherited rule\" cannot be amended; amended 2012, 2017"
       }
     },
     "Legal system": {
-      "text": "mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law"
+      "text": "Mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+      "text": "Has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "the father must be a citizen of Bahrain"
+        "text": "The father must be a citizen of Bahrain"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "25 years; 15 years for Arab nationals"
@@ -536,18 +536,18 @@
         "text": "Cabinet appointed by the monarch"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; prime minister appointed by the monarch"
+        "text": "The monarchy is hereditary; prime minister appointed by the monarch"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)"
+        "text": "Bicameral National Assembly consists of:Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)"
       },
       "elections": {
-        "text": "<br>Consultative Council - last appointments on 12 December 2018 (next NA)<br>Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)"
+        "text": "Consultative Council - last appointments on 12 December 2018 (next NA)Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)"
       },
       "election results": {
-        "text": "<br>Consultative Council - composition - men 31, women 9, percent of women 22.5%<br><br>Council of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%"
+        "text": "Consultative Council - composition - men 31, women 9, percent of women 22.5%Council of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%"
       }
     },
     "Judicial branch": {
@@ -555,15 +555,15 @@
         "text": "Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)"
       },
       "judge selection and term of office": {
-        "text": "Court of Cassation judges appointed by royal decree and serve for a specified tenure; Constitutional Court president and members appointed by the Higher Judicial Council, a body chaired by the monarch and includes judges from the Court of Cassation, sharia law courts, and Civil High Courts of Appeal; members serve 9-year terms; High Sharia Court of Appeal member appointments by royal decree&nbsp;for a specified tenure"
+        "text": "Court of Cassation judges appointed by royal decree and serve for a specified tenure; Constitutional Court president and members appointed by the Higher Judicial Council, a body chaired by the monarch and includes judges from the Court of Cassation, sharia law courts, and Civil High Courts of Appeal; members serve 9-year terms; High Sharia Court of Appeal member appointments by royal decree;for a specified tenure"
       },
       "subordinate courts": {
         "text": "Civil High Courts of Appeal; middle and lower civil courts; High Sharia Court of Appeal; Senior Sharia Court; Administrative Courts of Appeal; military courts"
       },
-      "note": "<strong>note:</strong> the judiciary of Bahrain is divided into civil law courts and sharia law courts; sharia courts (involving personal status and family law) are further divided into Sunni Muslim and Shia Muslim; the Courts are supervised by the Supreme Judicial Council."
+      "note": "Note: the judiciary of Bahrain is divided into civil law courts and sharia law courts; sharia courts (involving personal status and family law) are further divided into Sunni Muslim and Shia Muslim; the Courts are supervised by the Supreme Judicial Council."
     },
     "Political parties and leaders": {
-      "text": "<p><strong>note:</strong> political parties are prohibited, but political societies were legalized under a July 2005 law</p>"
+      "text": "Note: political parties are prohibited, but political societies were legalized under a July 2005 law"
     },
     "International organization participation": {
       "text": "ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -582,7 +582,7 @@
         "text": "[1] (202) 362-2192"
       },
       "email address and website": {
-        "text": "<br>ambsecretary@bahrainembassy.org<br><br>mofa.gov.bh"
+        "text": "Ambsecretary@bahrainembassy.orgmofa.gov.bh"
       },
       "consulate(s) general": {
         "text": "New York"
@@ -596,7 +596,7 @@
         "text": "Building 979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, P.O. Box 26431, Manama"
       },
       "mailing address": {
-        "text": "6210 Manama Place, Washington DC&nbsp; 20521-6210"
+        "text": "6210 Manama Place, Washington DC; 20521-6210"
       },
       "telephone": {
         "text": "[973] 17-242700"
@@ -605,24 +605,24 @@
         "text": "[973] 17-272594"
       },
       "email address and website": {
-        "text": "<br>ManamaConsular@state.gov<br><br>https://bh.usembassy.gov/"
+        "text": "ManamaConsular@state.govhttps://bh.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam",
-      "note": "<strong>note:</strong> until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag"
+      "text": "Red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam",
+      "note": "Note: until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag"
     },
     "National symbol(s)": {
-      "text": "a red field surmounted by a white serrated band with five white points; national colors: red, white"
+      "text": "A red field surmounted by a white serrated band with five white points; national colors: red, white"
     },
     "National anthem": {
       "name": {
         "text": "\"Bahrainona\" (Our Bahrain)"
       },
       "lyrics/music": {
-        "text": "unknown"
+        "text": "Unknown"
       },
-      "note": "<strong>note:</strong> adopted 1971; although Mohamed Sudqi AYYASH wrote the original lyrics, they were changed in 2002 following the transformation of Bahrain from an emirate to a kingdom"
+      "note": "Note: adopted 1971; although Mohamed Sudqi AYYASH wrote the original lyrics, they were changed in 2002 following the transformation of Bahrain from an emirate to a kingdom"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -635,7 +635,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to \"junk\" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.</p><p></p><p>Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.</p><p></p><p>In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.</p>"
+      "text": "Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to \"junk\" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -647,7 +647,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$72.51 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -670,7 +670,7 @@
       "Real GDP per capita 2018": {
         "text": "$46,200 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$38.472 billion (2019 est.)"
@@ -726,17 +726,17 @@
       }
     },
     "Agricultural products": {
-      "text": "mutton, dates, milk, poultry, tomatoes, fruit, sheep offals, sheep skins, eggs, pumpkins"
+      "text": "Mutton, dates, milk, poultry, tomatoes, fruit, sheep offals, sheep skins, eggs, pumpkins"
     },
     "Industries": {
-      "text": "petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism"
+      "text": "Petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism"
     },
     "Industrial production growth rate": {
       "text": "0.6% (2017 est.)"
     },
     "Labor force": {
       "text": "831,600 (2017 est.)",
-      "note": "<strong>note:</strong> excludes unemployed; 44% of the population in the 15-64 age group is non-national"
+      "note": "Note: excludes unemployed; 44% of the population in the 15-64 age group is non-national"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -756,7 +756,7 @@
       "Unemployment rate 2016": {
         "text": "3.7% (2016 est.)"
       },
-      "note": "<strong>note:</strong> official estimate; actual rate is higher"
+      "note": "Note: official estimate; actual rate is higher"
     },
     "Unemployment, youth ages 15-24": {
       "total": {
@@ -803,7 +803,7 @@
       "text": "16.6% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2017": {
@@ -825,7 +825,7 @@
       "text": "United Arab Emirates 31%, Saudi Arabia 12%, Japan 8%, United States 8% (2019)"
     },
     "Exports - commodities": {
-      "text": "refined petroleum, aluminum and plating, crude petroleum, iron ore, gold (2019)"
+      "text": "Refined petroleum, aluminum and plating, crude petroleum, iron ore, gold (2019)"
     },
     "Imports": {
       "Imports 2018": {
@@ -839,7 +839,7 @@
       "text": "United Arab Emirates 27%, China 11%, Saudi Arabia 7%, United States 5%, Brazil 5%, Japan 5%, India 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "cars, iron ore, jewelry, gold, gas turbines (2019)"
+      "text": "Cars, iron ore, jewelry, gold, gas turbines (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -973,15 +973,15 @@
         "text": "Bahrain is one of the most technically advanced and connected countries in the world; NGN for increased mobile and Wi-Fi traffic; mobile infrastructure and fiber-optic Internet allows greater Internet penetration and competitive prices; government provides free Internet in schools and public areas, and national broadband with sole control over network; regulator controlled by monarchy; Internet freedom restricted through blocks; well served by satellite and submarine cable access; importer of broadcasting equipment from UAE (2020)"
       },
       "domestic": {
-        "text": "approximately 16 per 100 fixed-line and 103 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2020)"
+        "text": "Approximately 16 per 100 fixed-line and 103 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2020)"
       },
       "international": {
-        "text": "country code - 973; landing points for the&nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)"
+        "text": "Country code - 973; landing points for the;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2019)"
+      "text": "State-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2019)"
     },
     "Internet country code": {
       "text": ".bh"
@@ -1059,7 +1059,7 @@
         "text": "205"
       },
       "by type": {
-        "text": "general cargo 12, oil tanker 4, other 189 (2021)"
+        "text": "General cargo 12, oil tanker 4, other 189 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1070,8 +1070,8 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force; Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2021)",
-      "note": "note(s) - the Royal Guard is officially under the command of the Army, but exercises considerable autonomy; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields; while the Guard is under the Ministry of Interior, it reports directly to the king"
+      "text": "Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force; Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard (2021)",
+      "note": "Note(s) - the Royal Guard is officially under the command of the Army, but exercises considerable autonomy; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields; while the Guard is under the Ministry of Interior, it reports directly to the king"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
@@ -1091,27 +1091,27 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)"
+      "text": "Information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of the Bahrain Defense force consists of a mix of equipment acquired from a wide variety of suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2021)"
+      "text": "The inventory of the Bahrain Defense force consists of a mix of equipment acquired from a wide variety of suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2021)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2021)"
     },
     "Military - note": {
-      "text": "<p>as of 2022, Bahrain hosted the US Naval Forces Central Command (USNAVCENT; established 1983), which included the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2018, the UK opened a naval support base in Bahrain<br><br>in addition to the US and UK, Bahrain maintains close security ties to Saudi Arabia and the United Arab Emirates; both Saudi Arabia and the UAE sent forces to Bahrain to assist with internal security following the 2011 uprising; in 2015, Bahrain joined the Saudi Arabia-led military action to try to restore the Government of Yemen that was ousted by Iranian-backed Houthi rebels, supplying a few hundred troops and combat aircraft<br><br>Bahrain has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p>"
+      "text": "As of 2022, Bahrain hosted the US Naval Forces Central Command (USNAVCENT; established 1983), which included the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2018, the UK opened a naval support base in Bahrainin addition to the US and UK, Bahrain maintains close security ties to Saudi Arabia and the United Arab Emirates; both Saudi Arabia and the UAE sent forces to Bahrain to assist with internal security following the 2011 uprising; in 2015, Bahrain joined the Saudi Arabia-led military action to try to restore the Government of Yemen that was ousted by Iranian-backed Houthi rebels, supplying a few hundred troops and combat aircraftBahrain has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force",
-      "note": "note(s) - details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br><br>\r\n<br><br>in addition to the al-Ashtar Brigades and the IGRC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IGRC; Saraya al-Mukhtar’s self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020"
+      "text": "Al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force",
+      "note": "Note(s) - details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T\r\nin addition to the al-Ashtar Brigades and the IGRC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IGRC; Saraya al-Mukhtar’s self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     }
   }
 }

@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "about three times the size of the National Mall in Washington, DC"
+      "text": "About three times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
       "total": {
@@ -51,7 +51,7 @@
       "text": "Mediterranean with mild, wet winters and hot, dry summers"
     },
     "Terrain": {
-      "text": "hilly, rugged, rocky"
+      "text": "Hilly, rugged, rocky"
     },
     "Elevation": {
       "highest point": {
@@ -62,20 +62,20 @@
       }
     },
     "Natural resources": {
-      "text": "none"
+      "text": "None"
     },
     "Land use": {
       "agricultural land": {
         "text": "1% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 0% (2018 est.)"
+        "text": "Arable land: 0% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1% (2018 est.)"
+        "text": "Permanent crops: 1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 0% (2018 est.)"
+        "text": "Permanent pasture: 0% (2018 est.)"
       },
       "forest": {
         "text": "0% (2018 est.)"
@@ -88,19 +88,19 @@
       "text": "0 sq km (2012)"
     },
     "Population distribution": {
-      "text": "the second most densely populated country in the world (after Macau); its entire population living on 2 square km"
+      "text": "The second most densely populated country in the world (after Macau); its entire population living on 2 square km"
     },
     "Natural hazards": {
-      "text": "none"
+      "text": "None"
     },
     "Geography - note": {
-      "text": "second-smallest independent state in the world (after the Holy See); smallest country with a coastline; almost entirely urban"
+      "text": "Second-smallest independent state in the world (after the Holy See); smallest country with a coastline; almost entirely urban"
     }
   },
   "People and Society": {
     "Population": {
       "text": "31,223 (July 2021 est.)",
-      "note": "<strong>note:</strong> immigrants make up almost 68% of the total population, according to UN data (2019)"
+      "note": "Note: immigrants make up almost 68% of the total population, according to UN data (2019)"
     },
     "Nationality": {
       "noun": {
@@ -112,14 +112,14 @@
     },
     "Ethnic groups": {
       "text": "Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%, Swiss 2%, German 1.9%, Russian 1.8%, American 1.1%, Dutch 1.1%, Moroccan 1%, other 16.6% (2016 est.)",
-      "note": "<strong>note:</strong> data represent population by country of birth"
+      "note": "Note: data represent population by country of birth"
     },
     "Languages": {
       "Languages": {
         "text": "French (official), English, Italian, Monegasque"
       },
       "major-language sample(s)": {
-        "text": "<br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "The World Factbook, une source indispensable d'informations de base. (French)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -180,7 +180,7 @@
       "text": "9.16 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "the second most densely populated country in the world (after Macau); its entire population living on 2 square km"
+      "text": "The second most densely populated country in the world (after Macau); its entire population living on 2 square km"
     },
     "Urbanization": {
       "urban population": {
@@ -246,22 +246,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -275,22 +275,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -322,14 +322,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "no serious issues; actively monitors pollution levels in air and water"
+      "text": "No serious issues; actively monitors pollution levels in air and water"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -348,13 +348,13 @@
         "text": "1% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 0% (2018 est.)"
+        "text": "Arable land: 0% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1% (2018 est.)"
+        "text": "Permanent crops: 1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 0% (2018 est.)"
+        "text": "Permanent pasture: 0% (2018 est.)"
       },
       "forest": {
         "text": "0% (2018 est.)"
@@ -414,11 +414,11 @@
         "text": "Monaco"
       },
       "etymology": {
-        "text": "founded as a Greek colony in the 6th century B.C., the name derives from two Greek words \"monos\" (single, alone) and \"oikos\" (house) to convey the sense of a people \"living apart\" or in a \"single habitation\""
+        "text": "Founded as a Greek colony in the 6th century B.C., the name derives from two Greek words \"monos\" (single, alone) and \"oikos\" (house) to convey the sense of a people \"living apart\" or in a \"single habitation\""
       }
     },
     "Government type": {
-      "text": "constitutional monarchy"
+      "text": "Constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -435,7 +435,7 @@
       }
     },
     "Administrative divisions": {
-      "text": "none; there are no first-order administrative divisions as defined by the US Government, but there are 4 quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo; note - Moneghetti, a part of La Condamine, is sometimes called the 5th quarter of Monaco"
+      "text": "None; there are no first-order administrative divisions as defined by the US Government, but there are 4 quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo; note - Moneghetti, a part of La Condamine, is sometimes called the 5th quarter of Monaco"
     },
     "Independence": {
       "text": "1419 (beginning of permanent rule by the House of GRIMALDI)"
@@ -445,27 +445,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1911 (suspended 1959); latest adopted 17 December 1962"
+        "text": "Previous 1911 (suspended 1959); latest adopted 17 December 1962"
       },
       "amendments": {
-        "text": "proposed by joint agreement of the chief of state (the prince) and the National Council; passage requires two-thirds majority vote of National Council members; amended 2002"
+        "text": "Proposed by joint agreement of the chief of state (the prince) and the National Council; passage requires two-thirds majority vote of National Council members; amended 2002"
       }
     },
     "Legal system": {
-      "text": "civil law system influenced by French legal tradition"
+      "text": "Civil law system influenced by French legal tradition"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+      "text": "Has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "the father must be a citizen of Monaco; in the case of a child born out of wedlock, the mother must be a citizen and father unknown"
+        "text": "The father must be a citizen of Monaco; in the case of a child born out of wedlock, the mother must be a citizen and father unknown"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "10 years"
@@ -485,18 +485,18 @@
         "text": "Council of Government under the authority of the monarch"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government"
+        "text": "The monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms)"
+        "text": "Unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms)"
       },
       "elections": {
-        "text": "last held on 11 February 2018 (next to be held on 28 February 2023)"
+        "text": "Last held on 11 February 2018 (next to be held on 28 February 2023)"
       },
       "election results": {
-        "text": "percent of vote by party - Priorite Monaco 57.7%, Horizon Monaco 26.1%, Union Monegasque 16.2%; seats by party - Priorite Monaco 21, Horizon Monaco 2, Union Monegasque 1; composition - men 16, women 8, percent of women 33.3%"
+        "text": "Percent of vote by party - Priorite Monaco 57.7%, Horizon Monaco 26.1%, Union Monegasque 16.2%; seats by party - Priorite Monaco 21, Horizon Monaco 2, Union Monegasque 1; composition - men 16, women 8, percent of women 33.3%"
       }
     },
     "Judicial branch": {
@@ -511,7 +511,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Horizon Monaco [Laurent NOUVION]<br>Priorite Monaco [Stephane VALERI]<br>Union Monegasque [Jean-Francois ROBILLON]"
+      "text": "Horizon Monaco [Laurent NOUVION]Priorite Monaco [Stephane VALERI]Union Monegasque [Jean-Francois ROBILLON]"
     },
     "International organization participation": {
       "text": "CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO"
@@ -530,7 +530,7 @@
         "text": "[1] (202) 244-7656"
       },
       "email address and website": {
-        "text": "<br>info@monacodc.org<br><br>https://monacodc.org/index.html"
+        "text": "Info@monacodc.orghttps://monacodc.org/index.html"
       },
       "consulate(s) general": {
         "text": "New York"
@@ -542,11 +542,11 @@
       }
     },
     "Flag description": {
-      "text": "two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the flag one of the world's oldest national banners",
-      "note": "<strong>note:</strong> similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red"
+      "text": "Two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the flag one of the world's oldest national banners",
+      "note": "Note: similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red"
     },
     "National symbol(s)": {
-      "text": "red and white lozenges (diamond shapes); national colors: red, white"
+      "text": "Red and white lozenges (diamond shapes); national colors: red, white"
     },
     "National anthem": {
       "name": {
@@ -555,12 +555,12 @@
       "lyrics/music": {
         "text": "Louis NOTARI/Charles ALBRECHT"
       },
-      "note": "<strong>note:</strong> music adopted 1867, lyrics adopted 1931; although French is commonly spoken, only the Monegasque lyrics are official; the French version is known as \"Hymne Monegasque\" (Monegasque Anthem); the words are generally only sung on official occasions"
+      "note": "Note: music adopted 1867, lyrics adopted 1931; although French is commonly spoken, only the Monegasque lyrics are official; the French version is known as \"Hymne Monegasque\" (Monegasque Anthem); the words are generally only sung on official occasions"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas.</p><p></p><p>The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion.</p><p></p><p>Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain.</p>"
+      "text": "Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas.The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion.Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2015": {
@@ -572,7 +572,7 @@
       "Real GDP (purchasing power parity) 2013": {
         "text": "$6.79 billion (2013 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2015 US dollars"
+      "note": "Note: data are in 2015 US dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2015": {
@@ -616,17 +616,17 @@
       }
     },
     "Agricultural products": {
-      "text": "none"
+      "text": "None"
     },
     "Industries": {
-      "text": "banking, insurance, tourism, construction, small-scale industrial and consumer products"
+      "text": "Banking, insurance, tourism, construction, small-scale industrial and consumer products"
     },
     "Industrial production growth rate": {
       "text": "6.8% (2015)"
     },
     "Labor force": {
       "text": "52,000 (2014 est.)",
-      "note": "<strong>note:</strong> includes all foreign workers"
+      "note": "Note: includes all foreign workers"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -681,7 +681,7 @@
       "text": "14.9% (of GDP) (2011 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Exports": {
       "Exports 2017": {
@@ -690,13 +690,13 @@
       "Exports 2011": {
         "text": "$1.115 billion (2011)"
       },
-      "note": "<strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France"
+      "note": "Note: full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France"
     },
     "Exports - partners": {
-      "text": "<p>Italy 19%, Germany 14%, United Kingdom 9%, Switzerland 9%, Spain 8%, United States 6%, Belgium 5%</p> (2019)"
+      "text": "Italy 19%, Germany 14%, United Kingdom 9%, Switzerland 9%, Spain 8%, United States 6%, Belgium 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "jewelry, perfumes, watches, packaged medicines, plastic products (2019)"
+      "text": "Jewelry, perfumes, watches, packaged medicines, plastic products (2019)"
     },
     "Imports": {
       "Imports 2017": {
@@ -705,20 +705,20 @@
       "Imports 2011": {
         "text": "$1.162 billion (2011 est.)"
       },
-      "note": "<strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France"
+      "note": "Note: full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France"
     },
     "Imports - partners": {
       "text": "Italy 34%, Switzerland 16%, Germany 9%, United Kingdom 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "jewelry, recreational boats, cars and vehicle parts, watches, general wares (2019)"
+      "text": "Jewelry, recreational boats, cars and vehicle parts, watches, general wares (2019)"
     },
     "Debt - external": {
-      "text": "<p> NA</p>"
+      "text": " NA"
     },
     "Exchange rates": {
       "currency": {
-        "text": "euros (EUR) per US dollar -"
+        "text": "Euros (EUR) per US dollar -"
       },
       "Exchange rates 2017": {
         "text": "0.885 (2017 est.)"
@@ -763,15 +763,15 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "modern automatic telephone system; the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)"
+        "text": "Modern automatic telephone system; the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)"
       },
       "domestic": {
-        "text": "fixed-line a little over 111 per 100 and mobile-cellular teledensity exceeds 90 per 100 persons (2020)"
+        "text": "Fixed-line a little over 111 per 100 and mobile-cellular teledensity exceeds 90 per 100 persons (2020)"
       },
       "international": {
-        "text": "country code - 377; landing points for the EIG and Italy-Monaco submarine cables connecting Monaco to Europe, Africa, the Middle East and Asia; no satellite earth stations; connected by cable into the French communications system (2019)"
+        "text": "Country code - 377; landing points for the EIG and Italy-Monaco submarine cables connecting Monaco to Europe, Africa, the Middle East and Asia; no satellite earth stations; connected by cable into the French communications system (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco"
@@ -804,7 +804,7 @@
       "text": "1 (2012)"
     },
     "Railways": {
-      "text": "<strong>note:</strong> Monaco has a single railway station but does not operate its own train service;  the French operator SNCF operates rail services in Monaco"
+      "text": "Note: Monaco has a single railway station but does not operate its own train service;  the French operator SNCF operates rail services in Monaco"
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -814,15 +814,15 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince&rsquo;s Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department"
+      "text": "No regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince&rsquo;s Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department"
     },
     "Military - note": {
-      "text": "defense is the responsibility of France"
+      "text": "Defense is the responsibility of France"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     }
   }
 }

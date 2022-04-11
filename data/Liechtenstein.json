@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "about 0.9 times the size of Washington, DC"
+      "text": "About 0.9 times the size of Washington, DC"
     },
     "Land boundaries": {
       "total": {
@@ -40,13 +40,13 @@
       "text": "0 km (doubly landlocked)"
     },
     "Maritime claims": {
-      "text": "none (landlocked)"
+      "text": "None (landlocked)"
     },
     "Climate": {
-      "text": "continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers"
+      "text": "Continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers"
     },
     "Terrain": {
-      "text": "mostly mountainous (Alps) with Rhine Valley in western third"
+      "text": "Mostly mountainous (Alps) with Rhine Valley in western third"
     },
     "Elevation": {
       "highest point": {
@@ -57,20 +57,20 @@
       }
     },
     "Natural resources": {
-      "text": "hydroelectric potential, arable land"
+      "text": "Hydroelectric potential, arable land"
     },
     "Land use": {
       "agricultural land": {
         "text": "37.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 18.8% (2018 est.)"
+        "text": "Arable land: 18.8% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 18.8% (2018 est.)"
+        "text": "Permanent pasture: 18.8% (2018 est.)"
       },
       "forest": {
         "text": "43.1% (2018 est.)"
@@ -86,19 +86,19 @@
       "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)"
     },
     "Population distribution": {
-      "text": "most of the population is found in the western half of the country along the Rhine River"
+      "text": "Most of the population is found in the western half of the country along the Rhine River"
     },
     "Natural hazards": {
-      "text": "avalanches, landslides"
+      "text": "Avalanches, landslides"
     },
     "Geography - note": {
-      "text": "along with Uzbekistan, one of only two doubly landlocked countries in the world; variety of microclimatic variations based on elevation"
+      "text": "Along with Uzbekistan, one of only two doubly landlocked countries in the world; variety of microclimatic variations based on elevation"
     }
   },
   "People and Society": {
     "Population": {
       "text": "39,425 (July 2021 est.)",
-      "note": "<strong>note:</strong> immigrants make up 67% of the total population, according to UN data (2019)"
+      "note": "Note: immigrants make up 67% of the total population, according to UN data (2019)"
     },
     "Nationality": {
       "noun": {
@@ -110,18 +110,18 @@
     },
     "Ethnic groups": {
       "text": "Liechtensteiner 65.8%, Swiss 9.6%, Austrian 5.9%, German 4.4%, Italian 3.1%, other 11.2% (2019 est.)",
-      "note": "<strong>note:</strong> data represent population by nationality"
+      "note": "Note: data represent population by nationality"
     },
     "Languages": {
       "Languages": {
         "text": "German 91.5% (official) (Alemannic is the main dialect), Italian 1.5%, Turkish 1.3%, Portuguese 1.1%, other 4.6% (2015 est.)"
       },
       "major-language sample(s)": {
-        "text": "<br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
-      "text": "Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%,&nbsp; Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant .7%, other Christian .3%, other .8%, none 7%, unspecified 3.3% (2015 est.)"
+      "text": "Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%,; Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant .7%, other Christian .3%, other .8%, none 7%, unspecified 3.3% (2015 est.)"
     },
     "Age structure": {
       "0-14 years": {
@@ -178,7 +178,7 @@
       "text": "4.84 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "most of the population is found in the western half of the country along the Rhine River"
+      "text": "Most of the population is found in the western half of the country along the Rhine River"
     },
     "Urbanization": {
       "urban population": {
@@ -247,22 +247,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020)"
+        "text": "Total: 0% of population (2020)"
       }
     },
     "Current Health Expenditure": {
@@ -270,22 +270,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020)"
+        "text": "Total: 0% of population (2020)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -317,7 +317,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "some air pollution generated locally, some transfered from surrounding countries"
+      "text": "Some air pollution generated locally, some transfered from surrounding countries"
     },
     "Environment - international agreements": {
       "party to": {
@@ -336,20 +336,20 @@
       }
     },
     "Climate": {
-      "text": "continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers"
+      "text": "Continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers"
     },
     "Land use": {
       "agricultural land": {
         "text": "37.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 18.8% (2018 est.)"
+        "text": "Arable land: 18.8% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 18.8% (2018 est.)"
+        "text": "Permanent pasture: 18.8% (2018 est.)"
       },
       "forest": {
         "text": "43.1% (2018 est.)"
@@ -409,11 +409,11 @@
         "text": "Liechtenstein"
       },
       "etymology": {
-        "text": "named after the Liechtenstein dynasty that purchased and united the counties of Schellenburg and Vaduz and that was allowed by the Holy Roman Emperor in 1719 to rename the new property after their family; the name in German means \"light (bright) stone\""
+        "text": "Named after the Liechtenstein dynasty that purchased and united the counties of Schellenburg and Vaduz and that was allowed by the Holy Roman Emperor in 1719 to rename the new property after their family; the name in German means \"light (bright) stone\""
       }
     },
     "Government type": {
-      "text": "constitutional monarchy"
+      "text": "Constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -429,7 +429,7 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "etymology": {
-        "text": "may be a conflation from the Latin \"vallis\" (valley) and the High German \"diutisk\" (meaning \"German\") to produce \"Valdutsch\" (German valley), which over time simplified and came to refer specifically to Vaduz, the town"
+        "text": "May be a conflation from the Latin \"vallis\" (valley) and the High German \"diutisk\" (meaning \"German\") to produce \"Valdutsch\" (German valley), which over time simplified and came to refer specifically to Vaduz, the town"
       }
     },
     "Administrative divisions": {
@@ -443,27 +443,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1862; latest adopted 5 October 1921"
+        "text": "Previous 1862; latest adopted 5 October 1921"
       },
       "amendments": {
-        "text": "proposed by Parliament, by the reigning prince (in the form of \"Government\" proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast; amended many times, last in 2020"
+        "text": "Proposed by Parliament, by the reigning prince (in the form of \"Government\" proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast; amended many times, last in 2020"
       }
     },
     "Legal system": {
-      "text": "civil law system influenced by Swiss, Austrian, and German law"
+      "text": "Civil law system influenced by Swiss, Austrian, and German law"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "the father must be a citizen of Liechtenstein; in the case of a child born out of wedlock, the mother must be a citizen"
+        "text": "The father must be a citizen of Liechtenstein; in the case of a child born out of wedlock, the mother must be a citizen"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "5 years"
@@ -483,18 +483,18 @@
         "text": "Cabinet elected by the Parliament, confirmed by the monarch"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; following legislative elections, the leader of the majority party in the Parliament usually appointed the head of government by the monarch, and the leader of the largest minority party in the Landtag usually appointed the deputy head of government by the monarch if there is a coalition government"
+        "text": "The monarchy is hereditary; following legislative elections, the leader of the majority party in the Parliament usually appointed the head of government by the monarch, and the leader of the largest minority party in the Landtag usually appointed the deputy head of government by the monarch if there is a coalition government"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)"
+        "text": "Unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 7 February 2021 (next to be held on 7 February 2025)"
+        "text": "Last held on 7 February 2021 (next to be held on 7 February 2025)"
       },
       "election results": {
-        "text": "percent of vote by party - FBP 35.9%, VU 35.9%, FL 12.9%, DpL 11.1%, independent 4.2%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%"
+        "text": "Percent of vote by party - FBP 35.9%, VU 35.9%, FL 12.9%, DpL 11.1%, independent 4.2%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%"
       }
     },
     "Judicial branch": {
@@ -502,14 +502,14 @@
         "text": "Supreme Court or Oberster Gerichtshof (consists of 5 judges); Constitutional Court or Verfassungsgericht (consists of 5 judges and 5 alternates)"
       },
       "judge selection and term of office": {
-        "text": "judges of both courts elected by the Landtag and appointed by the monarch; Supreme Court judges serve 4-year renewable terms; Constitutional Court judges appointed for renewable 5-year terms"
+        "text": "Judges of both courts elected by the Landtag and appointed by the monarch; Supreme Court judges serve 4-year renewable terms; Constitutional Court judges appointed for renewable 5-year terms"
       },
       "subordinate courts": {
         "text": "Court of Appeal or Obergericht (second instance), Court of Justice (first instance), Administrative Court, county courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]<br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Thomas BANZER]<br>The Free List (Die Freie Liste) or FL [Pepo FRICK and Conny BUECHEL BRUEHWILER]<br>Democrats for Liechtenstein (Demokraten pro Liechtenstein) of DpL [Thomas REHAK]<br>The Independents (Die Unabhaengigen) or DU [Harry QUADERER]"
+      "text": "Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Thomas BANZER]The Free List (Die Freie Liste) or FL [Pepo FRICK and Conny BUECHEL BRUEHWILER]Democrats for Liechtenstein (Demokraten pro Liechtenstein) of DpL [Thomas REHAK]The Independents (Die Unabhaengigen) or DU [Harry QUADERER]"
     },
     "International organization participation": {
       "text": "CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO"
@@ -528,19 +528,19 @@
         "text": "[1] (202) 331-3221"
       },
       "email address and website": {
-        "text": "<br>info@embassyli.org<br><br>https://www.liechtensteinusa.org/"
+        "text": "Info@embassyli.orghttps://www.liechtensteinusa.org/"
       }
     },
     "Diplomatic representation from the US": {
       "embassy": {
-        "text": "the US does not have an embassy in Liechtenstein; the US Ambassador to Switzerland is accredited to Liechtenstein"
+        "text": "The US does not have an embassy in Liechtenstein; the US Ambassador to Switzerland is accredited to Liechtenstein"
       }
     },
     "Flag description": {
-      "text": "two equal horizontal bands of blue (top) and red with a gold crown on the hoist side of the blue band; the colors may derive from the blue and red livery design used in the principality's household in the 18th century; the prince's crown was introduced in 1937 to distinguish the flag from that of Haiti"
+      "text": "Two equal horizontal bands of blue (top) and red with a gold crown on the hoist side of the blue band; the colors may derive from the blue and red livery design used in the principality's household in the 18th century; the prince's crown was introduced in 1937 to distinguish the flag from that of Haiti"
     },
     "National symbol(s)": {
-      "text": "princely hat (crown); national colors: blue, red"
+      "text": "Princely hat (crown); national colors: blue, red"
     },
     "National anthem": {
       "name": {
@@ -549,12 +549,12 @@
       "lyrics/music": {
         "text": "Jakob Joseph JAUCH/Josef FROMMELT"
       },
-      "note": "<strong>note:</strong> adopted 1850, revised 1963; uses the tune of \"God Save the Queen\""
+      "note": "Note: adopted 1850, revised 1963; uses the tune of \"God Save the Queen\""
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.</p><p></p><p>The country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.</p><p></p><p>Since 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein's conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its \"grey list\" of countries that had yet to implement the organization's Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents.</p>"
+      "text": "Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.The country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.Since 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein's conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its \"grey list\" of countries that had yet to implement the organization's Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2014": {
@@ -617,17 +617,17 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, barley, corn, potatoes; livestock, dairy products"
+      "text": "Wheat, barley, corn, potatoes; livestock, dairy products"
     },
     "Industries": {
-      "text": "electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, food products, precision instruments, tourism, optical instruments"
+      "text": "Electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, food products, precision instruments, tourism, optical instruments"
     },
     "Industrial production growth rate": {
       "text": "NA"
     },
     "Labor force": {
       "text": "38,520 (2012) (2015 est.)",
-      "note": "<strong>note:</strong> 51% of the labor force in Liechtenstein commute daily from Austria, Switzerland, and Germany"
+      "note": "Note: 51% of the labor force in Liechtenstein commute daily from Austria, Switzerland, and Germany"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -674,7 +674,7 @@
       "text": "14.9% (of GDP) (2012 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Exports": {
       "Exports 2015": {
@@ -683,25 +683,25 @@
       "Exports 2014": {
         "text": "$3.774 billion (2014 est.)"
       },
-      "note": "<strong>note:</strong> trade data exclude trade with Switzerland"
+      "note": "Note: trade data exclude trade with Switzerland"
     },
     "Exports - commodities": {
-      "text": "small specialty machinery, connectors for audio and video, parts for motor vehicles, dental products, hardware, prepared foodstuffs, electronic equipment, optical products"
+      "text": "Small specialty machinery, connectors for audio and video, parts for motor vehicles, dental products, hardware, prepared foodstuffs, electronic equipment, optical products"
     },
     "Imports": {
       "Imports 2014": {
         "text": "$2.23 billion (2014 est.)"
       },
-      "note": "<strong>note:</strong> trade data exclude trade with Switzerland"
+      "note": "Note: trade data exclude trade with Switzerland"
     },
     "Imports - commodities": {
-      "text": "agricultural products, raw materials, energy products, machinery, metal goods, textiles, foodstuffs, motor vehicles"
+      "text": "Agricultural products, raw materials, energy products, machinery, metal goods, textiles, foodstuffs, motor vehicles"
     },
     "Debt - external": {
       "Debt - external 2015": {
         "text": "$0 (2015 est.)"
       },
-      "note": "<strong>note:</strong> public external debt only; private external debt unavailable"
+      "note": "Note: public external debt only; private external debt unavailable"
     },
     "Exchange rates": {
       "currency": {
@@ -762,18 +762,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "automatic telephone system; 44 Internet service providers in Liechtenstein and Switzerland combined; FttP (fiber to the home) penetration marketed 3rd highest in EU; fiber network reaches 3/4 of the population (2020)"
+        "text": "Automatic telephone system; 44 Internet service providers in Liechtenstein and Switzerland combined; FttP (fiber to the home) penetration marketed 3rd highest in EU; fiber network reaches 3/4 of the population (2020)"
       },
       "domestic": {
-        "text": "fixed-line roughly 33 per 100 and mobile-cellular services 128 per 100 (2020)"
+        "text": "Fixed-line roughly 33 per 100 and mobile-cellular services 128 per 100 (2020)"
       },
       "international": {
-        "text": "country code - 423; linked to&nbsp;Swiss networks by cable and microwave radio relay"
+        "text": "Country code - 423; linked to;Swiss networks by cable and microwave radio relay"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established August 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station in Liechtenstein"
+      "text": "Relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established August 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station in Liechtenstein"
     },
     "Internet country code": {
       "text": ".li"
@@ -809,7 +809,7 @@
       "standard gauge": {
         "text": "9 km 1.435-m gauge (electrified) (2018)"
       },
-      "note": "<strong>note:</strong> belongs to the Austrian Railway System connecting Austria and Switzerland"
+      "note": "Note: belongs to the Austrian Railway System connecting Austria and Switzerland"
     },
     "Roadways": {
       "total": {
@@ -824,21 +824,21 @@
         "text": "20"
       },
       "by type": {
-        "text": "bulk carrier 16, general cargo 1, other 3 (includes Switzerland) (2021)"
+        "text": "Bulk carrier 16, general cargo 1, other 3 (includes Switzerland) (2021)"
       }
     }
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; the National Police is responsible for all matters relating to the safety and security of Liechtenstein (2021)"
+      "text": "No regular military forces; the National Police is responsible for all matters relating to the safety and security of Liechtenstein (2021)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     },
     "Illicit drugs": {
-      "text": "has strengthened money laundering controls, but money laundering remains a concern due to Liechtenstein's sophisticated offshore financial services sector"
+      "text": "Has strengthened money laundering controls, but money laundering remains a concern due to Liechtenstein's sophisticated offshore financial services sector"
     }
   }
 }

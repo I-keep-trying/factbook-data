@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Polynesians from Tahiti were probably the first people to settle Rarotonga around A.D. 900. Over time, Samoans and Tongans also settled in Rarotonga, and Rarotongans voyaged to the northern Cook Islands, settling Manihiki and Rakahanga. Pukapuka and Penrhyn in the northern Cook Islands were settled directly from Samoa. Prior to European contact, there was considerable travel and trade between inhabitants of the different islands and atolls but they were not united in a single entity. Spanish navigators were the first Europeans to spot the northern Cook Islands in 1595 followed by the first landing in 1606. The Cook Islands remained free of further European contact until the 1760s, and in 1773, British explorer James COOK saw Manuae in the southern Cook Islands. The islands were named after COOK in the 1820s by Russian mapmakers. English missionary activity during the 1820s and 1830s banned singing and dancing and converted most of the population.<br><br>Fearing France would militarily occupy the islands like it did in Tahiti, Rarotongans asked the UK for protectorate status in the 1840s and 1860s, which the UK ignored. In 1888, Queen MAKEA TAKAU of Rarotonga formally petitioned for protectorate status, which the UK reluctantly agreed to. In 1901, the UK placed Rarotonga and the rest of the islands in the New Zealand Colony and in 1915, the Cook Islands Act organized the Cook Islands into one political entity. It remained a protectorate until 1965, when New Zealand granted the Cook Islands self-government status. The Cook Islands has a great deal of local autonomy and is an independent member of international organizations, but it is in free association with New Zealand, which is responsible for defense and foreign affairs. Economic opportunities in the Cook Islands are sparse, and more Cook Islanders live in New Zealand than in the Cook Islands.<br><br>In a referendum in 1994, voters chose to keep the name Cook Islands rather than changing to a Maori name for the islands. The issue was revived in 2019, but after being poorly received by the diaspora in New Zealand, the government decided to retain the name Cook Islands but to provide a Maori name alongside it. The Maori name has not yet been determined."
+      "text": "Polynesians from Tahiti were probably the first people to settle Rarotonga around A.D. 900. Over time, Samoans and Tongans also settled in Rarotonga, and Rarotongans voyaged to the northern Cook Islands, settling Manihiki and Rakahanga. Pukapuka and Penrhyn in the northern Cook Islands were settled directly from Samoa. Prior to European contact, there was considerable travel and trade between inhabitants of the different islands and atolls but they were not united in a single entity. Spanish navigators were the first Europeans to spot the northern Cook Islands in 1595 followed by the first landing in 1606. The Cook Islands remained free of further European contact until the 1760s, and in 1773, British explorer James COOK saw Manuae in the southern Cook Islands. The islands were named after COOK in the 1820s by Russian mapmakers. English missionary activity during the 1820s and 1830s banned singing and dancing and converted most of the population.Fearing France would militarily occupy the islands like it did in Tahiti, Rarotongans asked the UK for protectorate status in the 1840s and 1860s, which the UK ignored. In 1888, Queen MAKEA TAKAU of Rarotonga formally petitioned for protectorate status, which the UK reluctantly agreed to. In 1901, the UK placed Rarotonga and the rest of the islands in the New Zealand Colony and in 1915, the Cook Islands Act organized the Cook Islands into one political entity. It remained a protectorate until 1965, when New Zealand granted the Cook Islands self-government status. The Cook Islands has a great deal of local autonomy and is an independent member of international organizations, but it is in free association with New Zealand, which is responsible for defense and foreign affairs. Economic opportunities in the Cook Islands are sparse, and more Cook Islanders live in New Zealand than in the Cook Islands.In a referendum in 1994, voters chose to keep the name Cook Islands rather than changing to a Maori name for the islands. The issue was revived in 2019, but after being poorly received by the diaspora in New Zealand, the government decided to retain the name Cook Islands but to provide a Maori name alongside it. The Maori name has not yet been determined."
     }
   },
   "Geography": {
@@ -48,10 +48,10 @@
       }
     },
     "Climate": {
-      "text": "tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March"
+      "text": "Tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March"
     },
     "Terrain": {
-      "text": "low coral atolls in north; volcanic, hilly islands in south"
+      "text": "Low coral atolls in north; volcanic, hilly islands in south"
     },
     "Elevation": {
       "highest point": {
@@ -62,20 +62,20 @@
       }
     },
     "Natural resources": {
-      "text": "coconuts (copra)"
+      "text": "Coconuts (copra)"
     },
     "Land use": {
       "agricultural land": {
         "text": "8.4% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 4.2% (2018 est.)"
+        "text": "Arable land: 4.2% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 4.2% (2018 est.)"
+        "text": "Permanent crops: 4.2% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 0% (2018 est.)"
+        "text": "Permanent pasture: 0% (2018 est.)"
       },
       "forest": {
         "text": "64.6% (2018 est.)"
@@ -88,19 +88,19 @@
       "text": "NA"
     },
     "Population distribution": {
-      "text": "most of the population is found on the island of Rarotonga"
+      "text": "Most of the population is found on the island of Rarotonga"
     },
     "Natural hazards": {
-      "text": "tropical cyclones (November to March)"
+      "text": "Tropical cyclones (November to March)"
     },
     "Geography - note": {
-      "text": "the northern Cook Islands are seven low-lying, sparsely populated, coral atolls; the southern Cook Islands, where most of the population lives, consist of eight elevated, fertile, volcanic isles, including the largest, Rarotonga, at 67 sq km"
+      "text": "The northern Cook Islands are seven low-lying, sparsely populated, coral atolls; the southern Cook Islands, where most of the population lives, consist of eight elevated, fertile, volcanic isles, including the largest, Rarotonga, at 67 sq km"
     }
   },
   "People and Society": {
     "Population": {
       "text": "8,327 (July 2021 est.)",
-      "note": "<strong>note:</strong> the Cook Islands' Ministry of Finance &amp; Economic Management estimated the resident population to have been 11,700 in September 2016"
+      "note": "Note: the Cook Islands' Ministry of Finance &amp; Economic Management estimated the resident population to have been 11,700 in September 2016"
     },
     "Nationality": {
       "noun": {
@@ -115,7 +115,7 @@
     },
     "Languages": {
       "text": "English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, other 8.3% (2011 est.)",
-      "note": "<strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census"
+      "note": "Note: shares sum to more than 100% because some respondents gave more than one answer on the census"
     },
     "Religions": {
       "text": "Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh Day Adventist 7.9%, Assemblies of God 3.7%, Apostolic Church 2.1%), Roman Catholic 17%, Church of Jesus Christ 4.4%, other 8%, none 5.6%, no response 2.2% (2011 est.)"
@@ -175,7 +175,7 @@
       "text": "-28.58 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "most of the population is found on the island of Rarotonga"
+      "text": "Most of the population is found on the island of Rarotonga"
     },
     "Urbanization": {
       "urban population": {
@@ -238,22 +238,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -264,22 +264,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 99.1% of population"
+        "text": "Total: 99.1% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0.9% of population (2020 est.)"
+        "text": "Total: 0.9% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -293,13 +293,13 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "high (2020)"
+        "text": "High (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial diarrhea"
+        "text": "Bacterial diarrhea"
       },
       "vectorborne diseases": {
-        "text": "malaria"
+        "text": "Malaria"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -325,14 +325,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "limited land presents solid and liquid waste disposal problems; soil destruction and deforestation; environmental degradation due to indiscriminant use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over dredging of lagoons and coral rubble beds; unregulated building"
+      "text": "Limited land presents solid and liquid waste disposal problems; soil destruction and deforestation; environmental degradation due to indiscriminant use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over dredging of lagoons and coral rubble beds; unregulated building"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -341,20 +341,20 @@
       }
     },
     "Climate": {
-      "text": "tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March"
+      "text": "Tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March"
     },
     "Land use": {
       "agricultural land": {
         "text": "8.4% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 4.2% (2018 est.)"
+        "text": "Arable land: 4.2% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 4.2% (2018 est.)"
+        "text": "Permanent crops: 4.2% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 0% (2018 est.)"
+        "text": "Permanent pasture: 0% (2018 est.)"
       },
       "forest": {
         "text": "64.6% (2018 est.)"
@@ -373,13 +373,13 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "high (2020)"
+        "text": "High (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial diarrhea"
+        "text": "Bacterial diarrhea"
       },
       "vectorborne diseases": {
-        "text": "malaria"
+        "text": "Malaria"
       }
     },
     "Total renewable water resources": {
@@ -389,7 +389,7 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Cook Islands"
@@ -398,14 +398,14 @@
         "text": "Hervey Islands"
       },
       "etymology": {
-        "text": "named after Captain James COOK, the British explorer who visited the islands in 1773 and 1777"
+        "text": "Named after Captain James COOK, the British explorer who visited the islands in 1773 and 1777"
       }
     },
     "Government type": {
-      "text": "parliamentary democracy"
+      "text": "Parliamentary democracy"
     },
     "Dependency status": {
-      "text": "self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands"
+      "text": "Self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands"
     },
     "Capital": {
       "name": {
@@ -418,14 +418,14 @@
         "text": "UTC-10 (5 hours behind Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "translates as \"two harbors\" in Maori"
+        "text": "Translates as \"two harbors\" in Maori"
       }
     },
     "Administrative divisions": {
-      "text": "none"
+      "text": "None"
     },
     "Independence": {
-      "text": "none (became self-governing in free association with New Zealand on 4 August 1965 with the right at any time to move to full independence by unilateral action)"
+      "text": "None (became self-governing in free association with New Zealand on 4 August 1965 with the right at any time to move to full independence by unilateral action)"
     },
     "National holiday": {
       "text": "Constitution Day, the first Monday in August (1965)"
@@ -435,14 +435,14 @@
         "text": "4 August 1965 (Cook Islands Constitution Act 1964)"
       },
       "amendments": {
-        "text": "proposed by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in each of several readings and assent of the chief of state&rsquo;s representative; passage of amendments relating to the chief of state also requires two-thirds majority approval in a referendum; amended many times, last in 2004"
+        "text": "Proposed by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in each of several readings and assent of the chief of state&rsquo;s representative; passage of amendments relating to the chief of state also requires two-thirds majority approval in a referendum; amended many times, last in 2004"
       }
     },
     "Legal system": {
-      "text": "common law similar to New Zealand common law"
+      "text": "Common law similar to New Zealand common law"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration (New Zealand normally retains responsibility for external affairs); accepts ICCt jurisdiction"
+      "text": "Has not submitted an ICJ jurisdiction declaration (New Zealand normally retains responsibility for external affairs); accepts ICCt jurisdiction"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -458,18 +458,18 @@
         "text": "Cabinet chosen by the prime minister"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister"
+        "text": "The monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the Queen's representative serves as a consultative body to the Parliament"
+        "text": "Unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the Queen's representative serves as a consultative body to the Parliament"
       },
       "elections": {
-        "text": "last held on 14 June 2018 (next to be held by 2022)"
+        "text": "Last held on 14 June 2018 (next to be held by 2022)"
       },
       "election results": {
-        "text": "percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 15, women 9, percent of women 37.5%"
+        "text": "Percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 15, women 9, percent of women 37.5%"
       }
     },
     "Judicial branch": {
@@ -480,28 +480,28 @@
         "text": "High Court chief justice appointed by the Queen's Representative on the advice of the Executive Council tendered by the prime minister; other judges appointed by the Queen's Representative, on the advice of the Executive Council tendered by the chief justice, High Court chief justice, and the minister of justice; chief justice and judges appointed for 3-year renewable terms"
       },
       "subordinate courts": {
-        "text": "justices of the peace"
+        "text": "Justices of the peace"
       }
     },
     "Political parties and leaders": {
-      "text": "Cook Islands Party or CIP [Mark BROWN]<br>Democratic Party or Demo [Tina BROWNE]<br>One Cook Islands Movement [Teina BISHOP]"
+      "text": "Cook Islands Party or CIP [Mark BROWN]Democratic Party or Demo [Tina BROWNE]One Cook Islands Movement [Teina BISHOP]"
     },
     "International organization participation": {
       "text": "ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WMO"
     },
     "Diplomatic representation in the US": {
-      "text": "none (self-governing in free association with New Zealand)"
+      "text": "None (self-governing in free association with New Zealand)"
     },
     "Diplomatic representation from the US": {
       "embassy": {
-        "text": "none (self-governing in free association with New Zealand)"
+        "text": "None (self-governing in free association with New Zealand)"
       }
     },
     "Flag description": {
-      "text": "blue with the flag of the UK in the upper hoist-side quadrant and a large circle of 15 white five-pointed stars (one for every island) centered in the outer half of the flag"
+      "text": "Blue with the flag of the UK in the upper hoist-side quadrant and a large circle of 15 white five-pointed stars (one for every island) centered in the outer half of the flag"
     },
     "National symbol(s)": {
-      "text": "a circle of 15, five-pointed, white stars on a blue field, Tiare maori (Gardenia taitensis) flower; national colors: green, white"
+      "text": "A circle of 15, five-pointed, white stars on a blue field, Tiare maori (Gardenia taitensis) flower; national colors: green, white"
     },
     "National anthem": {
       "name": {
@@ -510,7 +510,7 @@
       "lyrics/music": {
         "text": "Tepaeru Te RITO/Thomas DAVIS"
       },
-      "note": "<strong>note:</strong> adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; his wife, a tribal chief, wrote the lyrics"
+      "note": "Note: adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; his wife, a tribal chief, wrote the lyrics"
     }
   },
   "Economy": {
@@ -558,10 +558,10 @@
       }
     },
     "Agricultural products": {
-      "text": "vegetables, coconuts, roots/tubers nes, cassava, papayas, tomatoes, pork, fruit, sweet potatoes, mangoes/guavas"
+      "text": "Vegetables, coconuts, roots/tubers nes, cassava, papayas, tomatoes, pork, fruit, sweet potatoes, mangoes/guavas"
     },
     "Industries": {
-      "text": "fishing, fruit processing, tourism, clothing, handicrafts"
+      "text": "Fishing, fruit processing, tourism, clothing, handicrafts"
     },
     "Industrial production growth rate": {
       "text": "1% (2002)"
@@ -630,7 +630,7 @@
       "text": "Japan 37%, Thailand 21%, France 17% (2019)"
     },
     "Exports - commodities": {
-      "text": "fish products, recreational boats, precious metal scraps, fruit juice, chemical analysis instruments (2019)"
+      "text": "Fish products, recreational boats, precious metal scraps, fruit juice, chemical analysis instruments (2019)"
     },
     "Imports": {
       "Imports 2011": {
@@ -644,7 +644,7 @@
       "text": "New Zealand 41%, China 21%, Italy 12%, Fiji 10% (2019)"
     },
     "Imports - commodities": {
-      "text": "ships, refined petroleum, recreational boats, cars, flavored water (2019)"
+      "text": "Ships, refined petroleum, recreational boats, cars, flavored water (2019)"
     },
     "Debt - external": {
       "Debt - external 1996": {
@@ -759,15 +759,15 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)"
+        "text": "Demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)"
       },
       "domestic": {
-        "text": "service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; nearly 38 per 100 fixed-line and about 83 per 100 mobile-cellular (2019)"
+        "text": "Service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; nearly 38 per 100 fixed-line and about 83 per 100 mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 682; the Manatua submarine cable to surrounding islands of Niue,&nbsp;Samoa,&nbsp;French Polynesia and other Cook Islands, the&nbsp;topography of the South Pacific region has made Internet connectivity a serious&nbsp;issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
+        "text": "Country code - 682; the Manatua submarine cable to surrounding islands of Niue,;Samoa,;French Polynesia and other Cook Islands, the;topography of the South Pacific region has made Internet connectivity a serious;issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain;;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "1 privately owned TV station broadcasts from Rarotonga providing a mix of local news and overseas-sourced programs (2019)"
@@ -847,7 +847,7 @@
         "text": "194"
       },
       "by type": {
-        "text": "bulk carrier 19, container ship 1, general cargo 57, oil tanker 54, other 63 (2021)"
+        "text": "Bulk carrier 19, container ship 1, general cargo 57, oil tanker 54, other 63 (2021)"
       }
     },
     "Ports and terminals": {
@@ -858,15 +858,15 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Cook Islands Police Service"
+      "text": "No regular military forces; Cook Islands Police Service"
     },
     "Military - note": {
-      "text": "defense is the responsibility of New Zealand in consultation with the Cook Islands and at its request"
+      "text": "Defense is the responsibility of New Zealand in consultation with the Cook Islands and at its request"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     }
   }
 }

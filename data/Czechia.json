@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "about two-thirds the size of Pennsylvania; slightly smaller than South Carolina"
+      "text": "About two-thirds the size of Pennsylvania; slightly smaller than South Carolina"
     },
     "Land boundaries": {
       "total": {
@@ -40,10 +40,10 @@
       "text": "0 km (landlocked)"
     },
     "Maritime claims": {
-      "text": "none (landlocked)"
+      "text": "None (landlocked)"
     },
     "Climate": {
-      "text": "temperate; cool summers; cold, cloudy, humid winters"
+      "text": "Temperate; cool summers; cold, cloudy, humid winters"
     },
     "Terrain": {
       "text": "Bohemia in the west consists of rolling plains, hills, and plateaus surrounded by low mountains; Moravia in the east consists of very hilly country"
@@ -60,20 +60,20 @@
       }
     },
     "Natural resources": {
-      "text": "hard coal, soft coal, kaolin, clay, graphite, timber, arable land"
+      "text": "Hard coal, soft coal, kaolin, clay, graphite, timber, arable land"
     },
     "Land use": {
       "agricultural land": {
         "text": "54.8% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 41% (2018 est.)"
+        "text": "Arable land: 41% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1% (2018 est.)"
+        "text": "Permanent crops: 1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 12.8% (2018 est.)"
+        "text": "Permanent pasture: 12.8% (2018 est.)"
       },
       "forest": {
         "text": "34.4% (2018 est.)"
@@ -86,19 +86,19 @@
       "text": "320 sq km (2012)"
     },
     "Major rivers (by length in km)": {
-      "text": "Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+      "text": "Atlantic Ocean drainage: (Black Sea) Danube (795,656 sq km)"
     },
     "Population distribution": {
-      "text": "a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations"
+      "text": "A fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations"
     },
     "Natural hazards": {
-      "text": "flooding"
+      "text": "Flooding"
     },
     "Geography - note": {
-      "text": "<strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep"
+      "text": "Note 1: landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europenote 2: the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep"
     }
   },
   "People and Society": {
@@ -121,7 +121,7 @@
         "text": "Czech (official) 95.4%, Slovak 1.6%, other 3% (2011 est.)"
       },
       "major-language sample(s)": {
-        "text": "<br>World Fackbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "World Fackbook, nepostradatelný zdroj základních informací. (Czech)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -182,7 +182,7 @@
       "text": "2.32 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations"
+      "text": "A fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations"
     },
     "Urbanization": {
       "urban population": {
@@ -254,22 +254,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 99.9% of population"
+        "text": "Urban: 99.9% of population"
       },
       "improved: rural": {
-        "text": "rural: 99.8% of population"
+        "text": "Rural: 99.8% of population"
       },
       "improved: total": {
-        "text": "total: 99.9% of population"
+        "text": "Total: 99.9% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0.1% of population"
+        "text": "Urban: 0.1% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0.2% of population"
+        "text": "Rural: 0.2% of population"
       },
       "unimproved: total": {
-        "text": "total: 0.1% of population (2020 est.)"
+        "text": "Total: 0.1% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -283,22 +283,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -358,14 +358,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks; acid rain damaging forests; land pollution caused by industry, mining, and agriculture"
+      "text": "Air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks; acid rain damaging forests; land pollution caused by industry, mining, and agriculture"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -380,20 +380,20 @@
       }
     },
     "Climate": {
-      "text": "temperate; cool summers; cold, cloudy, humid winters"
+      "text": "Temperate; cool summers; cold, cloudy, humid winters"
     },
     "Land use": {
       "agricultural land": {
         "text": "54.8% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 41% (2018 est.)"
+        "text": "Arable land: 41% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1% (2018 est.)"
+        "text": "Permanent crops: 1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 12.8% (2018 est.)"
+        "text": "Permanent pasture: 12.8% (2018 est.)"
       },
       "forest": {
         "text": "34.4% (2018 est.)"
@@ -432,10 +432,10 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+      "text": "Atlantic Ocean drainage: (Black Sea) Danube (795,656 sq km)"
     },
     "Total water withdrawal": {
       "municipal": {
@@ -467,11 +467,11 @@
         "text": "Cesko"
       },
       "etymology": {
-        "text": "name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.; the country officially adopted the English short-form name of Czechia on 1 July 2016"
+        "text": "Name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.; the country officially adopted the English short-form name of Czechia on 1 July 2016"
       }
     },
     "Government type": {
-      "text": "parliamentary republic"
+      "text": "Parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -487,7 +487,7 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "etymology": {
-        "text": "the name may derive from an old Slavic root \"praga\" or \"prah\", meaning \"ford\", and refer to the city's origin at a crossing point of the Vltava (Moldau) River"
+        "text": "The name may derive from an old Slavic root \"praga\" or \"prah\", meaning \"ford\", and refer to the city's origin at a crossing point of the Vltava (Moldau) River"
       }
     },
     "Administrative divisions": {
@@ -501,27 +501,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1960; latest ratified 16 December 1992, effective 1 January 1993"
+        "text": "Previous 1960; latest ratified 16 December 1992, effective 1 January 1993"
       },
       "amendments": {
-        "text": "passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2021"
+        "text": "Passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2021"
       }
     },
     "Legal system": {
-      "text": "new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology"
+      "text": "New civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+      "text": "Has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Czechia"
+        "text": "At least one parent must be a citizen of Czechia"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "5 years"
@@ -541,21 +541,21 @@
         "text": "Cabinet appointed by the president on the recommendation of the prime minister"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 12-13 January 2018 with a runoff on 26-27 January 2018 (next to be held in January 2023); prime minister appointed by the president for a 4-year term"
+        "text": "President directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 12-13 January 2018 with a runoff on 26-27 January 2018 (next to be held in January 2023); prime minister appointed by the president for a 4-year term"
       },
       "election results": {
-        "text": "<em><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%"
+        "text": "2018: Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%2013: Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)"
+        "text": "Bicameral Parliament or Parlament consists of:Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)"
       },
       "elections": {
-        "text": "<br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)"
+        "text": "Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)"
       },
       "election results": {
-        "text": "<br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4; composition (as of October 2021) - men 69, women 12, percent of women 14.8%<br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition (as of October 2021) - men 154, women 46, percent of women 23%; note - total Parliament percent of women 26%"
+        "text": "Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4; composition (as of October 2021) - men 69, women 12, percent of women 14.8%Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition (as of October 2021) - men 154, women 46, percent of women 23%; note - total Parliament percent of women 26%"
       }
     },
     "Judicial branch": {
@@ -570,7 +570,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Free Bloc or VB [Jana VOLFOVA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Movement of Dissatisfied Citizens or ANO [Andrej BABIS]<br>Oath or Prisaha [Robert SLACHTA]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>Tricolor Freedomites Freeholders or TSS [Zuzana MAJEROVA ZAHRADNIKOVA]"
+      "text": "Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]Civic Democratic Party or ODS [Petr FIALA]Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]Czech Social Democratic Party or CSSD [Michal SMARDA]Freedom and Direct Democracy or SPD [Tomio OKAMURA]Free Bloc or VB [Jana VOLFOVA]Mayors and Independents or STAN [Vit RAKUSAN]Movement of Dissatisfied Citizens or ANO [Andrej BABIS]Oath or Prisaha [Robert SLACHTA]Pirate Party or Pirates [Ivan BARTOS]Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]Tricolor Freedomites Freeholders or TSS [Zuzana MAJEROVA ZAHRADNIKOVA]"
     },
     "International organization participation": {
       "text": "Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -589,7 +589,7 @@
         "text": "[1] (202) 966-8540"
       },
       "email address and website": {
-        "text": "<br>washington@embassy.mzv.cz<br><br>https://www.mzv.cz/washington/"
+        "text": "Washington@embassy.mzv.czhttps://www.mzv.cz/washington/"
       },
       "consulate(s) general": {
         "text": "Chicago, Los Angeles, New York"
@@ -603,7 +603,7 @@
         "text": "Trziste 15, 118 01 Praha 1 - Mala Strana"
       },
       "mailing address": {
-        "text": "5630 Prague Place, Washington DC&nbsp; 20521-5630"
+        "text": "5630 Prague Place, Washington DC; 20521-5630"
       },
       "telephone": {
         "text": "[420] 257-022-000"
@@ -612,15 +612,15 @@
         "text": "[420] 257-022-809"
       },
       "email address and website": {
-        "text": "<br>ACSPrg@state.gov<br><br>https://cz.usembassy.gov/"
+        "text": "ACSPrg@state.govhttps://cz.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side",
-      "note": "<strong>note:</strong> combines the white and red colors of Bohemia with blue from the arms of Moravia; is identical to the flag of the former Czechoslovakia"
+      "text": "Two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side",
+      "note": "Note: combines the white and red colors of Bohemia with blue from the arms of Moravia; is identical to the flag of the former Czechoslovakia"
     },
     "National symbol(s)": {
-      "text": "silver (or white), double-tailed, rampant lion; national colors: white, red, blue"
+      "text": "Silver (or white), double-tailed, rampant lion; national colors: white, red, blue"
     },
     "National anthem": {
       "name": {
@@ -629,20 +629,20 @@
       "lyrics/music": {
         "text": "Josef Kajetan TYL/Frantisek Jan SKROUP"
       },
-      "note": "<strong>note:</strong> adopted 1993; the anthem was originally written as incidental music to the play \"Fidlovacka\" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993"
+      "note": "Note: adopted 1993; the anthem was originally written as incidental music to the play \"Fidlovacka\" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993"
     },
     "National heritage": {
       "total World Heritage Sites": {
         "text": "16 (all cultural)"
       },
       "selected World Heritage Site locales": {
-        "text": "Historic Prague; Historic Telč; Historic Česk&yacute; Krumlov; Lednice-Valtice Cultural Landscape; Historic Kutn&aacute; Hora; Holy Trinity Column, Olomouc; Karlovy Vary Spa&nbsp;"
+        "text": "Historic Prague; Historic Telč; Historic Česk&yacute; Krumlov; Lednice-Valtice Cultural Landscape; Historic Kutn&aacute; Hora; Holy Trinity Column, Olomouc; Karlovy Vary Spa;"
       }
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, it was one of the world’s strongest performing currencies in 2017, appreciating approximately 16% relative to the US dollar after the central bank (Czech National Bank - CNB) ended its cap on the currency’s value in early April 2017, which it had maintained since November 2013. The CNB hiked rates in August and November 2017 - the first rate changes in nine years - to address rising inflationary pressures brought by strong economic growth and a tight labor market.</p><p></p><p>Since coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country's low unemployment rate has led to steady increases in salaries, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries.</p><p></p><p>Long-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy.</p>"
+      "text": "Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, it was one of the world’s strongest performing currencies in 2017, appreciating approximately 16% relative to the US dollar after the central bank (Czech National Bank - CNB) ended its cap on the currency’s value in early April 2017, which it had maintained since November 2013. The CNB hiked rates in August and November 2017 - the first rate changes in nine years - to address rising inflationary pressures brought by strong economic growth and a tight labor market.Since coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country's low unemployment rate has led to steady increases in salaries, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries.Long-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -654,7 +654,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$424.48 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -677,7 +677,7 @@
       "Real GDP per capita 2018": {
         "text": "$39,900 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$250.631 billion (2019 est.)"
@@ -736,10 +736,10 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, sugar beet, milk, barley, rapeseed, potatoes, maize, pork, triticale, poultry"
+      "text": "Wheat, sugar beet, milk, barley, rapeseed, potatoes, maize, pork, triticale, poultry"
     },
     "Industries": {
-      "text": "motor vehicles, metallurgy, machinery and equipment, glass, armaments"
+      "text": "Motor vehicles, metallurgy, machinery and equipment, glass, armaments"
     },
     "Industrial production growth rate": {
       "text": "7.5% (2017 est.)"
@@ -819,7 +819,7 @@
       "text": "40.5% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -844,7 +844,7 @@
       "text": "Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "cars and vehicle parts, computers, broadcasting equipment, office machinery/parts, seating (2019)"
+      "text": "Cars and vehicle parts, computers, broadcasting equipment, office machinery/parts, seating (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -861,7 +861,7 @@
       "text": "Germany 27%, China 12%, Poland 9%, Slovakia 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "broadcasting equipment, cars and vehicle parts, office machinery/parts, computers, packaged medicines (2019)"
+      "text": "Broadcasting equipment, cars and vehicle parts, office machinery/parts, computers, packaged medicines (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -881,7 +881,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "koruny (CZK) per US dollar -"
+        "text": "Koruny (CZK) per US dollar -"
       },
       "Exchange rates 2020": {
         "text": "21.76636 (2020 est.)"
@@ -995,12 +995,12 @@
         "text": "Czechia has a sophisticated telecom market with a developed telephone and Internet service attracting European investment; mobile sector showing steady growth through regulatory support for competition; licensees expanding reach of 5G and LTE networks; mobile penetration among the highest in the EU; operators extended fiber to an additional 143 rural zones in 2020 and commit to extending fiber to one million premises by 2027; its top import is broadcasting equipment from China (2020)"
       },
       "domestic": {
-        "text": "roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of about 121 per 100 inhabitants (2020)"
+        "text": "Roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of about 121 per 100 inhabitants (2020)"
       },
       "international": {
-        "text": "country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)"
+        "text": "Country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "22 TV stations operate nationally, with 17 of them in private hands; publicly operated Czech Television has 5 national channels; throughout the country, there are some 350 TV channels in operation, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters are registered, operating over 80 radio stations, including 7 multiregional radio stations or networks; publicly operated broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partially financed through a license fee (2019)"
@@ -1139,17 +1139,17 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2021)"
+      "text": "The Czech military has approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin; since 2010, the leading suppliers of military equipment to Czechia are Austria and Spain (2021)"
+      "text": "The Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin; since 2010, the leading suppliers of military equipment to Czechia are Austria and Spain (2021)"
     },
     "Military service age and obligation": {
       "text": "18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2021)",
-      "note": "note - as of 2019, women comprised about 13% of the military's full-time personnel"
+      "note": "Note - as of 2019, women comprised about 13% of the military's full-time personnel"
     },
     "Military deployments": {
-      "text": "the Czechia military has small numbers of troops deployed under EU, NATO, and UN command in several countries, including Bosnia and Herzegovina, the Central African Republic, Egypt, Iraq, Israel, Kosovo, Latvia, Lithuania, and Mali (2021)"
+      "text": "The Czechia military has small numbers of troops deployed under EU, NATO, and UN command in several countries, including Bosnia and Herzegovina, the Central African Republic, Egypt, Iraq, Israel, Kosovo, Latvia, Lithuania, and Mali (2021)"
     },
     "Military - note": {
       "text": "Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance"
@@ -1157,7 +1157,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
@@ -1165,7 +1165,7 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>manufacture of methamphetamine continues to be mostly based on pseudoephedrine from  Poland or Turkey.</p> <p> </p>"
+      "text": "Manufacture of methamphetamine continues to be mostly based on pseudoephedrine from  Poland or Turkey.  "
     }
   }
 }

@@ -24,7 +24,7 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "<strong>note:</strong> includes Redonda, 1.6 sq km"
+      "note": "Note: includes Redonda, 1.6 sq km"
     },
     "Area - comparative": {
       "text": "2.5 times the size of Washington, DC"
@@ -52,10 +52,10 @@
       }
     },
     "Climate": {
-      "text": "tropical maritime; little seasonal temperature variation"
+      "text": "Tropical maritime; little seasonal temperature variation"
     },
     "Terrain": {
-      "text": "mostly low-lying limestone and coral islands, with some higher volcanic areas"
+      "text": "Mostly low-lying limestone and coral islands, with some higher volcanic areas"
     },
     "Elevation": {
       "highest point": {
@@ -73,13 +73,13 @@
         "text": "20.5% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 9% (2018 est.)"
+        "text": "Arable land: 9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 2.3% (2018 est.)"
+        "text": "Permanent crops: 2.3% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 9% (2018 est.)"
+        "text": "Permanent pasture: 9% (2018 est.)"
       },
       "forest": {
         "text": "18.8% (2018 est.)"
@@ -92,10 +92,10 @@
       "text": "1.3 sq km (2012)"
     },
     "Population distribution": {
-      "text": "the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington"
+      "text": "The island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington"
     },
     "Natural hazards": {
-      "text": "hurricanes and tropical storms (July to October); periodic droughts"
+      "text": "Hurricanes and tropical storms (July to October); periodic droughts"
     },
     "Geography - note": {
       "text": "Antigua has a deeply indented shoreline with many natural harbors and beaches; Barbuda has a large western harbor"
@@ -115,7 +115,7 @@
     },
     "Ethnic groups": {
       "text": "African descent 87.3%, mixed 4.7%, Hispanic 2.7%, White 1.6%, other 2.7%, unspecified 0.9% (2011 est.)",
-      "note": "<strong>note:</strong> data represent population by ethnic group"
+      "note": "Note: data represent population by ethnic group"
     },
     "Languages": {
       "text": "English (official), Antiguan creole"
@@ -178,7 +178,7 @@
       "text": "2.06 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington"
+      "text": "The island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington"
     },
     "Urbanization": {
       "urban population": {
@@ -244,22 +244,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 96.7% of population"
+        "text": "Total: 96.7% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 3.2% of population (2017 est.)"
+        "text": "Total: 3.2% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -273,10 +273,10 @@
     },
     "Sanitation facility access": {
       "improved: total": {
-        "text": "total: 91.7% of population"
+        "text": "Total: 91.7% of population"
       },
       "unimproved: total": {
-        "text": "total: 8.1% of population (2017 est.)"
+        "text": "Total: 8.1% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -299,7 +299,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over has completed five or more years of schooling"
+        "text": "Age 15 and over has completed five or more years of schooling"
       },
       "total population": {
         "text": "99%"
@@ -325,14 +325,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "water management - a major concern because of limited natural freshwater resources - is further hampered by the clearing of trees to increase crop production, causing rainfall to run off quickly"
+      "text": "Water management - a major concern because of limited natural freshwater resources - is further hampered by the clearing of trees to increase crop production, causing rainfall to run off quickly"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -347,20 +347,20 @@
       }
     },
     "Climate": {
-      "text": "tropical maritime; little seasonal temperature variation"
+      "text": "Tropical maritime; little seasonal temperature variation"
     },
     "Land use": {
       "agricultural land": {
         "text": "20.5% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 9% (2018 est.)"
+        "text": "Arable land: 9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 2.3% (2018 est.)"
+        "text": "Permanent crops: 2.3% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 9% (2018 est.)"
+        "text": "Permanent pasture: 9% (2018 est.)"
       },
       "forest": {
         "text": "18.8% (2018 est.)"
@@ -410,7 +410,7 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Antigua and Barbuda"
@@ -420,7 +420,7 @@
       }
     },
     "Government type": {
-      "text": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm"
+      "text": "Parliamentary democracy under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -433,7 +433,7 @@
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "named after Saint John the Apostle"
+        "text": "Named after Saint John the Apostle"
       }
     },
     "Administrative divisions": {
@@ -447,27 +447,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "several previous; latest presented 31 July 1981, effective 31 October 1981 (The Antigua and Barbuda Constitution Order 1981)"
+        "text": "Several previous; latest presented 31 July 1981, effective 31 October 1981 (The Antigua and Barbuda Constitution Order 1981)"
       },
       "amendments": {
-        "text": "proposed by either house of Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, the establishment, power, and authority of the executive and legislative branches, the Supreme Court Order, and the procedure for amending the constitution requires approval by at least two-thirds majority vote of the membership of both houses, approval by at least two-thirds majority in a referendum, and assent to by the governor general; passage of other amendments requires only two-thirds majority vote by both houses; amended 2009, 2011, 2018"
+        "text": "Proposed by either house of Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, the establishment, power, and authority of the executive and legislative branches, the Supreme Court Order, and the procedure for amending the constitution requires approval by at least two-thirds majority vote of the membership of both houses, approval by at least two-thirds majority in a referendum, and assent to by the governor general; passage of other amendments requires only two-thirds majority vote by both houses; amended 2009, 2011, 2018"
       }
     },
     "Legal system": {
-      "text": "common law based on the English model"
+      "text": "Common law based on the English model"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+      "text": "Has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "yes"
+        "text": "Yes"
       },
       "citizenship by descent only": {
-        "text": "yes"
+        "text": "Yes"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "7 years"
@@ -487,33 +487,33 @@
         "text": "Council of Ministers appointed by the governor general on the advice of the prime minister"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general"
+        "text": "The monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (18 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+        "text": "Bicameral Parliament consists of:Senate (17 seats; members appointed by the governor general)House of Representatives (18 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
       },
       "elections": {
-        "text": "<br>Senate - last appointed on 26 March 2018 (next NA)<br>House of Representatives - last held on 21 March 2018 (next to be held in March 2023)"
+        "text": "Senate - last appointed on 26 March 2018 (next NA)House of Representatives - last held on 21 March 2018 (next to be held in March 2023)"
       },
       "election results": {
-        "text": "<br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%"
+        "text": "Senate -  composition - men 8, women 9, percent of women 52.9%House of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%"
       }
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda"
+        "text": "The Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda"
       },
       "judge selection and term of office": {
-        "text": "chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
+        "text": "Chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
       },
       "subordinate courts": {
         "text": "Industrial Court; Magistrates' Courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Antigua Labor Party or ABLP [Gaston BROWNE]<br>Antigua Barbuda True Labor Party or ABTLP [Sharlene SAMUEL]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life [Owen GEORGE]<br>United Progressive Party or UPP [Harold LOVELL] (a coalition of ACLM, PLM, UNDP)"
+      "text": "Antigua Labor Party or ABLP [Gaston BROWNE]Antigua Barbuda True Labor Party or ABTLP [Sharlene SAMUEL]Barbuda People's Movement or BPM [Trevor WALKER]Democratic National Alliance or DNA [Joanne MASSIAH]Go Green for Life [Owen GEORGE]United Progressive Party or UPP [Harold LOVELL] (a coalition of ACLM, PLM, UNDP)"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -532,7 +532,7 @@
         "text": "[1] (202) 362-5225"
       },
       "email address and website": {
-        "text": "<br>embantbar@aol.com"
+        "text": "Embantbar@aol.com"
       },
       "consulate(s) general": {
         "text": "Miami, New York"
@@ -540,14 +540,14 @@
     },
     "Diplomatic representation from the US": {
       "embassy": {
-        "text": "the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda; [1] (246) 227-4000"
+        "text": "The US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda; [1] (246) 227-4000"
       }
     },
     "Flag description": {
-      "text": "red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the \"V\" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand"
+      "text": "Red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the \"V\" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand"
     },
     "National symbol(s)": {
-      "text": "fallow deer; national colors: red, white, blue, black, yellow"
+      "text": "Fallow deer; national colors: red, white, blue, black, yellow"
     },
     "National anthem": {
       "name": {
@@ -556,20 +556,20 @@
       "lyrics/music": {
         "text": "Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS"
       },
-      "note": "<strong>note:</strong> adopted 1967; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
+      "note": "Note: adopted 1967; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
     },
     "National heritage": {
       "total World Heritage Sites": {
         "text": "1 (cultural)"
       },
       "selected World Heritage Site locales": {
-        "text": "Antigua Naval Dockyard&nbsp;"
+        "text": "Antigua Naval Dockyard;"
       }
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.</p><p></p><p>Like other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.</p><p></p><p>Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US.</p>"
+      "text": "Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.Like other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -581,7 +581,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$2.02 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
@@ -604,7 +604,7 @@
       "Real GDP per capita 2018": {
         "text": "$21,000 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$1.524 billion (2017 est.)"
@@ -649,10 +649,10 @@
       }
     },
     "Agricultural products": {
-      "text": "tropical fruit, milk, mangoes/guavas, melons, tomatoes, pineapples, lemons, limes, eggplants, onions"
+      "text": "Tropical fruit, milk, mangoes/guavas, melons, tomatoes, pineapples, lemons, limes, eggplants, onions"
     },
     "Industries": {
-      "text": "tourism, construction, light manufacturing (clothing, alcohol, household appliances)"
+      "text": "Tourism, construction, light manufacturing (clothing, alcohol, household appliances)"
     },
     "Industrial production growth rate": {
       "text": "6.8% (2017 est.)"
@@ -732,7 +732,7 @@
       "text": "Poland 37%, Suriname 33%, United Arab Emirates 8% (2019)"
     },
     "Exports - commodities": {
-      "text": "ships, refined petroleum, precious/semi-precious metal scraps, rice, corn (2019)"
+      "text": "Ships, refined petroleum, precious/semi-precious metal scraps, rice, corn (2019)"
     },
     "Imports": {
       "Imports 2018": {
@@ -746,7 +746,7 @@
       "text": "United States 39%, Poland 16%, China 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, ships, cars, precious/semi-precious metals, recreational boats (2019)"
+      "text": "Refined petroleum, ships, cars, precious/semi-precious metals, recreational boats (2019)"
     },
     "Debt - external": {
       "Debt - external 31 December 2012": {
@@ -869,18 +869,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "good automatic telephone system with fiber-optic lines; telecom sector contributes heavily to GDP; numerous mobile network competitors licensed, but small and local; govt. to spend EC80 million in 2019 to improve state-owned telecom market competitiveness; legislative amendments extend jurisdiction of its telecom regulator in Barbuda to include mobile services (2020)"
+        "text": "Good automatic telephone system with fiber-optic lines; telecom sector contributes heavily to GDP; numerous mobile network competitors licensed, but small and local; govt. to spend EC80 million in 2019 to improve state-owned telecom market competitiveness; legislative amendments extend jurisdiction of its telecom regulator in Barbuda to include mobile services (2020)"
       },
       "domestic": {
-        "text": "fixed-line teledensity roughly 25 per 100 persons; mobile-cellular teledensity is about 193 per 100 persons (2019)"
+        "text": "Fixed-line teledensity roughly 25 per 100 persons; mobile-cellular teledensity is about 193 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 1-268; landing points for the ECFS and&nbsp;Southern Caribbean Fiber&nbsp;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations&nbsp;- 1 Intelsat (Atlantic Ocean) (2019)"
+        "text": "Country code - 1-268; landing points for the ECFS and;Southern Caribbean Fiber;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations;- 1 Intelsat (Atlantic Ocean) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 15 radio stations, some broadcasting on multiple frequencies"
+      "text": "State-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 15 radio stations, some broadcasting on multiple frequencies"
     },
     "Internet country code": {
       "text": ".ag"
@@ -960,7 +960,7 @@
         "text": "677"
       },
       "by type": {
-        "text": "bulk carrier 24, container ship 123, general cargo 473, oil tanker 2, other 55 (2021)"
+        "text": "Bulk carrier 24, container ship 123, general cargo 473, oil tanker 2, other 55 (2021)"
       }
     },
     "Ports and terminals": {
@@ -974,24 +974,24 @@
       "text": "Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbuda Regiment (2021)"
     },
     "Military and security service personnel strengths": {
-      "text": "the Antigua and Barbuda Defense Force (ABDF) has approximately 200 active personnel (2021)"
+      "text": "The Antigua and Barbuda Defense Force (ABDF) has approximately 200 active personnel (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2021)"
+      "text": "The ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2021)"
     },
     "Military service age and obligation": {
       "text": "18-23 years of age for voluntary military service for both males and females; no conscription (2021)"
     },
     "Military - note": {
-      "text": "<p>has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p>"
+      "text": "Has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     },
     "Illicit drugs": {
-      "text": "<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p>"
+      "text": "A transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean"
     }
   }
 }

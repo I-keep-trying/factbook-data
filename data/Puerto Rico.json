@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly less than three times the size of Rhode Island"
+      "text": "Slightly less than three times the size of Rhode Island"
     },
     "Land boundaries": {
       "total": {
@@ -45,10 +45,10 @@
       }
     },
     "Climate": {
-      "text": "tropical marine, mild; little seasonal temperature variation"
+      "text": "Tropical marine, mild; little seasonal temperature variation"
     },
     "Terrain": {
-      "text": "mostly mountains with coastal plain in north; precipitous mountains to the sea on west coast; sandy beaches along most coastal areas"
+      "text": "Mostly mountains with coastal plain in north; precipitous mountains to the sea on west coast; sandy beaches along most coastal areas"
     },
     "Elevation": {
       "highest point": {
@@ -62,20 +62,20 @@
       }
     },
     "Natural resources": {
-      "text": "some copper and nickel; potential for onshore and offshore oil"
+      "text": "Some copper and nickel; potential for onshore and offshore oil"
     },
     "Land use": {
       "agricultural land": {
         "text": "22% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 6.6% (2018 est.)"
+        "text": "Arable land: 6.6% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 5.6% (2018 est.)"
+        "text": "Permanent crops: 5.6% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 9.8% (2018 est.)"
+        "text": "Permanent pasture: 9.8% (2018 est.)"
       },
       "forest": {
         "text": "63.2% (2018 est.)"
@@ -88,13 +88,13 @@
       "text": "220 sq km (2012)"
     },
     "Population distribution": {
-      "text": "population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low"
+      "text": "Population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low"
     },
     "Natural hazards": {
-      "text": "periodic droughts; hurricanes"
+      "text": "Periodic droughts; hurricanes"
     },
     "Geography - note": {
-      "text": "important location along the Mona Passage - a key shipping lane to the Panama Canal; San Juan is one of the biggest and best natural harbors in the Caribbean; many small rivers and high central mountains ensure land is well watered; south coast relatively dry; fertile coastal plain belt in north"
+      "text": "Important location along the Mona Passage - a key shipping lane to the Panama Canal; San Juan is one of the biggest and best natural harbors in the Caribbean; many small rivers and high central mountains ensure land is well watered; south coast relatively dry; fertile coastal plain belt in north"
     }
   },
   "People and Society": {
@@ -111,14 +111,14 @@
     },
     "Ethnic groups": {
       "text": "White 75.8%, Black/African American 12.4%, other 8.5% (includes American Indian, Alaskan Native, Native Hawaiian, other Pacific Islander, and others), mixed 3.3% (2010 est.)",
-      "note": "<strong>note:</strong> 99% of the population is Latino"
+      "note": "Note: 99% of the population is Latino"
     },
     "Languages": {
       "Languages": {
         "text": "Spanish, English"
       },
       "major-language sample(s)": {
-        "text": "<br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -179,7 +179,7 @@
       "text": "-13 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low"
+      "text": "Population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low"
     },
     "Urbanization": {
       "urban population": {
@@ -248,22 +248,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -274,22 +274,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -309,7 +309,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "92.4%"
@@ -346,23 +346,23 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "soil erosion; occasional droughts cause water shortages; industrial pollution"
+      "text": "Soil erosion; occasional droughts cause water shortages; industrial pollution"
     },
     "Climate": {
-      "text": "tropical marine, mild; little seasonal temperature variation"
+      "text": "Tropical marine, mild; little seasonal temperature variation"
     },
     "Land use": {
       "agricultural land": {
         "text": "22% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 6.6% (2018 est.)"
+        "text": "Arable land: 6.6% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 5.6% (2018 est.)"
+        "text": "Permanent crops: 5.6% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 9.8% (2018 est.)"
+        "text": "Permanent pasture: 9.8% (2018 est.)"
       },
       "forest": {
         "text": "63.2% (2018 est.)"
@@ -431,11 +431,11 @@
       }
     },
     "Government type": {
-      "text": "unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches",
+      "text": "Unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches",
       "note": "Note: reference Puerto Rican Federal Relations Act, 2 March 1917, as amended by Public Law 600, 3 July 1950"
     },
     "Dependency status": {
-      "text": "unincorporated organized territory of the US; policy relations between Puerto Rico and the US conducted under the jurisdiction of the Office of the President"
+      "text": "Unincorporated organized territory of the US; policy relations between Puerto Rico and the US conducted under the jurisdiction of the Office of the President"
     },
     "Capital": {
       "name": {
@@ -448,31 +448,31 @@
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the name dates to 1521 and the founding of the city under the name \"Ciudad de San Juan Bautista de Puerto Rico\" (City of Saint John the Baptist of Puerto Rico)"
+        "text": "The name dates to 1521 and the founding of the city under the name \"Ciudad de San Juan Bautista de Puerto Rico\" (City of Saint John the Baptist of Puerto Rico)"
       }
     },
     "Administrative divisions": {
-      "text": "none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 78 municipalities (municipios, singular - municipio) at the second order; Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco"
+      "text": "None (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 78 municipalities (municipios, singular - municipio) at the second order; Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco"
     },
     "Independence": {
-      "text": "none (territory of the US with commonwealth status)"
+      "text": "None (territory of the US with commonwealth status)"
     },
     "National holiday": {
       "text": "US Independence Day, 4 July (1776); Puerto Rico Constitution Day, 25 July (1952)"
     },
     "Constitution": {
       "history": {
-        "text": "previous 1900 (Organic Act, or Foraker Act); latest ratified by referendum 3 March 1952, approved 3 July 1952, effective 25 July 1952"
+        "text": "Previous 1900 (Organic Act, or Foraker Act); latest ratified by referendum 3 March 1952, approved 3 July 1952, effective 25 July 1952"
       },
       "amendments": {
-        "text": "proposed by a concurrent resolution of at least two-thirds majority by the total Legislative Assembly membership; approval requires at least two-thirds majority vote by the membership of both houses and approval by a majority of voters in a special referendum; if passed by at least three-fourths Assembly vote, the referendum can be held concurrently with the next general election; constitutional articles such as the republican form of government or the bill of rights cannot be amended; amended 1952"
+        "text": "Proposed by a concurrent resolution of at least two-thirds majority by the total Legislative Assembly membership; approval requires at least two-thirds majority vote by the membership of both houses and approval by a majority of voters in a special referendum; if passed by at least three-fourths Assembly vote, the referendum can be held concurrently with the next general election; constitutional articles such as the republican form of government or the bill of rights cannot be amended; amended 1952"
       }
     },
     "Legal system": {
-      "text": "civil law system based on the Spanish civil code and within the framework of the US federal system"
+      "text": "Civil law system based on the Spanish civil code and within the framework of the US federal system"
     },
     "Citizenship": {
-      "text": "see United States"
+      "text": "See United States"
     },
     "Suffrage": {
       "text": "18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections"
@@ -488,22 +488,22 @@
         "text": "Cabinet appointed by governor with the consent of the Legislative Assembly"
       },
       "elections/appointments": {
-        "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 3 November 2020 (next to be held on&nbsp; November 2024)"
+        "text": "President and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 3 November 2020 (next to be held on; November 2024)"
       },
       "election results": {
         "text": "Pedro PIERLUISI elected governor; percent of vote - Pedro PIERLUISI (PNP) 32.9%, Carlos DELGADO (PPD) 31.6%, Alexandra LUGARO (independent) 14.2%, Juan DALMAU (PIP) 13.7%"
       },
-      "note": "<strong>note:</strong> on 24 July 2019, Governor Ricardo ROSSELLO announced his resignation effective 2 August 2019; as Secretary of State, Pedro PIERLUISI succeeded Governor Ricardo ROSSELLO; on 7 August 2019 the Supreme Court of Puerto Rico ruled Pedro PIERLUISI accession was unconstitutional and Wanda VAZQUEZ is sworn in as governor"
+      "note": "Note: on 24 July 2019, Governor Ricardo ROSSELLO announced his resignation effective 2 August 2019; as Secretary of State, Pedro PIERLUISI succeeded Governor Ricardo ROSSELLO; on 7 August 2019 the Supreme Court of Puerto Rico ruled Pedro PIERLUISI accession was unconstitutional and Wanda VAZQUEZ is sworn in as governor"
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Legislative Assembly or Asamblea Legislativa consists of:<br>Senate or Senado (30 seats; 16 members directly elected in 8 2-seat constituencies by simple majority vote and 14 at-large members directly elected by simple majority vote to serve 4-year terms)<br> House of Representatives or Camara de Representantes (51 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)"
+        "text": "Bicameral Legislative Assembly or Asamblea Legislativa consists of:Senate or Senado (30 seats; 16 members directly elected in 8 2-seat constituencies by simple majority vote and 14 at-large members directly elected by simple majority vote to serve 4-year terms) House of Representatives or Camara de Representantes (51 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)"
       },
       "elections": {
-        "text": "<br> Senate - last held on 8 November 2016 (next to be held on 3 November 2020)<br> House of Representatives - last held on 8 November 2016 (next to be held on 3 November 2020)"
+        "text": " Senate - last held on 8 November 2016 (next to be held on 3 November 2020) House of Representatives - last held on 8 November 2016 (next to be held on 3 November 2020)"
       },
       "election results": {
-        "text": "<br> Senate - percent of vote by party - NA; seats by party - PNP 21, PPD 7, PIP 1, Independent 1; composition - men 23, women 7, percent of women 23.3%<br> House of Representatives - percent of vote by party - NA; seats by party - PNP 34, PPD 16, PIP 1; composition - men 11, women 4, percent of women 26.7%; total Legislative Assembly percent of women 16%<br> <strong>note: </strong>Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)"
+        "text": " Senate - percent of vote by party - NA; seats by party - PNP 21, PPD 7, PIP 1, Independent 1; composition - men 23, women 7, percent of women 23.3% House of Representatives - percent of vote by party - NA; seats by party - PNP 34, PPD 16, PIP 1; composition - men 11, women 4, percent of women 26.7%; total Legislative Assembly percent of women 16% note: Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)"
       }
     },
     "Judicial branch": {
@@ -511,29 +511,29 @@
         "text": "Supreme Court (consists of the chief justice and 8 associate justices)"
       },
       "judge selection and term of office": {
-        "text": "justices appointed by the governor and confirmed by majority Senate vote; judges serve until compulsory retirement at age 70"
+        "text": "Justices appointed by the governor and confirmed by majority Senate vote; judges serve until compulsory retirement at age 70"
       },
       "subordinate courts": {
         "text": "Court of Appeals; First Instance Court comprised of superior and municipal courts"
       }
     },
     "Political parties and leaders": {
-      "text": "National Democratic Party [Charlie RODRIGUEZ]<br>National Republican Party of Puerto Rico [Jenniffer GONZALEZ]<br>New Progressive Party or PNP [Ricardo ROSSELLO] (pro-US statehood)<br>Popular Democratic Party or PPD [Alejandro GARCIA Padillo] (pro-commonwealth)<br>Puerto Rican Independence Party or PIP [Ruben BERRIOS Martinez] (pro-independence)"
+      "text": "National Democratic Party [Charlie RODRIGUEZ]National Republican Party of Puerto Rico [Jenniffer GONZALEZ]New Progressive Party or PNP [Ricardo ROSSELLO] (pro-US statehood)Popular Democratic Party or PPD [Alejandro GARCIA Padillo] (pro-commonwealth)Puerto Rican Independence Party or PIP [Ruben BERRIOS Martinez] (pro-independence)"
     },
     "International organization participation": {
       "text": "AOSIS (observer), Caricom (observer), Interpol (subbureau), IOC, UNWTO (associate), UPU, WFTU (NGOs)"
     },
     "Diplomatic representation in the US": {
-      "text": "none (territory of the US)"
+      "text": "None (territory of the US)"
     },
     "Diplomatic representation from the US": {
       "embassy": {
-        "text": "none (territory of the US with commonwealth status)"
+        "text": "None (territory of the US with commonwealth status)"
       }
     },
     "Flag description": {
-      "text": "five equal horizontal bands of red (top, center, and bottom) alternating with white; a blue isosceles triangle based on the hoist side bears a large, white, five-pointed star in the center; the white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace",
-      "note": "<strong>note:</strong> design initially influenced by the US flag, but similar to the Cuban flag, with the colors of the bands and triangle reversed"
+      "text": "Five equal horizontal bands of red (top, center, and bottom) alternating with white; a blue isosceles triangle based on the hoist side bears a large, white, five-pointed star in the center; the white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace",
+      "note": "Note: design initially influenced by the US flag, but similar to the Cuban flag, with the colors of the bands and triangle reversed"
     },
     "National symbol(s)": {
       "text": "Puerto Rican spindalis (bird), coqui (frog); national colors: red, white, blue"
@@ -545,7 +545,7 @@
       "lyrics/music": {
         "text": "Manuel Fernandez JUNCOS/Felix Astol ARTES"
       },
-      "note": "<strong>note:</strong> music adopted 1952, lyrics adopted 1977; the local anthem's name is a reference to the indigenous name of the island, Borinquen; the music was originally composed as a dance in 1867 and gained popularity in the early 20th century; there is some evidence that the music was written by Francisco RAMIREZ; as a commonwealth of the US, \"The Star-Spangled Banner\" is official (see United States)"
+      "note": "Note: music adopted 1952, lyrics adopted 1977; the local anthem's name is a reference to the indigenous name of the island, Borinquen; the music was originally composed as a dance in 1867 and gained popularity in the early 20th century; there is some evidence that the music was written by Francisco RAMIREZ; as a commonwealth of the US, \"The Star-Spangled Banner\" is official (see United States)"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -558,7 +558,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Puerto Rico had one of the most dynamic economies in the Caribbean region until 2006; however, growth has been negative for each of the last 11 years. The downturn coincided with the phaseout of tax preferences that had led US firms to invest heavily in the Commonwealth since the 1950s, and a steep rise in the price of oil, which generates most of the island's electricity.</p><p></p><p>Diminished job opportunities prompted a sharp rise in outmigration, as many Puerto Ricans sought jobs on the US mainland. Unemployment reached 16% in 2011, but declined to 11.5% in December 2017. US minimum wage laws apply in Puerto Rico, hampering job expansion. Per capita income is about two-thirds that of the US mainland.</p><p></p><p>The industrial sector greatly exceeds agriculture as the locus of economic activity and income. Tourism has traditionally been an important source of income with estimated arrivals of more than 3.6 million tourists in 2008. Puerto Rico's merchandise trade surplus is exceptionally strong, with exports nearly 50% greater than imports, and its current account surplus about 10% of GDP.</p><p></p><p>Closing the budget deficit while restoring economic growth and employment remain the central concerns of the government. The gap between revenues and expenditures amounted to 0.6% of GDP in 2016, although analysts believe that not all expenditures have been accounted for in the budget and a better accounting of costs would yield an overall deficit of roughly 5% of GDP. Public debt remained steady at 92.5% of GDP in 2017, about $17,000 per person, or nearly three times the per capita debt of the State of Connecticut, the highest in the US. Much of that debt was issued by state-run schools and public corporations, including water and electric utilities. In June 2015, Governor Alejandro GARCIA Padilla announced that the island could not pay back at least $73 billion in debt and that it would seek a deal with its creditors.</p><p></p><p>Hurricane Maria hit Puerto Rico square on in September 2017, causing electrical power outages to 90% of the territory, as well as extensive loss of housing and infrastructure and contamination of potable water. Despite massive efforts, more than 40% of the territory remained without electricity as of yearend 2017. As a result of the destruction, many Puerto Ricans have emigrated to the US mainland.</p>"
+      "text": "Puerto Rico had one of the most dynamic economies in the Caribbean region until 2006; however, growth has been negative for each of the last 11 years. The downturn coincided with the phaseout of tax preferences that had led US firms to invest heavily in the Commonwealth since the 1950s, and a steep rise in the price of oil, which generates most of the island's electricity.Diminished job opportunities prompted a sharp rise in outmigration, as many Puerto Ricans sought jobs on the US mainland. Unemployment reached 16% in 2011, but declined to 11.5% in December 2017. US minimum wage laws apply in Puerto Rico, hampering job expansion. Per capita income is about two-thirds that of the US mainland.The industrial sector greatly exceeds agriculture as the locus of economic activity and income. Tourism has traditionally been an important source of income with estimated arrivals of more than 3.6 million tourists in 2008. Puerto Rico's merchandise trade surplus is exceptionally strong, with exports nearly 50% greater than imports, and its current account surplus about 10% of GDP.Closing the budget deficit while restoring economic growth and employment remain the central concerns of the government. The gap between revenues and expenditures amounted to 0.6% of GDP in 2016, although analysts believe that not all expenditures have been accounted for in the budget and a better accounting of costs would yield an overall deficit of roughly 5% of GDP. Public debt remained steady at 92.5% of GDP in 2017, about $17,000 per person, or nearly three times the per capita debt of the State of Connecticut, the highest in the US. Much of that debt was issued by state-run schools and public corporations, including water and electric utilities. In June 2015, Governor Alejandro GARCIA Padilla announced that the island could not pay back at least $73 billion in debt and that it would seek a deal with its creditors.Hurricane Maria hit Puerto Rico square on in September 2017, causing electrical power outages to 90% of the territory, as well as extensive loss of housing and infrastructure and contamination of potable water. Despite massive efforts, more than 40% of the territory remained without electricity as of yearend 2017. As a result of the destruction, many Puerto Ricans have emigrated to the US mainland."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -570,7 +570,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$109.53 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
@@ -593,7 +593,7 @@
       "Real GDP per capita 2018": {
         "text": "$34,300 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$104.2 billion (2017 est.)"
@@ -643,10 +643,10 @@
       }
     },
     "Agricultural products": {
-      "text": "milk, plantains, bananas, poultry, tomatoes, mangoes/guavas, eggs, oranges, gourds, papayas"
+      "text": "Milk, plantains, bananas, poultry, tomatoes, mangoes/guavas, eggs, oranges, gourds, papayas"
     },
     "Industries": {
-      "text": "pharmaceuticals, electronics, apparel, food products, tourism"
+      "text": "Pharmaceuticals, electronics, apparel, food products, tourism"
     },
     "Industrial production growth rate": {
       "text": "-2.1% (2017 est.)"
@@ -740,7 +740,7 @@
       "text": "Italy 15%, Netherlands 15%, Belgium 9%, Japan 8%, Germany 8%, Austria 8%, Spain 7%, China 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "packaged medicines, medical cultures/vaccines, hormones, orthopedic and medical appliances, sulfur compounds (2019)"
+      "text": "Packaged medicines, medical cultures/vaccines, hormones, orthopedic and medical appliances, sulfur compounds (2019)"
     },
     "Imports": {
       "Imports 2017": {
@@ -754,7 +754,7 @@
       "text": "Ireland 38%, Singapore 9%, Switzerland 8%, South Korea 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "nitrogen compounds, sulfur compounds, refined petroleum, medical cultures/vaccines, cars (2019)"
+      "text": "Nitrogen compounds, sulfur compounds, refined petroleum, medical cultures/vaccines, cars (2019)"
     },
     "Debt - external": {
       "Debt - external 31 December 2010": {
@@ -765,7 +765,7 @@
       }
     },
     "Exchange rates": {
-      "text": "<p>the US dollar is used</p>"
+      "text": "The US dollar is used"
     }
   },
   "Energy": {
@@ -860,18 +860,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "small telecom market affected by mismanagement and natural disasters; hurricanes in 2017 and earthquake in 2020 caused destruction of telecom infrastructure, leading to market decline; US provided funds to rebuild after some delay; lags behind US in fixed and broadband penetration due to high unemployment and lack of operator investment; multi-national telcoms enable LTE and launch of 5G; growing number of submarine cables helps to reduce costs and supports streaming of international content and cloud services; operator launched connectivity for school children during pandemic (2020)"
+        "text": "Small telecom market affected by mismanagement and natural disasters; hurricanes in 2017 and earthquake in 2020 caused destruction of telecom infrastructure, leading to market decline; US provided funds to rebuild after some delay; lags behind US in fixed and broadband penetration due to high unemployment and lack of operator investment; multi-national telcoms enable LTE and launch of 5G; growing number of submarine cables helps to reduce costs and supports streaming of international content and cloud services; operator launched connectivity for school children during pandemic (2020)"
       },
       "domestic": {
-        "text": "digital telephone system; mobile-cellular services; fixed-line nearly 25 per 100 and mobile-cellular nearly 122 per 100 persons (2020)"
+        "text": "Digital telephone system; mobile-cellular services; fixed-line nearly 25 per 100 and mobile-cellular nearly 122 per 100 persons (2020)"
       },
       "international": {
-        "text": "country code - 1-787, 939; landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, Southern Caribbean Fiber, Americas-II, Antillas, ARCOS, SMPR-1, and Taino-Carib submarine cables providing connectivity to the mainland US, Caribbean, Central and South America; satellite earth station - 1 Intelsat (2019)"
+        "text": "Country code - 1-787, 939; landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, Southern Caribbean Fiber, Americas-II, Antillas, ARCOS, SMPR-1, and Taino-Carib submarine cables providing connectivity to the mainland US, Caribbean, Central and South America; satellite earth station - 1 Intelsat (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "more than 30 TV stations operating; cable TV subscription services are available; roughly 125 radio stations"
+      "text": "More than 30 TV stations operating; cable TV subscription services are available; roughly 125 radio stations"
     },
     "Internet country code": {
       "text": ".pr"
@@ -952,15 +952,15 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular indigenous military forces; National Guard, State Guard, Police Force"
+      "text": "No regular indigenous military forces; National Guard, State Guard, Police Force"
     },
     "Military - note": {
-      "text": "defense is the responsibility of the US"
+      "text": "Defense is the responsibility of the US"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>increasing numbers of illegal migrants from the Dominican Republic cross the Mona Passage to Puerto Rico each year looking for work</p>"
+      "text": "Increasing numbers of illegal migrants from the Dominican Republic cross the Mona Passage to Puerto Rico each year looking for work"
     }
   }
 }

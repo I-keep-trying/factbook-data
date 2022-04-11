@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II, but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting four straight years of GDP growth above the EU average. Unemployment has fallen, but remains high, especially among youth. Spain is the Eurozone's fourth largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p>"
+      "text": "Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II, but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting four straight years of GDP growth above the EU average. Unemployment has fallen, but remains high, especially among youth. Spain is the Eurozone's fourth largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region."
     }
   },
   "Geography": {
@@ -24,10 +24,10 @@
       "water": {
         "text": "6,390 sq km"
       },
-      "note": "<strong>note:</strong> there are two autonomous cities - Ceuta and Melilla - and 17 autonomous communities including Balearic Islands and Canary Islands, and three small Spanish possessions off the coast of Morocco - Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera"
+      "note": "Note: there are two autonomous cities - Ceuta and Melilla - and 17 autonomous communities including Balearic Islands and Canary Islands, and three small Spanish possessions off the coast of Morocco - Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera"
     },
     "Area - comparative": {
-      "text": "almost five times the size of Kentucky; slightly more than twice the size of Oregon"
+      "text": "Almost five times the size of Kentucky; slightly more than twice the size of Oregon"
     },
     "Land boundaries": {
       "total": {
@@ -36,7 +36,7 @@
       "border countries": {
         "text": "Andorra 63 km; France 646 km; Gibraltar 1.2 km; Portugal 1,224 km; Morocco (Ceuta) 8 km and Morocco (Melilla) 10.5 km"
       },
-      "note": "<strong>note:</strong> an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera"
+      "note": "Note: an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera"
     },
     "Coastline": {
       "text": "4,964 km"
@@ -53,10 +53,10 @@
       }
     },
     "Climate": {
-      "text": "temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast"
+      "text": "Temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast"
     },
     "Terrain": {
-      "text": "large, flat to dissected plateau surrounded by rugged hills; Pyrenees Mountains in north"
+      "text": "Large, flat to dissected plateau surrounded by rugged hills; Pyrenees Mountains in north"
     },
     "Elevation": {
       "highest point": {
@@ -70,20 +70,20 @@
       }
     },
     "Natural resources": {
-      "text": "coal, lignite, iron ore, copper, lead, zinc, uranium, tungsten, mercury, pyrites, magnesite, fluorspar, gypsum, sepiolite, kaolin, potash, hydropower, arable land"
+      "text": "Coal, lignite, iron ore, copper, lead, zinc, uranium, tungsten, mercury, pyrites, magnesite, fluorspar, gypsum, sepiolite, kaolin, potash, hydropower, arable land"
     },
     "Land use": {
       "agricultural land": {
         "text": "54.1% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 24.9% (2018 est.)"
+        "text": "Arable land: 24.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 9.1% (2018 est.)"
+        "text": "Permanent crops: 9.1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 20.1% (2018 est.)"
+        "text": "Permanent pasture: 20.1% (2018 est.)"
       },
       "forest": {
         "text": "36.8% (2018 est.)"
@@ -96,16 +96,16 @@
       "text": "38,000 sq km (2012)"
     },
     "Major rivers (by length in km)": {
-      "text": "Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Tagus river source (shared with Portugal [m]) - 1,006note – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Population distribution": {
-      "text": "with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona"
+      "text": "With the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona"
     },
     "Natural hazards": {
-      "text": "<p>periodic droughts, occasional flooding</p><p><strong>volcanism:</strong> volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano</p>"
+      "text": "Periodic droughts, occasional floodingvolcanism: volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano"
     },
     "Geography - note": {
-      "text": "strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco including the enclaves of Ceuta and Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas; Spain's Canary Islands are one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Madeira (Portugal), and Cabo Verde"
+      "text": "Strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco including the enclaves of Ceuta and Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas; Spain's Canary Islands are one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Madeira (Portugal), and Cabo Verde"
     }
   },
   "People and Society": {
@@ -122,14 +122,14 @@
     },
     "Ethnic groups": {
       "text": "Spanish 84.8%, Moroccan 1.7%, Romanian 1.2%, other 12.3% (2021 est.)",
-      "note": "<strong>note:</strong> data represent population by country of birth"
+      "note": "Note: data represent population by country of birth"
     },
     "Languages": {
       "Languages": {
         "text": "Castilian Spanish (official nationwide) 74%, Catalan (official in Catalonia, the Balearic Islands, and the Valencian Community (where it is known as Valencian)) 17%, Galician (official in Galicia) 7%, Basque (official in the Basque Country and in the Basque-speaking area of Navarre) 2%, Aranese (official in the northwest corner of Catalonia (Vall d'Aran) along with Catalan, &lt;5,000 speakers); note - Aragonese, Aranese Asturian, Basque, Calo, Catalan, Galician, and Valencian are recognized as regional languages under the European Charter for Regional or Minority Languages"
       },
       "major-language sample(s)": {
-        "text": "<br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -190,7 +190,7 @@
       "text": "1.39 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona"
+      "text": "With the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona"
     },
     "Urbanization": {
       "urban population": {
@@ -199,7 +199,7 @@
       "rate of urbanization": {
         "text": "0.24% annual rate of change (2020-25 est.)"
       },
-      "note": "<strong>note:</strong> data include Canary Islands, Ceuta, and Melilla"
+      "note": "Note: data include Canary Islands, Ceuta, and Melilla"
     },
     "Major urban areas - population": {
       "text": "6.714 million MADRID (capital), 5.658 million Barcelona, 837,000 Valencia (2022)"
@@ -260,26 +260,26 @@
     },
     "Contraceptive prevalence rate": {
       "text": "62.1% (2018)",
-      "note": "<strong>note:</strong> percent of women aged 18-49"
+      "note": "Note: percent of women aged 18-49"
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 99.9% of population"
+        "text": "Urban: 99.9% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 99.9% of population"
+        "text": "Total: 99.9% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0.1% of population"
+        "text": "Urban: 0.1% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0.1% of population (2020 est.)"
+        "text": "Total: 0.1% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -293,22 +293,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -316,17 +316,17 @@
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "150,000 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "HIV/AIDS - deaths": {
       "text": "&lt;1,000 (2020)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "Major infectious diseases": {
       "respiratory diseases": {
         "text": "Covid-19 (see note) (2020)"
       },
-      "note": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 October 2021, Spain has reported a total of 4,967,200 cases of COVID-19 or 10,494.24 cumulative cases of COVID-19 per 100,000 population with 183 cumulative deaths per 100,000 population; as of 4 October 2021, 80.73% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures"
+      "note": "Note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 October 2021, Spain has reported a total of 4,967,200 cases of COVID-19 or 10,494.24 cumulative cases of COVID-19 per 100,000 population with 183 cumulative deaths per 100,000 population; as of 4 October 2021, 80.73% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures"
     },
     "Obesity - adult prevalence rate": {
       "text": "23.8% (2016)"
@@ -339,7 +339,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "98.6%"
@@ -376,14 +376,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "pollution of the Mediterranean Sea from raw sewage and effluents from the offshore production of oil and gas; water quality and quantity nationwide; air pollution; deforestation; desertification"
+      "text": "Pollution of the Mediterranean Sea from raw sewage and effluents from the offshore production of oil and gas; water quality and quantity nationwide; air pollution; deforestation; desertification"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -398,20 +398,20 @@
       }
     },
     "Climate": {
-      "text": "temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast"
+      "text": "Temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast"
     },
     "Land use": {
       "agricultural land": {
         "text": "54.1% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 24.9% (2018 est.)"
+        "text": "Arable land: 24.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 9.1% (2018 est.)"
+        "text": "Permanent crops: 9.1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 20.1% (2018 est.)"
+        "text": "Permanent pasture: 20.1% (2018 est.)"
       },
       "forest": {
         "text": "36.8% (2018 est.)"
@@ -427,7 +427,7 @@
       "rate of urbanization": {
         "text": "0.24% annual rate of change (2020-25 est.)"
       },
-      "note": "<strong>note:</strong> data include Canary Islands, Ceuta, and Melilla"
+      "note": "Note: data include Canary Islands, Ceuta, and Melilla"
     },
     "Revenue from forest resources": {
       "forest revenues": {
@@ -443,7 +443,7 @@
       "respiratory diseases": {
         "text": "Covid-19 (see note) (2020)"
       },
-      "note": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 October 2021, Spain has reported a total of 4,967,200 cases of COVID-19 or 10,494.24 cumulative cases of COVID-19 per 100,000 population with 183 cumulative deaths per 100,000 population; as of 4 October 2021, 80.73% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures"
+      "note": "Note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 October 2021, Spain has reported a total of 4,967,200 cases of COVID-19 or 10,494.24 cumulative cases of COVID-19 per 100,000 population with 183 cumulative deaths per 100,000 population; as of 4 October 2021, 80.73% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
@@ -457,7 +457,7 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Tagus river source (shared with Portugal [m]) - 1,006note – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Total water withdrawal": {
       "municipal": {
@@ -489,11 +489,11 @@
         "text": "Espana"
       },
       "etymology": {
-        "text": "derivation of the name \"Espana\" is uncertain, but may come from the Phoenician term \"span,\" related to the word \"spy,\" meaning \"to forge metals,\" so, \"i-spn-ya\" would mean \"place where metals are forged\"; the ancient Phoenicians long exploited the Iberian Peninsula for its mineral wealth"
+        "text": "Derivation of the name \"Espana\" is uncertain, but may come from the Phoenician term \"span,\" related to the word \"spy,\" meaning \"to forge metals,\" so, \"i-spn-ya\" would mean \"place where metals are forged\"; the ancient Phoenicians long exploited the Iberian Peninsula for its mineral wealth"
       }
     },
     "Government type": {
-      "text": "parliamentary constitutional monarchy"
+      "text": "Parliamentary constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -512,12 +512,12 @@
         "text": "Spain has two time zones, including the Canary Islands (UTC 0)"
       },
       "etymology": {
-        "text": "the Romans named the original settlement \"Matrice\" after the river that ran through it; under Arab rule it became \"Majerit,\" meaning \"source of water\"; in medieval Romance dialects (Mozarabic) it became \"Matrit,\" which over time changed to \"Madrid\""
+        "text": "The Romans named the original settlement \"Matrice\" after the river that ran through it; under Arab rule it became \"Majerit,\" meaning \"source of water\"; in medieval Romance dialects (Mozarabic) it became \"Matrit,\" which over time changed to \"Madrid\""
       }
     },
     "Administrative divisions": {
       "text": "17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluna (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]",
-      "note": "<strong>note:</strong> the autonomous cities of Ceuta and Melilla plus three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, administered directly by the Spanish central government, are all along the coast of Morocco and are collectively referred to as Places of Sovereignty (Plazas de Soberania)"
+      "note": "Note: the autonomous cities of Ceuta and Melilla plus three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, administered directly by the Spanish central government, are all along the coast of Morocco and are collectively referred to as Places of Sovereignty (Plazas de Soberania)"
     },
     "Independence": {
       "text": "1492; the Iberian peninsula was characterized by a variety of independent kingdoms prior to the Muslim occupation that began in the early 8th century A.D. and lasted nearly seven centuries; the small Christian redoubts of the north began the reconquest almost immediately, culminating in the seizure of Granada in 1492; this event completed the unification of several kingdoms and is traditionally considered the forging of present-day Spain"
@@ -527,27 +527,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1812; latest approved by the General Courts 31 October 1978, passed by referendum 6 December 1978, signed by the king 27 December 1978, effective 29 December 1978"
+        "text": "Previous 1812; latest approved by the General Courts 31 October 1978, passed by referendum 6 December 1978, signed by the king 27 December 1978, effective 29 December 1978"
       },
       "amendments": {
-        "text": "proposed by the government, by the General Courts (the Congress or the Senate), or by the self-governing communities submitted through the government; passage requires three-fifths majority vote by both houses and passage by referendum if requested by one tenth of the members of either house; proposals disapproved by both houses are submitted to a joint committee, which submits an agreed upon text for another vote; passage requires two-thirds majority vote in Congress and simple majority vote in the Senate; amended 1992, 2011"
+        "text": "Proposed by the government, by the General Courts (the Congress or the Senate), or by the self-governing communities submitted through the government; passage requires three-fifths majority vote by both houses and passage by referendum if requested by one tenth of the members of either house; proposals disapproved by both houses are submitted to a joint committee, which submits an agreed upon text for another vote; passage requires two-thirds majority vote in Congress and simple majority vote in the Senate; amended 1992, 2011"
       }
     },
     "Legal system": {
-      "text": "civil law system with regional variations"
+      "text": "Civil law system with regional variations"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Spain"
+        "text": "At least one parent must be a citizen of Spain"
       },
       "dual citizenship recognized": {
-        "text": "only with select Latin American countries"
+        "text": "Only with select Latin American countries"
       },
       "residency requirement for naturalization": {
         "text": "10 years for persons with no ties to Spain"
@@ -564,25 +564,25 @@
         "text": "President of the Government (Prime Minister-equivalent) Pedro SANCHEZ Perez-Castejon (since 2 June 2018); Vice President (and Minister of the President's Office) Maria del Carmen CALVO Poyato (since 7 June 2018)"
       },
       "cabinet": {
-        "text": "Council of Ministers designated by the president&nbsp;"
+        "text": "Council of Ministers designated by the president;"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest majority of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held November 2023); vice president and Council of Ministers appointed by the president"
+        "text": "The monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest majority of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held November 2023); vice president and Council of Ministers appointed by the president"
       },
       "election results": {
-        "text": "percent of National Assembly vote - NA"
+        "text": "Percent of National Assembly vote - NA"
       },
-      "note": "<strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding"
+      "note": "Note: there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding"
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (265 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 57 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br>Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)"
+        "text": "Bicameral General Courts or Las Cortes Generales consists of:Senate or Senado (265 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 57 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)"
       },
       "elections": {
-        "text": "<br>Senate - last held on 10 November 2019 (next to be held no later than 30 November 2023)<br>Congress of Deputies - last held on 10 November 2019 (next to be held no later than 30 November 2023)"
+        "text": "Senate - last held on 10 November 2019 (next to be held no later than 30 November 2023)Congress of Deputies - last held on 10 November 2019 (next to be held no later than 30 November 2023)"
       },
       "election results": {
-        "text": "<br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition (as of October 2021) - men 157, women 108; percent of women 40.8%<br>Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition (as October 2021) - men 198, women 152, percent of women 43.4%; note - overall General Courts percent of women 42.3%"
+        "text": "Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition (as of October 2021) - men 157, women 108; percent of women 40.8%Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition (as October 2021) - men 198, women 152, percent of women 43.4%; note - overall General Courts percent of women 42.3%"
       }
     },
     "Judicial branch": {
@@ -597,7 +597,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Asturias Forum or FAC [Carmen MORIYON]<br>Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties)<br>Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR]<br>Canarian Coalition or CC [Ana ORAMAS] (coalition of 5 parties)<br>Junts per Catalunia or JxCat  [Carles PUIDGEMONT]<br>Ciudadanos Party or C's [Ines ARRIMADAS]<br>Compromis - Communist Coalition [Joan BALDOVI]<br>New Canary or NCa [Pedro QUEVEDOS]<br>Unidas Podemos [Ione BELARRA] (formerly Podemos IU; electoral coalition formed for May 2016 election)<br>People's Party or PP [Pablo CASADO]<br>Republican Left of Catalonia or ERC [Oriol JUNQUERAS i Vies]<br>Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ]<br>JxCat-Junts Together for Catalonia [Jordi SANCHEZ]<br>Union of People of Navarra or UPN [Javier ESPARZA]<br>Navarra Suma (electoral Coaltion formed by Navarrese People's Union (UPN), Ciudadanos (C's), and the Popular Partty (PP) ahead of the 2019 election)<br>Vox or Vox [Santiago ABASCAL]"
+      "text": "Asturias Forum or FAC [Carmen MORIYON]Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties)Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR]Canarian Coalition or CC [Ana ORAMAS] (coalition of 5 parties)Junts per Catalunia or JxCat  [Carles PUIDGEMONT]Ciudadanos Party or C's [Ines ARRIMADAS]Compromis - Communist Coalition [Joan BALDOVI]New Canary or NCa [Pedro QUEVEDOS]Unidas Podemos [Ione BELARRA] (formerly Podemos IU; electoral coalition formed for May 2016 election)People's Party or PP [Pablo CASADO]Republican Left of Catalonia or ERC [Oriol JUNQUERAS i Vies]Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ]JxCat-Junts Together for Catalonia [Jordi SANCHEZ]Union of People of Navarra or UPN [Javier ESPARZA]Navarra Suma (electoral Coaltion formed by Navarrese People's Union (UPN), Ciudadanos (C's), and the Popular Partty (PP) ahead of the 2019 election)Vox or Vox [Santiago ABASCAL]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -616,7 +616,7 @@
         "text": "[1] (202) 833-5670"
       },
       "email address and website": {
-        "text": "<br>emb.washington@maec.es<br><br>http://www.exteriores.gob.es/embajadas/washington/en/pages/inicio2.aspx"
+        "text": "Emb.washington@maec.eshttp://www.exteriores.gob.es/embajadas/washington/en/pages/inicio2.aspx"
       },
       "consulate(s) general": {
         "text": "Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico)"
@@ -630,7 +630,7 @@
         "text": "Calle de Serrano, 75, 28006 Madrid"
       },
       "mailing address": {
-        "text": "8500 Madrid Place, Washington DC&nbsp; 20521-8500"
+        "text": "8500 Madrid Place, Washington DC; 20521-8500"
       },
       "telephone": {
         "text": "[34] (91) 587-2200"
@@ -639,15 +639,15 @@
         "text": "[34] (91) 587-2303"
       },
       "email address and website": {
-        "text": "<br>askACS@state.gov<br><br>https://es.usembassy.gov/"
+        "text": "AskACS@state.govhttps://es.usembassy.gov/"
       },
       "consulate(s) general": {
         "text": "Barcelona"
       }
     },
     "Flag description": {
-      "text": "three horizontal bands of red (top), yellow (double width), and red with the national coat of arms on the hoist side of the yellow band; the coat of arms is quartered to display the emblems of the traditional kingdoms of Spain (clockwise from upper left, Castile, Leon, Navarre, and Aragon) while Granada is represented by the stylized pomegranate at the bottom of the shield; the arms are framed by two columns representing the Pillars of Hercules, which are the two promontories (Gibraltar and Ceuta) on either side of the eastern end of the Strait of Gibraltar; the red scroll across the two columns bears the imperial motto of \"Plus Ultra\" (further beyond) referring to Spanish lands beyond Europe; the triband arrangement with the center stripe twice the width of the outer dates to the 18th century",
-      "note": "<strong>note:</strong> the red and yellow colors are related to those of the oldest Spanish kingdoms: Aragon, Castile, Leon, and Navarre"
+      "text": "Three horizontal bands of red (top), yellow (double width), and red with the national coat of arms on the hoist side of the yellow band; the coat of arms is quartered to display the emblems of the traditional kingdoms of Spain (clockwise from upper left, Castile, Leon, Navarre, and Aragon) while Granada is represented by the stylized pomegranate at the bottom of the shield; the arms are framed by two columns representing the Pillars of Hercules, which are the two promontories (Gibraltar and Ceuta) on either side of the eastern end of the Strait of Gibraltar; the red scroll across the two columns bears the imperial motto of \"Plus Ultra\" (further beyond) referring to Spanish lands beyond Europe; the triband arrangement with the center stripe twice the width of the outer dates to the 18th century",
+      "note": "Note: the red and yellow colors are related to those of the oldest Spanish kingdoms: Aragon, Castile, Leon, and Navarre"
     },
     "National symbol(s)": {
       "text": "Pillars of Hercules; national colors: red, yellow"
@@ -657,9 +657,9 @@
         "text": "\"Himno Nacional Espanol\" (National Anthem of Spain)"
       },
       "lyrics/music": {
-        "text": "no lyrics/unknown"
+        "text": "No lyrics/unknown"
       },
-      "note": "<strong>note:</strong> officially in use between 1770 and 1931, restored in 1939; the Spanish anthem is the first anthem to be officially adopted, but it has no lyrics; in the years prior to 1931 it became known as \"Marcha Real\" (The Royal March); it first appeared in a 1761 military bugle call book and was replaced by \"Himno de Riego\" in the years between 1931 and 1939; the long version of the anthem is used for the king, while the short version is used for the prince, prime minister, and occasions such as sporting events"
+      "note": "Note: officially in use between 1770 and 1931, restored in 1939; the Spanish anthem is the first anthem to be officially adopted, but it has no lyrics; in the years prior to 1931 it became known as \"Marcha Real\" (The Royal March); it first appeared in a 1761 military bugle call book and was replaced by \"Himno de Riego\" in the years between 1931 and 1939; the long version of the anthem is used for the king, while the short version is used for the prince, prime minister, and occasions such as sporting events"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -672,7 +672,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.</p><p></p><p>Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.</p><p></p><p>Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.</p><p></p><p>In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017.</p>"
+      "text": "After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -684,7 +684,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$1,886,540,000,000 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -707,7 +707,7 @@
       "Real GDP per capita 2018": {
         "text": "$40,300 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$1,393,351,000,000 (2019 est.)"
@@ -766,10 +766,10 @@
       }
     },
     "Agricultural products": {
-      "text": "barley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beet"
+      "text": "Barley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beet"
     },
     "Industries": {
-      "text": "textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment"
+      "text": "Textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment"
     },
     "Industrial production growth rate": {
       "text": "4% (2017 est.)"
@@ -849,7 +849,7 @@
       "text": "37.9% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -874,7 +874,7 @@
       "text": "France 15%, Germany 11%, Portugal 8%, Italy 8%, United Kingdom 7%, United States 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, clothing and apparel (2019)"
+      "text": "Cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, clothing and apparel (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -891,7 +891,7 @@
       "text": "Germany 13%, France 11%, China 8%, Italy 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "crude petroleum, cars and vehicle parts, packaged medicines, natural gas, refined petroleum (2019)"
+      "text": "Crude petroleum, cars and vehicle parts, packaged medicines, natural gas, refined petroleum (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -911,7 +911,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "euros (EUR) per US dollar -"
+        "text": "Euros (EUR) per US dollar -"
       },
       "Exchange rates 2020": {
         "text": "0.82771 (2020 est.)"
@@ -1022,18 +1022,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "well-developed and one of the largest telecom markets in Europe, with average mobile penetration for Europe; regulator has championed competition; LTE is nearly universal with shifts of service to 5G; operator joined government smart cities project; fixed-line broadband is backed by investment in fiber infrastructure; fiber broadband accounts for most of all fixed-line broadband connections; Chinese company Huawei contributes investment to the telecom sector; increased connectivity through submarine cable connection to Brazil; importer of broadcasting equipment from Europe (2020)"
+        "text": "Well-developed and one of the largest telecom markets in Europe, with average mobile penetration for Europe; regulator has championed competition; LTE is nearly universal with shifts of service to 5G; operator joined government smart cities project; fixed-line broadband is backed by investment in fiber infrastructure; fiber broadband accounts for most of all fixed-line broadband connections; Chinese company Huawei contributes investment to the telecom sector; increased connectivity through submarine cable connection to Brazil; importer of broadcasting equipment from Europe (2020)"
       },
       "domestic": {
-        "text": "fixed-line nearly 42 per 100 and mobile-cellular 119 telephones per 100 persons (2020)"
+        "text": "Fixed-line nearly 42 per 100 and mobile-cellular 119 telephones per 100 persons (2020)"
       },
       "international": {
-        "text": "country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FEA, Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, the&nbsp;Middle East, Africa,&nbsp;South America,&nbsp;Asia, Southeast Asia&nbsp;and the&nbsp;US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to adjacent countries (2019)"
+        "text": "Country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FEA, Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, the;Middle East, Africa,;South America,;Asia, Southeast Asia;and the;US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to adjacent countries (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "<p>a mixture of both publicly operated and privately owned TV and radio stations; overall, hundreds of TV channels are available including national, regional, local, public, and international channels; satellite and cable TV systems available; multiple national radio networks, a large number of regional radio networks, and a larger number of local radio stations; overall, hundreds of radio stations </p> (2019)"
+      "text": "A mixture of both publicly operated and privately owned TV and radio stations; overall, hundreds of TV channels are available including national, regional, local, public, and international channels; satellite and cable TV systems available; multiple national radio networks, a large number of regional radio networks, and a larger number of local radio stations; overall, hundreds of radio stations  (2019)"
     },
     "Internet country code": {
       "text": ".es"
@@ -1128,7 +1128,7 @@
       "broad gauge": {
         "text": "11,333 km 1.668-m gauge (6,538 km electrified) (2017)"
       },
-      "note": "mixed gauge: 190 km 1.668-m and 1.435m gage (190.1 km electrified); 28 km 0.914-m gauge (28 km electrified); 4 km 0.600-m gauge"
+      "note": "Mixed gauge: 190 km 1.668-m and 1.435m gage (190.1 km electrified); 28 km 0.914-m gauge (28 km electrified); 4 km 0.600-m gauge"
     },
     "Roadways": {
       "total": {
@@ -1146,12 +1146,12 @@
         "text": "478"
       },
       "by type": {
-        "text": "bulk carrier 1, general cargo 36, oil tanker 24, other 417 (2021)"
+        "text": "Bulk carrier 1, general cargo 36, oil tanker 24, other 417 (2021)"
       }
     },
     "Ports and terminals": {
       "major seaport(s)": {
-        "text": "<br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia "
+        "text": "Atlantic Ocean: Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)Mediterranean Sea: Algeciras, Barcelona, Cartagena, Tarragona, Valencia "
       },
       "container port(s) (TEUs)": {
         "text": "Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) (2019)"
@@ -1167,7 +1167,7 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE, includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2021)",
-      "note": "note - the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance"
+      "note": "Note - the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance"
     },
     "Military expenditures": {
       "Military Expenditures 2021": {
@@ -1187,31 +1187,31 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Spanish Armed Forces have approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, inc about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2021)"
+      "text": "The Spanish Armed Forces have approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, inc about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of the Spanish military is comprised of domestically-produced and imported Western weapons systems; France, Germany, and the US are the leading suppliers of military hardware since 2010; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2021)"
+      "text": "The inventory of the Spanish military is comprised of domestically-produced and imported Western weapons systems; France, Germany, and the US are the leading suppliers of military hardware since 2010; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2021)"
     },
     "Military service age and obligation": {
       "text": "18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2021)",
-      "note": "note - as of 2019, women comprised about 13% of the military's full-time personnel"
+      "note": "Note - as of 2019, women comprised about 13% of the military's full-time personnel"
     },
     "Military deployments": {
-      "text": "approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (NATO); 625 Lebanon (UNIFIL); approximately 400 Mali (EUTM); 150 Turkey (NATO) (2021)"
+      "text": "Approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (NATO); 625 Lebanon (UNIFIL); approximately 400 Mali (EUTM); 150 Turkey (NATO) (2021)"
     },
     "Military - note": {
-      "text": "Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world"
+      "text": "Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida",
-      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "Note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p>"
+      "text": "In 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1220,10 +1220,10 @@
       "stateless persons": {
         "text": "6,.92 (mid-year 2021)"
       },
-      "note": "<strong>note: </strong>256,033 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2022)"
+      "note": "Note: 256,033 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2022)"
     },
     "Illicit drugs": {
-      "text": "primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States"
+      "text": "Primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States"
     }
   }
 }

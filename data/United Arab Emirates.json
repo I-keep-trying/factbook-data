@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly larger than South Carolina; slightly smaller than Maine"
+      "text": "Slightly larger than South Carolina; slightly smaller than Maine"
     },
     "Land boundaries": {
       "total": {
@@ -54,14 +54,14 @@
       }
     },
     "Climate": {
-      "text": "desert; cooler in eastern mountains"
+      "text": "Desert; cooler in eastern mountains"
     },
     "Terrain": {
-      "text": "flat, barren coastal plain merging into rolling sand dunes of vast desert; mountains in east"
+      "text": "Flat, barren coastal plain merging into rolling sand dunes of vast desert; mountains in east"
     },
     "Elevation": {
       "highest point": {
-        "text": "Jabal Bil 'Ays 1,905 m<br>note - the Factbook map is incorrect; it shows the wrong location of the high elevation"
+        "text": "Jabal Bil 'Ays 1,905 mnote - the Factbook map is incorrect; it shows the wrong location of the high elevation"
       },
       "lowest point": {
         "text": "Persian Gulf 0 m"
@@ -71,20 +71,20 @@
       }
     },
     "Natural resources": {
-      "text": "petroleum, natural gas"
+      "text": "Petroleum, natural gas"
     },
     "Land use": {
       "agricultural land": {
         "text": "4.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 0.5% (2018 est.)"
+        "text": "Arable land: 0.5% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.5% (2018 est.)"
+        "text": "Permanent crops: 0.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 3.6% (2018 est.)"
+        "text": "Permanent pasture: 3.6% (2018 est.)"
       },
       "forest": {
         "text": "3.8% (2018 est.)"
@@ -97,19 +97,19 @@
       "text": "923 sq km (2012)"
     },
     "Population distribution": {
-      "text": "population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population"
+      "text": "Population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population"
     },
     "Natural hazards": {
-      "text": "frequent sand and dust storms"
+      "text": "Frequent sand and dust storms"
     },
     "Geography - note": {
-      "text": "strategic location along southern approaches to Strait of Hormuz, a vital transit point for world crude oil"
+      "text": "Strategic location along southern approaches to Strait of Hormuz, a vital transit point for world crude oil"
     }
   },
   "People and Society": {
     "Population": {
       "text": "9,856,612 (July 2021 est.)",
-      "note": "<strong>note:</strong> the UN estimated the country's total population was 9,771,000 as of mid-year 2019; immigrants make up 87.9% of the total population, according to UN data (2019)"
+      "note": "Note: the UN estimated the country's total population was 9,771,000 as of mid-year 2019; immigrants make up 87.9% of the total population, according to UN data (2019)"
     },
     "Nationality": {
       "noun": {
@@ -127,12 +127,12 @@
         "text": "Arabic (official), English, Hindi, Malayam, Urdu, Pashto, Tagalog, Persian"
       },
       "major-language sample(s)": {
-        "text": "<br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
       "text": "Muslim (official) 76%, Christian 9%, other (primarily Hindu and Buddhist, less than 5% of the population consists of Parsi, Baha'i, Druze, Sikh, Ahmadi, Ismaili, Dawoodi Bohra Muslim, and Jewish) 15% (2005 est.)",
-      "note": "<strong>note:</strong> data represent the total population; as of 2019, immigrants make up about 87.9% of the total population, according to UN data"
+      "note": "Note: data represent the total population; as of 2019, immigrants make up about 87.9% of the total population, according to UN data"
     },
     "Age structure": {
       "0-14 years": {
@@ -189,7 +189,7 @@
       "text": "-3.18 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population"
+      "text": "Population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population"
     },
     "Urbanization": {
       "urban population": {
@@ -258,22 +258,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -287,22 +287,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -315,7 +315,7 @@
       "text": "100 <100 (2020)"
     },
     "Major infectious diseases": {
-      "text": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 October 2021, UAE has reported a total of 737,073 cases of COVID-19 or 7,452.41 cumulative cases of COVID-19 per 100,000 population with 21.27 cumulative deaths per 100,000 population; as of 6 October 2021, 93.95% of the population has received at least one dose of COVID-19 vaccine"
+      "text": "Note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 October 2021, UAE has reported a total of 737,073 cases of COVID-19 or 7,452.41 cumulative cases of COVID-19 per 100,000 population with 21.27 cumulative deaths per 100,000 population; as of 6 October 2021, 93.95% of the population has received at least one dose of COVID-19 vaccine"
     },
     "Obesity - adult prevalence rate": {
       "text": "31.7% (2016)"
@@ -328,7 +328,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "97.6%"
@@ -365,7 +365,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "air pollution; rapid population growth and high energy demand contribute to water scarcity; lack of natural freshwater resources compensated by desalination plants; land degradation and desertification; waste generation, beach pollution from oil spills"
+      "text": "Air pollution; rapid population growth and high energy demand contribute to water scarcity; lack of natural freshwater resources compensated by desalination plants; land degradation and desertification; waste generation, beach pollution from oil spills"
     },
     "Environment - international agreements": {
       "party to": {
@@ -387,20 +387,20 @@
       }
     },
     "Climate": {
-      "text": "desert; cooler in eastern mountains"
+      "text": "Desert; cooler in eastern mountains"
     },
     "Land use": {
       "agricultural land": {
         "text": "4.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 0.5% (2018 est.)"
+        "text": "Arable land: 0.5% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.5% (2018 est.)"
+        "text": "Permanent crops: 0.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 3.6% (2018 est.)"
+        "text": "Permanent pasture: 3.6% (2018 est.)"
       },
       "forest": {
         "text": "3.8% (2018 est.)"
@@ -428,7 +428,7 @@
       }
     },
     "Major infectious diseases": {
-      "text": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 October 2021, UAE has reported a total of 737,073 cases of COVID-19 or 7,452.41 cumulative cases of COVID-19 per 100,000 population with 21.27 cumulative deaths per 100,000 population; as of 6 October 2021, 93.95% of the population has received at least one dose of COVID-19 vaccine"
+      "text": "Note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 October 2021, UAE has reported a total of 737,073 cases of COVID-19 or 7,452.41 cumulative cases of COVID-19 per 100,000 population with 21.27 cumulative deaths per 100,000 population; as of 6 October 2021, 93.95% of the population has received at least one dose of COVID-19 vaccine"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
@@ -462,13 +462,13 @@
         "text": "United Arab Emirates"
       },
       "conventional short form": {
-        "text": "none"
+        "text": "None"
       },
       "local long form": {
         "text": "Al Imarat al Arabiyah al Muttahidah"
       },
       "local short form": {
-        "text": "none"
+        "text": "None"
       },
       "former": {
         "text": "Trucial Oman, Trucial States"
@@ -477,11 +477,11 @@
         "text": "UAE"
       },
       "etymology": {
-        "text": "self-descriptive country name; the name \"Arabia\" can be traced back many centuries B.C., the ancient Egyptians referred to the region as \"Ar Rabi\"; \"emirates\" derives from \"amir\" the Arabic word for \"commander,\" \"lord,\" or \"prince\""
+        "text": "Self-descriptive country name; the name \"Arabia\" can be traced back many centuries B.C., the ancient Egyptians referred to the region as \"Ar Rabi\"; \"emirates\" derives from \"amir\" the Arabic word for \"commander,\" \"lord,\" or \"prince\""
       }
     },
     "Government type": {
-      "text": "federation of monarchies"
+      "text": "Federation of monarchies"
     },
     "Capital": {
       "name": {
@@ -494,7 +494,7 @@
         "text": "UTC+4 (9 hours ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "in Arabic, \"abu\" means \"father\" and \"dhabi\" refers to \"gazelle\"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the \"Father of the Gazelle,\" Shakhbut bin Dhiyab al Nahyan, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded"
+        "text": "In Arabic, \"abu\" means \"father\" and \"dhabi\" refers to \"gazelle\"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the \"Father of the Gazelle,\" Shakhbut bin Dhiyab al Nahyan, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded"
       }
     },
     "Administrative divisions": {
@@ -508,34 +508,34 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1971 (provisional); latest drafted in 1979, became permanent May 1996"
+        "text": "Previous 1971 (provisional); latest drafted in 1979, became permanent May 1996"
       },
       "amendments": {
-        "text": "proposed by the Supreme Council and submitted to the Federal National Council; passage requires at least a two-thirds majority vote of Federal National Council members present and approval of the Supreme Council president; amended 2009"
+        "text": "Proposed by the Supreme Council and submitted to the Federal National Council; passage requires at least a two-thirds majority vote of Federal National Council members present and approval of the Supreme Council president; amended 2009"
       }
     },
     "Legal system": {
-      "text": "mixed legal system of Islamic (sharia) law and civil law"
+      "text": "Mixed legal system of Islamic (sharia) law and civil law"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+      "text": "Has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "the father must be a citizen of the United Arab Emirates; if the father is unknown, the mother must be a citizen"
+        "text": "The father must be a citizen of the United Arab Emirates; if the father is unknown, the mother must be a citizen"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "30 years"
       }
     },
     "Suffrage": {
-      "text": "limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens"
+      "text": "Limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens"
     },
     "Executive branch": {
       "chief of state": {
@@ -548,22 +548,22 @@
         "text": "Council of Ministers announced by the prime minister and approved by the president"
       },
       "elections/appointments": {
-        "text": "president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); election last held 3 November 2009 (next election NA); prime minister and deputy prime minister appointed by the president"
+        "text": "President and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); election last held 3 November 2009 (next election NA); prime minister and deputy prime minister appointed by the president"
       },
       "election results": {
         "text": "KHALIFA bin Zayid Al-Nuhayyan reelected president; FSC vote NA"
       },
-      "note": "<strong>note:</strong> there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power"
+      "note": "Note: there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power"
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)"
+        "text": "Unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held for indirectly elected members on 5 October 2019 (next to be held in October 2023)"
+        "text": "Last held for indirectly elected members on 5 October 2019 (next to be held in October 2023)"
       },
       "election results": {
-        "text": "all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%"
+        "text": "All candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%"
       }
     },
     "Judicial branch": {
@@ -571,14 +571,14 @@
         "text": "Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)"
       },
       "judge selection and term of office": {
-        "text": "judges appointed by the federal president following approval by the Federal Supreme Council, the highest executive and legislative authority consisting of the 7 emirate rulers; judges serve until retirement age or the expiry of their appointment terms"
+        "text": "Judges appointed by the federal president following approval by the Federal Supreme Council, the highest executive and legislative authority consisting of the 7 emirate rulers; judges serve until retirement age or the expiry of their appointment terms"
       },
       "subordinate courts": {
         "text": "Federal Court of Cassation (determines the constitutionality of laws promulgated at the federal and emirate level; federal level courts of first instance and appeals courts); the emirates of Abu Dhabi, Dubai, and Ra's al Khaymah have parallel court systems; the other 4 emirates have incorporated their courts into the federal system; note - the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country&rsquo;s two largest financial free zones, both adjudicate civil and commercial disputes."
       }
     },
     "Political parties and leaders": {
-      "text": "none; political parties are banned"
+      "text": "None; political parties are banned"
     },
     "International organization participation": {
       "text": "ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -597,7 +597,7 @@
         "text": "[1] (202) 243-2432"
       },
       "email address and website": {
-        "text": "<br>info@uaeembassy-usa.org<br><br>https://www.uae-embassy.org/"
+        "text": "Info@uaeembassy-usa.orghttps://www.uae-embassy.org/"
       },
       "consulate(s) general": {
         "text": "Boston, Los Angeles, New York"
@@ -605,10 +605,10 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "ambassador (vacant); Charge d'Affaires Sean MURPHY (since January 2021)"
+        "text": "Ambassador (vacant); Charge d'Affaires Sean MURPHY (since January 2021)"
       },
       "embassy": {
-        "text": "Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dhabi"
+        "text": "Embassies District, Plot 38, Sector W59-02, Street No. 4,;Abu Dhabi"
       },
       "mailing address": {
         "text": "6010 Abu Dhabi Place, Washington DC 20521-6010"
@@ -620,17 +620,17 @@
         "text": "[971] (2) 414-2241"
       },
       "email address and website": {
-        "text": "<br>abudhabiacs@state.gov<br><br>https://ae.usembassy.gov/"
+        "text": "Abudhabiacs@state.govhttps://ae.usembassy.gov/"
       },
       "consulate(s) general": {
         "text": "Dubai"
       }
     },
     "Flag description": {
-      "text": "three equal horizontal bands of green (top), white, and black with a wider vertical red band on the hoist side; the flag incorporates all four Pan-Arab colors, which in this case represent fertility (green), neutrality (white), petroleum resources (black), and unity (red); red was the traditional color incorporated into all flags of the emirates before their unification"
+      "text": "Three equal horizontal bands of green (top), white, and black with a wider vertical red band on the hoist side; the flag incorporates all four Pan-Arab colors, which in this case represent fertility (green), neutrality (white), petroleum resources (black), and unity (red); red was the traditional color incorporated into all flags of the emirates before their unification"
     },
     "National symbol(s)": {
-      "text": "golden falcon; national colors: green, white, black, red"
+      "text": "Golden falcon; national colors: green, white, black, red"
     },
     "National anthem": {
       "name": {
@@ -639,7 +639,7 @@
       "lyrics/music": {
         "text": "AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB"
       },
-      "note": "<strong>note:</strong> music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for the anthem of Tunisia"
+      "note": "Note: music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for the anthem of Tunisia"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -652,7 +652,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP from the oil and gas sector to 30%.</p><p></p><p>Since the discovery of oil in the UAE nearly 60 years ago, the country has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. The country's free trade zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors.</p><p></p><p>The global financial crisis of 2008-09, tight international credit, and deflated asset prices constricted the economy in 2009. UAE authorities tried to blunt the crisis by increasing spending and boosting liquidity in the banking sector. The crisis hit Dubai hardest, as it was heavily exposed to depressed real estate prices. Dubai lacked sufficient cash to meet its debt obligations, prompting global concern about its solvency and ultimately a $20 billion bailout from the UAE Central Bank and Abu Dhabi Government that was refinanced in March 2014.</p><p></p><p>The UAE’s dependence on oil is a significant long-term challenge, although the UAE is one of the most diversified countries in the Gulf Cooperation Council. Low oil prices have prompted the UAE to cut expenditures, including on some social programs, but the UAE has sufficient assets in its sovereign investment funds to cover its deficits. The government reduced fuel subsidies in August 2015, and introduced excise taxes (50% on sweetened carbonated beverages and 100% on energy drinks and tobacco) in October 2017. A five-percent value-added tax was introduced in January 2018. The UAE's strategic plan for the next few years focuses on economic diversification, promoting the UAE as a global trade and tourism hub, developing industry, and creating more job opportunities for nationals through improved education and increased private sector employment.</p>"
+      "text": "The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP from the oil and gas sector to 30%.Since the discovery of oil in the UAE nearly 60 years ago, the country has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. The country's free trade zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors.The global financial crisis of 2008-09, tight international credit, and deflated asset prices constricted the economy in 2009. UAE authorities tried to blunt the crisis by increasing spending and boosting liquidity in the banking sector. The crisis hit Dubai hardest, as it was heavily exposed to depressed real estate prices. Dubai lacked sufficient cash to meet its debt obligations, prompting global concern about its solvency and ultimately a $20 billion bailout from the UAE Central Bank and Abu Dhabi Government that was refinanced in March 2014.The UAE’s dependence on oil is a significant long-term challenge, although the UAE is one of the most diversified countries in the Gulf Cooperation Council. Low oil prices have prompted the UAE to cut expenditures, including on some social programs, but the UAE has sufficient assets in its sovereign investment funds to cover its deficits. The government reduced fuel subsidies in August 2015, and introduced excise taxes (50% on sweetened carbonated beverages and 100% on energy drinks and tobacco) in October 2017. A five-percent value-added tax was introduced in January 2018. The UAE's strategic plan for the next few years focuses on economic diversification, promoting the UAE as a global trade and tourism hub, developing industry, and creating more job opportunities for nationals through improved education and increased private sector employment."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2019": {
@@ -664,7 +664,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$637.384 billion (2017 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
@@ -687,7 +687,7 @@
       "Real GDP per capita 2017": {
         "text": "$67,184 (2017 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$421.077 billion (2019 est.)"
@@ -746,17 +746,17 @@
       }
     },
     "Agricultural products": {
-      "text": "dates, cucumbers, tomatoes, goat meat, eggs, milk, poultry, carrots/turnips, goat milk, milk"
+      "text": "Dates, cucumbers, tomatoes, goat meat, eggs, milk, poultry, carrots/turnips, goat milk, milk"
     },
     "Industries": {
-      "text": "petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial ship repair, construction materials, handicrafts, textiles"
+      "text": "Petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial ship repair, construction materials, handicrafts, textiles"
     },
     "Industrial production growth rate": {
       "text": "1.8% (2017 est.)"
     },
     "Labor force": {
       "text": "5.344 million (2017 est.)",
-      "note": "<strong>note:</strong> expatriates account for about 85% of the workforce"
+      "note": "Note: expatriates account for about 85% of the workforce"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -811,7 +811,7 @@
       "expenditures": {
         "text": "111.1 billion (2017 est.)"
       },
-      "note": "<strong>note:</strong> the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai"
+      "note": "Note: the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai"
     },
     "Budget surplus (+) or deficit (-)": {
       "text": "-0.2% (of GDP) (2017 est.)"
@@ -828,7 +828,7 @@
       "text": "28.8% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2017": {
@@ -850,7 +850,7 @@
       "text": "India 11%, Japan 10%, Saudi Arabia 7%, Switzerland 6%, China 6%, Iraq 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "crude petroleum, refined petroleum, gold, jewelry, broadcasting equipment (2019)"
+      "text": "Crude petroleum, refined petroleum, gold, jewelry, broadcasting equipment (2019)"
     },
     "Imports": {
       "Imports 2017": {
@@ -864,7 +864,7 @@
       "text": "China 15%, India 12%, Untied States 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "gold, broadcasting equipment, jewelry, refined petroleum, diamonds (2019)"
+      "text": "Gold, broadcasting equipment, jewelry, refined petroleum, diamonds (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -995,18 +995,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "one of the world&rsquo;s most connected countries with modern infrastructure and record Internet, broadband, and mobile use; low-cost smartphones drive mobile-broadband penetration; LTE networks cover most of the population with launch of 5G in partnership with Chinese company ZTE; submarine cables connect to South Africa, Middle East, Pakistan, and Europe; ISPs are fully or partially owned by state, allowing control over flow of information; during pandemic, there was a surge of Internet use from home, with temporary government relaxation of restrictions on streaming such as Zoom, Skype, and Microsoft Teams; government censorship and surveillance of online platforms; service prices are highest in the region, yet affordable for population&rsquo;s affluent users; government launched free digital platforms for students; Dubai and Abu Dhabi are smart cities with government plan to digitize services across country; major importer of broadcasting equipment from China and exporter of broadcasting equipment to Iraq and Saudi Arabia (2020)"
+        "text": "One of the world&rsquo;s most connected countries with modern infrastructure and record Internet, broadband, and mobile use; low-cost smartphones drive mobile-broadband penetration; LTE networks cover most of the population with launch of 5G in partnership with Chinese company ZTE; submarine cables connect to South Africa, Middle East, Pakistan, and Europe; ISPs are fully or partially owned by state, allowing control over flow of information; during pandemic, there was a surge of Internet use from home, with temporary government relaxation of restrictions on streaming such as Zoom, Skype, and Microsoft Teams; government censorship and surveillance of online platforms; service prices are highest in the region, yet affordable for population&rsquo;s affluent users; government launched free digital platforms for students; Dubai and Abu Dhabi are smart cities with government plan to digitize services across country; major importer of broadcasting equipment from China and exporter of broadcasting equipment to Iraq and Saudi Arabia (2020)"
       },
       "domestic": {
-        "text": "microwave radio relay, fiber-optic and coaxial cable; fixed-line roughly 24 per 100 and mobile-cellular nearly 186 per 100 (2020)"
+        "text": "Microwave radio relay, fiber-optic and coaxial cable; fixed-line roughly 24 per 100 and mobile-cellular nearly 186 per 100 (2020)"
       },
       "international": {
-        "text": "country code - 971;&nbsp;landing points for the&nbsp;FLAG, SEA-ME-WE-3&nbsp;,-4 &amp; -5, Qater UAE&nbsp;Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, FEA, GBICS/MENA, IMEWE, Orient Express, TEAMS, TW1 and the UAE-Iran submarine cables, linking to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian) (2020)"
+        "text": "Country code - 971;;landing points for the;FLAG, SEA-ME-WE-3;,-4 &amp; -5, Qater UAE;Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, FEA, GBICS/MENA, IMEWE, Orient Express, TEAMS, TW1 and the UAE-Iran submarine cables, linking to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian) (2020)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "except for the many organizations now operating in media free zones in Abu Dhabi and Dubai, most TV and radio stations remain government-owned; widespread use of satellite dishes provides access to pan-Arab and other international broadcasts; restrictions since June 2017 on some satellite channels and websites originating from or otherwise linked to Qatar (2018)"
+      "text": "Except for the many organizations now operating in media free zones in Abu Dhabi and Dubai, most TV and radio stations remain government-owned; widespread use of satellite dishes provides access to pan-Arab and other international broadcasts; restrictions since June 2017 on some satellite channels and websites originating from or otherwise linked to Qatar (2018)"
     },
     "Internet country code": {
       "text": ".ae"
@@ -1110,7 +1110,7 @@
         "text": "623"
       },
       "by type": {
-        "text": "bulk carrier 1, container ship 3, general cargo 117, oil tanker 19, other 483 (2021)"
+        "text": "Bulk carrier 1, container ship 3, general cargo 117, oil tanker 19, other 483 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1128,7 +1128,7 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard; Ministry of Interior: Critical Infrastructure Coastal Patrol Agency (CICPA) (2021)",
-      "note": "note - the Presidential Guard includes a Special Operations Command"
+      "note": "Note - the Presidential Guard includes a Special Operations Command"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
@@ -1148,25 +1148,25 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)"
+      "text": "Approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2021)"
+      "text": "The UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2021)"
     },
     "Military service age and obligation": {
       "text": "18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for male volunteers with parental approval; males can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2021)",
-      "note": "note - compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership"
+      "note": "Note - compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership"
     },
     "Military deployments": {
-      "text": "estimates vary; reportedly a few hundred remain in Yemen; maintains military bases in Eritrea and Somalia (2021)"
+      "text": "Estimates vary; reportedly a few hundred remain in Yemen; maintains military bases in Eritrea and Somalia (2021)"
     },
     "Military - note": {
-      "text": "<p>as of 2021, the UAE was closely aligned with Saudi Arabia and Bahrain on regional security issues; it hosted a multi-service French military base, which included the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and, as of 2021, hosted about 3,500 US troops, mostly air and naval personnel</p> <p>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976</p>"
+      "text": "As of 2021, the UAE was closely aligned with Saudi Arabia and Bahrain on regional security issues; it hosted a multi-service French military base, which included the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and, as of 2021, hosted about 3,500 US troops, mostly air and naval personnel in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary unitsthe UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>boundary agreement was signed and ratified with Oman in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah enclaves, but contents of the agreement and detailed maps showing the alignment have not been published; Iran and UAE dispute Tunb Islands and Abu Musa Island, which Iran occupies</p>"
+      "text": "Boundary agreement was signed and ratified with Oman in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah enclaves, but contents of the agreement and detailed maps showing the alignment have not been published; Iran and UAE dispute Tunb Islands and Abu Musa Island, which Iran occupies"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
@@ -1174,7 +1174,7 @@
       }
     },
     "Illicit drugs": {
-      "text": "a transshipment point for illegal narcotics and a pass-through for drug proceeds; numerous exchange houses and general trading companies increase potential for money; major source of precursor chemicals used in the production of illicit narcotics"
+      "text": "A transshipment point for illegal narcotics and a pass-through for drug proceeds; numerous exchange houses and general trading companies increase potential for money; major source of precursor chemicals used in the production of illicit narcotics"
     }
   }
 }

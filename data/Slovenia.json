@@ -6,7 +6,7 @@
   },
   "Geography": {
     "Location": {
-      "text": "south Central Europe, Julian Alps between Austria and Croatia"
+      "text": "South Central Europe, Julian Alps between Austria and Croatia"
     },
     "Geographic coordinates": {
       "text": "46 07 N, 14 49 E"
@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly smaller than New Jersey"
+      "text": "Slightly smaller than New Jersey"
     },
     "Land boundaries": {
       "total": {
@@ -48,7 +48,7 @@
       "text": "Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east"
     },
     "Terrain": {
-      "text": "a short southwestern coastal strip of Karst topography on the Adriatic; an alpine mountain region lies adjacent to Italy and Austria in the north; mixed mountains and valleys with numerous rivers to the east"
+      "text": "A short southwestern coastal strip of Karst topography on the Adriatic; an alpine mountain region lies adjacent to Italy and Austria in the north; mixed mountains and valleys with numerous rivers to the east"
     },
     "Elevation": {
       "highest point": {
@@ -62,20 +62,20 @@
       }
     },
     "Natural resources": {
-      "text": "lignite, lead, zinc, building stone, hydropower, forests"
+      "text": "Lignite, lead, zinc, building stone, hydropower, forests"
     },
     "Land use": {
       "agricultural land": {
         "text": "22.8% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 8.4% (2018 est.)"
+        "text": "Arable land: 8.4% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1.3% (2018 est.)"
+        "text": "Permanent crops: 1.3% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 13.1% (2018 est.)"
+        "text": "Permanent pasture: 13.1% (2018 est.)"
       },
       "forest": {
         "text": "62.3% (2018 est.)"
@@ -88,16 +88,16 @@
       "text": "60 sq km (2012)"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+      "text": "Atlantic Ocean drainage: (Black Sea) Danube (795,656 sq km)"
     },
     "Population distribution": {
-      "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere"
+      "text": "A fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere"
     },
     "Natural hazards": {
-      "text": "flooding; earthquakes"
+      "text": "Flooding; earthquakes"
     },
     "Geography - note": {
-      "text": "despite its small size, this eastern Alpine country controls some of Europe's major transit routes"
+      "text": "Despite its small size, this eastern Alpine country controls some of Europe's major transit routes"
     }
   },
   "People and Society": {
@@ -120,7 +120,7 @@
         "text": "Slovene (official) 87.7%, Croatian 2.8%, Serbo-Croatian 1.8%, Bosnian 1.6%, Serbian 1.6%, Hungarian 0.4% (official, only in municipalities where Hungarian national communities reside), Italian 0.2% (official, only in municipalities where Italian national communities reside), other or unspecified 3.9% (2002 est.)"
       },
       "major-language sample(s)": {
-        "text": "<br>Svetovni informativni zvezek - neobhoden vir osnovnih informacij. (Slovene)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "Svetovni informativni zvezek - neobhoden vir osnovnih informacij. (Slovene)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -181,7 +181,7 @@
       "text": "1.54 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere"
+      "text": "A fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere"
     },
     "Urbanization": {
       "urban population": {
@@ -253,19 +253,19 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: total": {
-        "text": "total: 99.5% of population"
+        "text": "Total: 99.5% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0.5% of population (2020 est.)"
+        "text": "Total: 0.5% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -279,22 +279,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 99% of population"
+        "text": "Total: 99% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 1% of population (2020 est.)"
+        "text": "Total: 1% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -302,7 +302,7 @@
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "&lt;1,000 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2018 est.)"
@@ -355,14 +355,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "air pollution from road traffic, domestic heating (wood buring), power generation, and industry; water pollution; biodiversity protection"
+      "text": "Air pollution from road traffic, domestic heating (wood buring), power generation, and industry; water pollution; biodiversity protection"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -384,13 +384,13 @@
         "text": "22.8% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 8.4% (2018 est.)"
+        "text": "Arable land: 8.4% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1.3% (2018 est.)"
+        "text": "Permanent crops: 1.3% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 13.1% (2018 est.)"
+        "text": "Permanent pasture: 13.1% (2018 est.)"
       },
       "forest": {
         "text": "62.3% (2018 est.)"
@@ -429,7 +429,7 @@
       }
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+      "text": "Atlantic Ocean drainage: (Black Sea) Danube (795,656 sq km)"
     },
     "Total water withdrawal": {
       "municipal": {
@@ -464,11 +464,11 @@
         "text": "People's Republic of Slovenia, Socialist Republic of Slovenia"
       },
       "etymology": {
-        "text": "the country's name means \"Land of the Slavs\" in Slovene"
+        "text": "The country's name means \"Land of the Slavs\" in Slovene"
       }
     },
     "Government type": {
-      "text": "parliamentary republic"
+      "text": "Parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -484,11 +484,11 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "etymology": {
-        "text": "likely related to the Slavic root \"ljub\", meaning \"to like\" or \"to love\"; by tradition, the name is related to the Slovene word \"ljubljena\" meaning \"beloved\""
+        "text": "Likely related to the Slavic root \"ljub\", meaning \"to like\" or \"to love\"; by tradition, the name is related to the Slovene word \"ljubljena\" meaning \"beloved\""
       }
     },
     "Administrative divisions": {
-      "text": "<p>201 municipalities (obcine, singular - obcina) and 11 urban municipalities (mestne obcine, singular - mestna obcina)</p> <p><strong>municipalities:</strong> Ajdovscina, Ankaran, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal ob Soci, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Kosanjevica na Krki, Kostel, Kozje, Kranjska Gora, Krizevci, Krsko, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica,</p> <p>Majsperk, Makole, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Muta, Naklo, Nazarje, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Salovci, Selnica ob Dravi, Semic, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Sevnica, Sezana, Skocjan, Skofja Loka, Skofljica, Slovenska Bistrica, Slovenske Konjice, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sodrazica, Solcava, Sostanj, Sredisce ob Dravi, Starse, Store, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij ob Scavnici, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk</p> <p><strong>urban municipalities:</strong> Celje, Koper, Kranj, Ljubljana, Maribor, Murska Sobota, Nova Gorica, Novo Mesto, Ptuj, Slovenj Gradec, Velenje</p>"
+      "text": "201 municipalities (obcine, singular - obcina) and 11 urban municipalities (mestne obcine, singular - mestna obcina) municipalities: Ajdovscina, Ankaran, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal ob Soci, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Kosanjevica na Krki, Kostel, Kozje, Kranjska Gora, Krizevci, Krsko, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica, Majsperk, Makole, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Muta, Naklo, Nazarje, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Salovci, Selnica ob Dravi, Semic, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Sevnica, Sezana, Skocjan, Skofja Loka, Skofljica, Slovenska Bistrica, Slovenske Konjice, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sodrazica, Solcava, Sostanj, Sredisce ob Dravi, Starse, Store, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij ob Scavnici, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk urban municipalities: Celje, Koper, Kranj, Ljubljana, Maribor, Murska Sobota, Nova Gorica, Novo Mesto, Ptuj, Slovenj Gradec, Velenje"
     },
     "Independence": {
       "text": "25 June 1991 (from Yugoslavia)"
@@ -498,27 +498,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1974 (preindependence); latest passed by Parliament 23 December 1991"
+        "text": "Previous 1974 (preindependence); latest passed by Parliament 23 December 1991"
       },
       "amendments": {
-        "text": "proposed by at least 20 National Assembly members, by the government, or by petition of at least 30,000 voters; passage requires at least two-thirds majority vote by the Assembly; referendum required if agreed upon by at least 30 Assembly members; passage in a referendum requires participation of a majority of eligible voters and a simple majority of votes cast; amended several times, last in 2016"
+        "text": "Proposed by at least 20 National Assembly members, by the government, or by petition of at least 30,000 voters; passage requires at least two-thirds majority vote by the Assembly; referendum required if agreed upon by at least 30 Assembly members; passage in a referendum requires participation of a majority of eligible voters and a simple majority of votes cast; amended several times, last in 2016"
       }
     },
     "Legal system": {
-      "text": "civil law system"
+      "text": "Civil law system"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+      "text": "Has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Slovenia; both parents if the child is born outside of Slovenia"
+        "text": "At least one parent must be a citizen of Slovenia; both parents if the child is born outside of Slovenia"
       },
       "dual citizenship recognized": {
-        "text": "yes, for select cases"
+        "text": "Yes, for select cases"
       },
       "residency requirement for naturalization": {
         "text": "10 years, the last 5 of which have been continuous"
@@ -538,21 +538,21 @@
         "text": "Council of Ministers nominated by the prime minister, elected by the National Assembly"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 22 October with a runoff on 12 November 2017 (next election to be held by November 2022); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly"
+        "text": "President directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 22 October with a runoff on 12 November 2017 (next election to be held by November 2022); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly"
       },
       "election results": {
-        "text": "<em><br>2017:</em> Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Janez JANSA (SDS) elected prime minister on 3 March 2020, National Assembly vote - 52-31<br><br><em>2012:</em> Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11"
+        "text": "2017: Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Janez JANSA (SDS) elected prime minister on 3 March 2020, National Assembly vote - 52-312012: Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)"
+        "text": "Bicameral Parliament consists of:National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powersNational Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "<br>National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 3 June 2018 (next to be held on 24 April 2022)"
+        "text": "National Council - last held on 22 November 2017 (next to be held in 2022)National Assembly - last held on 3 June 2018 (next to be held on 24 April 2022)"
       },
       "election results": {
-        "text": "<br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%"
+        "text": "National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%"
       }
     },
     "Judicial branch": {
@@ -563,11 +563,11 @@
         "text": "Supreme Court president and vice president appointed by the National Assembly upon the proposal of the Minister of Justice based on the opinions of the Judicial Council, an 11-member independent body elected by the National Assembly from proposals submitted by the president, attorneys, law universities, and sitting judges; other Supreme Court judges elected by the National Assembly from candidates proposed by the Judicial Council; Supreme Court judges serve for life; Constitutional Court judges appointed by the National Assembly from nominations by the president of the republic; Constitutional Court president selected from among its own membership for a 3-year term; other judges elected for single 9-year terms"
       },
       "subordinate courts": {
-        "text": "county, district, regional, and high courts; specialized labor-related and social courts; Court of Audit; Administrative Court"
+        "text": "County, district, regional, and high courts; specialized labor-related and social courts; Court of Audit; Administrative Court"
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party of Pensioners of Slovenia or DeSUS [Aleksandra PIVEC]<br>List of Marjan Sarec or LMS [Marjan SAREC]<br>Modern Center Party or SMC [Miro CERAR]<br>New Slovenia or NSi [Matej TONIN]<br>Party of Alenka Bratusek or Stranka AB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Slovenian Democratic Party or SDS [Janez JANSA]<br>Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]<br>Social Democrats or SD [Dejan ZIDAN]<br>The Left or Levica [Luka MESEC] (successor to United Left or ZL)"
+      "text": "Democratic Party of Pensioners of Slovenia or DeSUS [Aleksandra PIVEC]List of Marjan Sarec or LMS [Marjan SAREC]Modern Center Party or SMC [Miro CERAR]New Slovenia or NSi [Matej TONIN]Party of Alenka Bratusek or Stranka AB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)Slovenian Democratic Party or SDS [Janez JANSA]Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]Social Democrats or SD [Dejan ZIDAN]The Left or Levica [Luka MESEC] (successor to United Left or ZL)"
     },
     "International organization participation": {
       "text": "Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -586,7 +586,7 @@
         "text": "[1] (202) 386-6633"
       },
       "email address and website": {
-        "text": "<br>vwa@gov.si<br><br>http://www.washington.embassy.si/index.php?id=51&amp;L=1"
+        "text": "Vwa@gov.sihttp://www.washington.embassy.si/index.php?id=51&amp;L=1"
       },
       "consulate(s) general": {
         "text": "Cleveland (OH)"
@@ -594,7 +594,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charge d'Affaires Susan K. Falatko&nbsp; (since 20 January 2021)"
+        "text": "Ambassador (vacant); Charge d'Affaires Susan K. Falatko; (since 20 January 2021)"
       },
       "embassy": {
         "text": "Presernova 31, 1000 Ljubljana"
@@ -609,11 +609,11 @@
         "text": "[386] (1) 200-5555"
       },
       "email address and website": {
-        "text": "<br>LjubljanaACS@state.gov<br><br>https://si.usembassy.gov/"
+        "text": "LjubljanaACS@state.govhttps://si.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "three equal horizontal bands of white (top), blue, and red, derive from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with the image of Triglav, Slovenia's highest peak, in white against a blue background at the center; beneath it are two wavy blue lines depicting seas and rivers, and above it are three six-pointed stars arranged in an inverted triangle, which are taken from the coat of arms of the Counts of Celje, the prominent Slovene dynastic house of the late 14th and early 15th centuries) appears in the upper hoist side of the flag centered on the white and blue bands"
+      "text": "Three equal horizontal bands of white (top), blue, and red, derive from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with the image of Triglav, Slovenia's highest peak, in white against a blue background at the center; beneath it are two wavy blue lines depicting seas and rivers, and above it are three six-pointed stars arranged in an inverted triangle, which are taken from the coat of arms of the Counts of Celje, the prominent Slovene dynastic house of the late 14th and early 15th centuries) appears in the upper hoist side of the flag centered on the white and blue bands"
     },
     "National symbol(s)": {
       "text": "Mount Triglav; national colors: white, blue, red"
@@ -625,7 +625,7 @@
       "lyrics/music": {
         "text": "France PRESEREN/Stanko PREMRL"
       },
-      "note": "<strong>note:</strong> adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism"
+      "note": "Note: adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -638,7 +638,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.</p> <p> </p> <p>In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.</p> <p> </p> <p>Prime Minister CERAR’s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia’s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits.</p>"
+      "text": "With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.   In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.   Prime Minister CERAR’s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia’s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -650,7 +650,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$78.74 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -673,7 +673,7 @@
       "Real GDP per capita 2018": {
         "text": "$38,000 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$54.16 billion (2019 est.)"
@@ -732,10 +732,10 @@
       }
     },
     "Agricultural products": {
-      "text": "milk, maize, wheat, grapes, barley, potatoes, poultry, apples, beef, pork"
+      "text": "Milk, maize, wheat, grapes, barley, potatoes, poultry, apples, beef, pork"
     },
     "Industries": {
-      "text": "ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (including military electronics), trucks, automobiles, electric power equipment, wood products, textiles, chemicals, machine tools"
+      "text": "Ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (including military electronics), trucks, automobiles, electric power equipment, wood products, textiles, chemicals, machine tools"
     },
     "Industrial production growth rate": {
       "text": "8.6% (2017 est.)"
@@ -810,13 +810,13 @@
       "Public debt 2016": {
         "text": "78.6% of GDP (2016 est.)"
       },
-      "note": "<strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds"
+      "note": "Note: defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds"
     },
     "Taxes and other revenues": {
       "text": "43.1% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -841,7 +841,7 @@
       "text": "Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "packaged medicines, cars and vehicle parts, refined petroleum, electrical lighting/signaling equipment, electricity (2019)"
+      "text": "Packaged medicines, cars and vehicle parts, refined petroleum, electrical lighting/signaling equipment, electricity (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -858,7 +858,7 @@
       "text": "Germany 14%, Italy 12%, Austria 8%, Switzerland 8%, China 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "packaged medicines, cars and vehicle parts, refined petroleum, delivery trucks, electricity (2019)"
+      "text": "Packaged medicines, cars and vehicle parts, refined petroleum, delivery trucks, electricity (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -878,7 +878,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "euros (EUR) per US dollar -"
+        "text": "Euros (EUR) per US dollar -"
       },
       "Exchange rates 2020": {
         "text": "0.82771 (2020 est.)"
@@ -989,18 +989,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "well-developed telecom infrastructure with sound regulatory intervention; increase in Internet community utilizing e-government, e-commerce, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate retaining customers with bundled products; extensive reach of 5G; FttP to 90% of premises; importer of broadcasting equipment from neighboring Central Europe (2020)"
+        "text": "Well-developed telecom infrastructure with sound regulatory intervention; increase in Internet community utilizing e-government, e-commerce, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate retaining customers with bundled products; extensive reach of 5G; FttP to 90% of premises; importer of broadcasting equipment from neighboring Central Europe (2020)"
       },
       "domestic": {
-        "text": "fixed-line nearly 34 per 100 and mobile-cellular over 122 per 100 teledensity (2020)"
+        "text": "Fixed-line nearly 34 per 100 and mobile-cellular over 122 per 100 teledensity (2020)"
       },
       "international": {
-        "text": "country code - 386 (2016)"
+        "text": "Country code - 386 (2016)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 domestic commercial TV stations operating nationally, regionally, and locally; about 60% of households are connected to multi-channel cable TV; public radio broadcaster operates 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations"
+      "text": "Public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 domestic commercial TV stations operating nationally, regionally, and locally; about 60% of households are connected to multi-channel cable TV; public radio broadcaster operates 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations"
     },
     "Internet country code": {
       "text": ".si"
@@ -1100,7 +1100,7 @@
         "text": "9"
       },
       "by type": {
-        "text": "other 9 (2021)"
+        "text": "Other 9 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1131,14 +1131,14 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Slovenian Armed Forces have approximately 7,000 active duty troops (2021)"
+      "text": "The Slovenian Armed Forces have approximately 7,000 active duty troops (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment; since 2010, it has received limited amounts of military equipment from several countries led by France and Russia (2021)"
+      "text": "The inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment; since 2010, it has received limited amounts of military equipment from several countries led by France and Russia (2021)"
     },
     "Military service age and obligation": {
       "text": "18-25 years of age for voluntary military service (men and women); conscription abolished in 2003 (2021)",
-      "note": "note - as of 2019, women comprised about 15% of the military's full-time personnel"
+      "note": "Note - as of 2019, women comprised about 15% of the military's full-time personnel"
     },
     "Military deployments": {
       "text": "230 Kosovo (NATO) (2021)"
@@ -1149,16 +1149,16 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017 the arbitration panel issued a ruling on the border that Croatia has not implemented; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p>"
+      "text": "Since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017 the arbitration panel issued a ruling on the border that Croatia has not implemented; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
         "text": "10 (2020)"
       },
-      "note": "<strong>note:  </strong>537,032 estimated refugee and migrant arrivals (January 2015-February 2022)"
+      "note": "Note:  537,032 estimated refugee and migrant arrivals (January 2015-February 2022)"
     },
     "Illicit drugs": {
-      "text": "minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals"
+      "text": "Minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals"
     }
   }
 }

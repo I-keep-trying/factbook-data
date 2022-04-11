@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly larger than twice the size of Georgia; slightly larger than New Mexico"
+      "text": "Slightly larger than twice the size of Georgia; slightly larger than New Mexico"
     },
     "Land boundaries": {
       "total": {
@@ -54,10 +54,10 @@
       }
     },
     "Climate": {
-      "text": "temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast"
+      "text": "Temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast"
     },
     "Terrain": {
-      "text": "glaciated; mostly high plateaus and rugged mountains broken by fertile valleys; small, scattered plains; coastline deeply indented by fjords; arctic tundra in north"
+      "text": "Glaciated; mostly high plateaus and rugged mountains broken by fertile valleys; small, scattered plains; coastline deeply indented by fjords; arctic tundra in north"
     },
     "Elevation": {
       "highest point": {
@@ -71,20 +71,20 @@
       }
     },
     "Natural resources": {
-      "text": "petroleum, natural gas, iron ore, copper, lead, zinc, titanium, pyrites, nickel, fish, timber, hydropower"
+      "text": "Petroleum, natural gas, iron ore, copper, lead, zinc, titanium, pyrites, nickel, fish, timber, hydropower"
     },
     "Land use": {
       "agricultural land": {
         "text": "2.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 2.2% (2018 est.)"
+        "text": "Arable land: 2.2% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 0.5% (2018 est.)"
+        "text": "Permanent pasture: 0.5% (2018 est.)"
       },
       "forest": {
         "text": "27.8% (2018 est.)"
@@ -97,13 +97,13 @@
       "text": "900 sq km (2012)"
     },
     "Population distribution": {
-      "text": "most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated"
+      "text": "Most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated"
     },
     "Natural hazards": {
-      "text": "<p>rockslides, avalanches</p><p><strong>volcanism:</strong> Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano</p>"
+      "text": "Rockslides, avalanchesvolcanism: Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano"
     },
     "Geography - note": {
-      "text": "about two-thirds mountains; some 50,000 islands off its much-indented coastline; strategic location adjacent to sea lanes and air routes in North Atlantic; one of the most rugged and longest coastlines in the world"
+      "text": "About two-thirds mountains; some 50,000 islands off its much-indented coastline; strategic location adjacent to sea lanes and air routes in North Atlantic; one of the most rugged and longest coastlines in the world"
     }
   },
   "People and Society": {
@@ -126,7 +126,7 @@
         "text": "Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities; note - Sami has three dialects: Lule, North Sami, and South Sami; Sami is an official language in nine municipalities in Norway's three northernmost counties: Finnmark, Nordland, and Troms"
       },
       "major-language sample(s)": {
-        "text": "<br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -162,7 +162,7 @@
       "potential support ratio": {
         "text": "3.7 (2020 est.)"
       },
-      "note": "<strong>note:</strong> data include Svalbard and Jan Mayen Islands"
+      "note": "Note: data include Svalbard and Jan Mayen Islands"
     },
     "Median age": {
       "total": {
@@ -188,7 +188,7 @@
       "text": "3.95 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated"
+      "text": "Most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated"
     },
     "Urbanization": {
       "urban population": {
@@ -197,7 +197,7 @@
       "rate of urbanization": {
         "text": "1.32% annual rate of change (2020-25 est.)"
       },
-      "note": "<strong>note:</strong> data include Svalbard and Jan Mayen Islands"
+      "note": "Note: data include Svalbard and Jan Mayen Islands"
     },
     "Major urban areas - population": {
       "text": "1.071 million OSLO (capital) (2022)"
@@ -227,7 +227,7 @@
     },
     "Mother's mean age at first birth": {
       "text": "29.7 years (2019 est.)",
-      "note": "<strong>note:</strong> data is calculated based on actual age at first births"
+      "note": "Note: data is calculated based on actual age at first births"
     },
     "Maternal mortality ratio": {
       "text": "2 deaths/100,000 live births (2017 est.)"
@@ -262,22 +262,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -291,22 +291,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -317,7 +317,7 @@
     },
     "HIV/AIDS - deaths": {
       "text": "&lt;100 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "Obesity - adult prevalence rate": {
       "text": "23.1% (2016)"
@@ -353,14 +353,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "water pollution; acid rain damaging forests and adversely affecting lakes, threatening fish stocks; air pollution from vehicle emissions"
+      "text": "Water pollution; acid rain damaging forests and adversely affecting lakes, threatening fish stocks; air pollution from vehicle emissions"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -375,20 +375,20 @@
       }
     },
     "Climate": {
-      "text": "temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast"
+      "text": "Temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast"
     },
     "Land use": {
       "agricultural land": {
         "text": "2.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 2.2% (2018 est.)"
+        "text": "Arable land: 2.2% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 0.5% (2018 est.)"
+        "text": "Permanent pasture: 0.5% (2018 est.)"
       },
       "forest": {
         "text": "27.8% (2018 est.)"
@@ -404,7 +404,7 @@
       "rate of urbanization": {
         "text": "1.32% annual rate of change (2020-25 est.)"
       },
-      "note": "<strong>note:</strong> data include Svalbard and Jan Mayen Islands"
+      "note": "Note: data include Svalbard and Jan Mayen Islands"
     },
     "Revenue from forest resources": {
       "forest revenues": {
@@ -457,11 +457,11 @@
         "text": "Norge"
       },
       "etymology": {
-        "text": "derives from the Old Norse words \"nordr\" and \"vegr\" meaning \"northern way\" and refers to the long coastline of western Norway"
+        "text": "Derives from the Old Norse words \"nordr\" and \"vegr\" meaning \"northern way\" and refers to the long coastline of western Norway"
       }
     },
     "Government type": {
-      "text": "parliamentary constitutional monarchy"
+      "text": "Parliamentary constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -477,7 +477,7 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "etymology": {
-        "text": "the medieval name was spelt \"Aslo\"; the \"as\" component refered either to the Ekeberg ridge southeast of the town (\"as\" in modern Norwegian), or to the Aesir (Norse gods); \"lo\" refered to \"meadow,\" so the most likely interpretations would have been either \"the meadow beneath the ridge\" or \"the meadow of the gods\"; both explanations are considered equally plausible"
+        "text": "The medieval name was spelt \"Aslo\"; the \"as\" component refered either to the Ekeberg ridge southeast of the town (\"as\" in modern Norwegian), or to the Aesir (Norse gods); \"lo\" refered to \"meadow,\" so the most likely interpretations would have been either \"the meadow beneath the ridge\" or \"the meadow of the gods\"; both explanations are considered equally plausible"
       }
     },
     "Administrative divisions": {
@@ -494,27 +494,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814"
+        "text": "Drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814"
       },
       "amendments": {
-        "text": "proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2020"
+        "text": "Proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2020"
       }
     },
     "Legal system": {
-      "text": "mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts"
+      "text": "Mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Norway"
+        "text": "At least one parent must be a citizen of Norway"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "7 years"
@@ -534,18 +534,18 @@
         "text": "Council of State appointed by the monarch, approved by Parliament"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament"
+        "text": "The monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by list proportional representation vote; members serve 4-year terms)"
+        "text": "Unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by list proportional representation vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 13 September 2021 (next to be held on 30 September 2025)"
+        "text": "Last held on 13 September 2021 (next to be held on 30 September 2025)"
       },
       "election results": {
-        "text": "<p>percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition (as of October 2021) men 93, women 76, percent of women 45%</p>"
+        "text": "Percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition (as of October 2021) men 93, women 76, percent of women 45%"
       }
     },
     "Judicial branch": {
@@ -553,14 +553,14 @@
         "text": "Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)"
       },
       "judge selection and term of office": {
-        "text": "justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70"
+        "text": "Justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70"
       },
       "subordinate courts": {
         "text": "Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts"
       }
     },
     "Political parties and leaders": {
-      "text": "<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bionar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p>"
+      "text": "Center Party or Sp [Trygve Slagsvold VEDUM]Christian Democratic Party or KrF [Olaug BOLLESTAD] Conservative Party or H [Erna SOLBERG] Green Party or MDG [Une Aina BASTHOLM]  Labor Party or Ap [Jonas Gahr STORE] Liberal Party or V [Guri MELBY]Patient Focus or PF [Irene OJALA]Progress Party or FrP [Sylvi LISTHAUG] Red Party or R [Bionar MOXNES]Socialist Left Party or SV [Audun LYSBAKKEN]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -579,7 +579,7 @@
         "text": "[1] (202) 469-3990"
       },
       "email address and website": {
-        "text": "<br>emb.washington@mfa.no<br><br>https://www.norway.no/en/usa/"
+        "text": "Emb.washington@mfa.nohttps://www.norway.no/en/usa/"
       },
       "consulate(s) general": {
         "text": "Houston, New York, San Francisco"
@@ -593,7 +593,7 @@
         "text": "Morgedalsvegen 36, 0378 Oslo"
       },
       "mailing address": {
-        "text": "5460 Oslo Place,&nbsp; Washington DC&nbsp; 20521-5460"
+        "text": "5460 Oslo Place,; Washington DC; 20521-5460"
       },
       "telephone": {
         "text": "[47] 21-30-85-40"
@@ -602,23 +602,23 @@
         "text": "[47] 22-56-27-51"
       },
       "email address and website": {
-        "text": "<br>OsloACS@state.gov<br><br>https://no.usembassy.gov/"
+        "text": "OsloACS@state.govhttps://no.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)"
+      "text": "Red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)"
     },
     "National symbol(s)": {
-      "text": "lion; national colors: red, white, blue"
+      "text": "Lion; national colors: red, white, blue"
     },
     "National anthem": {
       "name": {
         "text": "\"Ja, vi elsker dette landet\" (Yes, We Love This Country)"
       },
       "lyrics/music": {
-        "text": "lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK"
+        "text": "Lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK"
       },
-      "note": "<strong>note:</strong> adopted 1864; in addition to the national anthem, \"Kongesangen\" (Song of the King), which uses the tune of \"God Save the Queen,\" serves as the royal anthem"
+      "note": "Note: adopted 1864; in addition to the national anthem, \"Kongesangen\" (Song of the King), which uses the tune of \"God Save the Queen,\" serves as the royal anthem"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -631,7 +631,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.</p><p></p><p>The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.</p><p></p><p>In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a \"fiscal rule,\" which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.</p><p></p><p>After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years.</p>"
+      "text": "Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a \"fiscal rule,\" which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -643,7 +643,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$341.78 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -666,7 +666,7 @@
       "Real GDP per capita 2018": {
         "text": "$64,300 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$405.695 billion (2019 est.)"
@@ -725,10 +725,10 @@
       }
     },
     "Agricultural products": {
-      "text": "milk, barley, wheat, potatoes, oats, pork, poultry, beef, eggs, rye"
+      "text": "Milk, barley, wheat, potatoes, oats, pork, poultry, beef, eggs, rye"
     },
     "Industries": {
-      "text": "petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles"
+      "text": "Petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles"
     },
     "Industrial production growth rate": {
       "text": "1.5% (2017 est.)"
@@ -803,13 +803,13 @@
       "Public debt 2016": {
         "text": "36.4% of GDP (2016 est.)"
       },
-      "note": "<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+      "note": "Note: data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
     },
     "Taxes and other revenues": {
       "text": "54.4% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -834,7 +834,7 @@
       "text": "United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United States 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "crude petroleum, natural gas, fish, refined petroleum, aluminum (2019)"
+      "text": "Crude petroleum, natural gas, fish, refined petroleum, aluminum (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -851,7 +851,7 @@
       "text": "Sweden 17%, Germany 12%, China 8%, Denmark 7%, United States 6%, United Kingdom 5%, Netherlands 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "cars, refined petroleum, broadcasting equipment, natural gas, crude petroleum (2019)"
+      "text": "Cars, refined petroleum, broadcasting equipment, natural gas, crude petroleum (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -868,7 +868,7 @@
       "Debt - external 2018": {
         "text": "$648.878 billion (2018 est.)"
       },
-      "note": "<strong>note:</strong> Norway is a net external creditor"
+      "note": "Note: Norway is a net external creditor"
     },
     "Exchange rates": {
       "currency": {
@@ -983,18 +983,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; synchronized with EC legislation; comprehensive LTE and focus on 5G;&nbsp; broadband penetration among highest in Europe; operators will migrate all DSL subscribers to fiber by 2023 and close 2G and 3G networks by 2025; regulator assigned spectrum for 5G; operator partners with Huawei for smart agriculture project; Oslo utilizes smart city technology; municipalities access EU-funded public Wi-Fi; importer of broadcasting equipment and computers from China (2020)"
+        "text": "Sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; synchronized with EC legislation; comprehensive LTE and focus on 5G;; broadband penetration among highest in Europe; operators will migrate all DSL subscribers to fiber by 2023 and close 2G and 3G networks by 2025; regulator assigned spectrum for 5G; operator partners with Huawei for smart agriculture project; Oslo utilizes smart city technology; municipalities access EU-funded public Wi-Fi; importer of broadcasting equipment and computers from China (2020)"
       },
       "domestic": {
         "text": "Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems; fixed-line over 6 per 100 and mobile-cellular nearly 108 per 100 (2020)"
       },
       "international": {
-        "text": "country code - 47;&nbsp;landing points for the&nbsp;Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East&nbsp;submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat,&nbsp;Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)"
+        "text": "Country code - 47;;landing points for the;Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East;submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat,;Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally; Norway is the first country in the world to phase out FM radio in favor of Digital Audio Broadcasting (DAB), a process scheduled for completion in late 2017 (2019)"
+      "text": "State-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally; Norway is the first country in the world to phase out FM radio in favor of Digital Audio Broadcasting (DAB), a process scheduled for completion in late 2017 (2019)"
     },
     "Internet country code": {
       "text": ".no"
@@ -1088,7 +1088,7 @@
         "text": "1,644"
       },
       "by type": {
-        "text": "bulk carrier 109, container ship 1, general cargo 242, oil tanker 96, other 1,196 (2021)"
+        "text": "Bulk carrier 109, container ship 1, general cargo 242, oil tanker 96, other 1,196 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1105,7 +1105,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2021)"
+      "text": "Norwegian Armed Forces:; Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2021)"
     },
     "Military expenditures": {
       "Military Expenditures 2021": {
@@ -1125,25 +1125,25 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)"
+      "text": "The Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US is the leading supplier of weapons systems to Norway (2021)"
+      "text": "The Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US is the leading supplier of weapons systems to Norway (2021)"
     },
     "Military service age and obligation": {
       "text": "19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers; 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2021)",
-      "note": "note(s) - Norway conscripts about 8,000 individuals annually; Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel"
+      "note": "Note(s) - Norway conscripts about 8,000 individuals annually; Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel"
     },
     "Military deployments": {
       "text": "120 Lithuania (NATO) (2021)"
     },
     "Military - note": {
-      "text": "Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> (2021)"
+      "text": "Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009 (2021)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010</p>"
+      "text": "Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {

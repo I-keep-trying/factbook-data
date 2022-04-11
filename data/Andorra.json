@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>The Moorish invasion of Spain in the 8th century and subsequent incursions into France were finally stemmed at the Pyrenees by Frankish King Charlemagne, who in 795 created the Hispanic March, a series of buffer states to keep the Muslim Moors from advancing into Christian France. The landlocked Principality of Andorra, one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders, is the last independent survivor of these March states. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency.</p>"
+      "text": "The Moorish invasion of Spain in the 8th century and subsequent incursions into France were finally stemmed at the Pyrenees by Frankish King Charlemagne, who in 795 created the Hispanic March, a series of buffer states to keep the Muslim Moors from advancing into Christian France. The landlocked Principality of Andorra, one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders, is the last independent survivor of these March states. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy. Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency."
     }
   },
   "Geography": {
@@ -40,13 +40,13 @@
       "text": "0 km (landlocked)"
     },
     "Maritime claims": {
-      "text": "none (landlocked)"
+      "text": "None (landlocked)"
     },
     "Climate": {
-      "text": "temperate; snowy, cold winters and warm, dry summers"
+      "text": "Temperate; snowy, cold winters and warm, dry summers"
     },
     "Terrain": {
-      "text": "rugged mountains dissected by narrow valleys"
+      "text": "Rugged mountains dissected by narrow valleys"
     },
     "Elevation": {
       "highest point": {
@@ -60,20 +60,20 @@
       }
     },
     "Natural resources": {
-      "text": "hydropower, mineral water, timber, iron ore, lead"
+      "text": "Hydropower, mineral water, timber, iron ore, lead"
     },
     "Land use": {
       "agricultural land": {
         "text": "40% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 1.7% (2018 est.)"
+        "text": "Arable land: 1.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 38.3% (2018 est.)"
+        "text": "Permanent pasture: 38.3% (2018 est.)"
       },
       "forest": {
         "text": "34% (2018 est.)"
@@ -86,13 +86,13 @@
       "text": "0 sq km (2012)"
     },
     "Population distribution": {
-      "text": "population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)"
+      "text": "Population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)"
     },
     "Natural hazards": {
-      "text": "avalanches"
+      "text": "Avalanches"
     },
     "Geography - note": {
-      "text": "landlocked; straddles a number of important crossroads in the Pyrenees"
+      "text": "Landlocked; straddles a number of important crossroads in the Pyrenees"
     }
   },
   "People and Society": {
@@ -109,7 +109,7 @@
     },
     "Ethnic groups": {
       "text": "Andorran 48.7%, Spanish 24.6%, Portuguese 11.6%, French 4.4%, other 10.6% (2020 est.)",
-      "note": "<strong>note:</strong> data represent population by nationality"
+      "note": "Note: data represent population by nationality"
     },
     "Languages": {
       "text": "Catalan (official), French, Castilian, Portuguese"
@@ -172,7 +172,7 @@
       "text": "0 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)"
+      "text": "Population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)"
     },
     "Urbanization": {
       "urban population": {
@@ -241,22 +241,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -270,22 +270,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -308,7 +308,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "100%"
@@ -323,14 +323,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "deforestation; overgrazing of mountain meadows contributes to soil erosion; air pollution; wastewater treatment and solid waste disposal"
+      "text": "Deforestation; overgrazing of mountain meadows contributes to soil erosion; air pollution; wastewater treatment and solid waste disposal"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Wetlands"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -345,20 +345,20 @@
       }
     },
     "Climate": {
-      "text": "temperate; snowy, cold winters and warm, dry summers"
+      "text": "Temperate; snowy, cold winters and warm, dry summers"
     },
     "Land use": {
       "agricultural land": {
         "text": "40% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 1.7% (2018 est.)"
+        "text": "Arable land: 1.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 38.3% (2018 est.)"
+        "text": "Permanent pasture: 38.3% (2018 est.)"
       },
       "forest": {
         "text": "34% (2018 est.)"
@@ -404,11 +404,11 @@
         "text": "Andorra"
       },
       "etymology": {
-        "text": "the origin of the country's name is obscure; the name may derive from the Arabic \"ad-darra\" meaning \"the forest,\" a reference to its location as part of the Spanish March (defensive buffer zone) against the invading Moors in the 8th century; an alternate explanation is that the name originates from a Navarrese word \"andurrial\" meaning \"shrub-covered land\""
+        "text": "The origin of the country's name is obscure; the name may derive from the Arabic \"ad-darra\" meaning \"the forest,\" a reference to its location as part of the Spanish March (defensive buffer zone) against the invading Moors in the 8th century; an alternate explanation is that the name originates from a Navarrese word \"andurrial\" meaning \"shrub-covered land\""
       }
     },
     "Government type": {
-      "text": "parliamentary democracy (since March 1993) that retains its chiefs of state in the form of a co-principality; the two princes are the President of France and Bishop of Seu d'Urgell, Spain"
+      "text": "Parliamentary democracy (since March 1993) that retains its chiefs of state in the form of a co-principality; the two princes are the President of France and Bishop of Seu d'Urgell, Spain"
     },
     "Capital": {
       "name": {
@@ -424,7 +424,7 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "etymology": {
-        "text": "translates as \"Andorra the Old\" in Catalan"
+        "text": "Translates as \"Andorra the Old\" in Catalan"
       }
     },
     "Administrative divisions": {
@@ -438,27 +438,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "drafted 1991, approved by referendum 14 March 1993, effective 28 April 1993"
+        "text": "Drafted 1991, approved by referendum 14 March 1993, effective 28 April 1993"
       },
       "amendments": {
-        "text": "proposed by the coprinces jointly or by the General Council; passage requires at least a two-thirds majority vote by the General Council, ratification in a referendum, and sanctioning by the coprinces"
+        "text": "Proposed by the coprinces jointly or by the General Council; passage requires at least a two-thirds majority vote by the General Council, ratification in a referendum, and sanctioning by the coprinces"
       }
     },
     "Legal system": {
-      "text": "mixed legal system of civil and customary law with the influence of canon (religious) law"
+      "text": "Mixed legal system of civil and customary law with the influence of canon (religious) law"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+      "text": "Has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "the mother must be an Andorran citizen or the father must have been born in Andorra and both parents maintain permanent residence in Andorra"
+        "text": "The mother must be an Andorran citizen or the father must have been born in Andorra and both parents maintain permanent residence in Andorra"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "25 years"
@@ -478,7 +478,7 @@
         "text": "Executive Council of 12 ministers designated by the head of government"
       },
       "elections/appointments": {
-        "text": "head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the coprinces for a 4-year term; election last held on 7 April 2019 (next to be held in April 2023); the leader of the majority party in the General Council is usually elected head of government"
+        "text": "Head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the coprinces for a 4-year term; election last held on 7 April 2019 (next to be held in April 2023); the leader of the majority party in the General Council is usually elected head of government"
       },
       "election results": {
         "text": "Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%"
@@ -486,13 +486,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list"
+        "text": "Unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list"
       },
       "elections": {
-        "text": "last held on 7 April 2019 (next to be held in April 2023)"
+        "text": "Last held on 7 April 2019 (next to be held in April 2023)"
       },
       "election results": {
-        "text": "percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 22.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 15, women 13, percent of women 46.4%"
+        "text": "Percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 22.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 15, women 13, percent of women 46.4%"
       }
     },
     "Judicial branch": {
@@ -507,8 +507,8 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Social Democratic Party or PS [Vicenc ALFY FERRER]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Third Way/Lauredian Union [Josep PINTAT FORNE]<br>Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]<br>United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]",
-      "note": "<strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)"
+      "text": "Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]Social Democratic Party or PS [Vicenc ALFY FERRER]Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]Third Way/Lauredian Union [Josep PINTAT FORNE]Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]",
+      "note": "Note: Andorra has several smaller parties at the parish level (one is Lauredian Union)"
     },
     "International organization participation": {
       "text": "CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)"
@@ -527,20 +527,20 @@
         "text": "[1] (212) 750-6630"
       },
       "email address and website": {
-        "text": "<br>contact@andorraun.org"
+        "text": "Contact@andorraun.org"
       }
     },
     "Diplomatic representation from the US": {
       "embassy": {
-        "text": "the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Espana; telephone: [34] (93) 280-22-27; FAX: [34] (93) 280-61-75; email address: Barcelonaacs@state.gov"
+        "text": "The US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Espana; telephone: [34] (93) 280-22-27; FAX: [34] (93) 280-61-75; email address: Barcelonaacs@state.gov"
       }
     },
     "Flag description": {
-      "text": "three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other 2 so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection",
-      "note": "<strong>note:</strong> similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem"
+      "text": "Three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other 2 so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection",
+      "note": "Note: similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem"
     },
     "National symbol(s)": {
-      "text": "red cow (breed unspecified); national colors: blue, yellow, red"
+      "text": "Red cow (breed unspecified); national colors: blue, yellow, red"
     },
     "National anthem": {
       "name": {
@@ -549,11 +549,11 @@
       "lyrics/music": {
         "text": "Joan BENLLOCH i VIVO/Enric MARFANY BONS"
       },
-      "note": "<strong>note:</strong> adopted 1921; the anthem provides a brief history of Andorra in a first person narrative"
+      "note": "Note: adopted 1921; the anthem provides a brief history of Andorra in a first person narrative"
     },
     "National heritage": {
       "total World Heritage Sites": {
-        "text": "&nbsp;1 (cultural)"
+        "text": ";1 (cultural)"
       },
       "selected World Heritage Site locales": {
         "text": "Madriu-Perafita-Claror Valley"
@@ -562,7 +562,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Andorra has a developed economy and a free market, with per capita income above the European average and above the level of its neighbors, Spain and France. The country has developed a sophisticated infrastructure including a one-of-a-kind micro-fiber-optic network for the entire country. Tourism, retail sales, and finance comprise more than three-quarters of GDP. Duty-free shopping for some products and the country’s summer and winter resorts attract millions of visitors annually. Andorra uses the euro and is effectively subject to the monetary policy of the European Central Bank. Andorra's comparative advantage as a tax haven eroded when the borders of neighboring France and Spain opened and the government eased bank secrecy laws under pressure from the EU and OECD.</p><p></p><p>Agricultural production is limited - only about 5% of the land is arable - and most food has to be imported, making the economy vulnerable to changes in fuel and food prices. The principal livestock is sheep. Manufacturing output and exports consist mainly of perfumes and cosmetic products, products of the printing industry, electrical machinery and equipment, clothing, tobacco products, and furniture. Andorra is a member of the EU Customs Union and is treated as an EU member for trade in manufactured goods (no tariffs) and as a non-EU member for agricultural products.</p><p></p><p>To provide incentives for growth and diversification in the economy, the Andorran government began sweeping economic reforms in 2006. The Parliament approved three laws to complement the first phase of economic openness: on companies (October 2007), on business accounting (December 2007), and on foreign investment (April 2008 and June 2012). From 2011 to 2015, the Parliament also approved direct taxes in the form of taxes on corporations, on individual incomes of residents and non-residents, and on capital gains, savings, and economic activities. These regulations aim to establish a transparent, modern, and internationally comparable regulatory framework, in order to attract foreign investment and businesses that offer higher value added.</p>"
+      "text": "Andorra has a developed economy and a free market, with per capita income above the European average and above the level of its neighbors, Spain and France. The country has developed a sophisticated infrastructure including a one-of-a-kind micro-fiber-optic network for the entire country. Tourism, retail sales, and finance comprise more than three-quarters of GDP. Duty-free shopping for some products and the country’s summer and winter resorts attract millions of visitors annually. Andorra uses the euro and is effectively subject to the monetary policy of the European Central Bank. Andorra's comparative advantage as a tax haven eroded when the borders of neighboring France and Spain opened and the government eased bank secrecy laws under pressure from the EU and OECD.Agricultural production is limited - only about 5% of the land is arable - and most food has to be imported, making the economy vulnerable to changes in fuel and food prices. The principal livestock is sheep. Manufacturing output and exports consist mainly of perfumes and cosmetic products, products of the printing industry, electrical machinery and equipment, clothing, tobacco products, and furniture. Andorra is a member of the EU Customs Union and is treated as an EU member for trade in manufactured goods (no tariffs) and as a non-EU member for agricultural products.To provide incentives for growth and diversification in the economy, the Andorran government began sweeping economic reforms in 2006. The Parliament approved three laws to complement the first phase of economic openness: on companies (October 2007), on business accounting (December 2007), and on foreign investment (April 2008 and June 2012). From 2011 to 2015, the Parliament also approved direct taxes in the form of taxes on corporations, on individual incomes of residents and non-residents, and on capital gains, savings, and economic activities. These regulations aim to establish a transparent, modern, and internationally comparable regulatory framework, in order to attract foreign investment and businesses that offer higher value added."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2015": {
@@ -574,7 +574,7 @@
       "Real GDP (purchasing power parity) 2013": {
         "text": "$3.273 billion (2013 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2012 US dollars"
+      "note": "Note: data are in 2012 US dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2015": {
@@ -629,10 +629,10 @@
       }
     },
     "Agricultural products": {
-      "text": "small quantities of rye, wheat, barley, oats, vegetables, tobacco; sheep, cattle"
+      "text": "Small quantities of rye, wheat, barley, oats, vegetables, tobacco; sheep, cattle"
     },
     "Industries": {
-      "text": "tourism (particularly skiing), banking, timber, furniture"
+      "text": "Tourism (particularly skiing), banking, timber, furniture"
     },
     "Industrial production growth rate": {
       "text": "NA"
@@ -690,7 +690,7 @@
       "text": "69% (of GDP) (2016)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Exports": {
       "Exports 2015": {
@@ -704,7 +704,7 @@
       "text": "Spain 40%, France 19%, United States 11%, Mauritania 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "integrated circuits, medical supplies, essential oils, cars, tanned hides (2019)"
+      "text": "Integrated circuits, medical supplies, essential oils, cars, tanned hides (2019)"
     },
     "Imports": {
       "Imports 2015": {
@@ -718,7 +718,7 @@
       "text": "Spain 71%, France 17% (2019)"
     },
     "Imports - commodities": {
-      "text": "cars, refined petroleum, perfumes, shaving products, liquors (2019)"
+      "text": "Cars, refined petroleum, perfumes, shaving products, liquors (2019)"
     },
     "Debt - external": {
       "Debt - external 2016": {
@@ -727,7 +727,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "euros (EUR) per US dollar -"
+        "text": "Euros (EUR) per US dollar -"
       },
       "Exchange rates 2017": {
         "text": "0.885 (2017 est.)"
@@ -829,15 +829,15 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "modern automatic telephone system; broadband Internet and&nbsp;LTE mobile lines for both consumer and enterprise customers available (2019)"
+        "text": "Modern automatic telephone system; broadband Internet and;LTE mobile lines for both consumer and enterprise customers available (2019)"
       },
       "domestic": {
-        "text": "about 51 per 100 fixed-line, 114 per 100 mobile-cellular (2019)"
+        "text": "About 51 per 100 fixed-line, 114 per 100 mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2019)"
+        "text": "Country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "1 public TV station and 2 public radio stations; about 10 commercial radio stations; good reception of radio and TV broadcasts from stations in France and Spain; upgraded to terrestrial digital TV broadcasting in 2007; roughly 25 international TV channels available (2019)"
@@ -874,15 +874,15 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Police Corps of Andorra"
+      "text": "No regular military forces; Police Corps of Andorra"
     },
     "Military - note": {
-      "text": "defense is the responsibility of France and Spain"
+      "text": "Defense is the responsibility of France and Spain"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p><em>Andorra-France:</em> None<br><br><em>Andorra-Spain:</em> None</p>"
+      "text": "Andorra-France: NoneAndorra-Spain: None"
     }
   }
 }

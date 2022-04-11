@@ -45,10 +45,10 @@
       }
     },
     "Climate": {
-      "text": "tropical; rainy season (June to October)"
+      "text": "Tropical; rainy season (June to October)"
     },
     "Terrain": {
-      "text": "relatively flat; rises gently to central highland region"
+      "text": "Relatively flat; rises gently to central highland region"
     },
     "Elevation": {
       "highest point": {
@@ -59,20 +59,20 @@
       }
     },
     "Natural resources": {
-      "text": "petroleum, fish, natural gas"
+      "text": "Petroleum, fish, natural gas"
     },
     "Land use": {
       "agricultural land": {
         "text": "32.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 25.6% (2018 est.)"
+        "text": "Arable land: 25.6% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 2.3% (2018 est.)"
+        "text": "Permanent crops: 2.3% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 4.7% (2018 est.)"
+        "text": "Permanent pasture: 4.7% (2018 est.)"
       },
       "forest": {
         "text": "19.4% (2018 est.)"
@@ -85,13 +85,13 @@
       "text": "50 sq km (2012)"
     },
     "Population distribution": {
-      "text": "most densely populated country in the eastern Caribbean; approximately one-third live in urban areas"
+      "text": "Most densely populated country in the eastern Caribbean; approximately one-third live in urban areas"
     },
     "Natural hazards": {
-      "text": "infrequent hurricanes; periodic landslides"
+      "text": "Infrequent hurricanes; periodic landslides"
     },
     "Geography - note": {
-      "text": "easternmost Caribbean island"
+      "text": "Easternmost Caribbean island"
     }
   },
   "People and Society": {
@@ -170,7 +170,7 @@
       "text": "-0.29 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "most densely populated country in the eastern Caribbean; approximately one-third live in urban areas"
+      "text": "Most densely populated country in the eastern Caribbean; approximately one-third live in urban areas"
     },
     "Urbanization": {
       "urban population": {
@@ -239,22 +239,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 98.8% of population"
+        "text": "Total: 98.8% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 2% of population (2020 est.)"
+        "text": "Total: 2% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -268,22 +268,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -306,7 +306,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "99.6%"
@@ -343,14 +343,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "pollution of coastal waters from waste disposal by ships; soil erosion; illegal solid waste disposal threatens contamination of aquifers"
+      "text": "Pollution of coastal waters from waste disposal by ships; soil erosion; illegal solid waste disposal threatens contamination of aquifers"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -365,20 +365,20 @@
       }
     },
     "Climate": {
-      "text": "tropical; rainy season (June to October)"
+      "text": "Tropical; rainy season (June to October)"
     },
     "Land use": {
       "agricultural land": {
         "text": "32.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 25.6% (2018 est.)"
+        "text": "Arable land: 25.6% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 2.3% (2018 est.)"
+        "text": "Permanent crops: 2.3% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 4.7% (2018 est.)"
+        "text": "Permanent pasture: 4.7% (2018 est.)"
       },
       "forest": {
         "text": "19.4% (2018 est.)"
@@ -434,17 +434,17 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Barbados"
       },
       "etymology": {
-        "text": "the name derives from the Portuguese \"as barbadas,\" which means \"the bearded ones\" and can refer either to the long, hanging roots of the island's bearded fig trees or to the alleged beards of the native Carib inhabitants"
+        "text": "The name derives from the Portuguese \"as barbadas,\" which means \"the bearded ones\" and can refer either to the long, hanging roots of the island's bearded fig trees or to the alleged beards of the native Carib inhabitants"
       }
     },
     "Government type": {
-      "text": "parliamentary republic; a Commonwealth realm"
+      "text": "Parliamentary republic; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -457,7 +457,7 @@
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "named after a bridge constructed over the swampy area (known as the Careenage) around the Constitution River that flows through the center of Bridgetown"
+        "text": "Named after a bridge constructed over the swampy area (known as the Careenage) around the Constitution River that flows through the center of Bridgetown"
       }
     },
     "Administrative divisions": {
@@ -471,28 +471,28 @@
     },
     "Constitution": {
       "history": {
-        "text": "adopted 22 November 1966, effective 30 November 1966; &nbsp;Constitution (Amendment) (No. 2) Bill, 2021 establishes Barbados as a republic and revokes the earlier Order in Council"
+        "text": "Adopted 22 November 1966, effective 30 November 1966; ;Constitution (Amendment) (No. 2) Bill, 2021 establishes Barbados as a republic and revokes the earlier Order in Council"
       },
       "amendments": {
-        "text": "proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses; amended several times, last in 2021"
+        "text": "Proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses; amended several times, last in 2021"
       },
-      "note": "<strong>note </strong>- following the transition to a republic on 30 November 2021, the Government of Barbados plans a consultation on drafting a new constitution"
+      "note": "Note - following the transition to a republic on 30 November 2021, the Government of Barbados plans a consultation on drafting a new constitution"
     },
     "Legal system": {
       "text": "English common law; no judicial review of legislative acts"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "yes"
+        "text": "Yes"
       },
       "citizenship by descent only": {
-        "text": "yes"
+        "text": "Yes"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "5 years"
@@ -512,7 +512,7 @@
         "text": "Cabinet appointed by the president on the advice of the prime minister"
       },
       "elections/appointments": {
-        "text": "the president is elected by an electoral college of both Houses of Parliament for a four year renewable term; election last held 20 October 2021; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister"
+        "text": "The president is elected by an electoral college of both Houses of Parliament for a four year renewable term; election last held 20 October 2021; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister"
       },
       "election results": {
         "text": "Sandra MASON elected as first president on 20 October 2021 to take office on 30 November 2021"
@@ -520,15 +520,15 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (21 seats - 18 for current term; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+        "text": "Bicameral Parliament consists of:Senate (21 seats - 18 for current term; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president) House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
       },
       "elections": {
-        "text": "<br>Senate - last appointments on 4 February 2022 (next appointments in February 2027)<br>House of Assembly - last held on 19 January 2022 (next to be held in January 2027)"
+        "text": "Senate - last appointments on 4 February 2022 (next appointments in February 2027)House of Assembly - last held on 19 January 2022 (next to be held in January 2027)"
       },
       "election results": {
-        "text": "<br>Senate - appointed; composition as of March 2022- men 10, women 8, percent of women 44.4% <br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition as of March 2022 - men 22, women 8, percent of women 26.7%; note - total Parliament percent of women 33.3%"
+        "text": "Senate - appointed; composition as of March 2022- men 10, women 8, percent of women 44.4% House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition as of March 2022 - men 22, women 8, percent of women 26.7%; note - total Parliament percent of women 33.3%"
       },
-      "note": "<strong>note:</strong> tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period"
+      "note": "Note: tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period"
     },
     "Judicial branch": {
       "highest courts": {
@@ -542,14 +542,14 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Bajan Free Party [Alex MITCHELL]<br>Barbados Integrity Movement [Neil HOLDER]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Freundel STUART]<br>People’s Democratic Congress [Mark ADAMSON]<br>People's Empowerment Party or PEP [David COMISSIONG]<br>Solutions Barbados [Grenville PHILLIPS II]<br>United Progressive Party or UPP [Everton HOLLIGAN]"
+      "text": "Alliance Party for Progress or APP [Joseph ATHERLEY]Bajan Free Party [Alex MITCHELL]Barbados Integrity Movement [Neil HOLDER]Barbados Labor Party or BLP [Mia MOTTLEY]Democratic Labor Party or DLP [Freundel STUART]People’s Democratic Congress [Mark ADAMSON]People's Empowerment Party or PEP [David COMISSIONG]Solutions Barbados [Grenville PHILLIPS II]United Progressive Party or UPP [Everton HOLLIGAN]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Noel Anderson LYNCH (since&nbsp;11 January 2019)"
+        "text": "Ambassador Noel Anderson LYNCH (since;11 January 2019)"
       },
       "chancery": {
         "text": "2144 Wyoming Avenue NW, Washington, DC 20008"
@@ -561,7 +561,7 @@
         "text": "[1] (202) 332-7467"
       },
       "email address and website": {
-        "text": "<br>washington@foreign.gov.bb"
+        "text": "Washington@foreign.gov.bb"
       },
       "consulate(s) general": {
         "text": "Miami, New York"
@@ -575,7 +575,7 @@
         "text": "Wildey Business Park, St. Michael BB 14006, Barbados, W.I."
       },
       "mailing address": {
-        "text": "3120 Bridgetown Place, Washington DC&nbsp; 20521-3120"
+        "text": "3120 Bridgetown Place, Washington DC; 20521-3120"
       },
       "telephone": {
         "text": "(246) 227-4000"
@@ -584,11 +584,11 @@
         "text": "(246) 431-0179"
       },
       "email address and website": {
-        "text": "<br>BridgetownACS@state.gov<br><br>https://bb.usembassy.gov/"
+        "text": "BridgetownACS@state.govhttps://bb.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past (the colonial coat of arms contained a complete trident)"
+      "text": "Three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past (the colonial coat of arms contained a complete trident)"
     },
     "National symbol(s)": {
       "text": "Neptune's trident, pelican, Red Bird of Paradise flower (also known as Pride of Barbados); national colors: blue, yellow, black"
@@ -600,7 +600,7 @@
       "lyrics/music": {
         "text": "Irving BURGIE/C. Van Roland EDWARDS"
       },
-      "note": "<strong>note:</strong> adopted 1966; the anthem is also known as \"In Plenty and In Time of Need\""
+      "note": "Note: adopted 1966; the anthem is also known as \"In Plenty and In Time of Need\""
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -625,7 +625,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$4.49 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
@@ -648,7 +648,7 @@
       "Real GDP per capita 2018": {
         "text": "$15,700 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$4.99 billion (2017 est.)"
@@ -701,10 +701,10 @@
       }
     },
     "Agricultural products": {
-      "text": "sugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses nes, sweet potatoes, tropical fruit"
+      "text": "Sugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses nes, sweet potatoes, tropical fruit"
     },
     "Industries": {
-      "text": "tourism, sugar, light manufacturing, component assembly for export"
+      "text": "Tourism, sugar, light manufacturing, component assembly for export"
     },
     "Industrial production growth rate": {
       "text": "2.4% (2017 est.)"
@@ -798,7 +798,7 @@
       "text": "US 21%, Poland 14%, Jamaica 8%, Guyana 6%,Trinidad and Tobago 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "rums and other hard liquor, ships, orthopedic appliances, cement, packaged medicines (2019)"
+      "text": "Rums and other hard liquor, ships, orthopedic appliances, cement, packaged medicines (2019)"
     },
     "Imports": {
       "Imports 2017": {
@@ -812,7 +812,7 @@
       "text": "United States 35%, Trinidad and Tobago 14%, China 9%, Netherlands 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, ships, cars, shipping containers, packaged medicines (2019)"
+      "text": "Refined petroleum, ships, cars, shipping containers, packaged medicines (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -849,7 +849,7 @@
       "Exchange rates 2013": {
         "text": "2 (2013 est.)"
       },
-      "note": "<strong>note:</strong> the Barbadian dollar is pegged to the US dollar"
+      "note": "Note: the Barbadian dollar is pegged to the US dollar"
     }
   },
   "Energy": {
@@ -944,18 +944,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "island-wide automatic telephone system; telecom sector across the Caribbean region remains one of the key growth areas and contributors to the overall GDP; numerous competitors licensed, but small and localized (2020)"
+        "text": "Island-wide automatic telephone system; telecom sector across the Caribbean region remains one of the key growth areas and contributors to the overall GDP; numerous competitors licensed, but small and localized (2020)"
       },
       "domestic": {
-        "text": "fixed-line teledensity of roughly 45 per 100 persons; mobile-cellular telephone density about 115 per 100 persons (2019)"
+        "text": "Fixed-line teledensity of roughly 45 per 100 persons; mobile-cellular telephone density about 115 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 1-246; landing points for the ECFS and Southern Caribbean Fiber submarine cable with links to 15 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and Puerto Ricco; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2019)"
+        "text": "Country code - 1-246; landing points for the ECFS and Southern Caribbean Fiber submarine cable with links to 15 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and Puerto Ricco; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations"
+      "text": "Government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations"
     },
     "Internet country code": {
       "text": ".bb"
@@ -1010,7 +1010,7 @@
         "text": "165"
       },
       "by type": {
-        "text": "bulk carrier 46, general cargo 103, other 16 (2021)"
+        "text": "Bulk carrier 46, general cargo 103, other 16 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1041,32 +1041,32 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)"
+      "text": "The Barbados Defense Force (BDF) has approximately 600 active personnel (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2021)"
+      "text": "The Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2021)"
     },
     "Military service age and obligation": {
-      "text": "voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)"
+      "text": "Voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)"
     },
     "Military - note": {
-      "text": "<p>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados</p>"
+      "text": "Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p><em>Barbados-Venezuela (Maritime Boundary):</em> Barbados joins other Caribbean states and the United Kingdom to counter Venezuela's claim that Aves Island, a large sandbar with some vegetation, sustains human habitation or economic life, the criteria under the UN Convention on the Law of the Sea (UNCLOS), Article 121, which would permit Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea.  The dispute hampers hydrocarbon prospecting and creation of exploration blocks. <br><br><em>Barbados-Trinidad and Tobago (Maritime Boundary):</em> Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's exclusive economic zone.</p>"
+      "text": "Barbados-Venezuela (Maritime Boundary): Barbados joins other Caribbean states and the United Kingdom to counter Venezuela's claim that Aves Island, a large sandbar with some vegetation, sustains human habitation or economic life, the criteria under the UN Convention on the Law of the Sea (UNCLOS), Article 121, which would permit Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea.  The dispute hampers hydrocarbon prospecting and creation of exploration blocks. Barbados-Trinidad and Tobago (Maritime Boundary): Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's exclusive economic zone."
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "human traffickers exploit domestic and foreign victims in Barbados; foreign women are subject to sex trafficking; children are exploited in sex trafficking by parents and caregivers, according to anecdotal reports; documented and undocumented migrants from Guyana, Haiti, Jamaica, and Venezuela are at high risk for trafficking, while migrants from other nearby countries are increasingly vulnerable"
+        "text": "Human traffickers exploit domestic and foreign victims in Barbados; foreign women are subject to sex trafficking; children are exploited in sex trafficking by parents and caregivers, according to anecdotal reports; documented and undocumented migrants from Guyana, Haiti, Jamaica, and Venezuela are at high risk for trafficking, while migrants from other nearby countries are increasingly vulnerable"
       },
       "tier rating": {
         "text": "Tier 2 Watch List &mdash; Barbados does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government completed an anti-trafficking manual on assisting and interviewing victims, reinstated the anti-trafficking task force, and increased training for law enforcement and child care officials; however, authorities again did not identify any trafficking victims, reported no new prosecutions, and have never convicted anyone of trafficking; the national action plan has yet to be completed (2020)"
       }
     },
     "Illicit drugs": {
-      "text": "<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p>"
+      "text": "A transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean"
     }
   }
 }

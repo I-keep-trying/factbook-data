@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "almost identical in size to Virginia; slightly larger than Tennessee"
+      "text": "Almost identical in size to Virginia; slightly larger than Tennessee"
     },
     "Land boundaries": {
       "total": {
@@ -51,10 +51,10 @@
       }
     },
     "Climate": {
-      "text": "temperate; cold, damp winters; hot, dry summers"
+      "text": "Temperate; cold, damp winters; hot, dry summers"
     },
     "Terrain": {
-      "text": "mostly mountains with lowlands in north and southeast"
+      "text": "Mostly mountains with lowlands in north and southeast"
     },
     "Elevation": {
       "highest point": {
@@ -68,20 +68,20 @@
       }
     },
     "Natural resources": {
-      "text": "bauxite, copper, lead, zinc, coal, timber, arable land"
+      "text": "Bauxite, copper, lead, zinc, coal, timber, arable land"
     },
     "Land use": {
       "agricultural land": {
         "text": "46.9% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 29.9% (2018 est.)"
+        "text": "Arable land: 29.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1.5% (2018 est.)"
+        "text": "Permanent crops: 1.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 15.5% (2018 est.)"
+        "text": "Permanent pasture: 15.5% (2018 est.)"
       },
       "forest": {
         "text": "36.7% (2018 est.)"
@@ -94,19 +94,19 @@
       "text": "1,020 sq km (2012)"
     },
     "Major rivers (by length in km)": {
-      "text": "Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+      "text": "Atlantic Ocean drainage: (Black Sea) Danube (795,656 sq km)"
     },
     "Population distribution": {
-      "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger populations"
+      "text": "A fairly even distribution throughout most of the country, with urban areas attracting larger populations"
     },
     "Natural hazards": {
-      "text": "earthquakes; landslides"
+      "text": "Earthquakes; landslides"
     },
     "Geography - note": {
-      "text": "strategic location near Turkish Straits; controls key land routes from Europe to Middle East and Asia"
+      "text": "Strategic location near Turkish Straits; controls key land routes from Europe to Middle East and Asia"
     }
   },
   "People and Society": {
@@ -123,14 +123,14 @@
     },
     "Ethnic groups": {
       "text": "Bulgarian 76.9%, Turkish 8%, Romani 4.4%, other 0.7% (including Russian, Armenian, and Vlach), other (unknown) 10% (2011 est.)",
-      "note": "<strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 9–11% of Bulgaria's population"
+      "note": "Note: Romani populations are usually underestimated in official statistics and may represent 9–11% of Bulgaria's population"
     },
     "Languages": {
       "Languages": {
         "text": "Bulgarian (official) 76.8%, Turkish 8.2%, Romani 3.8%, other 0.7%, unspecified 10.5% (2011 est.)"
       },
       "major-language sample(s)": {
-        "text": "<br>Светoвен Алманах, незаменимият източник за основна информация. (Bulgarian)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "Светoвен Алманах, незаменимият източник за основна информация. (Bulgarian)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -191,7 +191,7 @@
       "text": "-0.29 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger populations"
+      "text": "A fairly even distribution throughout most of the country, with urban areas attracting larger populations"
     },
     "Urbanization": {
       "urban population": {
@@ -263,22 +263,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 99.5% of population"
+        "text": "Urban: 99.5% of population"
       },
       "improved: rural": {
-        "text": "rural: 97.4% of population"
+        "text": "Rural: 97.4% of population"
       },
       "improved: total": {
-        "text": "total: 99% of population"
+        "text": "Total: 99% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0.5% of population"
+        "text": "Urban: 0.5% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 2.6% of population"
+        "text": "Rural: 2.6% of population"
       },
       "unimproved: total": {
-        "text": "total: 1% of population (2020 est.)"
+        "text": "Total: 1% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -292,22 +292,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -330,7 +330,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "98.4%"
@@ -367,14 +367,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "air pollution from industrial emissions; rivers polluted from raw sewage, heavy metals, detergents; deforestation; forest damage from air pollution and resulting acid rain; soil contamination from heavy metals from metallurgical plants and industrial wastes"
+      "text": "Air pollution from industrial emissions; rivers polluted from raw sewage, heavy metals, detergents; deforestation; forest damage from air pollution and resulting acid rain; soil contamination from heavy metals from metallurgical plants and industrial wastes"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -389,20 +389,20 @@
       }
     },
     "Climate": {
-      "text": "temperate; cold, damp winters; hot, dry summers"
+      "text": "Temperate; cold, damp winters; hot, dry summers"
     },
     "Land use": {
       "agricultural land": {
         "text": "46.9% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 29.9% (2018 est.)"
+        "text": "Arable land: 29.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1.5% (2018 est.)"
+        "text": "Permanent crops: 1.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 15.5% (2018 est.)"
+        "text": "Permanent pasture: 15.5% (2018 est.)"
       },
       "forest": {
         "text": "36.7% (2018 est.)"
@@ -441,10 +441,10 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+      "text": "Atlantic Ocean drainage: (Black Sea) Danube (795,656 sq km)"
     },
     "Total water withdrawal": {
       "municipal": {
@@ -479,11 +479,11 @@
         "text": "Kingdom of Bulgaria, People's Republic of Bulgaria"
       },
       "etymology": {
-        "text": "named after the Bulgar tribes who settled the lower Balkan region in the 7th century A.D."
+        "text": "Named after the Bulgar tribes who settled the lower Balkan region in the 7th century A.D."
       }
     },
     "Government type": {
-      "text": "parliamentary republic"
+      "text": "Parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -499,7 +499,7 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "etymology": {
-        "text": "named after the Saint Sofia Church in the city, parts of which date back to the 4th century A.D."
+        "text": "Named after the Saint Sofia Church in the city, parts of which date back to the 4th century A.D."
       }
     },
     "Administrative divisions": {
@@ -513,27 +513,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "several previous; latest drafted between late 1990 and early 1991, adopted 13 July 1991"
+        "text": "Several previous; latest drafted between late 1990 and early 1991, adopted 13 July 1991"
       },
       "amendments": {
-        "text": "proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a \"Grand National Assembly\" is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings; amended several times, last in 2015"
+        "text": "Proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a \"Grand National Assembly\" is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings; amended several times, last in 2015"
       }
     },
     "Legal system": {
-      "text": "civil law"
+      "text": "Civil law"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Bulgaria"
+        "text": "At least one parent must be a citizen of Bulgaria"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "5 years"
@@ -553,21 +553,21 @@
         "text": "Council of Ministers nominated by the prime minister, elected by the National Assembly"
       },
       "elections/appointments": {
-        "text": "president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly"
+        "text": "President and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly"
       },
       "election results": {
-        "text": "<em>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in runoff election; percent of vote - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%"
+        "text": "2021: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%2016: Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%2011: Rosen PLEVNELIEV elected president in runoff election; percent of vote - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)"
+        "text": "Unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 14 November 2021 (next election to be held in 2025)"
+        "text": "Last held on 14 November 2021 (next election to be held in 2025)"
       },
       "election results": {
-        "text": "percent of vote by party/coalition - PP 25.3%, GERB-SDS 22.4%, DPS 12.8%, BSP for Bulgaria 10.1%, ITN 9.4%, DB 6.3%, Revival 4.8%, other 8.9%; seats by party/coalition - PP 67, GERB-SDS 59, DPS 34, BSP for Bulgaria 26, ITN 25, DB 16, Revival 13; composition as of March 2022 - men 186, women 54, percent of women 22.5%"
+        "text": "Percent of vote by party/coalition - PP 25.3%, GERB-SDS 22.4%, DPS 12.8%, BSP for Bulgaria 10.1%, ITN 9.4%, DB 6.3%, Revival 4.8%, other 8.9%; seats by party/coalition - PP 67, GERB-SDS 59, DPS 34, BSP for Bulgaria 26, ITN 25, DB 16, Revival 13; composition as of March 2022 - men 186, women 54, percent of women 22.5%"
       }
     },
     "Judicial branch": {
@@ -578,11 +578,11 @@
         "text": "Supreme Court of Cassation and Supreme Administrative judges elected by the Supreme Judicial Council or SJC (consists of 25 members with extensive legal experience) and appointed by the president; judges can serve until mandatory retirement at age 65; Constitutional Court justices elected by the National Assembly and appointed by the president and the SJC; justices appointed for 9-year terms with renewal of 4 justices every 3 years"
       },
       "subordinate courts": {
-        "text": "appeals courts; regional and district courts; administrative courts; courts martial"
+        "text": "Appeals courts; regional and district courts; administrative courts; courts martial"
       }
     },
     "Political parties and leaders": {
-      "text": "Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Bulgaria of the Citizens or DBG [Dimitar DELCHEV]]<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) [Boyko BORISOV]<br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Georgi MANEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement \"Social Democrats\" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up.BG, We Are Coming! or IBG-NI (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]<br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS (alliance with GERB)[Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]"
+      "text": "Agrarian People's Union or ZNS [Roumen YONCHEV]Bulgarian Agrarian People’s Union [Nikolay NENCHEV]Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)Bulgaria of the Citizens or DBG [Dimitar DELCHEV]]Citizens for the European Development of Bulgaria or GERB (alliance with SDS) [Boyko BORISOV]Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]Ecoglasnost [Emil GEORGIEV]Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]Middle European Class or SEC [Georgi MANEV]Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]Movement 21 or D21 [Tatyana DONCHEVA]New Dawn [Mincho MINCHEV]Political Club Thrace or PKT [Stefan NACHEZ]Political Movement \"Social Democrats\" or PDS  [Elena NONEVA]Revival [Kostadin KOSTADINOV]Stand Up.BG or IS.BG [Maya MONOLOVA]Stand Up.BG, We Are Coming! or IBG-NI (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]There is Such a People or ITN [SLAVI TRIFONOV]United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]Union of Democratic Forces or SDS (alliance with GERB)[Rumen HRISTOV]Yes! Bulgaria [Hristo IVANOV]Volt Bulgaria or Volt [Nastimir ANANIEV]We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]"
     },
     "International organization participation": {
       "text": "Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -601,7 +601,7 @@
         "text": "[1] (202) 234-7973"
       },
       "email address and website": {
-        "text": "<br>office@bulgaria-embassy.org; Embassy.Washington@mfa.bg<br><br>https://www.bulgaria-embassy.org/en/homepage/"
+        "text": "Office@bulgaria-embassy.org; Embassy.Washington@mfa.bghttps://www.bulgaria-embassy.org/en/homepage/"
       },
       "consulate(s) general": {
         "text": "Chicago, Los Angeles, New York"
@@ -609,13 +609,13 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Herro MUSTAFA (since&nbsp;18&nbsp;October 2019)"
+        "text": "Ambassador Herro MUSTAFA (since;18;October 2019)"
       },
       "embassy": {
         "text": "16, Kozyak Street, Sofia 1408"
       },
       "mailing address": {
-        "text": "5740 Sofia Place, Washington, DC&nbsp; 20521-5740"
+        "text": "5740 Sofia Place, Washington, DC; 20521-5740"
       },
       "telephone": {
         "text": "[359] (2) 937-5100"
@@ -624,15 +624,15 @@
         "text": "[359] (2) 937-5320"
       },
       "email address and website": {
-        "text": "<br>acs_sofia@state.gov<br><br>https://bg.usembassy.gov/"
+        "text": "Acs_sofia@state.govhttps://bg.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue",
-      "note": "<strong>note:</strong> the national emblem, formerly on the hoist side of the white stripe, has been removed"
+      "text": "Three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue",
+      "note": "Note: the national emblem, formerly on the hoist side of the white stripe, has been removed"
     },
     "National symbol(s)": {
-      "text": "lion; national colors: white, green, red"
+      "text": "Lion; national colors: white, green, red"
     },
     "National anthem": {
       "name": {
@@ -641,7 +641,7 @@
       "lyrics/music": {
         "text": "Tsvetan Tsvetkov RADOSLAVOV"
       },
-      "note": "<strong>note:</strong> adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War"
+      "note": "Note: adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -654,7 +654,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Bulgaria, a former communist country that entered the EU in 2007, has an open economy that historically has demonstrated strong growth, but its per-capita income remains the lowest among EU members and its reliance on energy imports and foreign demand for its exports makes its growth sensitive to external market conditions.</p><p></p><p>The government undertook significant structural economic reforms in the 1990s to move the economy from a centralized, planned economy to a more liberal, market-driven economy. These reforms included privatization of state-owned enterprises, liberalization of trade, and strengthening of the tax system - changes that initially caused some economic hardships but later helped to attract investment, spur growth, and make gradual improvements to living conditions. From 2000 through 2008, Bulgaria maintained robust, average annual real GDP growth in excess of 6%, which was followed by a deep recession in 2009 as the financial crisis caused domestic demand, exports, capital inflows and industrial production to contract, prompting the government to rein in spending. Real GDP growth remained slow - less than 2% annually - until 2015, when demand from EU countries for Bulgarian exports, plus an inflow of EU development funds, boosted growth to more than 3%. In recent years, strong domestic demand combined with low international energy prices have contributed to Bulgaria’s economic growth approaching 4% and have also helped to ease inflation. Bulgaria’s prudent public financial management contributed to budget surpluses both in 2016 and 2017.</p><p></p><p>Bulgaria is heavily reliant on energy imports from Russia, a potential vulnerability, and is a participant in EU-backed efforts to diversify regional natural gas supplies. In late 2016, the Bulgarian Government provided funding to Bulgaria’s National Electric Company to cover the $695 million compensation owed to Russian nuclear equipment manufacturer Atomstroyexport for the cancellation of the Belene Nuclear Power Plant project, which the Bulgarian Government terminated in 2012. As of early 2018, the government was floating the possibility of resurrecting the Belene project. The natural gas market, dominated by state-owned Bulgargaz, is also almost entirely supplied by Russia. Infrastructure projects such as the Inter-Connector Greece-Bulgaria and Inter-Connector Bulgaria-Serbia, which would enable Bulgaria to have access to non-Russian gas, have either stalled or made limited progress. In 2016, the Bulgarian Government established the State eGovernment Agency. This new agency is responsible for the electronic governance, coordinating national policies with the EU, and strengthening cybersecurity.</p><p></p><p>Despite a favorable investment regime, including low, flat corporate income taxes, significant challenges remain. Corruption in public administration, a weak judiciary, low productivity, lack of transparency in public procurements, and the presence of organized crime continue to hamper the country's investment climate and economic prospects.</p>"
+      "text": "Bulgaria, a former communist country that entered the EU in 2007, has an open economy that historically has demonstrated strong growth, but its per-capita income remains the lowest among EU members and its reliance on energy imports and foreign demand for its exports makes its growth sensitive to external market conditions.The government undertook significant structural economic reforms in the 1990s to move the economy from a centralized, planned economy to a more liberal, market-driven economy. These reforms included privatization of state-owned enterprises, liberalization of trade, and strengthening of the tax system - changes that initially caused some economic hardships but later helped to attract investment, spur growth, and make gradual improvements to living conditions. From 2000 through 2008, Bulgaria maintained robust, average annual real GDP growth in excess of 6%, which was followed by a deep recession in 2009 as the financial crisis caused domestic demand, exports, capital inflows and industrial production to contract, prompting the government to rein in spending. Real GDP growth remained slow - less than 2% annually - until 2015, when demand from EU countries for Bulgarian exports, plus an inflow of EU development funds, boosted growth to more than 3%. In recent years, strong domestic demand combined with low international energy prices have contributed to Bulgaria’s economic growth approaching 4% and have also helped to ease inflation. Bulgaria’s prudent public financial management contributed to budget surpluses both in 2016 and 2017.Bulgaria is heavily reliant on energy imports from Russia, a potential vulnerability, and is a participant in EU-backed efforts to diversify regional natural gas supplies. In late 2016, the Bulgarian Government provided funding to Bulgaria’s National Electric Company to cover the $695 million compensation owed to Russian nuclear equipment manufacturer Atomstroyexport for the cancellation of the Belene Nuclear Power Plant project, which the Bulgarian Government terminated in 2012. As of early 2018, the government was floating the possibility of resurrecting the Belene project. The natural gas market, dominated by state-owned Bulgargaz, is also almost entirely supplied by Russia. Infrastructure projects such as the Inter-Connector Greece-Bulgaria and Inter-Connector Bulgaria-Serbia, which would enable Bulgaria to have access to non-Russian gas, have either stalled or made limited progress. In 2016, the Bulgarian Government established the State eGovernment Agency. This new agency is responsible for the electronic governance, coordinating national policies with the EU, and strengthening cybersecurity.Despite a favorable investment regime, including low, flat corporate income taxes, significant challenges remain. Corruption in public administration, a weak judiciary, low productivity, lack of transparency in public procurements, and the presence of organized crime continue to hamper the country's investment climate and economic prospects."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -666,7 +666,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$156.02 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -689,7 +689,7 @@
       "Real GDP per capita 2018": {
         "text": "$22,200 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$68.49 billion (2019 est.)"
@@ -748,17 +748,17 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, maize, sunflower seed, milk, barley, rapeseed, potatoes, grapes, tomatoes, watermelons"
+      "text": "Wheat, maize, sunflower seed, milk, barley, rapeseed, potatoes, grapes, tomatoes, watermelons"
     },
     "Industries": {
-      "text": "electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers"
+      "text": "Electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers"
     },
     "Industrial production growth rate": {
       "text": "3.6% (2017 est.)"
     },
     "Labor force": {
       "text": "3.113 million (2020 est.)",
-      "note": "<strong>note:</strong> number of employed persons"
+      "note": "Note: number of employed persons"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -827,13 +827,13 @@
       "Public debt 2016": {
         "text": "27.4% of GDP (2016 est.)"
       },
-      "note": "<strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds"
+      "note": "Note: defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds"
     },
     "Taxes and other revenues": {
       "text": "35.7% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -858,7 +858,7 @@
       "text": "Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "refined petroleum, packaged medicines, copper, wheat, electricity (2019)"
+      "text": "Refined petroleum, packaged medicines, copper, wheat, electricity (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -875,7 +875,7 @@
       "text": "Germany 11%, Russia 9%, Italy 7%, Romania 7%, Turkey 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "crude petroleum, copper, cars, packaged medicines, refined petroleum (2019)"
+      "text": "Crude petroleum, copper, cars, packaged medicines, refined petroleum (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -895,7 +895,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "leva (BGN) per US dollar -"
+        "text": "Leva (BGN) per US dollar -"
       },
       "Exchange rates 2020": {
         "text": "1.61885 (2020 est.)"
@@ -1006,15 +1006,15 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "<p>Bulgaria’s telecoms sector benefited from adaptation of EU regulatory measures and privatization; population is moving to fiber over DSL for broadband connection; investment towards rural areas; migration from fixed-line voice to mobile and VoIP; private networks pursuing upgrades and development of services based on 5G; broadband market in Bulgaria enjoys cross-platform competition; operators deploy NB-IoT platform in several cities and released smart platform for utilities; government launched e-learning platform to help students continue their studies during lockdown (2021)</p> (2020)"
+        "text": "Bulgaria’s telecoms sector benefited from adaptation of EU regulatory measures and privatization; population is moving to fiber over DSL for broadband connection; investment towards rural areas; migration from fixed-line voice to mobile and VoIP; private networks pursuing upgrades and development of services based on 5G; broadband market in Bulgaria enjoys cross-platform competition; operators deploy NB-IoT platform in several cities and released smart platform for utilities; government launched e-learning platform to help students continue their studies during lockdown (2021) (2020)"
       },
       "domestic": {
-        "text": "fixed-line over 12 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 114 telephones per 100 persons (2020)"
+        "text": "Fixed-line over 12 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 114 telephones per 100 persons (2020)"
       },
       "international": {
-        "text": "country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, Georgia&nbsp;and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019)"
+        "text": "Country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, Georgia;and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "4 national terrestrial TV stations with 1 state-owned and 3 privately owned; a vast array of TV stations are available from cable and satellite TV providers; state-owned national radio broadcasts over 3 networks; large number of private radio stations broadcasting, especially in urban areas"
@@ -1117,7 +1117,7 @@
       "unpaved": {
         "text": "277 km (2011)"
       },
-      "note": "<strong>note:</strong> does not include Category IV local roads"
+      "note": "Note: does not include Category IV local roads"
     },
     "Waterways": {
       "text": "470 km (2009)"
@@ -1127,7 +1127,7 @@
         "text": "79"
       },
       "by type": {
-        "text": "bulk carrier 4, general cargo 14, oil tanker 8, other 53 (2021)"
+        "text": "Bulk carrier 4, general cargo 14, oil tanker 8, other 53 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1158,14 +1158,14 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)"
+      "text": "Approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, the Netherlands, and Italy (2021)"
+      "text": "The Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, the Netherlands, and Italy (2021)"
     },
     "Military service age and obligation": {
       "text": "18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2021)",
-      "note": "note - in 2021, women comprised about 17% of the Bulgarian military's full-time personnel"
+      "note": "Note - in 2021, women comprised about 17% of the Bulgarian military's full-time personnel"
     },
     "Military - note": {
       "text": "Bulgaria officially became a member of NATO in 2004"
@@ -1174,12 +1174,12 @@
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force",
-      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "Note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1188,10 +1188,10 @@
       "stateless persons": {
         "text": "1,143 (mid-year 2021)"
       },
-      "note": "<strong>note:</strong> 71,020 estimated refugee and migrant arrivals (January 2015-January 2022); Bulgaria is predominantly a transit country"
+      "note": "Note: 71,020 estimated refugee and migrant arrivals (January 2015-January 2022); Bulgaria is predominantly a transit country"
     },
     "Illicit drugs": {
-      "text": "source country for amphetamine tablets"
+      "text": "Source country for amphetamine tablets"
     }
   }
 }

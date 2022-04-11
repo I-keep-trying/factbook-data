@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br> <p>In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, provided 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which opened for operations in December 2021. Laos financed the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand.</p>"
+      "text": "Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013. In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, provided 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which opened for operations in December 2021. Laos financed the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand."
     }
   },
   "Geography": {
@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "about twice the size of Pennsylvania; slightly larger than Utah"
+      "text": "About twice the size of Pennsylvania; slightly larger than Utah"
     },
     "Land boundaries": {
       "total": {
@@ -40,13 +40,13 @@
       "text": "0 km (landlocked)"
     },
     "Maritime claims": {
-      "text": "none (landlocked)"
+      "text": "None (landlocked)"
     },
     "Climate": {
-      "text": "tropical monsoon; rainy season (May to November); dry season (December to April)"
+      "text": "Tropical monsoon; rainy season (May to November); dry season (December to April)"
     },
     "Terrain": {
-      "text": "mostly rugged mountains; some plains and plateaus"
+      "text": "Mostly rugged mountains; some plains and plateaus"
     },
     "Elevation": {
       "highest point": {
@@ -60,20 +60,20 @@
       }
     },
     "Natural resources": {
-      "text": "timber, hydropower, gypsum, tin, gold, gemstones"
+      "text": "Timber, hydropower, gypsum, tin, gold, gemstones"
     },
     "Land use": {
       "agricultural land": {
         "text": "10.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 6.2% (2018 est.)"
+        "text": "Arable land: 6.2% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.7% (2018 est.)"
+        "text": "Permanent crops: 0.7% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 3.7% (2018 est.)"
+        "text": "Permanent pasture: 3.7% (2018 est.)"
       },
       "forest": {
         "text": "67.9% (2018 est.)"
@@ -86,19 +86,19 @@
       "text": "3,100 sq km (2012)"
     },
     "Major rivers (by length in km)": {
-      "text": "Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
       "text": "Pacific Ocean drainage: Mekong (805,604 sq km)"
     },
     "Population distribution": {
-      "text": "most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia"
+      "text": "Most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia"
     },
     "Natural hazards": {
-      "text": "floods, droughts"
+      "text": "Floods, droughts"
     },
     "Geography - note": {
-      "text": "landlocked; most of the country is mountainous and thickly forested; the Mekong River forms a large part of the western boundary with Thailand"
+      "text": "Landlocked; most of the country is mountainous and thickly forested; the Mekong River forms a large part of the western boundary with Thailand"
     }
   },
   "People and Society": {
@@ -115,21 +115,21 @@
     },
     "Ethnic groups": {
       "text": "Lao 53.2%, Khmou 11%, Hmong 9.2%, Phouthay 3.4%, Tai 3.1%, Makong 2.5%, Katong 2.2%, Lue 2%, Akha 1.8%, other 11.6% (2015 est.)",
-      "note": "<strong>note:</strong> the Laos Government officially recognizes 49 ethnic groups, but the total number of ethnic groups is estimated to be well over 200"
+      "note": "Note: the Laos Government officially recognizes 49 ethnic groups, but the total number of ethnic groups is estimated to be well over 200"
     },
     "Languages": {
       "Languages": {
         "text": "Lao (official), French, English, various ethnic languages"
       },
       "major-language sample(s)": {
-        "text": "<br>ແຫລ່ງທີ່ຂາດບໍ່ໄດ້ສຳລັບຂໍ້ມູນຕົ້ນຕໍ່” (Lao)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "ແຫລ່ງທີ່ຂາດບໍ່ໄດ້ສຳລັບຂໍ້ມູນຕົ້ນຕໍ່” (Lao)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
       "text": "Buddhist 64.7%, Christian 1.7%, none 31.4%, other/not stated 2.1% (2015 est.)"
     },
     "Demographic profile": {
-      "text": "<p>Laos is a predominantly rural country with a youthful population – almost 55% of the population is under the age of 25.  Its progress on health and development issues has been uneven geographically, among ethnic groups, and socioeconomically.  Laos has made headway in poverty reduction, with the poverty rate almost halving from 46% in 1992/93 to 22% in 2012/13.  Nevertheless, pronounced rural-urban disparities persist, and income inequality is rising.  Poverty most affects populations in rural and highland areas, particularly ethnic minority groups. </p> <p>The total fertility rate (TFR) has decreased markedly from around 6 births per woman on average in 1990 to approximately 2.8 in 2016, but it is still one of the highest in Southeast Asia.  TFR is higher in rural and remote areas, among ethnic minority groups, the less-educated, and the poor; it is lower in urban areas and among the more educated and those with higher incomes.  Although Laos’ mortality rates have improved substantially over the last few decades, the maternal mortality rate and childhood malnutrition remain at high levels.  As fertility and mortality rates continue to decline, the proportion of Laos’ working-age population will increase, and its share of dependents will shrink.  The age structure shift will provide Laos with the potential to realize a demographic dividend during the next few decades, if it can improve educational access and quality and gainfully employ its growing working-age population in productive sectors.  Currently, Laos primary school enrollment is nearly universal, but the drop-out rate remains problematic.  Secondary school enrollment has also increased but remains low, especially for girls. </p> <p>Laos has historically been a country of emigration and internal displacement due to conflict and a weak economy. The Laos civil war (1953 – 1975) mainly caused internal displacement (numbering in the hundreds of thousands).  Following the end of the Vietnam War in 1975, indigenous people in remote, war-struck areas were resettled and more than 300,000 people fled to Thailand to escape the communist regime that took power.  The majority of those who sought refuge in Thailand ultimately were resettled in the US (mainly Hmong who fought with US forces), and lesser numbers went to France, Canada, and Australia. </p> <p>The Laos Government carried out resettlement programs between the mid-1980s and mid-1990s to relocate ethnic minority groups from the rural northern highlands to development areas in the lowlands ostensibly to alleviate poverty, make basic services more accessible, eliminate slash-and-burn agriculture and opium production, integrate ethnic minorities, and control rebel groups (including Hmong insurgents).  For many, however, resettlement has exacerbated poverty, led to the loss of livelihoods, and increased food insecurity and mortality rates.  As the resettlement programs started to wane in the second half of the 1990s, migration from the northern highlands to urban centers – chiefly the capital Vientiane – to pursue better jobs in the growing manufacturing and service sectors became the main type of relocation.  Migration of villagers from the south seeking work in neighboring Thailand also increased.  Thailand is the main international migration destination for Laotians because of the greater availability of jobs and higher pay than at home; nearly a million Laotian migrants were estimated to live in Thailand as of 2015.</p>"
+      "text": "Laos is a predominantly rural country with a youthful population – almost 55% of the population is under the age of 25.  Its progress on health and development issues has been uneven geographically, among ethnic groups, and socioeconomically.  Laos has made headway in poverty reduction, with the poverty rate almost halving from 46% in 1992/93 to 22% in 2012/13.  Nevertheless, pronounced rural-urban disparities persist, and income inequality is rising.  Poverty most affects populations in rural and highland areas, particularly ethnic minority groups.  The total fertility rate (TFR) has decreased markedly from around 6 births per woman on average in 1990 to approximately 2.8 in 2016, but it is still one of the highest in Southeast Asia.  TFR is higher in rural and remote areas, among ethnic minority groups, the less-educated, and the poor; it is lower in urban areas and among the more educated and those with higher incomes.  Although Laos’ mortality rates have improved substantially over the last few decades, the maternal mortality rate and childhood malnutrition remain at high levels.  As fertility and mortality rates continue to decline, the proportion of Laos’ working-age population will increase, and its share of dependents will shrink.  The age structure shift will provide Laos with the potential to realize a demographic dividend during the next few decades, if it can improve educational access and quality and gainfully employ its growing working-age population in productive sectors.  Currently, Laos primary school enrollment is nearly universal, but the drop-out rate remains problematic.  Secondary school enrollment has also increased but remains low, especially for girls.  Laos has historically been a country of emigration and internal displacement due to conflict and a weak economy. The Laos civil war (1953 – 1975) mainly caused internal displacement (numbering in the hundreds of thousands).  Following the end of the Vietnam War in 1975, indigenous people in remote, war-struck areas were resettled and more than 300,000 people fled to Thailand to escape the communist regime that took power.  The majority of those who sought refuge in Thailand ultimately were resettled in the US (mainly Hmong who fought with US forces), and lesser numbers went to France, Canada, and Australia.  The Laos Government carried out resettlement programs between the mid-1980s and mid-1990s to relocate ethnic minority groups from the rural northern highlands to development areas in the lowlands ostensibly to alleviate poverty, make basic services more accessible, eliminate slash-and-burn agriculture and opium production, integrate ethnic minorities, and control rebel groups (including Hmong insurgents).  For many, however, resettlement has exacerbated poverty, led to the loss of livelihoods, and increased food insecurity and mortality rates.  As the resettlement programs started to wane in the second half of the 1990s, migration from the northern highlands to urban centers – chiefly the capital Vientiane – to pursue better jobs in the growing manufacturing and service sectors became the main type of relocation.  Migration of villagers from the south seeking work in neighboring Thailand also increased.  Thailand is the main international migration destination for Laotians because of the greater availability of jobs and higher pay than at home; nearly a million Laotian migrants were estimated to live in Thailand as of 2015."
     },
     "Age structure": {
       "0-14 years": {
@@ -186,7 +186,7 @@
       "text": "-0.99 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia"
+      "text": "Most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia"
     },
     "Urbanization": {
       "urban population": {
@@ -255,22 +255,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 97.1% of population"
+        "text": "Urban: 97.1% of population"
       },
       "improved: rural": {
-        "text": "rural: 84.1% of population"
+        "text": "Rural: 84.1% of population"
       },
       "improved: total": {
-        "text": "total: 88.8% of population"
+        "text": "Total: 88.8% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 2.9% of population"
+        "text": "Urban: 2.9% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 15.9% of population"
+        "text": "Rural: 15.9% of population"
       },
       "unimproved: total": {
-        "text": "total: 11.2% of population (2020 est.)"
+        "text": "Total: 11.2% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -284,22 +284,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 72% of population"
+        "text": "Rural: 72% of population"
       },
       "improved: total": {
-        "text": "total: 82.2% of population"
+        "text": "Total: 82.2% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 28% of population"
+        "text": "Rural: 28% of population"
       },
       "unimproved: total": {
-        "text": "total: 17.8% of population (2020 est.)"
+        "text": "Total: 17.8% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -313,13 +313,13 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "very high (2020)"
+        "text": "Very high (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+        "text": "Bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "dengue fever and malaria"
+        "text": "Dengue fever and malaria"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -333,7 +333,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "84.7%"
@@ -370,14 +370,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "unexploded ordnance; deforestation; soil erosion; loss of biodiversity; water pollution, most of the population does not have access to potable water"
+      "text": "Unexploded ordnance; deforestation; soil erosion; loss of biodiversity; water pollution, most of the population does not have access to potable water"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -392,20 +392,20 @@
       }
     },
     "Climate": {
-      "text": "tropical monsoon; rainy season (May to November); dry season (December to April)"
+      "text": "Tropical monsoon; rainy season (May to November); dry season (December to April)"
     },
     "Land use": {
       "agricultural land": {
         "text": "10.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 6.2% (2018 est.)"
+        "text": "Arable land: 6.2% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.7% (2018 est.)"
+        "text": "Permanent crops: 0.7% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 3.7% (2018 est.)"
+        "text": "Permanent pasture: 3.7% (2018 est.)"
       },
       "forest": {
         "text": "67.9% (2018 est.)"
@@ -429,13 +429,13 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "very high (2020)"
+        "text": "Very high (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+        "text": "Bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "dengue fever and malaria"
+        "text": "Dengue fever and malaria"
       }
     },
     "Waste and recycling": {
@@ -450,7 +450,7 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
       "text": "Pacific Ocean drainage: Mekong (805,604 sq km)"
@@ -485,11 +485,11 @@
         "text": "Mueang Lao (unofficial)"
       },
       "etymology": {
-        "text": "name means \"Land of the Lao [people]\""
+        "text": "Name means \"Land of the Lao [people]\""
       }
     },
     "Government type": {
-      "text": "communist state"
+      "text": "Communist state"
     },
     "Capital": {
       "name": {
@@ -502,7 +502,7 @@
         "text": "UTC+7 (12 hours ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the meaning in Pali, a Buddhist liturgical language, is \"city of sandalwood\""
+        "text": "The meaning in Pali, a Buddhist liturgical language, is \"city of sandalwood\""
       }
     },
     "Administrative divisions": {
@@ -516,27 +516,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1947 (preindependence); latest promulgated 13-15 August 1991"
+        "text": "Previous 1947 (preindependence); latest promulgated 13-15 August 1991"
       },
       "amendments": {
-        "text": "proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership and promulgation by the president of the republic; amended 2003, 2015"
+        "text": "Proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership and promulgation by the president of the republic; amended 2003, 2015"
       }
     },
     "Legal system": {
-      "text": "civil law system similar in form to the French system"
+      "text": "Civil law system similar in form to the French system"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+      "text": "Has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Laos"
+        "text": "At least one parent must be a citizen of Laos"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "10 years"
@@ -556,21 +556,21 @@
         "text": "Council of Ministers appointed by the president, approved by the National Assembly"
       },
       "elections/appointments": {
-        "text": "president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021; prime minister nominated by the president, elected by the National Assembly for 5-year term"
+        "text": "President and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021; prime minister nominated by the president, elected by the National Assembly for 5-year term"
       },
       "election results": {
-        "text": "<em><br>2021: </em>THONGLOUN Sisoulit (LPRP) elected president; National Assembly vote: 161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote: 158-3<br><br><em>2016:</em> BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulit (LPRP) elected prime minister; percent of National Assembly vote - NA"
+        "text": "2021: THONGLOUN Sisoulit (LPRP) elected president; National Assembly vote: 161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote: 158-32016: BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulit (LPRP) elected prime minister; percent of National Assembly vote - NA"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)"
+        "text": "Unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)"
       },
       "elections": {
-        "text": "last held on 21 February 2021 (next to be held in 2026)"
+        "text": "Last held on 21 February 2021 (next to be held in 2026)"
       },
       "election results": {
-        "text": "percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percent of women 21.9%"
+        "text": "Percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percent of women 21.9%"
       }
     },
     "Judicial branch": {
@@ -578,15 +578,15 @@
         "text": "People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)"
       },
       "judge selection and term of office": {
-        "text": "president of People's Supreme Court appointed by the National Assembly upon the recommendation of the president of the republic for a 5-year term; vice presidents of the People's Supreme Court appointed by the president of the republic upon the recommendation of the National Assembly; appointment of chamber judges NA; tenure of court vice presidents and chamber judges NA"
+        "text": "President of People's Supreme Court appointed by the National Assembly upon the recommendation of the president of the republic for a 5-year term; vice presidents of the People's Supreme Court appointed by the president of the republic upon the recommendation of the National Assembly; appointment of chamber judges NA; tenure of court vice presidents and chamber judges NA"
       },
       "subordinate courts": {
-        "text": "appellate courts; provincial, municipal, district, and military courts"
+        "text": "Appellate courts; provincial, municipal, district, and military courts"
       }
     },
     "Political parties and leaders": {
       "text": "Lao People's Revolutionary Party or LPRP [THONGLOUN Sisoulit]",
-      "note": "<strong>note:</strong> other parties proscribed"
+      "note": "Note: other parties proscribed"
     },
     "International organization participation": {
       "text": "ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IPU, ISO (subscriber), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -605,7 +605,7 @@
         "text": "[1] (202) 332-4923"
       },
       "email address and website": {
-        "text": "<br>embasslao@gmail.com; laoemb@verizon.net<br><br>https://laoembassy.com/"
+        "text": "Embasslao@gmail.com; laoemb@verizon.nethttps://laoembassy.com/"
       },
       "consulate(s)": {
         "text": "New York"
@@ -616,10 +616,10 @@
         "text": "Ambassador Peter HAYMOND (since 7 February 2020)"
       },
       "embassy": {
-        "text": "Ban Somvang Tai, Thadeua Road, Km 9,&nbsp;Hatsayfong District, Vientiane"
+        "text": "Ban Somvang Tai, Thadeua Road, Km 9,;Hatsayfong District, Vientiane"
       },
       "mailing address": {
-        "text": "4350 Vientiane Place, Washington DC&nbsp; 20521-4350"
+        "text": "4350 Vientiane Place, Washington DC; 20521-4350"
       },
       "telephone": {
         "text": "[856] 21-48-7000"
@@ -628,14 +628,14 @@
         "text": "[856] 21-48-7040"
       },
       "email address and website": {
-        "text": "<br>CONSLAO@state.gov<br><br>https://la.usembassy.gov/"
+        "text": "CONSLAO@state.govhttps://la.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "three horizontal bands of red (top), blue (double width), and red with a large white disk centered in the blue band; the red bands recall the blood shed for liberation; the blue band represents the Mekong River and prosperity; the white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future"
+      "text": "Three horizontal bands of red (top), blue (double width), and red with a large white disk centered in the blue band; the red bands recall the blood shed for liberation; the blue band represents the Mekong River and prosperity; the white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future"
     },
     "National symbol(s)": {
-      "text": "elephant; national colors: red, white, blue"
+      "text": "Elephant; national colors: red, white, blue"
     },
     "National anthem": {
       "name": {
@@ -644,7 +644,7 @@
       "lyrics/music": {
         "text": "SISANA Sisane/THONGDY Sounthonevichit"
       },
-      "note": "<strong>note:</strong> music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed following the 1975 Communist revolution that overthrew the monarchy"
+      "note": "Note: music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed following the 1975 Communist revolution that overthrew the monarchy"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -657,7 +657,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>The government of Laos, one of the few remaining one-party communist states, began decentralizing control and encouraging private enterprise in 1986. Economic growth averaged more than 6% per year in the period 1988-2008, and Laos' growth has more recently been amongst the fastest in Asia, averaging more than 7% per year for most of the last decade.</p><p></p><p>Nevertheless, Laos remains a country with an underdeveloped infrastructure, particularly in rural areas. It has a basic, but improving, road system, and limited external and internal land-line telecommunications. Electricity is available to 83% of the population. Agriculture, dominated by rice cultivation in lowland areas, accounts for about 20% of GDP and 73% of total employment. Recently, the country has faced a persistent current account deficit, falling foreign currency reserves, and growing public debt.</p><p></p><p>Laos' economy is heavily dependent on capital-intensive natural resource exports. The economy has benefited from high-profile foreign direct investment in hydropower dams along the Mekong River, copper and gold mining, logging, and construction, although some projects in these industries have drawn criticism for their environmental impacts.</p><p></p><p>Laos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations.</p>"
+      "text": "The government of Laos, one of the few remaining one-party communist states, began decentralizing control and encouraging private enterprise in 1986. Economic growth averaged more than 6% per year in the period 1988-2008, and Laos' growth has more recently been amongst the fastest in Asia, averaging more than 7% per year for most of the last decade.Nevertheless, Laos remains a country with an underdeveloped infrastructure, particularly in rural areas. It has a basic, but improving, road system, and limited external and internal land-line telecommunications. Electricity is available to 83% of the population. Agriculture, dominated by rice cultivation in lowland areas, accounts for about 20% of GDP and 73% of total employment. Recently, the country has faced a persistent current account deficit, falling foreign currency reserves, and growing public debt.Laos' economy is heavily dependent on capital-intensive natural resource exports. The economy has benefited from high-profile foreign direct investment in hydropower dams along the Mekong River, copper and gold mining, logging, and construction, although some projects in these industries have drawn criticism for their environmental impacts.Laos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -669,7 +669,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$53.62 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
@@ -692,7 +692,7 @@
       "Real GDP per capita 2018": {
         "text": "$7,600 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$16.97 billion (2017 est.)"
@@ -745,10 +745,10 @@
       }
     },
     "Agricultural products": {
-      "text": "rice, roots/tubers nes, cassava, sugar cane, vegetables, bananas, maize, watermelons, coffee, taro"
+      "text": "Rice, roots/tubers nes, cassava, sugar cane, vegetables, bananas, maize, watermelons, coffee, taro"
     },
     "Industries": {
-      "text": "mining (copper, tin, gold, gypsum); timber, electric power, agricultural processing, rubber, construction, garments, cement, tourism"
+      "text": "Mining (copper, tin, gold, gypsum); timber, electric power, agricultural processing, rubber, construction, garments, cement, tourism"
     },
     "Industrial production growth rate": {
       "text": "8% (2017 est.)"
@@ -850,7 +850,7 @@
       "text": "Thailand 36%, China 28%, Vietnam 16% (2019)"
     },
     "Exports - commodities": {
-      "text": "electricity, copper, rubber, gold, flavored water (2019)"
+      "text": "Electricity, copper, rubber, gold, flavored water (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -864,7 +864,7 @@
       "text": "Thailand 53%, China 26%, Vietnam 10% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, cars, cattle, iron structures, steel products (2019)"
+      "text": "Refined petroleum, cars, cattle, iron structures, steel products (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -884,7 +884,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "kips (LAK) per US dollar -"
+        "text": "Kips (LAK) per US dollar -"
       },
       "Exchange rates 2017": {
         "text": "8,231.1 (2017 est.)"
@@ -1001,15 +1001,15 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "reliance on radio network to communicate with remote areas; regulatory reform is below industry standards; government aims to strengthen infrastructure and attract foreign investment; low fixed-broadband penetration; dominance in mobile broadband with 4G and LTE, but low compared to other Asian markets; ASEAN Digital Hub investment provides international capacity; state owns almost all media, except for some entertainment outlets, and has suppressed some news; importer of broadcasting equipment and computers from China; providers examining m-payment platforms and 5G tests (2020)"
+        "text": "Reliance on radio network to communicate with remote areas; regulatory reform is below industry standards; government aims to strengthen infrastructure and attract foreign investment; low fixed-broadband penetration; dominance in mobile broadband with 4G and LTE, but low compared to other Asian markets; ASEAN Digital Hub investment provides international capacity; state owns almost all media, except for some entertainment outlets, and has suppressed some news; importer of broadcasting equipment and computers from China; providers examining m-payment platforms and 5G tests (2020)"
       },
       "domestic": {
-        "text": "fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular subscriptions (2019)"
+        "text": "Fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular subscriptions (2019)"
       },
       "international": {
-        "text": "country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China"
+        "text": "Country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "6 TV stations operating out of Vientiane - 3 government-operated and the others commercial; 17 provincial stations operating with nearly all programming relayed via satellite from the government-operated stations in Vientiane; Chinese and Vietnamese programming relayed via satellite from Lao National TV; broadcasts available from stations in Thailand and Vietnam in border areas; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies - 1 AM, 1 SW, and 3 FM; LNR's AM and FM programs are relayed via satellite constituting a large part of the programming schedules of the provincial radio stations; Thai radio broadcasts available in border areas and transmissions of multiple international broadcasters are also accessible"
@@ -1107,13 +1107,13 @@
         "text": "1"
       },
       "by type": {
-        "text": "general cargo 1 (2021)"
+        "text": "General cargo 1 (2021)"
       }
     }
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces<br><br>Ministry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units (2021)"
+      "text": "Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia ForcesMinistry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units (2021)"
     },
     "Military expenditures": {
       "Military Expenditures 2019": {
@@ -1133,24 +1133,24 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2021)"
+      "text": "Information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the LPAF is armed largely with weapons from the former Soviet Union; since 2010, China and Russia are the leading suppliers of military equipment to Laos (2021)"
+      "text": "The LPAF is armed largely with weapons from the former Soviet Union; since 2010, China and Russia are the leading suppliers of military equipment to Laos (2021)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18 months (2021)"
     },
     "Military - note": {
-      "text": "<p>the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism</p>"
+      "text": "The LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Thailand but disputes remain over islands in the Mekong River; Cambodia and Laos have a longstanding border demarcation dispute; concern among Mekong River Commission members that China's construction of eight dams on the Upper Mekong River and construction of more dams on its tributaries will affect water levels, sediment flows, and fisheries; Cambodia and Vietnam are concerned about Laos' extensive plans for upstream dam construction for the same reasons</p>"
+      "text": "Southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Thailand but disputes remain over islands in the Mekong River; Cambodia and Laos have a longstanding border demarcation dispute; concern among Mekong River Commission members that China's construction of eight dams on the Upper Mekong River and construction of more dams on its tributaries will affect water levels, sediment flows, and fisheries; Cambodia and Vietnam are concerned about Laos' extensive plans for upstream dam construction for the same reasons"
     },
     "Illicit drugs": {
-      "text": "<p>Bokeo Province part of the “Golden Triangle,” a notorious drug production and transit area; remains a poppy cultivator and source of illicit opium and a transit hub for other illicit drugs such as amphetamine-type stimulants (ATS) and chemical precursors; estimate of 4,925 ha of opium poppy cultivated in Laos in 2018</p>"
+      "text": "Bokeo Province part of the “Golden Triangle,” a notorious drug production and transit area; remains a poppy cultivator and source of illicit opium and a transit hub for other illicit drugs such as amphetamine-type stimulants (ATS) and chemical precursors; estimate of 4,925 ha of opium poppy cultivated in Laos in 2018"
     }
   }
 }

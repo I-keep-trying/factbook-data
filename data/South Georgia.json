@@ -24,10 +24,10 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "<strong>note:</strong> includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of 11 islands"
+      "note": "Note: includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of 11 islands"
     },
     "Area - comparative": {
-      "text": "slightly larger than Rhode Island"
+      "text": "Slightly larger than Rhode Island"
     },
     "Land boundaries": {
       "total": {
@@ -46,10 +46,10 @@
       }
     },
     "Climate": {
-      "text": "variable, with mostly westerly winds throughout the year interspersed with periods of calm; nearly all precipitation falls as snow"
+      "text": "Variable, with mostly westerly winds throughout the year interspersed with periods of calm; nearly all precipitation falls as snow"
     },
     "Terrain": {
-      "text": "most of the islands are rugged and mountainous rising steeply from the sea; South Georgia is largely barren with steep, glacier-covered mountains; the South Sandwich Islands are of volcanic origin with some active volcanoes"
+      "text": "Most of the islands are rugged and mountainous rising steeply from the sea; South Georgia is largely barren with steep, glacier-covered mountains; the South Sandwich Islands are of volcanic origin with some active volcanoes"
     },
     "Elevation": {
       "highest point": {
@@ -60,7 +60,7 @@
       }
     },
     "Natural resources": {
-      "text": "fish"
+      "text": "Fish"
     },
     "Land use": {
       "other": {
@@ -71,16 +71,16 @@
       "text": "0 sq km (2011)"
     },
     "Natural hazards": {
-      "text": "the South Sandwich Islands have prevailing weather conditions that generally make them difficult to approach by ship; they are also subject to active volcanism"
+      "text": "The South Sandwich Islands have prevailing weather conditions that generally make them difficult to approach by ship; they are also subject to active volcanism"
     },
     "Geography - note": {
-      "text": "the north coast of South Georgia has several large bays, which provide good anchorage"
+      "text": "The north coast of South Georgia has several large bays, which provide good anchorage"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "no indigenous inhabitants (July 2021 est.)",
-      "note": "<strong>note:</strong> the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited"
+      "text": "No indigenous inhabitants (July 2021 est.)",
+      "note": "Note: the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited"
     },
     "Dependency ratios": {
       "total dependency ratio": {
@@ -110,22 +110,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       }
     },
     "Current Health Expenditure": {
@@ -133,22 +133,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -169,10 +169,10 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "reindeer - introduced to the islands in the 20th century - devastated the native flora and bird species; some reindeer were translocated to the Falkland Islands in 2001, the rest were exterminated (2013-14); a parallel effort (2010-15) eradicated rats and mice that came to the islands as stowaways on ships as early as the late 18th century"
+      "text": "Reindeer - introduced to the islands in the 20th century - devastated the native flora and bird species; some reindeer were translocated to the Falkland Islands in 2001, the rest were exterminated (2013-14); a parallel effort (2010-15) eradicated rats and mice that came to the islands as stowaways on ships as early as the late 18th century"
     },
     "Climate": {
-      "text": "variable, with mostly westerly winds throughout the year interspersed with periods of calm; nearly all precipitation falls as snow"
+      "text": "Variable, with mostly westerly winds throughout the year interspersed with periods of calm; nearly all precipitation falls as snow"
     },
     "Land use": {
       "other": {
@@ -196,22 +196,22 @@
       }
     },
     "Dependency status": {
-      "text": "overseas territory of the UK, also claimed by Argentina; administered from the Falkland Islands by a commissioner, who is concurrently governor of the Falkland Islands, representing Queen ELIZABETH II"
+      "text": "Overseas territory of the UK, also claimed by Argentina; administered from the Falkland Islands by a commissioner, who is concurrently governor of the Falkland Islands, representing Queen ELIZABETH II"
     },
     "Legal system": {
-      "text": "the laws of the UK, where applicable, apply"
+      "text": "The laws of the UK, where applicable, apply"
     },
     "International organization participation": {
       "text": "UPU"
     },
     "Diplomatic representation in the US": {
-      "text": "none (overseas territory of the UK, also claimed by Argentina)"
+      "text": "None (overseas territory of the UK, also claimed by Argentina)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK, also claimed by Argentina)"
+      "text": "None (overseas territory of the UK, also claimed by Argentina)"
     },
     "Flag description": {
-      "text": "blue with the flag of the UK in the upper hoist-side quadrant and the South Georgia and South Sandwich Islands coat of arms centered on the outer half of the flag; the coat of arms features a shield with a golden lion rampant, holding a torch; the shield is supported by a fur seal on the left and a Macaroni penguin on the right; a reindeer appears above the crest, and below the shield on a scroll is the motto LEO TERRAM PROPRIAM PROTEGAT (Let the Lion Protect its Own Land); the lion with the torch represents the UK and discovery; the background of the shield, blue and white estoiles, are found in the coat of arms of James Cook, discoverer of the islands; all the outer supporting animals represented are native to the islands"
+      "text": "Blue with the flag of the UK in the upper hoist-side quadrant and the South Georgia and South Sandwich Islands coat of arms centered on the outer half of the flag; the coat of arms features a shield with a golden lion rampant, holding a torch; the shield is supported by a fur seal on the left and a Macaroni penguin on the right; a reindeer appears above the crest, and below the shield on a scroll is the motto LEO TERRAM PROPRIAM PROTEGAT (Let the Lion Protect its Own Land); the lion with the torch represents the UK and discovery; the background of the shield, blue and white estoiles, are found in the coat of arms of James Cook, discoverer of the islands; all the outer supporting animals represented are native to the islands"
     }
   },
   "Economy": {
@@ -229,18 +229,15 @@
   },
   "Military and Security": {
     "Military - note": {
-      "text": "defense is the responsibility of the UK"
+      "text": "Defense is the responsibility of the UK"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force</p>"
+      "text": "Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force"
     }
   }
-}},
-      "male": {
-        "text": "35.9 years"
-      },
+}   },
       "female": {
         "text": "41.4 years (2020 est.)"
       }
@@ -258,7 +255,7 @@
       "text": "0.06 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest"
+      "text": "Settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest"
     },
     "Urbanization": {
       "urban population": {
@@ -267,7 +264,7 @@
       "rate of urbanization": {
         "text": "0.35% annual rate of change (2020-25 est.)"
       },
-      "note": "<strong>note:</strong> data include Abkhazia and South Ossetia"
+      "note": "Note: data include Abkhazia and South Ossetia"
     },
     "Major urban areas - population": {
       "text": "1.080 million TBILISI (capital) (2022)"
@@ -297,7 +294,7 @@
     },
     "Mother's mean age at first birth": {
       "text": "25.9 years (2019 est.)",
-      "note": "<strong>note:</strong> data do not cover Abkhazia and South Ossetia"
+      "note": "Note: data do not cover Abkhazia and South Ossetia"
     },
     "Maternal mortality ratio": {
       "text": "25 deaths/100,000 live births (2017 est.)"
@@ -332,22 +329,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 99.4% of population"
+        "text": "Urban: 99.4% of population"
       },
       "improved: rural": {
-        "text": "rural: 94.3% of population"
+        "text": "Rural: 94.3% of population"
       },
       "improved: total": {
-        "text": "total: 97.3% of population"
+        "text": "Total: 97.3% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0.6% of population"
+        "text": "Urban: 0.6% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 5.7% of population"
+        "text": "Rural: 5.7% of population"
       },
       "unimproved: total": {
-        "text": "total: 2.7% of population (2020 est.)"
+        "text": "Total: 2.7% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -361,22 +358,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 96.3% of population"
+        "text": "Urban: 96.3% of population"
       },
       "improved: rural": {
-        "text": "rural: 72.7% of population"
+        "text": "Rural: 72.7% of population"
       },
       "improved: total": {
-        "text": "total: 86.7% of population"
+        "text": "Total: 86.7% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 3.7% of population"
+        "text": "Urban: 3.7% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 27.3% of population"
+        "text": "Rural: 27.3% of population"
       },
       "unimproved: total": {
-        "text": "total: 13.3% of population (2020 est.)"
+        "text": "Total: 13.3% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -399,7 +396,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "99.6%"
@@ -436,14 +433,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "air pollution, particularly in Rust'avi; heavy water pollution of Mtkvari River and the Black Sea; inadequate supplies of potable water; soil pollution from toxic chemicals; land and forest degradation; biodiversity loss; waste management"
+      "text": "Air pollution, particularly in Rust'avi; heavy water pollution of Mtkvari River and the Black Sea; inadequate supplies of potable water; soil pollution from toxic chemicals; land and forest degradation; biodiversity loss; waste management"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -458,20 +455,20 @@
       }
     },
     "Climate": {
-      "text": "warm and pleasant; Mediterranean-like on Black Sea coast"
+      "text": "Warm and pleasant; Mediterranean-like on Black Sea coast"
     },
     "Land use": {
       "agricultural land": {
         "text": "35.5% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 5.8% (2018 est.)"
+        "text": "Arable land: 5.8% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1.8% (2018 est.)"
+        "text": "Permanent crops: 1.8% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 27.9% (2018 est.)"
+        "text": "Permanent pasture: 27.9% (2018 est.)"
       },
       "forest": {
         "text": "39.4% (2018 est.)"
@@ -487,7 +484,7 @@
       "rate of urbanization": {
         "text": "0.35% annual rate of change (2020-25 est.)"
       },
-      "note": "<strong>note:</strong> data include Abkhazia and South Ossetia"
+      "note": "Note: data include Abkhazia and South Ossetia"
     },
     "Revenue from forest resources": {
       "forest revenues": {
@@ -522,13 +519,13 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Georgia"
       },
       "local long form": {
-        "text": "none"
+        "text": "None"
       },
       "local short form": {
         "text": "Sak'art'velo"
@@ -537,11 +534,11 @@
         "text": "Georgian Soviet Socialist Republic"
       },
       "etymology": {
-        "text": "the Western name may derive from the Persian designation \"gurgan\" meaning \"Land of the Wolves\"; the native name \"Sak'art'velo\" means \"Land of the Kartvelians\" and refers to the core central Georgian region of Kartli"
+        "text": "The Western name may derive from the Persian designation \"gurgan\" meaning \"Land of the Wolves\"; the native name \"Sak'art'velo\" means \"Land of the Kartvelians\" and refers to the core central Georgian region of Kartli"
       }
     },
     "Government type": {
-      "text": "semi-presidential republic"
+      "text": "Semi-presidential republic"
     },
     "Capital": {
       "name": {
@@ -554,12 +551,12 @@
         "text": "UTC+4 (9 hours ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the name in Georgian means \"warm place,\" referring to the numerous sulfuric hot springs in the area"
+        "text": "The name in Georgian means \"warm place,\" referring to the numerous sulfuric hot springs in the area"
       }
     },
     "Administrative divisions": {
-      "text": "<p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <p><strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)</p>",
-      "note": "<strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses\r\n<br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia"
+      "text": "9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika) regions: Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti city: Tbilisi autonomous republics: Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)",
+      "note": "Note 1: the administrative centers of the two autonomous republics are shown in parentheses\r\nnote 2: the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia"
     },
     "Independence": {
       "text": "9 April 1991 (from the Soviet Union); notable earlier date: A.D. 1008 (Georgia unified under King BAGRAT III)"
@@ -569,27 +566,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1921, 1978 (based on 1977 Soviet Union constitution); latest approved 24 August 1995, effective 17 October 1995"
+        "text": "Previous 1921, 1978 (based on 1977 Soviet Union constitution); latest approved 24 August 1995, effective 17 October 1995"
       },
       "amendments": {
-        "text": "proposed as a draft law supported by more than one half of the Parliament membership or by petition of at least 200,000 voters; passage requires support by at least three fourths of the Parliament membership in two successive sessions three months apart and the signature and promulgation by the president of Georgia; amended several times, last in 2020 (legislative electoral system revised)"
+        "text": "Proposed as a draft law supported by more than one half of the Parliament membership or by petition of at least 200,000 voters; passage requires support by at least three fourths of the Parliament membership in two successive sessions three months apart and the signature and promulgation by the president of Georgia; amended several times, last in 2020 (legislative electoral system revised)"
       }
     },
     "Legal system": {
-      "text": "civil law system"
+      "text": "Civil law system"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Georgia"
+        "text": "At least one parent must be a citizen of Georgia"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "10 years"
@@ -609,7 +606,7 @@
         "text": "Cabinet of Ministers"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president <br><br>note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term"
+        "text": "President directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term"
       },
       "election results": {
         "text": "Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2"
@@ -617,13 +614,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament or Sakartvelos Parlamenti (150 seats; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)"
+        "text": "Unicameral Parliament or Sakartvelos Parlamenti (150 seats; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 31 October and 21 November 2020 (next to be held in October 2024)"
+        "text": "Last held on 31 October and 21 November 2020 (next to be held in October 2024)"
       },
       "election results": {
-        "text": "percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition (as of October 2021) - men 121, women 29, percent of women 19.3%"
+        "text": "Percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition (as of October 2021) - men 121, women 29, percent of women 19.3%"
       }
     },
     "Judicial branch": {
@@ -638,7 +635,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Alliance of Patriots [Irma INASHVILI]<br>Citizens Party [Aleko ELISASHVILI]<br>European Georgia-Movement for Liberty [Davit BAKRADZE]<br>European Socialists [Fridon INJIA]<br>For Georgia [Giorgi GAKHARIA]<br>Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]<br>Girchi-More Freedom [Zurab JAPARIDZE]<br>Labor Party [Shalva NATELASHVILI]<br>Lelo for Georgia [Mamuka KHAZARADZE]<br>New Political Centre-Girchi [Iago KHVICHIA]<br>Republican Party [Khatuna SAMNIDZE]<br>Strategy Aghmashenebeli [Giorgi VASHADZE]<br>United National Movement or UNM [Nikanor \"Nika\" MELIA]"
+      "text": "Alliance of Patriots [Irma INASHVILI]Citizens Party [Aleko ELISASHVILI]European Georgia-Movement for Liberty [Davit BAKRADZE]European Socialists [Fridon INJIA]For Georgia [Giorgi GAKHARIA]Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]Girchi-More Freedom [Zurab JAPARIDZE]Labor Party [Shalva NATELASHVILI]Lelo for Georgia [Mamuka KHAZARADZE]New Political Centre-Girchi [Iago KHVICHIA]Republican Party [Khatuna SAMNIDZE]Strategy Aghmashenebeli [Giorgi VASHADZE]United National Movement or UNM [Nikanor \"Nika\" MELIA]"
     },
     "International organization participation": {
       "text": "ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -657,7 +654,7 @@
         "text": "[1] (202) 387-0864"
       },
       "email address and website": {
-        "text": "<br>embgeo.usa@mfa.gov.ge<br><br>https://georgiaembassyusa.org/contact/"
+        "text": "Embgeo.usa@mfa.gov.gehttps://georgiaembassyusa.org/contact/"
       },
       "consulate(s) general": {
         "text": "New York"
@@ -671,7 +668,7 @@
         "text": "11 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131"
       },
       "mailing address": {
-        "text": "7060 Tbilisi Place, Washington, DC&nbsp; 20521-7060"
+        "text": "7060 Tbilisi Place, Washington, DC; 20521-7060"
       },
       "telephone": {
         "text": "[995] (32) 227-70-00"
@@ -680,11 +677,11 @@
         "text": "[995] (32) 253-23-10"
       },
       "email address and website": {
-        "text": "<br>askconsultbilisi@state.gov<br><br>https://ge.usembassy.gov/"
+        "text": "Askconsultbilisi@state.govhttps://ge.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red bolnur-katskhuri cross; sometimes referred to as the Five-Cross Flag; although adopted as the official Georgian flag in 2004, the five-cross design is based on a 14th century banner of the Kingdom of Georgia"
+      "text": "White rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red bolnur-katskhuri cross; sometimes referred to as the Five-Cross Flag; although adopted as the official Georgian flag in 2004, the five-cross design is based on a 14th century banner of the Kingdom of Georgia"
     },
     "National symbol(s)": {
       "text": "Saint George, lion; national colors: red, white"
@@ -696,7 +693,7 @@
       "lyrics/music": {
         "text": "Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMADSE)"
       },
-      "note": "<strong>note:</strong> adopted 2004; after the Rose Revolution, a new anthem with music based on the operas \"Abesalom da Eteri\" and \"Daisi\" was adopted"
+      "note": "Note: adopted 2004; after the Rose Revolution, a new anthem with music based on the operas \"Abesalom da Eteri\" and \"Daisi\" was adopted"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -709,7 +706,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.</p><p></p><p>Georgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.</p><p></p><p>Georgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.</p><p></p><p>The country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade.</p>"
+      "text": "Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.Georgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.Georgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.The country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -721,7 +718,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$53.12 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
@@ -744,7 +741,7 @@
       "Real GDP per capita 2018": {
         "text": "$14,300 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$17.694 billion (2019 est.)"
@@ -803,10 +800,10 @@
       }
     },
     "Agricultural products": {
-      "text": "milk, grapes, maize, potatoes, wheat, watermelons, tomatoes, tangerines/mandarins, barley, apples"
+      "text": "Milk, grapes, maize, potatoes, wheat, watermelons, tomatoes, tangerines/mandarins, barley, apples"
     },
     "Industries": {
-      "text": "steel, machine tools, electrical appliances, mining (manganese, copper, gold), chemicals, wood products, wine"
+      "text": "Steel, machine tools, electrical appliances, mining (manganese, copper, gold), chemicals, wood products, wine"
     },
     "Industrial production growth rate": {
       "text": "6.7% (2017 est.)"
@@ -878,13 +875,13 @@
       "Public debt 2016": {
         "text": "44.4% of GDP (2016 est.)"
       },
-      "note": "<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities; Georgia does not maintain intragovernmental debt or social funds"
+      "note": "Note: data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities; Georgia does not maintain intragovernmental debt or social funds"
     },
     "Taxes and other revenues": {
       "text": "28.7% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2017": {
@@ -909,7 +906,7 @@
       "text": "Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukraine 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "copper, cars, iron alloys, wine, packaged medicines (2019)"
+      "text": "Copper, cars, iron alloys, wine, packaged medicines (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -926,7 +923,7 @@
       "text": "Turkey 17%, China 11%, Russia 9%, Azerbaijan 6%, United States 6%, Germany 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "cars, refined petroleum, copper, packaged medicines, natural gas (2019)"
+      "text": "Cars, refined petroleum, copper, packaged medicines, natural gas (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -946,7 +943,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "laris (GEL) per US dollar -"
+        "text": "Laris (GEL) per US dollar -"
       },
       "Exchange rates 2017": {
         "text": "2.535 (2017 est.)"
@@ -1057,15 +1054,15 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "despite economic challenges, the telecom market is one of Georgia's fastest growth sectors; LTE services cover the majority of citizens; regulators have strategy to introduce 5G; fixed-line telecommunications network has limited coverage outside Tbilisi; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country; broadband subscribers steadily increasing; with investment in infrastructure, customers are moving from copper to fiber networks (2020)"
+        "text": "Despite economic challenges, the telecom market is one of Georgia's fastest growth sectors; LTE services cover the majority of citizens; regulators have strategy to introduce 5G; fixed-line telecommunications network has limited coverage outside Tbilisi; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country; broadband subscribers steadily increasing; with investment in infrastructure, customers are moving from copper to fiber networks (2020)"
       },
       "domestic": {
-        "text": "fixed-line subscriptions over 9 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 128 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi (2020)"
+        "text": "Fixed-line subscriptions over 9 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 128 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi (2020)"
       },
       "international": {
-        "text": "country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)"
+        "text": "Country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 2, and the Batumi-based Adjara TV, and the State Budget funds all three; there are also a number of independent commercial television broadcasters, such as Imedi, Rustavi 2, Pirveli TV, Maestro, Kavkasia, Georgian Dream Studios (GDS), Obiektivi, Mtavari Arkhi, and a small Russian language operator TOK TV; Tabula and Post TV are web-based television outlets; all of these broadcasters and web-based television outlets, except GDS, carry the news; the Georgian Orthodox Church also operates a satellite-based television station called Unanimity; there are 26 regional television broadcasters across Georgia that are members of the Georgian Association of Regional Broadcasters and/or the Alliance of Georgian Broadcasters; the broadcaster organizations seek to strengthen the regional media's capacities and distribution of regional products: a nationwide digital switchover occurred in 2015; there are several dozen private radio stations; GPB operates 2 radio stations (2019)"
@@ -1174,7 +1171,7 @@
         "text": "25"
       },
       "by type": {
-        "text": "bulk carrier 2, general cargo 3, other 20 (2021)"
+        "text": "Bulk carrier 2, general cargo 3, other 20 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1205,22 +1202,22 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "information varies; approximately 30,000 troops, including active National Guard forces (2021)"
+      "text": "Information varies; approximately 30,000 troops, including active National Guard forces (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Georgian Defense Forces are equipped mostly with older Russian and Soviet-era weapons; since 2010, it has received limited quantities of equipment from European countries and the US (2021)"
+      "text": "The Georgian Defense Forces are equipped mostly with older Russian and Soviet-era weapons; since 2010, it has received limited quantities of equipment from European countries and the US (2021)"
     },
     "Military service age and obligation": {
       "text": "18-27 years of age for voluntary active duty military service; conscription abolished in 2016, but reinstated in 2017 for men 18 to 27 years of age; conscript service obligation is 12 months (2021)",
-      "note": "note(s) - approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections; as of 2019, women made up about 6% of the military's full-time personnel"
+      "note": "Note(s) - approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections; as of 2019, women made up about 6% of the military's full-time personnel"
     },
     "Military - note": {
-      "text": "as of 2021, Georgia did not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but approximately 7-10,000 Russian troops have been stationed in these regions since the 2008 Russia-Georgia War"
+      "text": "As of 2021, Georgia did not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but approximately 7-10,000 Russian troops have been stationed in these regions since the 2008 Russia-Georgia War"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p>"
+      "text": "Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia"
     },
     "Refugees and internally displaced persons": {
       "IDPs": {
@@ -1231,7 +1228,7 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>located on a major drug trafficking route where Southwest Asian opium, heroin and precursor chemicals are transported; marijuana trafficking increased</p>"
+      "text": "Located on a major drug trafficking route where Southwest Asian opium, heroin and precursor chemicals are transported; marijuana trafficking increased"
     }
   }
 }

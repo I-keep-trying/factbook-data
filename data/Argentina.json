@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERON - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor KIRCHNER (2003-07) and his spouse Cristina FERNANDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with Macri’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNANDEZ and Vice President FERNANDEZ DE KIRCHNER.</p>"
+      "text": "In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions. After World War II, an era of populism under former President Juan Domingo PERON - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor KIRCHNER (2003-07) and his spouse Cristina FERNANDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with Macri’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNANDEZ and Vice President FERNANDEZ DE KIRCHNER."
     }
   },
   "Geography": {
@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly less than three-tenths the size of the US"
+      "text": "Slightly less than three-tenths the size of the US"
     },
     "Land boundaries": {
       "total": {
@@ -54,10 +54,10 @@
       }
     },
     "Climate": {
-      "text": "mostly temperate; arid in southeast; subantarctic in southwest"
+      "text": "Mostly temperate; arid in southeast; subantarctic in southwest"
     },
     "Terrain": {
-      "text": "rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border"
+      "text": "Rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border"
     },
     "Elevation": {
       "highest point": {
@@ -71,20 +71,20 @@
       }
     },
     "Natural resources": {
-      "text": "fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petroleum, uranium, arable land"
+      "text": "Fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petroleum, uranium, arable land"
     },
     "Land use": {
       "agricultural land": {
         "text": "53.9% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 13.9% (2018 est.)"
+        "text": "Arable land: 13.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.4% (2018 est.)"
+        "text": "Permanent crops: 0.4% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 39.6% (2018 est.)"
+        "text": "Permanent pasture: 39.6% (2018 est.)"
       },
       "forest": {
         "text": "10.7% (2018 est.)"
@@ -105,7 +105,7 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)"
@@ -114,13 +114,13 @@
       "text": "Guarani Aquifer System"
     },
     "Population distribution": {
-      "text": "one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated"
+      "text": "One-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated"
     },
     "Natural hazards": {
-      "text": "<p>San Miguel de Tucuman and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas</p><p><strong>volcanism:</strong> volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchon-Peteroa, San Jose, Tromen, Tupungatito, and Viedma</p>"
+      "text": "San Miguel de Tucuman and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areasvolcanism: volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchon-Peteroa, San Jose, Tromen, Tupungatito, and Viedma"
     },
     "Geography - note": {
-      "text": "<strong>note 1:</strong> second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere; shares Iguazu Falls, the world's largest waterfalls system, with Brazil<br><br><strong>note 2: </strong>southeast Bolivia and northwest Argentina seem to be the original development site for peanuts"
+      "text": "Note 1: second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere; shares Iguazu Falls, the world's largest waterfalls system, with Brazilnote 2: southeast Bolivia and northwest Argentina seem to be the original development site for peanuts"
     }
   },
   "People and Society": {
@@ -143,14 +143,14 @@
         "text": "Spanish (official), Italian, English, German, French, indigenous (Mapudungun, Quechua)"
       },
       "major-language sample(s)": {
-        "text": "<br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
       "text": "Roman Catholic 62.9%, Evangelical 15.3% (Pentecostal 13%, other Evangelical 2.3%), Jehovah's Witness and Church of Jesus Christ 1.4%, other 1.2%, agnostic 3.2%, atheist 6%, none 9.7%, unspecified 0.3% (2019 est.)"
     },
     "Demographic profile": {
-      "text": "<p>Argentina's population continues to grow but at a slower rate because of its steadily declining birth rate. Argentina's fertility decline began earlier than in the rest of Latin America, occurring most rapidly between the early 20th century and the 1950s, and then becoming more gradual. Life expectancy has been improving, most notably among the young and the poor. While the population under age 15 is shrinking, the youth cohort - ages 15-24 - is the largest in Argentina's history and will continue to bolster the working-age population. If this large working-age population is well-educated and gainfully employed, Argentina is likely to experience an economic boost and possibly higher per capita savings and investment. Although literacy and primary school enrollment are nearly universal, grade repetition is problematic and secondary school completion is low. Both of these issues vary widely by region and socioeconomic group.</p> <p>Argentina has been primarily a country of immigration for most of its history, welcoming European immigrants (often providing needed low-skilled labor) after its independence in the 19th century and attracting especially large numbers from Spain and Italy. More than 7 million European immigrants are estimated to have arrived in Argentina between 1880 and 1930, when it adopted a more restrictive immigration policy. European immigration also began to wane in the 1930s because of the global depression. The inflow rebounded temporarily following WWII and resumed its decline in the 1950s when Argentina's military dictators tightened immigration rules and European economies rebounded. Regional migration increased, however, supplying low-skilled workers escaping economic and political instability in their home countries. As of 2015, immigrants made up almost 5% of Argentina's population, the largest share in South America. Migration from neighboring countries accounted for approximately 80% of Argentina's immigrant population in 2015.</p> <p>The first waves of highly skilled Argentine emigrant workers headed mainly to the United States and Spain in the 1960s and 1970s, driven by economic decline and repressive military dictatorships. The 2008 European economic crisis drove the return migration of some Argentinean and other Latin American nationals, as well as the immigration of Europeans to South America, where Argentina was a key recipient. In 2015, Argentina received the highest number of legal migrants in Latin America and the Caribbean. The majority of its migrant inflow came from Paraguay and Bolivia.</p>"
+      "text": "Argentina's population continues to grow but at a slower rate because of its steadily declining birth rate. Argentina's fertility decline began earlier than in the rest of Latin America, occurring most rapidly between the early 20th century and the 1950s, and then becoming more gradual. Life expectancy has been improving, most notably among the young and the poor. While the population under age 15 is shrinking, the youth cohort - ages 15-24 - is the largest in Argentina's history and will continue to bolster the working-age population. If this large working-age population is well-educated and gainfully employed, Argentina is likely to experience an economic boost and possibly higher per capita savings and investment. Although literacy and primary school enrollment are nearly universal, grade repetition is problematic and secondary school completion is low. Both of these issues vary widely by region and socioeconomic group. Argentina has been primarily a country of immigration for most of its history, welcoming European immigrants (often providing needed low-skilled labor) after its independence in the 19th century and attracting especially large numbers from Spain and Italy. More than 7 million European immigrants are estimated to have arrived in Argentina between 1880 and 1930, when it adopted a more restrictive immigration policy. European immigration also began to wane in the 1930s because of the global depression. The inflow rebounded temporarily following WWII and resumed its decline in the 1950s when Argentina's military dictators tightened immigration rules and European economies rebounded. Regional migration increased, however, supplying low-skilled workers escaping economic and political instability in their home countries. As of 2015, immigrants made up almost 5% of Argentina's population, the largest share in South America. Migration from neighboring countries accounted for approximately 80% of Argentina's immigrant population in 2015. The first waves of highly skilled Argentine emigrant workers headed mainly to the United States and Spain in the 1960s and 1970s, driven by economic decline and repressive military dictatorships. The 2008 European economic crisis drove the return migration of some Argentinean and other Latin American nationals, as well as the immigration of Europeans to South America, where Argentina was a key recipient. In 2015, Argentina received the highest number of legal migrants in Latin America and the Caribbean. The majority of its migrant inflow came from Paraguay and Bolivia."
     },
     "Age structure": {
       "0-14 years": {
@@ -207,7 +207,7 @@
       "text": "-0.08 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated"
+      "text": "One-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated"
     },
     "Urbanization": {
       "urban population": {
@@ -273,26 +273,26 @@
     },
     "Contraceptive prevalence rate": {
       "text": "81.3% (2013)",
-      "note": "<strong>note:</strong>  percent of women aged 14-49"
+      "note": "Note:  percent of women aged 14-49"
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 99.8% of population"
+        "text": "Urban: 99.8% of population"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: 0.2% of population"
+        "text": "Urban: 0.2% of population"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA (2020 est.)"
+        "text": "Total: NA (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -306,22 +306,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population (2017 est.)"
+        "text": "Urban: 100% of population (2017 est.)"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: 1% of population (2017 est.)"
+        "text": "Urban: 1% of population (2017 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA (2020 est.)"
+        "text": "Total: NA (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -334,7 +334,7 @@
       "text": "1,400 (2020 est.)"
     },
     "Major infectious diseases": {
-      "text": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine"
+      "text": "Note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine"
     },
     "Obesity - adult prevalence rate": {
       "text": "28.3% (2016)"
@@ -347,7 +347,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "99%"
@@ -384,7 +384,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation (erosion, salinization), desertification, air pollution, and water pollution"
+      "text": "Environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation (erosion, salinization), desertification, air pollution, and water pollution"
     },
     "Environment - international agreements": {
       "party to": {
@@ -406,20 +406,20 @@
       }
     },
     "Climate": {
-      "text": "mostly temperate; arid in southeast; subantarctic in southwest"
+      "text": "Mostly temperate; arid in southeast; subantarctic in southwest"
     },
     "Land use": {
       "agricultural land": {
         "text": "53.9% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 13.9% (2018 est.)"
+        "text": "Arable land: 13.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.4% (2018 est.)"
+        "text": "Permanent crops: 0.4% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 39.6% (2018 est.)"
+        "text": "Permanent pasture: 39.6% (2018 est.)"
       },
       "forest": {
         "text": "10.7% (2018 est.)"
@@ -447,7 +447,7 @@
       }
     },
     "Major infectious diseases": {
-      "text": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine"
+      "text": "Note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
@@ -469,7 +469,7 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)"
@@ -507,11 +507,11 @@
         "text": "Argentina"
       },
       "etymology": {
-        "text": "originally the area was referred to as Tierra Argentina, i.e., \"Land beside the Silvery River\" or \"silvery land,\" which referred to the massive estuary in the east of the country, the Rio de la Plata (River of Silver); over time the name shortened to simply Argentina or \"silvery\""
+        "text": "Originally the area was referred to as Tierra Argentina, i.e., \"Land beside the Silvery River\" or \"silvery land,\" which referred to the massive estuary in the east of the country, the Rio de la Plata (River of Silver); over time the name shortened to simply Argentina or \"silvery\""
       }
     },
     "Government type": {
-      "text": "presidential republic"
+      "text": "Presidential republic"
     },
     "Capital": {
       "name": {
@@ -524,12 +524,12 @@
         "text": "UTC-3 (2 hours ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the name translates as \"fair winds\" in Spanish and derives from the original designation of the settlement that would become the present-day city, \"Santa Maria del Buen Aire\" (Saint Mary of the Fair Winds)"
+        "text": "The name translates as \"fair winds\" in Spanish and derives from the original designation of the settlement that would become the present-day city, \"Santa Maria del Buen Aire\" (Saint Mary of the Fair Winds)"
       }
     },
     "Administrative divisions": {
       "text": "23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman",
-      "note": "<strong>note:</strong> the US does not recognize any claims to Antarctica"
+      "note": "Note: the US does not recognize any claims to Antarctica"
     },
     "Independence": {
       "text": "9 July 1816 (from Spain)"
@@ -539,27 +539,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "several previous; latest effective 11 May 1853"
+        "text": "Several previous; latest effective 11 May 1853"
       },
       "amendments": {
-        "text": "a declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention; amended several times, last significant amendment in 1994"
+        "text": "A declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention; amended several times, last significant amendment in 1994"
       }
     },
     "Legal system": {
-      "text": "civil law system based on West European legal systems; note - in mid-2015, Argentina adopted a new civil code, replacing the old one in force since 1871"
+      "text": "Civil law system based on West European legal systems; note - in mid-2015, Argentina adopted a new civil code, replacing the old one in force since 1871"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+      "text": "Has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "yes"
+        "text": "Yes"
       },
       "citizenship by descent only": {
-        "text": "yes"
+        "text": "Yes"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "2 years"
@@ -579,21 +579,21 @@
         "text": "Cabinet appointed by the president (2017)"
       },
       "elections/appointments": {
-        "text": "president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 27 October 2019 (next to be held in October 2023)"
+        "text": "President and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 27 October 2019 (next to be held in October 2023)"
       },
       "election results": {
-        "text": "<br><em>2019:</em> Alberto Angel FERNANDEZ elected president; percent of vote - Alberto Angel FERNANDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br><br><em>2015:</em> Mauricio MACRI elected president in second round; percent of vote in first round - Daniel SCIOLI (PJ) 37.1%, Mauricio MACRI (PRO) 34.2%, Sergio MASSA (FR/PJ) 21.4%, other 7.3%; percent of vote in second round - Mauricio MACRI (PRO) 51.4%, Daniel SCIOLI (PJ) 48.6%"
+        "text": "2019: Alberto Angel FERNANDEZ elected president; percent of vote - Alberto Angel FERNANDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%2015: Mauricio MACRI elected president in second round; percent of vote in first round - Daniel SCIOLI (PJ) 37.1%, Mauricio MACRI (PRO) 34.2%, Sergio MASSA (FR/PJ) 21.4%, other 7.3%; percent of vote in second round - Mauricio MACRI (PRO) 51.4%, Daniel SCIOLI (PJ) 48.6%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)"
+        "text": "Bicameral National Congress or Congreso Nacional consists of:Senate or Senado (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)"
       },
       "elections": {
-        "text": "<br>Senate - last held on 14 November 2021 (next to be held 27 October 2023)<br>Chamber of Deputies - last held on 14 November 2021 (next to be held 27 October 2023)"
+        "text": "Senate - last held on 14 November 2021 (next to be held 27 October 2023)Chamber of Deputies - last held on 14 November 2021 (next to be held 27 October 2023)"
       },
       "election results": {
-        "text": "<p><br>Senate - percent of vote by bloc or party - NA; seats by bloc or party - JxC 14, FdT 9, VcV 1; composition (as of February 2022) - men 41, women 31, percent of women 43.1%<br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - JxC 61, FdT 50, FIT-U 4, VcV 4, other 8; composition (as of February 2022) - men 142, women 115, percent of women 44.7%; note - total National Congress percent of women 44.4%</p>"
+        "text": "Senate - percent of vote by bloc or party - NA; seats by bloc or party - JxC 14, FdT 9, VcV 1; composition (as of February 2022) - men 41, women 31, percent of women 43.1%Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - JxC 61, FdT 50, FIT-U 4, VcV 4, other 8; composition (as of February 2022) - men 142, women 115, percent of women 44.7%; note - total National Congress percent of women 44.4%"
       }
     },
     "Judicial branch": {
@@ -601,14 +601,14 @@
         "text": "Supreme Court or Corte Suprema (consists of the court president, vice president, and 5 justices)"
       },
       "judge selection and term of office": {
-        "text": "justices nominated by the president and approved by the Senate; justices can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate"
+        "text": "Justices nominated by the president and approved by the Senate; justices can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate"
       },
       "subordinate courts": {
-        "text": "federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts"
+        "text": "Federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts"
       }
     },
     "Political parties and leaders": {
-      "text": "<p>Avanza Libertad or AL [Jose Luis ESPERT]<br>Civic Coalition ARI or CC-ARI [Elisa CARRIO]<br>Federal Consensus or CF [Roberto LAVAGNA, Juan Manuel URTUBEY]<br>Frente Civico por Santiago (Civic Front for Santiago) [Gerardo ZAMORA]<br>Frente de Izquierda (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house) - (includes PTS, PO, and MST)<br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS [Carlos Eduardo ROVIRA]<br>Frente de Todos (Everyone's Front) or FdT - (includes FR, La Campora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Generacion por un Encuentro Nacional (Generation for a National Encounter) or GEN [Margarita STOLBIZER]<br>Frente Renovador (Renewal Front) or FR [Sergio MASSA]<br>Hacemos por Cordoba (We do for Cordoba) or HC [Juan SCHIARETTI]<br>Juntos por el Cambio (Together for Change) or JxC - (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Rio Negro (Together We Are Rio Negro) or JSRN    <br>Justicialist Party or PJ [Alberto Angel FERNANDEZ]<br>La Campora [Maximo KIRCHNER]<br>La Libertad Avanza or LLA [Javier MILEI]<br>Movimiento Popular Neuquino (Neuquen People's Movement) or MPN [Omar GUTIERREZ]<br>Partido Socialista or PS [Rosario Monica FEIN]<br>Propuesta Republicana or PRO [Patricia BULLRICH]<br>Radical Civic Union or UCR [Alfredo CORNEJO]<br>Socialist Workers' Party or PTS [Nicolas DEL CANO]<br>Unidad Federal (coalition of provencial parties in the lower house) - (includes FRCS and JSRN)<br>Workers' Party or PO [Gabriel SOLANO]<br>Workers' Socialist Movement or MST [Alejandro BODART]<br>Vamos con Vos (Let's Go with You) or VcV [Florencio RANDAZZO]</p>"
+      "text": "Avanza Libertad or AL [Jose Luis ESPERT]Civic Coalition ARI or CC-ARI [Elisa CARRIO]Federal Consensus or CF [Roberto LAVAGNA, Juan Manuel URTUBEY]Frente Civico por Santiago (Civic Front for Santiago) [Gerardo ZAMORA]Frente de Izquierda (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house) - (includes PTS, PO, and MST)Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS [Carlos Eduardo ROVIRA]Frente de Todos (Everyone's Front) or FdT - (includes FR, La Campora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political partiesGeneracion por un Encuentro Nacional (Generation for a National Encounter) or GEN [Margarita STOLBIZER]Frente Renovador (Renewal Front) or FR [Sergio MASSA]Hacemos por Cordoba (We do for Cordoba) or HC [Juan SCHIARETTI]Juntos por el Cambio (Together for Change) or JxC - (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019Juntos Somos Rio Negro (Together We Are Rio Negro) or JSRN    Justicialist Party or PJ [Alberto Angel FERNANDEZ]La Campora [Maximo KIRCHNER]La Libertad Avanza or LLA [Javier MILEI]Movimiento Popular Neuquino (Neuquen People's Movement) or MPN [Omar GUTIERREZ]Partido Socialista or PS [Rosario Monica FEIN]Propuesta Republicana or PRO [Patricia BULLRICH]Radical Civic Union or UCR [Alfredo CORNEJO]Socialist Workers' Party or PTS [Nicolas DEL CANO]Unidad Federal (coalition of provencial parties in the lower house) - (includes FRCS and JSRN)Workers' Party or PO [Gabriel SOLANO]Workers' Socialist Movement or MST [Alejandro BODART]Vamos con Vos (Let's Go with You) or VcV [Florencio RANDAZZO]"
     },
     "International organization participation": {
       "text": "AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina (observer), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -627,7 +627,7 @@
         "text": "[1] (202) 332-3171"
       },
       "email address and website": {
-        "text": "<br>eeeuu@mrecic.gov.ar<br><br>https://eeeuu.cancilleria.gob.ar/en"
+        "text": "Eeeuu@mrecic.gov.arhttps://eeeuu.cancilleria.gob.ar/en"
       },
       "consulate(s) general": {
         "text": "Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington, DC"
@@ -638,10 +638,10 @@
         "text": "Ambassador Marc Robert STANLEY (since 24 January 2022)"
       },
       "embassy": {
-        "text": "<br>Avenida Colombia 4300, (C1425GMN) Buenos Aires"
+        "text": "Avenida Colombia 4300, (C1425GMN) Buenos Aires"
       },
       "mailing address": {
-        "text": "3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130"
+        "text": "3130 Buenos Aires Place, Washington DC; 20521-3130"
       },
       "telephone": {
         "text": "[54] (11) 5777-4533"
@@ -650,11 +650,11 @@
         "text": "[54] (11) 5777-4240"
       },
       "email address and website": {
-        "text": "<br>buenosaires-acs@state.gov<br><br>https://ar.usembassy.gov/"
+        "text": "Buenosaires-acs@state.govhttps://ar.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun"
+      "text": "Three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun"
     },
     "National symbol(s)": {
       "text": "Sun of May (a sun-with-face symbol); national colors: sky blue, white"
@@ -666,7 +666,7 @@
       "lyrics/music": {
         "text": "Vicente LOPEZ y PLANES/Jose Blas PARERA"
       },
-      "note": "<strong>note:</strong> adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain"
+      "note": "Note: adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -679,7 +679,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Argentina benefits from rich natural resources, a highly literate population, an export-oriented agricultural sector, and a diversified industrial base. Although one of the world's wealthiest countries 100 years ago, Argentina suffered during most of the 20th century from recurring economic crises, persistent fiscal and current account deficits, high inflation, mounting external debt, and capital flight.</p><p></p><p>Cristina FERNANDEZ DE KIRCHNER succeeded her husband as president in late 2007, and in 2008 the rapid economic growth of previous years slowed sharply as government policies held back exports and the world economy fell into recession. In 2010 the economy rebounded strongly, but slowed in late 2011 even as the government continued to rely on expansionary fiscal and monetary policies, which kept inflation in the double digits.</p><p></p><p>In order to deal with these problems, the government expanded state intervention in the economy: it nationalized the oil company YPF from Spain's Repsol, expanded measures to restrict imports, and further tightened currency controls in an effort to bolster foreign reserves and stem capital flight. Between 2011 and 2013, Central Bank foreign reserves dropped $21.3 billion from a high of $52.7 billion. In July 2014, Argentina and China agreed on an $11 billion currency swap; the Argentine Central Bank has received the equivalent of $3.2 billion in Chinese yuan, which it counts as international reserves.</p><p></p><p>With the election of President Mauricio MACRI in November 2015, Argentina began a historic political and economic transformation, as his administration took steps to liberalize the Argentine economy, lifting capital controls, floating the peso, removing export controls on some commodities, cutting some energy subsidies, and reforming the country’s official statistics. Argentina negotiated debt payments with holdout bond creditors, continued working with the IMF to shore up its finances, and returned to international capital markets in April 2016.</p><p></p><p>In 2017, Argentina’s economy emerged from recession with GDP growth of nearly 3.0%. The government passed important pension, tax, and fiscal reforms. And after years of international isolation, Argentina took on several international leadership roles, including hosting the World Economic Forum on Latin America and the World Trade Organization Ministerial Conference, and is set to assume the presidency of the G-20 in 2018.</p>"
+      "text": "Argentina benefits from rich natural resources, a highly literate population, an export-oriented agricultural sector, and a diversified industrial base. Although one of the world's wealthiest countries 100 years ago, Argentina suffered during most of the 20th century from recurring economic crises, persistent fiscal and current account deficits, high inflation, mounting external debt, and capital flight.Cristina FERNANDEZ DE KIRCHNER succeeded her husband as president in late 2007, and in 2008 the rapid economic growth of previous years slowed sharply as government policies held back exports and the world economy fell into recession. In 2010 the economy rebounded strongly, but slowed in late 2011 even as the government continued to rely on expansionary fiscal and monetary policies, which kept inflation in the double digits.In order to deal with these problems, the government expanded state intervention in the economy: it nationalized the oil company YPF from Spain's Repsol, expanded measures to restrict imports, and further tightened currency controls in an effort to bolster foreign reserves and stem capital flight. Between 2011 and 2013, Central Bank foreign reserves dropped $21.3 billion from a high of $52.7 billion. In July 2014, Argentina and China agreed on an $11 billion currency swap; the Argentine Central Bank has received the equivalent of $3.2 billion in Chinese yuan, which it counts as international reserves.With the election of President Mauricio MACRI in November 2015, Argentina began a historic political and economic transformation, as his administration took steps to liberalize the Argentine economy, lifting capital controls, floating the peso, removing export controls on some commodities, cutting some energy subsidies, and reforming the country’s official statistics. Argentina negotiated debt payments with holdout bond creditors, continued working with the IMF to shore up its finances, and returned to international capital markets in April 2016.In 2017, Argentina’s economy emerged from recession with GDP growth of nearly 3.0%. The government passed important pension, tax, and fiscal reforms. And after years of international isolation, Argentina took on several international leadership roles, including hosting the World Economic Forum on Latin America and the World Trade Organization Ministerial Conference, and is set to assume the presidency of the G-20 in 2018."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -691,7 +691,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$1,012,670,000,000 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -714,7 +714,7 @@
       "Real GDP per capita 2018": {
         "text": "$22,800 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$447.467 billion (2019 est.)"
@@ -726,7 +726,7 @@
       "Inflation rate (consumer prices) 2016": {
         "text": "26.5% (2016 est.)"
       },
-      "note": "<strong>note:</strong> data are derived from private estimates"
+      "note": "Note: data are derived from private estimates"
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -771,18 +771,18 @@
       }
     },
     "Agricultural products": {
-      "text": "maize, soybeans, wheat, sugar cane, milk, barley, sunflower seed, beef, grapes, potatoes"
+      "text": "Maize, soybeans, wheat, sugar cane, milk, barley, sunflower seed, beef, grapes, potatoes"
     },
     "Industries": {
-      "text": "food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel"
+      "text": "Food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel"
     },
     "Industrial production growth rate": {
       "text": "2.7% (2017 est.)",
-      "note": "<strong>note:</strong> based on private sector estimates"
+      "note": "Note: based on private sector estimates"
     },
     "Labor force": {
       "text": "18 million (2017 est.)",
-      "note": "<strong>note:</strong> urban areas only"
+      "note": "Note: urban areas only"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -856,7 +856,7 @@
       "text": "18.9% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -881,7 +881,7 @@
       "text": "Brazil 16%, China 11%, United States 7%, Chile 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "soybean products, corn, delivery trucks, wheat, frozen meat, gold (2019)"
+      "text": "Soybean products, corn, delivery trucks, wheat, frozen meat, gold (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -898,7 +898,7 @@
       "text": "Brazil 21%, China 18%, US 14%, Germany 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "cars, refined petroleum, vehicle parts, natural gas, soybeans (2019)"
+      "text": "Cars, refined petroleum, vehicle parts, natural gas, soybeans (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -1038,15 +1038,15 @@
         "text": "Argentina has one of the most vigorous mobile markets in Latin America; with additional operators in the market, mobile penetration fell in 2020 as incentives for multiple-SIM card ownership eased; LTE with tests of 5G; government plan to boost fixed broadband coverage nationally and declared TV, cable, and mobile services were essential public services; submarine system linking Sao Paolo and Rio De Janeiro with Buenos Aires is operational; national operator increased investment in Uruguay; importer of broadcasting equipment from China (2021)"
       },
       "domestic": {
-        "text": "roughly 16 per 100 fixed-line and 121 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2020)"
+        "text": "Roughly 16 per 100 fixed-line and 121 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2020)"
       },
       "international": {
-        "text": "country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)"
+        "text": "Country code - 54; landing points for the UNISUR, Bicentenario,;Atlantis-2, SAm-1, and;SAC, Tannat, Malbec and ARBR;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "government owns a TV station and radio network; more than 2 dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage"
+      "text": "Government owns a TV station and radio network; more than 2 dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage"
     },
     "Internet country code": {
       "text": ".ar"
@@ -1171,7 +1171,7 @@
         "text": "202"
       },
       "by type": {
-        "text": "container ship 1,bulk carrier 1 general cargo 8, oil tanker 33, other 159 (2021)"
+        "text": "Container ship 1,bulk carrier 1 general cargo 8, oil tanker 33, other 159 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1211,26 +1211,26 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "information varies; approximately 78,000 active duty personnel (45,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)"
+      "text": "Information varies; approximately 78,000 active duty personnel (45,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2021)"
+      "text": "The inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2021)"
     },
     "Military service age and obligation": {
       "text": "18-24 years of age for voluntary military service (men and women); conscription suspended in 1995; Argentinians can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2021)",
-      "note": "note - as of 2017, women made up over 17% of the active duty military"
+      "note": "Note - as of 2017, women made up over 17% of the active duty military"
     },
     "Military deployments": {
       "text": "250 Cyprus (UNFICYP) (Jan 2021)"
     },
     "Military - note": {
-      "text": "as of 2021, the Argentine military was focused primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments"
+      "text": "As of 2021, the Argentine military was focused primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areasArgentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments"
     }
   },
   "Terrorism": {},
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p><em>Argentina-Bolivia:</em> Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia<br><br><em>Argentina-Brazil:</em> Uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question.<br><br><em>Argentina-Chile:</em> The joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur).<br><br><em>Argentina-Paraguay:</em> None identified<br><br><em>Argentina-Uruguay:</em> In 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime. Isla de Martín Garcia situated in the Rio de la Plata estuary is wholly within Uruguayan territorial waters but up to its low tide mark, the island is Argentinian territory.  The island is accorded unrestricted access rights.<br><br><em>Argentina-United Kingdom:</em> Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks.</p>"
+      "text": "Argentina-Bolivia: Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with BoliviaArgentina-Brazil: Uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question.Argentina-Chile: The joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur).Argentina-Paraguay: None identifiedArgentina-Uruguay: In 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime. Isla de Martín Garcia situated in the Rio de la Plata estuary is wholly within Uruguayan territorial waters but up to its low tide mark, the island is Argentinian territory.  The island is accorded unrestricted access rights.Argentina-United Kingdom: Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks."
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1238,7 +1238,7 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p>"
+      "text": "Counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors"
     }
   }
 }

@@ -23,7 +23,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly more than three times the size of Texas"
+      "text": "Slightly more than three times the size of Texas"
     },
     "Land boundaries": {
       "total": {
@@ -45,10 +45,10 @@
       }
     },
     "Climate": {
-      "text": "arctic to subarctic; cool summers, cold winters"
+      "text": "Arctic to subarctic; cool summers, cold winters"
     },
     "Terrain": {
-      "text": "flat to gradually sloping icecap covers all but a narrow, mountainous, barren, rocky coast"
+      "text": "Flat to gradually sloping icecap covers all but a narrow, mountainous, barren, rocky coast"
     },
     "Elevation": {
       "highest point": {
@@ -62,20 +62,20 @@
       }
     },
     "Natural resources": {
-      "text": "coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas"
+      "text": "Coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas"
     },
     "Land use": {
       "agricultural land": {
         "text": "0.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 0% (2018 est.)"
+        "text": "Arable land: 0% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 0.6% (2018 est.)"
+        "text": "Permanent pasture: 0.6% (2018 est.)"
       },
       "forest": {
         "text": "0% (2018 est.)"
@@ -88,13 +88,13 @@
       "text": "NA"
     },
     "Population distribution": {
-      "text": "settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited"
+      "text": "Settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited"
     },
     "Natural hazards": {
-      "text": "continuous permafrost over northern two-thirds of the island"
+      "text": "Continuous permafrost over northern two-thirds of the island"
     },
     "Geography - note": {
-      "text": "dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice sheet after that of Antarctica covering an area of 1.71 million sq km (660,000 sq mi) or about 79% of the island, and containing 2.85 million cu km (684 thousand cu mi) of ice (this is almost 7% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 7.2 m (24 ft)"
+      "text": "Dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice sheet after that of Antarctica covering an area of 1.71 million sq km (660,000 sq mi) or about 79% of the island, and containing 2.85 million cu km (684 thousand cu mi) of ice (this is almost 7% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 7.2 m (24 ft)"
     }
   },
   "People and Society": {
@@ -111,7 +111,7 @@
     },
     "Ethnic groups": {
       "text": "Greenlandic 89.5%, Danish 7.5%, other Nordic peoples 1.1%, and other 1.9% (2020 est.)",
-      "note": "<strong>note:</strong> data represent population by country of birth"
+      "note": "Note: data represent population by country of birth"
     },
     "Languages": {
       "text": "Greenlandic (West Greenlandic or Kalaallisut is the official language), Danish, English"
@@ -174,7 +174,7 @@
       "text": "-5.07 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited"
+      "text": "Settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited"
     },
     "Urbanization": {
       "urban population": {
@@ -240,22 +240,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -269,22 +269,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -304,7 +304,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "100%"
@@ -319,7 +319,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "especially vulnerable to climate change and disruption of the Arctic environment; preservation of the Inuit traditional way of life, including whaling and seal hunting"
+      "text": "Especially vulnerable to climate change and disruption of the Arctic environment; preservation of the Inuit traditional way of life, including whaling and seal hunting"
     },
     "Air pollutants": {
       "carbon dioxide emissions": {
@@ -327,20 +327,20 @@
       }
     },
     "Climate": {
-      "text": "arctic to subarctic; cool summers, cold winters"
+      "text": "Arctic to subarctic; cool summers, cold winters"
     },
     "Land use": {
       "agricultural land": {
         "text": "0.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 0% (2018 est.)"
+        "text": "Arable land: 0% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 0.6% (2018 est.)"
+        "text": "Permanent pasture: 0.6% (2018 est.)"
       },
       "forest": {
         "text": "0% (2018 est.)"
@@ -376,24 +376,24 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Greenland"
       },
       "local long form": {
-        "text": "none"
+        "text": "None"
       },
       "local short form": {
         "text": "Kalaallit Nunaat"
       },
-      "note": "<strong>note:</strong> named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island"
+      "note": "Note: named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island"
     },
     "Government type": {
-      "text": "parliamentary democracy (Parliament of Greenland or Inatsisartut)"
+      "text": "Parliamentary democracy (Parliament of Greenland or Inatsisartut)"
     },
     "Dependency status": {
-      "text": "part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979"
+      "text": "Part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979"
     },
     "Capital": {
       "name": {
@@ -417,24 +417,24 @@
     },
     "Administrative divisions": {
       "text": "5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq",
-      "note": "<strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly"
+      "note": "Note: Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly"
     },
     "Independence": {
-      "text": "none (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland)"
+      "text": "None (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland)"
     },
     "National holiday": {
       "text": "National Day, June 21; note - marks the summer solstice and the longest day of the year in the Northern Hemisphere"
     },
     "Constitution": {
       "history": {
-        "text": "previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); latest 21 June 2009 (Greenland Self-Government Act) (2021)"
+        "text": "Previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); latest 21 June 2009 (Greenland Self-Government Act) (2021)"
       }
     },
     "Legal system": {
-      "text": "the laws of Denmark apply where applicable and Greenlandic law applies to other areas"
+      "text": "The laws of Denmark apply where applicable and Greenlandic law applies to other areas"
     },
     "Citizenship": {
-      "text": "see Denmark"
+      "text": "See Denmark"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -450,7 +450,7 @@
         "text": "Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut) on the basis of the strength of parties"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term"
+        "text": "The monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term"
       },
       "election results": {
         "text": "Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%"
@@ -458,13 +458,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms"
+        "text": "Unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)Greenland elects 2 members to the Danish Parliament to serve 4-year terms"
       },
       "elections": {
-        "text": "Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)"
+        "text": "Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)"
       },
       "election results": {
-        "text": "Greenland Parliament - percent of vote by party - IA 36.6%, S 29.5%, N 12%, D 9.1%, A 6.9%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women"
+        "text": "Greenland Parliament - percent of vote by party - IA 36.6%, S 29.5%, N 12%, D 9.1%, A 6.9%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women"
       }
     },
     "Judicial branch": {
@@ -472,14 +472,14 @@
         "text": "High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)"
       },
       "judge selection and term of office": {
-        "text": "judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70"
+        "text": "Judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70"
       },
       "subordinate courts": {
         "text": "Court of Greenland; 18 district or magistrates' courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Forward Party (Siumut) or S [Erik JENSEN]<br>Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]<br>Signpost Party (Partii Naleraq) or N [Hans ENOKSEN]<br>Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]"
+      "text": "Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]Forward Party (Siumut) or S [Erik JENSEN]Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]Signpost Party (Partii Naleraq) or N [Hans ENOKSEN]Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]"
     },
     "International organization participation": {
       "text": "Arctic Council, ICC, NC, NIB, UPU"
@@ -489,13 +489,13 @@
         "text": "Kenneth HOEGH, Head of Representation; note - Greenland also has offices in the Danish consulates in Chicago and New York"
       },
       "chancery": {
-        "text": "Greenland Representation<br>3200 Whitehaven Street, NW<br>Washington, DC  20008"
+        "text": "Greenland Representation3200 Whitehaven Street, NWWashington, DC  20008"
       },
       "telephone": {
         "text": "202-797-5392"
       },
       "email address and website": {
-        "text": "<br>washington@nanoq.gl<br><br>https://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington"
+        "text": "Washington@nanoq.glhttps://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington"
       }
     },
     "Diplomatic representation from the US": {
@@ -503,20 +503,20 @@
         "text": "Joanie SIMON, Consul (since June 2021)"
       },
       "embassy": {
-        "text": "Aalisartut Aqqutaa 47<br>Nuuk 3900<br>Greenland"
+        "text": "Aalisartut Aqqutaa 47Nuuk 3900Greenland"
       },
       "telephone": {
         "text": "(+299) 384100"
       },
       "email address and website": {
-        "text": "<br>https://dk.usembassy.gov/embassy-consulate/nuuk/"
+        "text": "Https://dk.usembassy.gov/embassy-consulate/nuuk/"
       }
     },
     "Flag description": {
-      "text": "two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark"
+      "text": "Two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark"
     },
     "National symbol(s)": {
-      "text": "polar bear; national colors: red, white"
+      "text": "Polar bear; national colors: red, white"
     },
     "National anthem": {
       "name": {
@@ -525,7 +525,7 @@
       "lyrics/music": {
         "text": "Henrik LUND/Jonathan PETERSEN"
       },
-      "note": "<strong>note:</strong> adopted 1916; the government also recognizes \"Nuna asiilasooq\" as a secondary anthem"
+      "note": "Note: adopted 1916; the government also recognizes \"Nuna asiilasooq\" as a secondary anthem"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -538,7 +538,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Greenland’s economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to price fluctuations. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP.</p><p></p><p>The economy is expanding after a period of decline. The economy contracted between 2012 and 2014, grew by 1.7% in 2015 and by 7.7%in 2016. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland grew annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season.</p><p></p><p>The public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Self Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period.</p><p></p><p>Significant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Hydrocarbon exploration has ceased with declining oil prices. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed, but a lack of infrastructure hinders development.</p>"
+      "text": "Greenland’s economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to price fluctuations. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP.The economy is expanding after a period of decline. The economy contracted between 2012 and 2014, grew by 1.7% in 2015 and by 7.7%in 2016. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland grew annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season.The public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Self Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period.Significant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Hydrocarbon exploration has ceased with declining oil prices. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed, but a lack of infrastructure hinders development."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2015": {
@@ -550,7 +550,7 @@
       "Real GDP (purchasing power parity) 2013": {
         "text": "$2.203 billion (2013 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2015 US dollars"
+      "note": "Note: data are in 2015 US dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2016": {
@@ -617,10 +617,10 @@
       }
     },
     "Agricultural products": {
-      "text": "sheep, cattle, reindeer, fish, shellfish"
+      "text": "Sheep, cattle, reindeer, fish, shellfish"
     },
     "Industries": {
-      "text": "fish processing (mainly shrimp and Greenland halibut); anorthosite and ruby mining; handicrafts, hides and skins, small shipyards"
+      "text": "Fish processing (mainly shrimp and Greenland halibut); anorthosite and ruby mining; handicrafts, hides and skins, small shipyards"
     },
     "Industrial production growth rate": {
       "text": "NA"
@@ -686,7 +686,7 @@
       "text": "77.4% (of GDP) (2016 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Exports": {
       "Exports 2015": {
@@ -700,7 +700,7 @@
       "text": "Denmark 55%, China 22%, Japan 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "fish, crustaceans, fishing ships (2019)"
+      "text": "Fish, crustaceans, fishing ships (2019)"
     },
     "Imports": {
       "Imports 2015": {
@@ -714,7 +714,7 @@
       "text": "Denmark 51%, Spain 23%, Sweden 12%, Iceland 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "fishing ships, refined petroleum, construction vehicles, crustaceans, delivery trucks (2019)"
+      "text": "Fishing ships, refined petroleum, construction vehicles, crustaceans, delivery trucks (2019)"
     },
     "Debt - external": {
       "Debt - external 2010": {
@@ -837,18 +837,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland (2018)"
+        "text": "Adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland (2018)"
       },
       "domestic": {
-        "text": "nearly 13 per 100 for fixed-line subscriptions and 109 per 100 for mobile-cellular (2019)"
+        "text": "Nearly 13 per 100 for fixed-line subscriptions and 109 per 100 for mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;&nbsp;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)"
+        "text": "Country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "the Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)"
+      "text": "The Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)"
     },
     "Internet country code": {
       "text": ".gl"
@@ -919,14 +919,14 @@
       }
     },
     "Roadways": {
-      "text": "<p><strong>note:</strong> although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air</p>"
+      "text": "Note: although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air"
     },
     "Merchant marine": {
       "total": {
         "text": "8"
       },
       "by type": {
-        "text": "other 8 (2021)"
+        "text": "Other 8 (2021)"
       }
     },
     "Ports and terminals": {
@@ -937,15 +937,15 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces or conscription"
+      "text": "No regular military forces or conscription"
     },
     "Military - note": {
-      "text": "the Danish military&rsquo;s Joint Arctic Command in Nuuk is responsible for the defense of Greenland"
+      "text": "The Danish military&rsquo;s Joint Arctic Command in Nuuk is responsible for the defense of Greenland"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>managed dispute between Canada and Denmark over Hans Island in the Kennedy Channel between Canada's Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p>"
+      "text": "Managed dispute between Canada and Denmark over Hans Island in the Kennedy Channel between Canada's Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission"
     }
   }
 }

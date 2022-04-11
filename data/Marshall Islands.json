@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Humans arrived in the Marshall Islands in the first millennium B.C. and gradually created permanent settlements on the various atolls. The early inhabitants were skilled navigators who frequently traveled between atolls using stick charts to map the islands. Society became organized under two paramount chiefs, one each for the Ratak (Sunrise) Chain and the Ralik (Sunset) Chain. The traditional hierarchy continued even after contact with Europeans in the early 1500s. Spain formally claimed the islands in 1592, but few other Europeans passed by the islands in the next two centuries. In 1788, British sea captain John MARSHALL undertook an exploratory voyage, and the islands were mapped in the early 1800s by Russian explorers. In the 1850s, US Protestant missionaries began arriving on the islands. Germany established a supply station on Jaluit Atoll and bought the islands from Spain in 1884, although paramount chiefs continued to rule.<br><br>Japan seized the Marshall Islands in 1914 and was granted a League of Nations Mandate to administer the islands in 1920. Japan built large military bases throughout the Marshall Islands, and during World War II, the US captured the bases on Kwajalein, Enewetak, and Majuro Atolls in Operations Flintlock and Catchpole. The Marshall Islands came under US administration as part of the Trust Territory of the Pacific Islands (TTPI) in 1947. Between 1946 and 1958, the US resettled populations from Bikini and Enewetak Atolls and conducted 67 nuclear tests; people from Ailinginae and Rongelap Atolls were also evacuated because of nuclear fallout, and all four atolls remain largely uninhabited. In 1979, the Marshall Islands drafted a constitution separate from the rest of the TTPI and declared independence under President Amata KABUA, a paramount chief. In 2000, Kessai NOTE became the first commoner elected president. In 2016, Hilda HEINE was the first woman elected president.<br><br>In 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. The Marshall Islands hosts the US Army Kwajalein Atoll Reagan Missile Test Site, a key installation in the US missile defense network. Kwajalein also hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))."
+      "text": "Humans arrived in the Marshall Islands in the first millennium B.C. and gradually created permanent settlements on the various atolls. The early inhabitants were skilled navigators who frequently traveled between atolls using stick charts to map the islands. Society became organized under two paramount chiefs, one each for the Ratak (Sunrise) Chain and the Ralik (Sunset) Chain. The traditional hierarchy continued even after contact with Europeans in the early 1500s. Spain formally claimed the islands in 1592, but few other Europeans passed by the islands in the next two centuries. In 1788, British sea captain John MARSHALL undertook an exploratory voyage, and the islands were mapped in the early 1800s by Russian explorers. In the 1850s, US Protestant missionaries began arriving on the islands. Germany established a supply station on Jaluit Atoll and bought the islands from Spain in 1884, although paramount chiefs continued to rule.Japan seized the Marshall Islands in 1914 and was granted a League of Nations Mandate to administer the islands in 1920. Japan built large military bases throughout the Marshall Islands, and during World War II, the US captured the bases on Kwajalein, Enewetak, and Majuro Atolls in Operations Flintlock and Catchpole. The Marshall Islands came under US administration as part of the Trust Territory of the Pacific Islands (TTPI) in 1947. Between 1946 and 1958, the US resettled populations from Bikini and Enewetak Atolls and conducted 67 nuclear tests; people from Ailinginae and Rongelap Atolls were also evacuated because of nuclear fallout, and all four atolls remain largely uninhabited. In 1979, the Marshall Islands drafted a constitution separate from the rest of the TTPI and declared independence under President Amata KABUA, a paramount chief. In 2000, Kessai NOTE became the first commoner elected president. In 2016, Hilda HEINE was the first woman elected president.In 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. The Marshall Islands hosts the US Army Kwajalein Atoll Reagan Missile Test Site, a key installation in the US missile defense network. Kwajalein also hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))."
     }
   },
   "Geography": {
@@ -24,10 +24,10 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "<strong>note:</strong> the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik"
+      "note": "Note: the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik"
     },
     "Area - comparative": {
-      "text": "about the size of Washington, DC"
+      "text": "About the size of Washington, DC"
     },
     "Land boundaries": {
       "total": {
@@ -49,10 +49,10 @@
       }
     },
     "Climate": {
-      "text": "tropical; hot and humid; wet season May to November; islands border typhoon belt"
+      "text": "Tropical; hot and humid; wet season May to November; islands border typhoon belt"
     },
     "Terrain": {
-      "text": "low coral limestone and sand islands"
+      "text": "Low coral limestone and sand islands"
     },
     "Elevation": {
       "highest point": {
@@ -66,20 +66,20 @@
       }
     },
     "Natural resources": {
-      "text": "coconut products, marine products, deep seabed minerals"
+      "text": "Coconut products, marine products, deep seabed minerals"
     },
     "Land use": {
       "agricultural land": {
         "text": "50.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 7.8% (2018 est.)"
+        "text": "Arable land: 7.8% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 31.2% (2018 est.)"
+        "text": "Permanent crops: 31.2% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 11.7% (2018 est.)"
+        "text": "Permanent pasture: 11.7% (2018 est.)"
       },
       "forest": {
         "text": "49.3% (2018 est.)"
@@ -92,13 +92,13 @@
       "text": "0 sq km (2012)"
     },
     "Population distribution": {
-      "text": "most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye"
+      "text": "Most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye"
     },
     "Natural hazards": {
-      "text": "infrequent typhoons"
+      "text": "Infrequent typhoons"
     },
     "Geography - note": {
-      "text": "the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific"
+      "text": "The islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific"
     }
   },
   "People and Society": {
@@ -121,12 +121,12 @@
         "text": "Marshallese (official) 98.2%, other languages 1.8% (1999 est.)"
       },
       "major-language sample(s)": {
-        "text": "<p><br>Bok eo an Lalin kin Melele ko Rejimwe ej jikin ebōk melele ko raurōk. (Marshallese)<br><br>The World Factbook, the indispensable source for basic information.</p>"
+        "text": "Bok eo an Lalin kin Melele ko Rejimwe ej jikin ebōk melele ko raurōk. (Marshallese)The World Factbook, the indispensable source for basic information."
       },
-      "note": "<strong>note:</strong> English (official), widely spoken as a second language"
+      "note": "Note: English (official), widely spoken as a second language"
     },
     "Religions": {
-      "text": "Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%, Church of Jesus Christ 7%, Jehovah's Witness 1.7%,&nbsp; other 1.2%, none 1.1% (2011 est.)"
+      "text": "Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%, Church of Jesus Christ 7%, Jehovah's Witness 1.7%,; other 1.2%, none 1.1% (2011 est.)"
     },
     "Age structure": {
       "0-14 years": {
@@ -183,7 +183,7 @@
       "text": "-4.43 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye"
+      "text": "Most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye"
     },
     "Urbanization": {
       "urban population": {
@@ -249,22 +249,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 99.8% of population"
+        "text": "Rural: 99.8% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0.2% of population"
+        "text": "Rural: 0.2% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -278,22 +278,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 96.6% of population"
+        "text": "Urban: 96.6% of population"
       },
       "improved: rural": {
-        "text": "rural: 65.4% of population"
+        "text": "Rural: 65.4% of population"
       },
       "improved: total": {
-        "text": "total: 89.7% of population"
+        "text": "Total: 89.7% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 3.4% of population"
+        "text": "Urban: 3.4% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 34.6% of population"
+        "text": "Rural: 34.6% of population"
       },
       "unimproved: total": {
-        "text": "total: 10.3% of population (2020 est.)"
+        "text": "Total: 10.3% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -307,13 +307,13 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "high (2020)"
+        "text": "High (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial diarrhea"
+        "text": "Bacterial diarrhea"
       },
       "vectorborne diseases": {
-        "text": "malaria"
+        "text": "Malaria"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -327,7 +327,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "98.3%"
@@ -364,14 +364,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "inadequate supplies of potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels; sea level rise"
+      "text": "Inadequate supplies of potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels; sea level rise"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -386,20 +386,20 @@
       }
     },
     "Climate": {
-      "text": "tropical; hot and humid; wet season May to November; islands border typhoon belt"
+      "text": "Tropical; hot and humid; wet season May to November; islands border typhoon belt"
     },
     "Land use": {
       "agricultural land": {
         "text": "50.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 7.8% (2018 est.)"
+        "text": "Arable land: 7.8% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 31.2% (2018 est.)"
+        "text": "Permanent crops: 31.2% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 11.7% (2018 est.)"
+        "text": "Permanent pasture: 11.7% (2018 est.)"
       },
       "forest": {
         "text": "49.3% (2018 est.)"
@@ -423,13 +423,13 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "high (2020)"
+        "text": "High (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial diarrhea"
+        "text": "Bacterial diarrhea"
       },
       "vectorborne diseases": {
-        "text": "malaria"
+        "text": "Malaria"
       }
     },
     "Waste and recycling": {
@@ -468,11 +468,11 @@
         "text": "RMI"
       },
       "etymology": {
-        "text": "named after British Captain John MARSHALL, who charted many of the islands in 1788"
+        "text": "Named after British Captain John MARSHALL, who charted many of the islands in 1788"
       }
     },
     "Government type": {
-      "text": "mixed presidential-parliamentary system in free association with the US"
+      "text": "Mixed presidential-parliamentary system in free association with the US"
     },
     "Capital": {
       "name": {
@@ -499,27 +499,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "effective 1 May 1979"
+        "text": "Effective 1 May 1979"
       },
       "amendments": {
-        "text": "proposed by the National Parliament or by a constitutional convention; passage by Parliament requires at least two-thirds majority vote of the total membership in each of two readings and approval by a majority of votes in a referendum; amendments submitted by a constitutional convention require approval of at least two thirds of votes in a referendum; amended several times, last in 2018"
+        "text": "Proposed by the National Parliament or by a constitutional convention; passage by Parliament requires at least two-thirds majority vote of the total membership in each of two readings and approval by a majority of votes in a referendum; amendments submitted by a constitutional convention require approval of at least two thirds of votes in a referendum; amended several times, last in 2018"
       }
     },
     "Legal system": {
-      "text": "mixed legal system of US and English common law, customary law, and local statutes"
+      "text": "Mixed legal system of US and English common law, customary law, and local statutes"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of the Marshall Islands"
+        "text": "At least one parent must be a citizen of the Marshall Islands"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "No"
       },
       "residency requirement for naturalization": {
         "text": "5 years"
@@ -530,30 +530,30 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President David KABUA&nbsp;(since&nbsp; 13 January 2020); note - the president is both chief of state and head of government"
+        "text": "President David KABUA;(since; 13 January 2020); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President David KABUA&nbsp;(since&nbsp;13 January 2020)"
+        "text": "President David KABUA;(since;13 January 2020)"
       },
       "cabinet": {
         "text": "Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker"
       },
       "elections/appointments": {
-        "text": "president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on&nbsp;6 January 2020 (next to be held in 2024)"
+        "text": "President indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on;6 January 2020 (next to be held in 2024)"
       },
       "election results": {
-        "text": "David KABUA&nbsp;elected president; Parliament vote - David KABUA&nbsp;20, Hilda C. HEINE&nbsp;12"
+        "text": "David KABUA;elected president; Parliament vote - David KABUA;20, Hilda C. HEINE;12"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Parliament consists of:<br>Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela"
+        "text": "Bicameral National Parliament consists of:Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year termsNitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela"
       },
       "elections": {
-        "text": "last held on 18 November 2019 (next to be held by November 2023)"
+        "text": "Last held on 18 November 2019 (next to be held by November 2023)"
       },
       "election results": {
-        "text": "percent of vote by party - NA; seats by party - independent 33"
+        "text": "Percent of vote by party - NA; seats by party - independent 33"
       }
     },
     "Judicial branch": {
@@ -561,14 +561,14 @@
         "text": "Supreme Court (consists of the chief justice and 2 associate justices)"
       },
       "judge selection and term of office": {
-        "text": "judges appointed by the Cabinet upon the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72"
+        "text": "Judges appointed by the Cabinet upon the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72"
       },
       "subordinate courts": {
         "text": "High Court; District Courts; Traditional Rights Court; Community Courts"
       }
     },
     "Political parties and leaders": {
-      "text": "traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures"
+      "text": "Traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures"
     },
     "International organization participation": {
       "text": "ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO"
@@ -587,7 +587,7 @@
         "text": "[1] (202) 232-3236"
       },
       "email address and website": {
-        "text": "<br>info@rmiembassyus.org<br><br>https://www.rmiembassyus.org/"
+        "text": "Info@rmiembassyus.orghttps://www.rmiembassyus.org/"
       },
       "consulate(s) general": {
         "text": "Honolulu, Springdale (AR)"
@@ -601,7 +601,7 @@
         "text": "Mejen Weto, Ocean Side, Majuro"
       },
       "mailing address": {
-        "text": "4380 Majuro Place, Washington DC&nbsp; 20521-4380"
+        "text": "4380 Majuro Place, Washington DC; 20521-4380"
       },
       "telephone": {
         "text": "[692] 247-4011"
@@ -610,14 +610,14 @@
         "text": "[692] 247-4012"
       },
       "email address and website": {
-        "text": "<br>MAJConsular@state.gov<br><br>https://mh.usembassy.gov/"
+        "text": "MAJConsular@state.govhttps://mh.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; blue represents the Pacific Ocean, the orange stripe signifies the Ralik Chain or sunset and courage, while the white stripe signifies the Ratak Chain or sunrise and peace; the star symbolizes the cross of Christianity, each of the 24 rays designates one of the electoral districts in the country and the four larger rays highlight the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the rising diagonal band can also be interpreted as representing the equator, with the star showing the archipelago's position just to the north"
+      "text": "Blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; blue represents the Pacific Ocean, the orange stripe signifies the Ralik Chain or sunset and courage, while the white stripe signifies the Ratak Chain or sunrise and peace; the star symbolizes the cross of Christianity, each of the 24 rays designates one of the electoral districts in the country and the four larger rays highlight the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the rising diagonal band can also be interpreted as representing the equator, with the star showing the archipelago's position just to the north"
     },
     "National symbol(s)": {
-      "text": "a 24-rayed star; national colors: blue, white, orange"
+      "text": "A 24-rayed star; national colors: blue, white, orange"
     },
     "National anthem": {
       "name": {
@@ -626,7 +626,7 @@
       "lyrics/music": {
         "text": "Amata KABUA"
       },
-      "note": "<strong>note:</strong> adopted 1981"
+      "note": "Note: adopted 1981"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -639,7 +639,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.</p><p></p><p>The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.</p>"
+      "text": "US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2019": {
@@ -651,7 +651,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$219 million (2017 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
@@ -674,7 +674,7 @@
       "Real GDP per capita 2017": {
         "text": "$3,776 (2017 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2017 dollars"
+      "note": "Note: data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$222 million (2017 est.)"
@@ -716,10 +716,10 @@
       }
     },
     "Agricultural products": {
-      "text": "coconuts"
+      "text": "Coconuts"
     },
     "Industries": {
-      "text": "copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)"
+      "text": "Copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)"
     },
     "Industrial production growth rate": {
       "text": "NA"
@@ -810,7 +810,7 @@
       "text": "Poland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "ships, fish, recreational boats, broadcasting equipment, coal tar oil (2019)"
+      "text": "Ships, fish, recreational boats, broadcasting equipment, coal tar oil (2019)"
     },
     "Imports": {
       "Imports 2018": {
@@ -824,7 +824,7 @@
       "text": "South Korea 39%, China 27%, Japan 15% (2019)"
     },
     "Imports - commodities": {
-      "text": "ships, refined petroleum, centrifuges, recreational boats, boat propellers (2019)"
+      "text": "Ships, refined petroleum, centrifuges, recreational boats, boat propellers (2019)"
     },
     "Debt - external": {
       "Debt - external 2013": {
@@ -835,7 +835,7 @@
       }
     },
     "Exchange rates": {
-      "text": "<p>the US dollar is used</p>"
+      "text": "The US dollar is used"
     }
   },
   "Energy": {
@@ -933,18 +933,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits;&nbsp;the US Government, World Bank, UN and International Telecommunication Union (ITU), have aided in&nbsp;improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is&nbsp;especially&nbsp;vital to remote islands (2018)"
+        "text": "Some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits;;the US Government, World Bank, UN and International Telecommunication Union (ITU), have aided in;improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is;especially;vital to remote islands (2018)"
       },
       "domestic": {
         "text": "Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line roughly 4 per 100 persons and mobile-cellular is nearly 28 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein"
+        "text": "Country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2019)"
+      "text": "No TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2019)"
     },
     "Internet country code": {
       "text": ".mh"
@@ -1030,7 +1030,7 @@
         "text": "3,817"
       },
       "by type": {
-        "text": "bulk carrier 1,733, container ship 248, general cargo 66, oil tanker 970, other 800 (2021)"
+        "text": "Bulk carrier 1,733, container ship 248, general cargo 66, oil tanker 970, other 800 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1041,15 +1041,15 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; the national police (Marshall Islands Police Department, MIPD), local police forces, and the Sea Patrol (maritime police) maintain internal security; the MIPD and Sea Patrol report to the Ministry of Justice; local police report to their respective local government councils"
+      "text": "No regular military forces; the national police (Marshall Islands Police Department, MIPD), local police forces, and the Sea Patrol (maritime police) maintain internal security; the MIPD and Sea Patrol report to the Ministry of Justice; local police report to their respective local government councils"
     },
     "Military - note": {
-      "text": "defense is the responsibility of the US"
+      "text": "Defense is the responsibility of the US"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>claims US territory of Wake Island</p>"
+      "text": "Claims US territory of Wake Island"
     },
     "Trafficking in persons": {
       "current situation": {

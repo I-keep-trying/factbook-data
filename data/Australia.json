@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825, Great Britain established New South Wales and then Tasmania as penal colonies respectively. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942, and in 1951 signed the Australia, New Zealand, and US (ANZUS) Treaty, cementing its military alliance with the United States.  In 2021, Australia, the UK, and the United States announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. </p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p>"
+      "text": "Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825, Great Britain established New South Wales and then Tasmania as penal colonies respectively. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942, and in 1951 signed the Australia, New Zealand, and US (ANZUS) Treaty, cementing its military alliance with the United States.  In 2021, Australia, the UK, and the United States announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia.  In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader."
     }
   },
   "Geography": {
@@ -24,10 +24,10 @@
       "water": {
         "text": "58,920 sq km"
       },
-      "note": "<strong>note:</strong> includes Lord Howe Island and Macquarie Island"
+      "note": "Note: includes Lord Howe Island and Macquarie Island"
     },
     "Area - comparative": {
-      "text": "slightly smaller than the US contiguous 48 states"
+      "text": "Slightly smaller than the US contiguous 48 states"
     },
     "Land boundaries": {
       "total": {
@@ -52,10 +52,10 @@
       }
     },
     "Climate": {
-      "text": "generally arid to semiarid; temperate in south and east; tropical in north"
+      "text": "Generally arid to semiarid; temperate in south and east; tropical in north"
     },
     "Terrain": {
-      "text": "mostly low plateau with deserts; fertile plain in southeast"
+      "text": "Mostly low plateau with deserts; fertile plain in southeast"
     },
     "Elevation": {
       "highest point": {
@@ -69,20 +69,20 @@
       }
     },
     "Natural resources": {
-      "text": "alumina, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum; note -&nbsp;Australia is the world's largest net exporter of coal accounting for 29% of global coal exports"
+      "text": "Alumina, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum; note -;Australia is the world's largest net exporter of coal accounting for 29% of global coal exports"
     },
     "Land use": {
       "agricultural land": {
         "text": "46.65% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 4.03% (2018 est.)"
+        "text": "Arable land: 4.03% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.04% (2018 est.)"
+        "text": "Permanent crops: 0.04% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 42.58% (2018 est.)"
+        "text": "Permanent pasture: 42.58% (2018 est.)"
       },
       "forest": {
         "text": "17.42% (2018 est.)"
@@ -106,19 +106,19 @@
       "text": "River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km"
     },
     "Major watersheds (area sq km)": {
-      "text": "Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)"
+      "text": "Indian Ocean drainage: (Great Australian Bight) Murray-Darling (1,050,116 sq km)Internal (endorheic basin) drainage: Lake Eyre (1,212,198 sq km)"
     },
     "Major aquifers": {
       "text": "Great Artesian Basin, Canning Basin"
     },
     "Population distribution": {
-      "text": "population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population"
+      "text": "Population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population"
     },
     "Natural hazards": {
-      "text": "<p>cyclones along the coast; severe droughts; forest fires</p><p><strong>volcanism:</strong> volcanic activity on Heard and McDonald Islands</p>"
+      "text": "Cyclones along the coast; severe droughts; forest firesvolcanism: volcanic activity on Heard and McDonald Islands"
     },
     "Geography - note": {
-      "text": "<strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term \"Great Dividing Range\" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change; the invigorating sea breeze known as the \"Fremantle Doctor\" affects the city of Perth on the west coast and is one of the most consistent winds in the world; Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world"
+      "text": "Note 1: world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land bordersnote 2: the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term \"Great Dividing Range\" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and southnote 3: Australia is the only continent without glaciers; it is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change; the invigorating sea breeze known as the \"Fremantle Doctor\" affects the city of Perth on the west coast and is one of the most consistent winds in the world; Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world"
     }
   },
   "People and Society": {
@@ -134,12 +134,12 @@
       }
     },
     "Ethnic groups": {
-      "text": "<p>English 36.1%, Australian 33.5%, Irish 11.0%, Scottish 9.3%, Chinese 5.6%, Italian 4.6%, German 4.5%, Aboriginal and Torres Strait Islander 2.8%, Indian 2.8%, Greek 1.8%, Dutch 1.6%</p> (2016 est.)",
-      "note": "<strong>note:</strong> data represent self-identified ancestry, with the option of reporting two ancestries"
+      "text": "English 36.1%, Australian 33.5%, Irish 11.0%, Scottish 9.3%, Chinese 5.6%, Italian 4.6%, German 4.5%, Aboriginal and Torres Strait Islander 2.8%, Indian 2.8%, Greek 1.8%, Dutch 1.6% (2016 est.)",
+      "note": "Note: data represent self-identified ancestry, with the option of reporting two ancestries"
     },
     "Languages": {
       "text": "English 72.7%, Mandarin 2.5%, Arabic 1.4%, Cantonese 1.2%, Vietnamese 1.2%, Italian 1.2%, Greek 1%, other 14.8%, unspecified 6.5% (2016 est.)",
-      "note": "<strong>note:</strong> data represent language spoken at home"
+      "note": "Note: data represent language spoken at home"
     },
     "Religions": {
       "text": "Protestant 23.1% (Anglican 13.3%, Uniting Church 3.7%, Presbyterian and Reformed 2.3%, Baptist 1.5%, Pentecostal 1.1%, Lutheran .7%, other Protestant .5%), Roman Catholic 22.6%, other Christian 4.2%, Muslim 2.6%, Buddhist 2.4%, Orthodox 2.3% (Eastern Orthodox 2.1%, Oriental Orthodox .2%), Hindu 1.9%, other 1.3%, none 30.1%, unspecified 9.6% (2016 est.)"
@@ -199,7 +199,7 @@
       "text": "7.49 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population"
+      "text": "Population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population"
     },
     "Urbanization": {
       "urban population": {
@@ -208,7 +208,7 @@
       "rate of urbanization": {
         "text": "1.27% annual rate of change (2020-25 est.)"
       },
-      "note": "<strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island"
+      "note": "Note: data include Christmas Island, Cocos Islands, and Norfolk Island"
     },
     "Major urban areas - population": {
       "text": "5,151 million Melbourne, 5.057 million Sydney, 2.472 million Brisbane, 2.093 million Perth, 1.356 million Adelaide, 467,000 CANBERRA (capital) (2022)"
@@ -269,26 +269,26 @@
     },
     "Contraceptive prevalence rate": {
       "text": "66.9% (2015/16)",
-      "note": "<strong>note:</strong> percent of women aged 18-44"
+      "note": "Note: percent of women aged 18-44"
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -302,22 +302,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -325,11 +325,11 @@
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "30,000 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "HIV/AIDS - deaths": {
       "text": "&lt;100 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "Obesity - adult prevalence rate": {
       "text": "29% (2016)"
@@ -365,14 +365,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "soil erosion from overgrazing, deforestation, industrial development, urbanization, and poor farming practices; limited natural freshwater resources; soil salinity rising due to the use of poor quality water; drought, desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; disruption of the fragile ecosystem has resulted in significant floral extinctions; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; overfishing, pollution, and invasive species are also problems"
+      "text": "Soil erosion from overgrazing, deforestation, industrial development, urbanization, and poor farming practices; limited natural freshwater resources; soil salinity rising due to the use of poor quality water; drought, desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; disruption of the fragile ecosystem has resulted in significant floral extinctions; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; overfishing, pollution, and invasive species are also problems"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -387,20 +387,20 @@
       }
     },
     "Climate": {
-      "text": "generally arid to semiarid; temperate in south and east; tropical in north"
+      "text": "Generally arid to semiarid; temperate in south and east; tropical in north"
     },
     "Land use": {
       "agricultural land": {
         "text": "46.65% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 4.03% (2018 est.)"
+        "text": "Arable land: 4.03% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.04% (2018 est.)"
+        "text": "Permanent crops: 0.04% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 42.58% (2018 est.)"
+        "text": "Permanent pasture: 42.58% (2018 est.)"
       },
       "forest": {
         "text": "17.42% (2018 est.)"
@@ -416,7 +416,7 @@
       "rate of urbanization": {
         "text": "1.27% annual rate of change (2020-25 est.)"
       },
-      "note": "<strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island"
+      "note": "Note: data include Christmas Island, Cocos Islands, and Norfolk Island"
     },
     "Revenue from forest resources": {
       "forest revenues": {
@@ -451,7 +451,7 @@
       "text": "River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km"
     },
     "Major watersheds (area sq km)": {
-      "text": "Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)"
+      "text": "Indian Ocean drainage: (Great Australian Bight) Murray-Darling (1,050,116 sq km)Internal (endorheic basin) drainage: Lake Eyre (1,212,198 sq km)"
     },
     "Major aquifers": {
       "text": "Great Artesian Basin, Canning Basin"
@@ -480,11 +480,11 @@
         "text": "Australia"
       },
       "etymology": {
-        "text": "the name Australia derives from the Latin \"australis\" meaning \"southern\"; the Australian landmass was long referred to as \"Terra Australis\" or the Southern Land"
+        "text": "The name Australia derives from the Latin \"australis\" meaning \"southern\"; the Australian landmass was long referred to as \"Terra Australis\" or the Southern Land"
       }
     },
     "Government type": {
-      "text": "federal parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm"
+      "text": "Federal parliamentary democracy;under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -503,7 +503,7 @@
         "text": "Australia has four time zones, including Lord Howe Island (UTC+10:30)"
       },
       "etymology": {
-        "text": "the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area \"Nganbra\" or \"Nganbira\""
+        "text": "The name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area \"Nganbra\" or \"Nganbira\""
       }
     },
     "Administrative divisions": {
@@ -520,27 +520,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "approved in a series of referenda from 1898 through 1900 and became law 9 July 1900, effective 1 January 1901"
+        "text": "Approved in a series of referenda from 1898 through 1900 and became law 9 July 1900, effective 1 January 1901"
       },
       "amendments": {
-        "text": "proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state&rsquo;s representation in either house or change a state&rsquo;s boundaries require that state&rsquo;s approval prior to Royal Assent; amended several times, last in 1977"
+        "text": "Proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state&rsquo;s representation in either house or change a state&rsquo;s boundaries require that state&rsquo;s approval prior to Royal Assent; amended several times, last in 1977"
       }
     },
     "Legal system": {
-      "text": "common law system based on the English model"
+      "text": "Common law system based on the English model"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen or permanent resident of Australia"
+        "text": "At least one parent must be a citizen or permanent resident of Australia"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "4 years"
@@ -560,18 +560,18 @@
         "text": "Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general"
+        "text": "The monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Federal Parliament consists of:<br>Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br>House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
+        "text": "Bicameral Federal Parliament consists of:Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
       },
       "elections": {
-        "text": "<br>Senate - last held on 18 May 2019 (next to be held on 31 May 2022)<br>House of Representatives - last held on 18 May 2019 (next to be held on 31 May 2022)"
+        "text": "Senate - last held on 18 May 2019 (next to be held on 31 May 2022)House of Representatives - last held on 18 May 2019 (next to be held on 31 May 2022)"
       },
       "election results": {
-        "text": "<br>Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independent 1; composition (as of February 2022) - men 36, women 40, percent of women 52.6%<br>House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party 0.49%, Centre Alliance 0.33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3; composition (as of February 2022) - men 104, women 47, percent of women 31.1%; note - total Federal Parliament percent of women 37.9%"
+        "text": "Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independent 1; composition (as of February 2022) - men 36, women 40, percent of women 52.6%House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party 0.49%, Centre Alliance 0.33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3; composition (as of February 2022) - men 104, women 47, percent of women 31.1%; note - total Federal Parliament percent of women 37.9%"
       }
     },
     "Judicial branch": {
@@ -579,14 +579,14 @@
         "text": "High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts"
       },
       "judge selection and term of office": {
-        "text": "justices appointed by the governor-general in council for life with mandatory retirement at age 70"
+        "text": "Justices appointed by the governor-general in council for life with mandatory retirement at age 70"
       },
       "subordinate courts": {
-        "text": "<em>at the federal level:</em> Federal Court; Federal Magistrates' Courts of Australia; Family Court; <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island"
+        "text": "At the federal level: Federal Court; Federal Magistrates' Courts of Australia; Family Court; at the state and territory level: Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island"
       }
     },
     "Political parties and leaders": {
-      "text": "Australian Greens Party [Adam BANDT]<br>Australian Labor Party or ALP [Anthony ALBANESE]<br>Liberal Party of Australia [Scott MORRISON]<br>The Nationals [Barnaby JOYCE]<br>Pauline Hanson’s One Nation [Pauline HANSON]"
+      "text": "Australian Greens Party [Adam BANDT]Australian Labor Party or ALP [Anthony ALBANESE]Liberal Party of Australia [Scott MORRISON]The Nationals [Barnaby JOYCE]Pauline Hanson’s One Nation [Pauline HANSON]"
     },
     "International organization participation": {
       "text": "ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -605,7 +605,7 @@
         "text": "[1] (202) 797-3168"
       },
       "email address and website": {
-        "text": "<br>https://usa.embassy.gov.au/"
+        "text": "Https://usa.embassy.gov.au/"
       },
       "consulate(s) general": {
         "text": "Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco"
@@ -619,7 +619,7 @@
         "text": "Moonah Place, Yarralumla, Australian Capital Territory 2600"
       },
       "mailing address": {
-        "text": "7800 Canberra Place, Washington DC&nbsp; 20512-7800"
+        "text": "7800 Canberra Place, Washington DC; 20512-7800"
       },
       "telephone": {
         "text": "[61] (02) 6214-5600"
@@ -628,14 +628,14 @@
         "text": "[61] (02) 9373-9184"
       },
       "email address and website": {
-        "text": "<br>AskEmbassyCanberra@state.gov<br><br>https://au.usembassy.gov/"
+        "text": "AskEmbassyCanberra@state.govhttps://au.usembassy.gov/"
       },
       "consulate(s) general": {
         "text": "Melbourne, Perth, Sydney"
       }
     },
     "Flag description": {
-      "text": "blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small, five-pointed star and four larger, seven-pointed stars"
+      "text": "Blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small, five-pointed star and four larger, seven-pointed stars"
     },
     "National symbol(s)": {
       "text": "Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia pycnantha Benth), kangaroo, emu; national colors: green, gold"
@@ -647,7 +647,7 @@
       "lyrics/music": {
         "text": "Peter Dodds McCORMICK"
       },
-      "note": "<strong>note:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
+      "note": "Note: adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -660,7 +660,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.</p><p></p><p>Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.</p><p></p><p>For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth.</p>"
+      "text": "Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -672,7 +672,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$1,227,940,000,000 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -695,7 +695,7 @@
       "Real GDP per capita 2018": {
         "text": "$49,200 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$1,390,790,000,000 (2019 est.)"
@@ -754,10 +754,10 @@
       }
     },
     "Agricultural products": {
-      "text": "sugar cane, wheat, barley, milk, rapeseed, beef, cotton, grapes, poultry, potatoes"
+      "text": "Sugar cane, wheat, barley, milk, rapeseed, beef, cotton, grapes, poultry, potatoes"
     },
     "Industries": {
-      "text": "mining, industrial and transportation equipment, food processing, chemicals, steel"
+      "text": "Mining, industrial and transportation equipment, food processing, chemicals, steel"
     },
     "Industrial production growth rate": {
       "text": "1.4% (2017 est.)"
@@ -859,7 +859,7 @@
       "text": "China 39%, Japan 15%, South Korea 7%, India 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "iron ore, coal, natural gas, gold, aluminum oxide (2019)"
+      "text": "Iron ore, coal, natural gas, gold, aluminum oxide (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -876,7 +876,7 @@
       "text": "China 25%, United States 12%, Japan 7%, Germany 5%, Thailand 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, cars, crude petroleum, broadcasting equipment, delivery trucks (2019)"
+      "text": "Refined petroleum, cars, crude petroleum, broadcasting equipment, delivery trucks (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -1007,18 +1007,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent domestic and international service with comprehensive population coverage through LTE; domestic satellite system; rapid growth of mobile and fixed-wireless broadband services through multi-technology architecture; emphasis on new technologies; diminished fixed-line market due to mobile and mobile broadband; in fixed broadband, shift to fiber networks through infrastructure build out; mobile network operators continue to work towards the launch of 5G; predicted to be one of the top markets driving the growth of 5G and data markets in Asia; fiber backbone to connect with submarine cables; Oman-Australia cable is estimated to be in service by mid-2022; two of Australia's major imports are broadcast equipment and computers from China (2021)"
+        "text": "Excellent domestic and international service with comprehensive population coverage through LTE; domestic satellite system; rapid growth of mobile and fixed-wireless broadband services through multi-technology architecture; emphasis on new technologies; diminished fixed-line market due to mobile and mobile broadband; in fixed broadband, shift to fiber networks through infrastructure build out; mobile network operators continue to work towards the launch of 5G; predicted to be one of the top markets driving the growth of 5G and data markets in Asia; fiber backbone to connect with submarine cables; Oman-Australia cable is estimated to be in service by mid-2022; two of Australia's major imports are broadcast equipment and computers from China (2021)"
       },
       "domestic": {
-        "text": "roughly 24 per 100 fixed-line and 108 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2020)"
+        "text": "Roughly 24 per 100 fixed-line and 108 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2020)"
       },
       "international": {
-        "text": "country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)"
+        "text": "Country code - 61; landing points for;more than;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)"
       },
-      "note": "<strong>note</strong>: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as ABC Australia, a TV service that broadcasts in the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available"
+      "text": "The Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as ABC Australia, a TV service that broadcasts in the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available"
     },
     "Internet country code": {
       "text": ".au"
@@ -1136,18 +1136,18 @@
         "text": "581"
       },
       "by type": {
-        "text": "bulk carrier 2, general cargo 76, oil tanker 7, other 496 (2021)"
+        "text": "Bulk carrier 2, general cargo 76, oil tanker 7, other 496 (2021)"
       }
     },
     "Ports and terminals": {
       "major seaport(s)": {
-        "text": "<em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney"
+        "text": "Indian Ocean: Adelaide, Darwin, Fremantle, Geelong, MelbournePacific Ocean: Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney"
       },
       "container port(s) (TEUs)": {
         "text": "Melbourne (2,967,315), Sydney (2,572,714) (2019)"
       },
       "LNG terminal(s) (export)": {
-        "text": "Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone,&nbsp;Prelude (offshore FLNG), Wheatstone"
+        "text": "Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone,;Prelude (offshore FLNG), Wheatstone"
       },
       "dry bulk cargo port(s)": {
         "text": "Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)"
@@ -1176,31 +1176,31 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Australian Defense Force has approximately 59,000 total active troops (29,000 Army; 15,000 Navy; 15,000 Air Force) (2021)"
+      "text": "The Australian Defense Force has approximately 59,000 total active troops (29,000 Army; 15,000 Navy; 15,000 Air Force) (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Australian military's inventory includes a mix of domestically-produced and imported Western weapons systems; since 2015, the US is the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2021)"
+      "text": "The Australian military's inventory includes a mix of domestically-produced and imported Western weapons systems; since 2015, the US is the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2021)"
     },
     "Military service age and obligation": {
       "text": "17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms since 2013 (2021)",
-      "note": "note - in 2019-2020, women comprised about 19% of the ADF"
+      "note": "Note - in 2019-2020, women comprised about 19% of the ADF"
     },
     "Military deployments": {
-      "text": "approximately 700 Middle East (2021)"
+      "text": "Approximately 700 Middle East (2021)"
     },
     "Military - note": {
-      "text": "<p>Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Australian military forces often train with US forces; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since</p> <p>Australia has long-standing defense and security ties to the UK, including a Defense and Security Cooperation Treaty signed in 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues</p> <p>in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy</p> <p>since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations, including in Cambodia, Rwanda, the Solomon Islands, Somalia, and East Timor</p> (2022)"
+      "text": "Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Australian military forces often train with US forces; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since Australia has long-standing defense and security ties to the UK, including a Defense and Security Cooperation Treaty signed in 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations, including in Cambodia, Rwanda, the Solomon Islands, Somalia, and East Timor (2022)"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Islamic State of Iraq and ash-Sham (ISIS)",
-      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "Note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p><em>Australia-Indonesia (Maritime Boundary):</em> All borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature. Indonesian groups challenge Australia's claim to Ashmore Reef. Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing.<em><br><br>Australia-Timor-Leste (Maritime Boundary):</em> In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary.</p>"
+      "text": "Australia-Indonesia (Maritime Boundary): All borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature. Indonesian groups challenge Australia's claim to Ashmore Reef. Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing.Australia-Timor-Leste (Maritime Boundary): In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary."
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {

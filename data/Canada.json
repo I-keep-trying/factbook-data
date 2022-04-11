@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada gained legislative independence from Britain in 1931 and formalized its constitutional independence from the UK when it passed the Canada Act in 1982. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment.</p>"
+      "text": "A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada gained legislative independence from Britain in 1931 and formalized its constitutional independence from the UK when it passed the Canada Act in 1982. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment."
     }
   },
   "Geography": {
@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly larger than the US"
+      "text": "Slightly larger than the US"
     },
     "Land boundaries": {
       "total": {
@@ -35,11 +35,11 @@
       "border countries": {
         "text": "US 8,891 km (includes 2,475 km with Alaska)"
       },
-      "note": "<strong>note:</strong> Canada is the world's largest country that borders only one country"
+      "note": "Note: Canada is the world's largest country that borders only one country"
     },
     "Coastline": {
       "text": "202,080 km",
-      "note": "<strong>note:</strong> the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world"
+      "note": "Note: the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world"
     },
     "Maritime claims": {
       "territorial sea": {
@@ -56,10 +56,10 @@
       }
     },
     "Climate": {
-      "text": "varies from temperate in south to subarctic and arctic in north"
+      "text": "Varies from temperate in south to subarctic and arctic in north"
     },
     "Terrain": {
-      "text": "mostly plains with mountains in west, lowlands in southeast"
+      "text": "Mostly plains with mountains in west, lowlands in southeast"
     },
     "Elevation": {
       "highest point": {
@@ -73,20 +73,20 @@
       }
     },
     "Natural resources": {
-      "text": "bauxite, iron ore, nickel, zinc, copper, gold, lead, uranium, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower"
+      "text": "Bauxite, iron ore, nickel, zinc, copper, gold, lead, uranium, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower"
     },
     "Land use": {
       "agricultural land": {
         "text": "6.8% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 4.7% (2018 est.)"
+        "text": "Arable land: 4.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.5% (2018 est.)"
+        "text": "Permanent crops: 0.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 1.6% (2018 est.)"
+        "text": "Permanent pasture: 1.6% (2018 est.)"
       },
       "forest": {
         "text": "34.1% (2018 est.)"
@@ -100,26 +100,26 @@
     },
     "Major lakes (area sq km)": {
       "Fresh water lake(s)": {
-        "text": "Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters"
+        "text": "Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq kmnote - Great Lakes* area shown as Canadian waters"
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *"
+      "text": "Atlantic Ocean drainage: Mississippi* (Gulf of Mexico) (3,202,185 sq km, Canada only 32,000 sq km), Nelson (Hudson Bay) (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)Arctic Ocean drainage: Mackenzie (1,706,388 sq km)Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)note - watersheds shared with the US shown with *"
     },
     "Major aquifers": {
       "text": "Northern Great Plains Aquifer"
     },
     "Population distribution": {
-      "text": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia"
+      "text": "Vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia"
     },
     "Natural hazards": {
-      "text": "<p>continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains</p><p><strong>volcanism:</strong> the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant</p>"
+      "text": "Continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountainsvolcanism: the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant"
     },
     "Geography - note": {
-      "text": "<p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined</p>"
+      "text": "Note 1: second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border note 2: Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined"
     }
   },
   "People and Society": {
@@ -136,14 +136,14 @@
     },
     "Ethnic groups": {
       "text": "Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, Ukrainian 3.9%, other 47.7% (2016 est.)",
-      "note": "<strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin"
+      "note": "Note: percentages add up to more than 100% because respondents were able to identify more than one ethnic origin"
     },
     "Languages": {
       "Languages": {
         "text": "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)"
       },
       "major-language sample(s)": {
-        "text": "<br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)"
+        "text": "The World Factbook, the indispensable source for basic information. (English)The World Factbook, une source indispensable d'informations de base. (French)"
       }
     },
     "Religions": {
@@ -204,7 +204,7 @@
       "text": "5.55 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia"
+      "text": "Vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia"
     },
     "Urbanization": {
       "urban population": {
@@ -276,22 +276,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 99.3% of population"
+        "text": "Urban: 99.3% of population"
       },
       "improved: rural": {
-        "text": "rural: 99.1% of population"
+        "text": "Rural: 99.1% of population"
       },
       "improved: total": {
-        "text": "total: 99.2% of population"
+        "text": "Total: 99.2% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0.7% of population"
+        "text": "Urban: 0.7% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0.9% of population"
+        "text": "Rural: 0.9% of population"
       },
       "unimproved: total": {
-        "text": "total: 0.8% of population (2020 est.)"
+        "text": "Total: 0.8% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -305,22 +305,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 99.1% of population"
+        "text": "Urban: 99.1% of population"
       },
       "improved: rural": {
-        "text": "rural: 98.9% of population"
+        "text": "Rural: 98.9% of population"
       },
       "improved: total": {
-        "text": "total: 99% of population"
+        "text": "Total: 99% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0.9% of population"
+        "text": "Urban: 0.9% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 1.1% of population"
+        "text": "Rural: 1.1% of population"
       },
       "unimproved: total": {
-        "text": "total: 1% of population (2020 est.)"
+        "text": "Total: 1% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -366,7 +366,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities"
+      "text": "Metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities"
     },
     "Environment - international agreements": {
       "party to": {
@@ -388,20 +388,20 @@
       }
     },
     "Climate": {
-      "text": "varies from temperate in south to subarctic and arctic in north"
+      "text": "Varies from temperate in south to subarctic and arctic in north"
     },
     "Land use": {
       "agricultural land": {
         "text": "6.8% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 4.7% (2018 est.)"
+        "text": "Arable land: 4.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0.5% (2018 est.)"
+        "text": "Permanent crops: 0.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 1.6% (2018 est.)"
+        "text": "Permanent pasture: 1.6% (2018 est.)"
       },
       "forest": {
         "text": "34.1% (2018 est.)"
@@ -441,14 +441,14 @@
     },
     "Major lakes (area sq km)": {
       "Fresh water lake(s)": {
-        "text": "Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters"
+        "text": "Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq kmnote - Great Lakes* area shown as Canadian waters"
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *"
+      "text": "Atlantic Ocean drainage: Mississippi* (Gulf of Mexico) (3,202,185 sq km, Canada only 32,000 sq km), Nelson (Hudson Bay) (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)Arctic Ocean drainage: Mackenzie (1,706,388 sq km)Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)note - watersheds shared with the US shown with *"
     },
     "Major aquifers": {
       "text": "Northern Great Plains Aquifer"
@@ -471,17 +471,17 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Canada"
       },
       "etymology": {
-        "text": "the country name likely derives from the St. Lawrence Iroquoian word \"kanata\" meaning village or settlement"
+        "text": "The country name likely derives from the St. Lawrence Iroquoian word \"kanata\" meaning village or settlement"
       }
     },
     "Government type": {
-      "text": "federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution"
+      "text": "Federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution"
     },
     "Capital": {
       "name": {
@@ -500,7 +500,7 @@
         "text": "Canada has six time zones"
       },
       "etymology": {
-        "text": "the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word \"adawe\" meaning \"to trade\" and refers to the indigenous peoples who used the river as a trade highway"
+        "text": "The city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word \"adawe\" meaning \"to trade\" and refers to the indigenous peoples who used the river as a trade highway"
       }
     },
     "Administrative divisions": {
@@ -514,30 +514,30 @@
     },
     "Constitution": {
       "history": {
-        "text": "consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982"
+        "text": "Consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982"
       },
       "amendments": {
-        "text": "proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011)"
+        "text": "Proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011)"
       }
     },
     "Legal system": {
-      "text": "common law system except in Quebec, where civil law based on the French civil code prevails"
+      "text": "Common law system except in Quebec, where civil law based on the French civil code prevails"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "yes"
+        "text": "Yes"
       },
       "citizenship by descent only": {
-        "text": "yes"
+        "text": "Yes"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
-        "text": "minimum of 3 of last 5 years resident in Canada"
+        "text": "Minimum of 3 of last 5 years resident in Canada"
       }
     },
     "Suffrage": {
@@ -554,19 +554,19 @@
         "text": "Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general"
+        "text": "The monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general"
       },
-      "note": "<strong>note:</strong> the governor general position is largely ceremonial"
+      "note": "Note: the governor general position is largely ceremonial"
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)"
+        "text": "Bicameral Parliament or Parlement consists of:Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)"
       },
       "elections": {
-        "text": "Senate - appointed; latest appointments in July 2021<br>House of Commons - last held on 20 September 2021 (next to be held on or before 20 October 2025)"
+        "text": "Senate - appointed; latest appointments in July 2021House of Commons - last held on 20 September 2021 (next to be held on or before 20 October 2025)"
       },
       "election results": {
-        "text": "<br>Senate - composition as of March 2022 - men 47, women 45, percent of women 48.9% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 235, women 103, percent of women 30.5%; note - total Parliament percent of women 34.4%"
+        "text": "Senate - composition as of March 2022 - men 47, women 45, percent of women 48.9% House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 235, women 103, percent of women 30.5%; note - total Parliament percent of women 34.4%"
       }
     },
     "Judicial branch": {
@@ -574,14 +574,14 @@
         "text": "Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)"
       },
       "judge selection and term of office": {
-        "text": "chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75"
+        "text": "Chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75"
       },
       "subordinate courts": {
-        "text": "federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -&nbsp; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements"
+        "text": "Federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements"
       }
     },
     "Political parties and leaders": {
-      "text": "Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Candice BERGEN (interim)]<br>Green Party [Amita KUTTNER (interim)]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]"
+      "text": "Bloc Quebecois [Yves-Francois BLANCHET]Conservative Party of Canada or CPC [Candice BERGEN (interim)]Green Party [Amita KUTTNER (interim)]Liberal Party [Justin TRUDEAU]New Democratic Party or NDP [Jagmeet SINGH]People's Party of Canada [Maxime BERNIER]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -600,7 +600,7 @@
         "text": "[1] (202) 682-7738"
       },
       "email address and website": {
-        "text": "<br>ccs.scc@international.gc.ca<br><br>https://www.international.gc.ca/country-pays/us-eu/washington.aspx?lang=eng"
+        "text": "Ccs.scc@international.gc.cahttps://www.international.gc.ca/country-pays/us-eu/washington.aspx?lang=eng"
       },
       "consulate(s) general": {
         "text": "Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco/Silicon Valley, Seattle"
@@ -617,7 +617,7 @@
         "text": "490 Sussex Drive, Ottawa, Ontario K1N 1G8"
       },
       "mailing address": {
-        "text": "5480 Ottawa Place, Washington DC&nbsp; 20521-5480"
+        "text": "5480 Ottawa Place, Washington DC; 20521-5480"
       },
       "telephone": {
         "text": "[1] (613) 238-5335"
@@ -626,7 +626,7 @@
         "text": "[1] (613) 241-7845"
       },
       "email address and website": {
-        "text": "<br>OttawaNIV@state.gov<br><br>https://ca.usembassy.gov/"
+        "text": "OttawaNIV@state.govhttps://ca.usembassy.gov/"
       },
       "consulate(s) general": {
         "text": "Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver"
@@ -636,10 +636,10 @@
       }
     },
     "Flag description": {
-      "text": "two vertical bands of red (hoist and fly side, half width) with white square between them; an 11-pointed red maple leaf is centered in the white square; the maple leaf has long been a Canadian symbol"
+      "text": "Two vertical bands of red (hoist and fly side, half width) with white square between them; an 11-pointed red maple leaf is centered in the white square; the maple leaf has long been a Canadian symbol"
     },
     "National symbol(s)": {
-      "text": "maple leaf, beaver; national colors: red, white"
+      "text": "Maple leaf, beaver; national colors: red, white"
     },
     "National anthem": {
       "name": {
@@ -648,7 +648,7 @@
       "lyrics/music": {
         "text": "Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE"
       },
-      "note": "<strong>note:</strong> adopted 1980; originally written in 1880, \"O Canada\" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
+      "note": "Note: adopted 1980; originally written in 1880, \"O Canada\" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -661,7 +661,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.</p><p></p><p>TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.</p><p></p><p>Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.</p>"
+      "text": "Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -673,7 +673,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$1,808,660,000,000 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -696,7 +696,7 @@
       "Real GDP per capita 2018": {
         "text": "$48,800 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$1,741,865,000,000 (2019 est.)"
@@ -755,10 +755,10 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, pork"
+      "text": "Wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, pork"
     },
     "Industries": {
-      "text": "transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas"
+      "text": "Transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas"
     },
     "Industrial production growth rate": {
       "text": "4.9% (2017 est.)"
@@ -804,7 +804,7 @@
     },
     "Population below poverty line": {
       "text": "9.4% (2008 est.)",
-      "note": "<strong>note:</strong> this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line"
+      "note": "Note: this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2017": {
@@ -840,7 +840,7 @@
       "Public debt 2016": {
         "text": "91.1% of GDP (2016 est.)"
       },
-      "note": "<strong>note:</strong> figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level"
+      "note": "Note: figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level"
     },
     "Taxes and other revenues": {
       "text": "39.3% (of GDP) (2017 est.)"
@@ -871,7 +871,7 @@
       "text": "US 73% (2019)"
     },
     "Exports - commodities": {
-      "text": "crude petroleum, cars and vehicle parts, gold, refined petroleum, natural gas (2019)"
+      "text": "Crude petroleum, cars and vehicle parts, gold, refined petroleum, natural gas (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -888,7 +888,7 @@
       "text": "US 57%, China 11%, Mexico 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "cars and vehicle parts, delivery trucks, crude petroleum, refined petroleum (2019)"
+      "text": "Cars and vehicle parts, delivery trucks, crude petroleum, refined petroleum (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -1025,9 +1025,9 @@
         "text": "Nearly 37 per 100 fixed-line and 96 per 100 mobile-cellular teledensity; domestic satellite system with about 300 earth stations (2020)"
       },
       "international": {
-        "text": "country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)"
+        "text": "Country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)"
@@ -1113,7 +1113,7 @@
       "text": "26 (2013)"
     },
     "Pipelines": {
-      "text": "840,000 km oil and gas&nbsp; (2017)"
+      "text": "840,000 km oil and gas; (2017)"
     },
     "Railways": {
       "total": {
@@ -1142,7 +1142,7 @@
         "text": "679"
       },
       "by type": {
-        "text": "bulk carrier 22, container ship 1, general cargo 66, oil tanker 15, other 575 (2021)"
+        "text": "Bulk carrier 22, container ship 1, general cargo 66, oil tanker 15, other 575 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1170,7 +1170,7 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command; Primary Reserve (army, air, naval reserves); Coast Guard (Department of Fisheries and Oceans) (2021)",
-      "note": "note - the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles"
+      "note": "Note - the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles"
     },
     "Military expenditures": {
       "Military Expenditures 2021": {
@@ -1190,32 +1190,32 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)",
-      "note": "note - the Army also has 19,000 part-time, volunteer soldiers in the Reserve Force, including about 5,500 Rangers"
+      "text": "Approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)",
+      "note": "Note - the Army also has 19,000 part-time, volunteer soldiers in the Reserve Force, including about 5,500 Rangers"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2021)"
+      "text": "The CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2021)"
     },
     "Military service age and obligation": {
       "text": "17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)",
-      "note": "note(s) - Canada opened up all military occupations to women in 2001; in 2020, women comprised about 16% of the CAF"
+      "note": "Note(s) - Canada opened up all military occupations to women in 2001; in 2020, women comprised about 16% of the CAF"
     },
     "Military deployments": {
-      "text": "up to 530 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple missions, including support to the Global Coalition to Defeat ISIS and NATO assistance mission Iraq) (2021)"
+      "text": "Up to 530 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple missions, including support to the Global Coalition to Defeat ISIS and NATO assistance mission Iraq) (2021)"
     },
     "Military - note": {
-      "text": "<p>Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949</p> <p>Canada is part of the North American Aerospace Defense Command (NORAD; established 1958); NORAD is a Canada-US bi-national military command responsible for monitoring and defending North American airspace; traditionally, a Canadian Armed Forces officer has served as the deputy commander of NORAD</p> <p>Canada’s defense relationship with the US extends back to the Ogdensburg Declaration of 1940, when the two countries formally agreed on military cooperation, including the establishment of the Permanent Joint Board on Defense (PJBD), which continued to be the highest-level bilateral defense forum between Canada and the US as of 2021</p> <p>British troops withdrew from Canada in 1871 as part of the UK-US Treaty of Washington; following the withdrawal, the first Canadian militia, known as the Royal Canadian Regiment, was organized in 1883 to protect Canadian territory and defend British interests abroad, which it did in the South African War (1899-1902), Canada’s first overseas conflict; militia units formed the backbone of the more than 425,000 Canadian soldiers that went to Europe during World War I in what was called the Canadian Expeditionary Force; the Royal Canadian Navy was created in 1910, while the Canadian Air Force was established in 1920 and became the Royal Canadian Air Force in 1924; the Canadian Army was officially founded in 1942; a unified Canadian Armed Forces was created in 1968</p>"
+      "text": "Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 Canada is part of the North American Aerospace Defense Command (NORAD; established 1958); NORAD is a Canada-US bi-national military command responsible for monitoring and defending North American airspace; traditionally, a Canadian Armed Forces officer has served as the deputy commander of NORAD Canada’s defense relationship with the US extends back to the Ogdensburg Declaration of 1940, when the two countries formally agreed on military cooperation, including the establishment of the Permanent Joint Board on Defense (PJBD), which continued to be the highest-level bilateral defense forum between Canada and the US as of 2021 British troops withdrew from Canada in 1871 as part of the UK-US Treaty of Washington; following the withdrawal, the first Canadian militia, known as the Royal Canadian Regiment, was organized in 1883 to protect Canadian territory and defend British interests abroad, which it did in the South African War (1899-1902), Canada’s first overseas conflict; militia units formed the backbone of the more than 425,000 Canadian soldiers that went to Europe during World War I in what was called the Canadian Expeditionary Force; the Royal Canadian Navy was created in 1910, while the Canadian Air Force was established in 1920 and became the Royal Canadian Air Force in 1924; the Canadian Army was officially founded in 1942; a unified Canadian Armed Forces was created in 1968"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Islamic State of Iraq and ash-Sham (ISIS)",
-      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "Note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea</p>"
+      "text": "Managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1226,7 +1226,7 @@
       }
     },
     "Illicit drugs": {
-      "text": "illicit production of fentanyl primarily for Canada's domestic drug market with at least small quantities smuggled to the US; complex laboratories setup for fentanyl production have been found and Mexican traffickers present in the country; Canada legalized marijuana in 2018"
+      "text": "Illicit production of fentanyl primarily for Canada's domestic drug market with at least small quantities smuggled to the US; complex laboratories setup for fentanyl production have been found and Mexican traffickers present in the country; Canada legalized marijuana in 2018"
     }
   }
 }

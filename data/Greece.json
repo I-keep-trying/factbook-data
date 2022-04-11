@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Greece achieved independence from the Ottoman Empire in 1830. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-communist and communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. In 1974 following the collapse of the dictatorship, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union (EMU) in 2001. Greece has suffered a severe economic crisis since late 2009, due to nearly a decade of chronic overspending and structural rigidities.&nbsp;Beginning in&nbsp;2010, Greece entered three bailout agreements - with the European Commission, the European Central Bank (ECB), the IMF, and&nbsp;the third in 2015 with&nbsp;the European Stability Mechanism (ESM) - worth in total about $300 billion. The Greek Government formally exited the third bailout in August 2018."
+      "text": "Greece achieved independence from the Ottoman Empire in 1830. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-communist and communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. In 1974 following the collapse of the dictatorship, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union (EMU) in 2001. Greece has suffered a severe economic crisis since late 2009, due to nearly a decade of chronic overspending and structural rigidities.;Beginning in;2010, Greece entered three bailout agreements - with the European Commission, the European Central Bank (ECB), the IMF, and;the third in 2015 with;the European Stability Mechanism (ESM) - worth in total about $300 billion. The Greek Government formally exited the third bailout in August 2018."
     }
   },
   "Geography": {
@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly smaller than Alabama"
+      "text": "Slightly smaller than Alabama"
     },
     "Land boundaries": {
       "total": {
@@ -48,10 +48,10 @@
       }
     },
     "Climate": {
-      "text": "temperate; mild, wet winters; hot, dry summers"
+      "text": "Temperate; mild, wet winters; hot, dry summers"
     },
     "Terrain": {
-      "text": "mountainous with ranges extending into the sea as peninsulas or chains of islands"
+      "text": "Mountainous with ranges extending into the sea as peninsulas or chains of islands"
     },
     "Elevation": {
       "highest point": {
@@ -63,23 +63,23 @@
       "mean elevation": {
         "text": "498 m"
       },
-      "note": "<strong>note:</strong> Mount Olympus actually has 52 peaks but its highest point, Mytikas (meaning \"nose\"), rises to 2,917 meters; in Greek mythology, Olympus' Mytikas peak was the home of the Greek gods"
+      "note": "Note: Mount Olympus actually has 52 peaks but its highest point, Mytikas (meaning \"nose\"), rises to 2,917 meters; in Greek mythology, Olympus' Mytikas peak was the home of the Greek gods"
     },
     "Natural resources": {
-      "text": "lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential"
+      "text": "Lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential"
     },
     "Land use": {
       "agricultural land": {
         "text": "63.4% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 19.7% (2018 est.)"
+        "text": "Arable land: 19.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 8.9% (2018 est.)"
+        "text": "Permanent crops: 8.9% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 34.8% (2018 est.)"
+        "text": "Permanent pasture: 34.8% (2018 est.)"
       },
       "forest": {
         "text": "30.5% (2018 est.)"
@@ -92,13 +92,13 @@
       "text": "15,550 sq km (2012)"
     },
     "Population distribution": {
-      "text": "one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters"
+      "text": "One-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters"
     },
     "Natural hazards": {
-      "text": "<p>severe earthquakes</p><p><strong>volcanism:</strong> Santorini (367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active</p>"
+      "text": "Severe earthquakesvolcanism: Santorini (367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active"
     },
     "Geography - note": {
-      "text": "strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, possessing an archipelago of about 2,000 islands"
+      "text": "Strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, possessing an archipelago of about 2,000 islands"
     }
   },
   "People and Society": {
@@ -115,14 +115,14 @@
     },
     "Ethnic groups": {
       "text": "Greek 91.6%, Albanian 4.4%, other 4% (2011)",
-      "note": "<strong>note:</strong> data represent citizenship; Greece does not collect data on ethnicity"
+      "note": "Note: data represent citizenship; Greece does not collect data on ethnicity"
     },
     "Languages": {
       "Languages": {
         "text": "Greek (official) 99%, other (includes English and French) 1%"
       },
       "major-language sample(s)": {
-        "text": "<br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
@@ -183,7 +183,7 @@
       "text": "0.97 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters"
+      "text": "One-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters"
     },
     "Urbanization": {
       "urban population": {
@@ -255,22 +255,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -284,22 +284,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -307,11 +307,11 @@
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "17,000 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "HIV/AIDS - deaths": {
       "text": "&lt;100 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "Obesity - adult prevalence rate": {
       "text": "24.9% (2016)"
@@ -324,7 +324,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "97.9%"
@@ -361,7 +361,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "air pollution; air emissions from transport and electricity power stations; water pollution; degradation of coastal zones; loss of biodiversity in terrestrial and marine ecosystems; increasing municipal and industrial waste"
+      "text": "Air pollution; air emissions from transport and electricity power stations; water pollution; degradation of coastal zones; loss of biodiversity in terrestrial and marine ecosystems; increasing municipal and industrial waste"
     },
     "Environment - international agreements": {
       "party to": {
@@ -383,20 +383,20 @@
       }
     },
     "Climate": {
-      "text": "temperate; mild, wet winters; hot, dry summers"
+      "text": "Temperate; mild, wet winters; hot, dry summers"
     },
     "Land use": {
       "agricultural land": {
         "text": "63.4% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 19.7% (2018 est.)"
+        "text": "Arable land: 19.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 8.9% (2018 est.)"
+        "text": "Permanent crops: 8.9% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 34.8% (2018 est.)"
+        "text": "Permanent pasture: 34.8% (2018 est.)"
       },
       "forest": {
         "text": "30.5% (2018 est.)"
@@ -467,11 +467,11 @@
         "text": "Hellenic State, Kingdom of Greece"
       },
       "etymology": {
-        "text": "the English name derives from the Roman (Latin) designation \"Graecia,\" meaning \"Land of the Greeks\"; the Greeks call their country \"Hellas\" or \"Ellada\""
+        "text": "The English name derives from the Roman (Latin) designation \"Graecia,\" meaning \"Land of the Greeks\"; the Greeks call their country \"Hellas\" or \"Ellada\""
       }
     },
     "Government type": {
-      "text": "parliamentary republic"
+      "text": "Parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -501,27 +501,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "many previous; latest entered into force 11 June 1975"
+        "text": "Many previous; latest entered into force 11 June 1975"
       },
       "amendments": {
-        "text": "proposed by at least 50 members of Parliament and agreed by three-fifths majority vote in two separate ballots at least 30 days apart; passage requires absolute majority vote by the next elected Parliament; entry into force finalized through a \"special parliamentary resolution\"; articles on human rights and freedoms and the form of government cannot be amended; amended 1986, 2001, 2008, 2019"
+        "text": "Proposed by at least 50 members of Parliament and agreed by three-fifths majority vote in two separate ballots at least 30 days apart; passage requires absolute majority vote by the next elected Parliament; entry into force finalized through a \"special parliamentary resolution\"; articles on human rights and freedoms and the form of government cannot be amended; amended 1986, 2001, 2008, 2019"
       }
     },
     "Legal system": {
-      "text": "civil legal system based on Roman law"
+      "text": "Civil legal system based on Roman law"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Greece"
+        "text": "At least one parent must be a citizen of Greece"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "10 years"
@@ -538,24 +538,24 @@
         "text": "Prime Minister Kyriakos MITSOTAKIS (since 8 July 2019)"
       },
       "cabinet": {
-        "text": "Cabinet appointed by the president on the recommendation of the prime minister&nbsp;"
+        "text": "Cabinet appointed by the president on the recommendation of the prime minister;"
       },
       "elections/appointments": {
-        "text": "president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on&nbsp;22 January 2020&nbsp;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament"
+        "text": "President elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on;22 January 2020;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament"
       },
       "election results": {
-        "text": "Katerina SAKELLAROPOULOU&nbsp;(independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU&nbsp;is Greece's first woman president"
+        "text": "Katerina SAKELLAROPOULOU;(independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU;is Greece's first woman president"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold"
+        "text": "Unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); ;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold"
       },
       "elections": {
-        "text": "last held on 7 July 2019 (next to be held&nbsp;by July 2023)"
+        "text": "Last held on 7 July 2019 (next to be held;by July 2023)"
       },
       "election results": {
-        "text": "percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%"
+        "text": "Percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%"
       }
     },
     "Judicial branch": {
@@ -570,7 +570,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left or SYRIZA [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>Movement for Change or KINAL [Nikos ANDROULAKIS] <br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>Popular Unity or LAE [Nikolaos CHOUNTIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]"
+      "text": "Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]Coalition of the Radical Left or SYRIZA [Alexios (Alexis) TSIPRAS]Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]Greek Solution [Kyriakos VELOPOULOS]Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]Movement for Change or KINAL [Nikos ANDROULAKIS] New Democracy or ND [Kyriakos MITSOTAKIS]Popular Unity or LAE [Nikolaos CHOUNTIS]Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]"
     },
     "International organization participation": {
       "text": "Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -589,7 +589,7 @@
         "text": "[1] (202) 939-1324"
       },
       "email address and website": {
-        "text": "<br>gremb.was@mfa.gr<br><br>https://www.mfa.gr/usa/en/the-embassy/"
+        "text": "Gremb.was@mfa.grhttps://www.mfa.gr/usa/en/the-embassy/"
       },
       "consulate(s) general": {
         "text": "Boston, Chicago, Los Angeles, New York, Tampa (FL), San Francisco"
@@ -606,7 +606,7 @@
         "text": "91 Vasillisis Sophias Avenue, 10160 Athens"
       },
       "mailing address": {
-        "text": "7100 Athens Place, Washington DC&nbsp; 20521-7100"
+        "text": "7100 Athens Place, Washington DC; 20521-7100"
       },
       "telephone": {
         "text": "[30] (210) 721-2951"
@@ -615,15 +615,15 @@
         "text": "[30] (210) 724-5313"
       },
       "email address and website": {
-        "text": "<br>athensamericancitizenservices@state.gov<br><br>https://gr.usembassy.gov/"
+        "text": "Athensamericancitizenservices@state.govhttps://gr.usembassy.gov/"
       },
       "consulate(s) general": {
         "text": "Thessaloniki"
       }
     },
     "Flag description": {
-      "text": "nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors",
-      "note": "<strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean \"blue\" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure"
+      "text": "Nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors",
+      "note": "Note: Greek legislation states that the flag colors are cyan and white, but cyan can mean \"blue\" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure"
     },
     "National symbol(s)": {
       "text": "Greek cross (white cross on blue field, arms equal length); national colors: blue, white"
@@ -635,7 +635,7 @@
       "lyrics/music": {
         "text": "Dionysios SOLOMOS/Nikolaos MANTZAROS"
       },
-      "note": "<strong>note:</strong> adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses \"Hymn to Liberty\" as its anthem"
+      "note": "Note: adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses \"Hymn to Liberty\" as its anthem"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -648,7 +648,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Greece has a capitalist economy with a public sector accounting for about 40% of GDP and with per capita GDP about two-thirds that of the leading euro-zone economies. Tourism provides 18% of GDP. Immigrants make up nearly one-fifth of the work force, mainly in agricultural and unskilled jobs. Greece is a major beneficiary of EU aid, equal to about 3.3% of annual GDP.</p><p></p><p>The Greek economy averaged growth of about 4% per year between 2003 and 2007, but the economy went into recession in 2009 as a result of the world financial crisis, tightening credit conditions, and Athens' failure to address a growing budget deficit. By 2013, the economy had contracted 26%, compared with the pre-crisis level of 2007. Greece met the EU's Growth and Stability Pact budget deficit criterion of no more than 3% of GDP in 2007-08, but violated it in 2009, when the deficit reached 15% of GDP. Deteriorating public finances, inaccurate and misreported statistics, and consistent underperformance on reforms prompted major credit rating agencies to downgrade Greece's international debt rating in late 2009 and led the country into a financial crisis. Under intense pressure from the EU and international market participants, the government accepted a bailout program that called on Athens to cut government spending, decrease tax evasion, overhaul the civil-service, health-care, and pension systems, and reform the labor and product markets. Austerity measures reduced the deficit to 1.3% in 2017. Successive Greek governments, however, failed to push through many of the most unpopular reforms in the face of widespread political opposition, including from the country's powerful labor unions and the general public.</p><p></p><p>In April 2010, a leading credit agency assigned Greek debt its lowest possible credit rating, and in May 2010, the IMF and euro-zone governments provided Greece emergency short- and medium-term loans worth $147 billion so that the country could make debt repayments to creditors. Greece, however, struggled to meet the targets set by the EU and the IMF, especially after Eurostat - the EU's statistical office - revised upward Greece's deficit and debt numbers for 2009 and 2010. European leaders and the IMF agreed in October 2011 to provide Athens a second bailout package of $169 billion. The second deal called for holders of Greek government bonds to write down a significant portion of their holdings to try to alleviate Greece’s government debt burden. However, Greek banks, saddled with a significant portion of sovereign debt, were adversely affected by the write down and $60 billion of the second bailout package was set aside to ensure the banking system was adequately capitalized.</p><p></p><p>In 2014, the Greek economy began to turn the corner on the recession. Greece achieved three significant milestones: balancing the budget - not including debt repayments; issuing government debt in financial markets for the first time since 2010; and generating 0.7% GDP growth — the first economic expansion since 2007.</p><p></p><p>Despite the nascent recovery, widespread discontent with austerity measures helped propel the far-left Coalition of the Radical Left (SYRIZA) party into government in national legislative elections in January 2015. Between January and July 2015, frustrations grew between the SYRIZA-led government and Greece’s EU and IMF creditors over the implementation of bailout measures and disbursement of funds. The Greek government began running up significant arrears to suppliers, while Greek banks relied on emergency lending, and Greece’s future in the euro zone was called into question. To stave off a collapse of the banking system, Greece imposed capital controls in June 2015, then became the first developed nation to miss a loan payment to the IMF, rattling international financial markets. Unable to reach an agreement with creditors, Prime Minister Alexios TSIPRAS held a nationwide referendum on 5 July on whether to accept the terms of Greece’s bailout, campaigning for the ultimately successful \"no\" vote. The TSIPRAS government subsequently agreed, however, to a new $96 billion bailout in order to avert Greece’s exit from the monetary bloc. On 20 August 2015, Greece signed its third bailout, allowing it to cover significant debt payments to its EU and IMF creditors and to ensure the banking sector retained access to emergency liquidity. The TSIPRAS government — which retook office on 20 September 2015 after calling new elections in late August — successfully secured disbursal of two delayed tranches of bailout funds. Despite the economic turmoil, Greek GDP did not contract as sharply as feared, boosted in part by a strong tourist season.</p><p></p><p>In 2017, Greece saw improvements in GDP and unemployment. Unfinished economic reforms, a massive non-performing loan problem, and ongoing uncertainty regarding the political direction of the country hold the economy back. Some estimates put Greece’s black market at 20- to 25% of GDP, as more people have stopped reporting their income to avoid paying taxes that, in some cases, have risen to 70% of an individual’s gross income.</p>"
+      "text": "Greece has a capitalist economy with a public sector accounting for about 40% of GDP and with per capita GDP about two-thirds that of the leading euro-zone economies. Tourism provides 18% of GDP. Immigrants make up nearly one-fifth of the work force, mainly in agricultural and unskilled jobs. Greece is a major beneficiary of EU aid, equal to about 3.3% of annual GDP.The Greek economy averaged growth of about 4% per year between 2003 and 2007, but the economy went into recession in 2009 as a result of the world financial crisis, tightening credit conditions, and Athens' failure to address a growing budget deficit. By 2013, the economy had contracted 26%, compared with the pre-crisis level of 2007. Greece met the EU's Growth and Stability Pact budget deficit criterion of no more than 3% of GDP in 2007-08, but violated it in 2009, when the deficit reached 15% of GDP. Deteriorating public finances, inaccurate and misreported statistics, and consistent underperformance on reforms prompted major credit rating agencies to downgrade Greece's international debt rating in late 2009 and led the country into a financial crisis. Under intense pressure from the EU and international market participants, the government accepted a bailout program that called on Athens to cut government spending, decrease tax evasion, overhaul the civil-service, health-care, and pension systems, and reform the labor and product markets. Austerity measures reduced the deficit to 1.3% in 2017. Successive Greek governments, however, failed to push through many of the most unpopular reforms in the face of widespread political opposition, including from the country's powerful labor unions and the general public.In April 2010, a leading credit agency assigned Greek debt its lowest possible credit rating, and in May 2010, the IMF and euro-zone governments provided Greece emergency short- and medium-term loans worth $147 billion so that the country could make debt repayments to creditors. Greece, however, struggled to meet the targets set by the EU and the IMF, especially after Eurostat - the EU's statistical office - revised upward Greece's deficit and debt numbers for 2009 and 2010. European leaders and the IMF agreed in October 2011 to provide Athens a second bailout package of $169 billion. The second deal called for holders of Greek government bonds to write down a significant portion of their holdings to try to alleviate Greece’s government debt burden. However, Greek banks, saddled with a significant portion of sovereign debt, were adversely affected by the write down and $60 billion of the second bailout package was set aside to ensure the banking system was adequately capitalized.In 2014, the Greek economy began to turn the corner on the recession. Greece achieved three significant milestones: balancing the budget - not including debt repayments; issuing government debt in financial markets for the first time since 2010; and generating 0.7% GDP growth — the first economic expansion since 2007.Despite the nascent recovery, widespread discontent with austerity measures helped propel the far-left Coalition of the Radical Left (SYRIZA) party into government in national legislative elections in January 2015. Between January and July 2015, frustrations grew between the SYRIZA-led government and Greece’s EU and IMF creditors over the implementation of bailout measures and disbursement of funds. The Greek government began running up significant arrears to suppliers, while Greek banks relied on emergency lending, and Greece’s future in the euro zone was called into question. To stave off a collapse of the banking system, Greece imposed capital controls in June 2015, then became the first developed nation to miss a loan payment to the IMF, rattling international financial markets. Unable to reach an agreement with creditors, Prime Minister Alexios TSIPRAS held a nationwide referendum on 5 July on whether to accept the terms of Greece’s bailout, campaigning for the ultimately successful \"no\" vote. The TSIPRAS government subsequently agreed, however, to a new $96 billion bailout in order to avert Greece’s exit from the monetary bloc. On 20 August 2015, Greece signed its third bailout, allowing it to cover significant debt payments to its EU and IMF creditors and to ensure the banking sector retained access to emergency liquidity. The TSIPRAS government — which retook office on 20 September 2015 after calling new elections in late August — successfully secured disbursal of two delayed tranches of bailout funds. Despite the economic turmoil, Greek GDP did not contract as sharply as feared, boosted in part by a strong tourist season.In 2017, Greece saw improvements in GDP and unemployment. Unfinished economic reforms, a massive non-performing loan problem, and ongoing uncertainty regarding the political direction of the country hold the economy back. Some estimates put Greece’s black market at 20- to 25% of GDP, as more people have stopped reporting their income to avoid paying taxes that, in some cases, have risen to 70% of an individual’s gross income."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -660,7 +660,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$312.87 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -683,7 +683,7 @@
       "Real GDP per capita 2018": {
         "text": "$29,200 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$209.79 billion (2019 est.)"
@@ -742,10 +742,10 @@
       }
     },
     "Agricultural products": {
-      "text": "maize, olives, wheat, milk, peaches/nectarines, oranges, tomatoes, grapes, milk, potatoes"
+      "text": "Maize, olives, wheat, milk, peaches/nectarines, oranges, tomatoes, grapes, milk, potatoes"
     },
     "Industries": {
-      "text": "tourism, food and tobacco processing, textiles, chemicals, metal products; mining, petroleum"
+      "text": "Tourism, food and tobacco processing, textiles, chemicals, metal products; mining, petroleum"
     },
     "Industrial production growth rate": {
       "text": "3.5% (2017 est.)"
@@ -825,7 +825,7 @@
       "text": "48.8% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -850,7 +850,7 @@
       "text": "Italy 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "refined petroleum, packaged medicines, aluminum plating, computers, cotton (2019)"
+      "text": "Refined petroleum, packaged medicines, aluminum plating, computers, cotton (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -867,7 +867,7 @@
       "text": "Germany 11%, China 9%, Italy 8%, Iraq 7%, Russia 6%, Netherlands 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "crude petroleum, refined petroleum, packaged medicines, cars, ships (2019)"
+      "text": "Crude petroleum, refined petroleum, packaged medicines, cars, ships (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -887,7 +887,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "euros (EUR) per US dollar -"
+        "text": "Euros (EUR) per US dollar -"
       },
       "Exchange rates 2020": {
         "text": "0.82771 (2020 est.)"
@@ -998,18 +998,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "telecom market is susceptible to country&rsquo;s volatile economy, but renewed confidence has been renewed through foreign and European Commission investment; increasing urban population with well-developed mobile market; growing adoption of IoT technology; steady development of broadband; investment in LTE and launch of 5G; government project for ultra-fast broadband, largely funded by European Commission with focus on underserved areas (2020)"
+        "text": "Telecom market is susceptible to country&rsquo;s volatile economy, but renewed confidence has been renewed through foreign and European Commission investment; increasing urban population with well-developed mobile market; growing adoption of IoT technology; steady development of broadband; investment in LTE and launch of 5G; government project for ultra-fast broadband, largely funded by European Commission with focus on underserved areas (2020)"
       },
       "domestic": {
-        "text": "microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands; nearly 46 per 100 subscribers for fixed-line and 110 per 100 for mobile-cellular (2020)"
+        "text": "Microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands; nearly 46 per 100 subscribers for fixed-line and 110 per 100 for mobile-cellular (2020)"
       },
       "international": {
-        "text": "country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)"
+        "text": "Country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 government-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; upwards of 1,500 radio stations, all of them privately owned; government-owned broadcaster has 2 national radio stations"
+      "text": "Broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 government-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; upwards of 1,500 radio stations, all of them privately owned; government-owned broadcaster has 2 national radio stations"
     },
     "Internet country code": {
       "text": ".gr"
@@ -1116,7 +1116,7 @@
         "text": "1,236"
       },
       "by type": {
-        "text": "bulk carrier 158, container ship 5, general cargo 89, oil tanker 337, other 647 (2021)"
+        "text": "Bulk carrier 158, container ship 5, general cargo 89, oil tanker 337, other 647 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1156,18 +1156,18 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "approximately 130,000 active duty personnel (90,000 Army; 15,000 Navy; 25,000 Air Force); approximately 35,000 National Guard (2021)"
+      "text": "Approximately 130,000 active duty personnel (90,000 Army; 15,000 Navy; 25,000 Air Force); approximately 35,000 National Guard (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)",
-      "note": "note - in addition to finalizing an update to the Mutual Defense Cooperation Agreement with the US, Greece also entered into a security agreement with France in 2021 that included the sale of frigates and fighter aircraft to augment its aging weapons systems"
+      "text": "The inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)",
+      "note": "Note - in addition to finalizing an update to the Mutual Defense Cooperation Agreement with the US, Greece also entered into a security agreement with France in 2021 that included the sale of frigates and fighter aircraft to augment its aging weapons systems"
     },
     "Military service age and obligation": {
       "text": "19-45 years of age for compulsory military service; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for volunteers; women are eligible for voluntary military service (2021)",
-      "note": "note(s) - approximately 40-50% of the Greek military is comprised of conscripts; as of 2019, women comprised approximately 19% of the full-time military personnel"
+      "note": "Note(s) - approximately 40-50% of the Greek military is comprised of conscripts; as of 2019, women comprised approximately 19% of the full-time military personnel"
     },
     "Military deployments": {
-      "text": "approximately 1,000 Cyprus; 110 Kosovo (NATO); 150 Lebanon (UNIFIL) (Sep 2021)"
+      "text": "Approximately 1,000 Cyprus; 110 Kosovo (NATO); 150 Lebanon (UNIFIL) (Sep 2021)"
     },
     "Military - note": {
       "text": "Greece joined NATO in 1952"
@@ -1176,12 +1176,12 @@
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary People's Liberation Party/Front (DHKP/C)",
-      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "Note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p>"
+      "text": "Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1190,10 +1190,10 @@
       "stateless persons": {
         "text": "5,552 (mid-year 2021)"
       },
-      "note": "<strong>note:</strong> 1,215,592 estimated refugee and migrant arrivals (January 2015-March 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers"
+      "note": "Note: 1,215,592 estimated refugee and migrant arrivals (January 2015-March 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers"
     },
     "Illicit drugs": {
-      "text": "a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime"
+      "text": "A gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime"
     }
   }
 }

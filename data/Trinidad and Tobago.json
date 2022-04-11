@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly smaller than Delaware"
+      "text": "Slightly smaller than Delaware"
     },
     "Land boundaries": {
       "total": {
@@ -49,13 +49,13 @@
       "continental shelf": {
         "text": "200 nm or to the outer edge of the continental margin"
       },
-      "note": "measured from claimed archipelagic baselines"
+      "note": "Measured from claimed archipelagic baselines"
     },
     "Climate": {
-      "text": "tropical; rainy season (June to December)"
+      "text": "Tropical; rainy season (June to December)"
     },
     "Terrain": {
-      "text": "mostly plains with some hills and low mountains"
+      "text": "Mostly plains with some hills and low mountains"
     },
     "Elevation": {
       "highest point": {
@@ -69,20 +69,20 @@
       }
     },
     "Natural resources": {
-      "text": "petroleum, natural gas, asphalt"
+      "text": "Petroleum, natural gas, asphalt"
     },
     "Land use": {
       "agricultural land": {
         "text": "10.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 4.9% (2018 est.)"
+        "text": "Arable land: 4.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 4.3% (2018 est.)"
+        "text": "Permanent crops: 4.3% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 1.4% (2018 est.)"
+        "text": "Permanent pasture: 1.4% (2018 est.)"
       },
       "forest": {
         "text": "44% (2018 est.)"
@@ -95,10 +95,10 @@
       "text": "70 sq km (2012)"
     },
     "Population distribution": {
-      "text": "population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half"
+      "text": "Population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half"
     },
     "Natural hazards": {
-      "text": "outside usual path of hurricanes and other tropical storms"
+      "text": "Outside usual path of hurricanes and other tropical storms"
     },
     "Geography - note": {
       "text": "Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural reservoir of asphalt"
@@ -115,7 +115,7 @@
       "adjective": {
         "text": "Trinidadian, Tobagonian"
       },
-      "note": "<strong>note:</strong> Trinbagonian is used on occasion to describe a citizen of the country without specifying the island of origin"
+      "note": "Note: Trinbagonian is used on occasion to describe a citizen of the country without specifying the island of origin"
     },
     "Ethnic groups": {
       "text": "East Indian 35.4%, African descent 34.2%, mixed - other 15.3%, mixed - African/East Indian 7.7%, other 1.3%, unspecified 6.2% (2011 est.)"
@@ -181,7 +181,7 @@
       "text": "-5.18 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half"
+      "text": "Population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half"
     },
     "Urbanization": {
       "urban population": {
@@ -250,22 +250,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -279,22 +279,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 99.9% of population"
+        "text": "Total: 99.9% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0.1% of population (2020 est.)"
+        "text": "Total: 0.1% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -302,11 +302,11 @@
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "10,000 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "HIV/AIDS - deaths": {
       "text": "&lt;200 (2020 est.)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "Obesity - adult prevalence rate": {
       "text": "18.6% (2016)"
@@ -319,7 +319,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "99%"
@@ -345,14 +345,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "water pollution from agricultural chemicals, industrial wastes, and raw sewage; widespread pollution of waterways and coastal areas; illegal dumping; deforestation; soil erosion; fisheries and wildlife depletion"
+      "text": "Water pollution from agricultural chemicals, industrial wastes, and raw sewage; widespread pollution of waterways and coastal areas; illegal dumping; deforestation; soil erosion; fisheries and wildlife depletion"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -367,20 +367,20 @@
       }
     },
     "Climate": {
-      "text": "tropical; rainy season (June to December)"
+      "text": "Tropical; rainy season (June to December)"
     },
     "Land use": {
       "agricultural land": {
         "text": "10.6% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 4.9% (2018 est.)"
+        "text": "Arable land: 4.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 4.3% (2018 est.)"
+        "text": "Permanent crops: 4.3% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 1.4% (2018 est.)"
+        "text": "Permanent pasture: 1.4% (2018 est.)"
       },
       "forest": {
         "text": "44% (2018 est.)"
@@ -436,11 +436,11 @@
         "text": "Trinidad and Tobago"
       },
       "etymology": {
-        "text": "explorer Christopher COLUMBUS named the larger island \"La Isla de la Trinidad\" (The Island of the Trinity) on 31 July 1498 on his third voyage; the tobacco grown and smoked by the natives of the smaller island or its elongated cigar shape may account for the \"tobago\" name, which is spelled \"tobaco\" in Spanish"
+        "text": "Explorer Christopher COLUMBUS named the larger island \"La Isla de la Trinidad\" (The Island of the Trinity) on 31 July 1498 on his third voyage; the tobacco grown and smoked by the natives of the smaller island or its elongated cigar shape may account for the \"tobago\" name, which is spelled \"tobaco\" in Spanish"
       }
     },
     "Government type": {
-      "text": "parliamentary republic"
+      "text": "Parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -453,11 +453,11 @@
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the name dates to the period of Spanish colonial rule (16th to late 18th centuries) when the city was referred to as \"Puerto de Espana\"; the name was anglicized following the British capture of Trinidad in 1797"
+        "text": "The name dates to the period of Spanish colonial rule (16th to late 18th centuries) when the city was referred to as \"Puerto de Espana\"; the name was anglicized following the British capture of Trinidad in 1797"
       }
     },
     "Administrative divisions": {
-      "text": "<p>9 regions, 3 boroughs, 2 cities, 1 ward</p> <p><strong>regions:</strong> Couva/Tabaquite/Talparo, Diego Martin, Mayaro/Rio Claro, Penal/Debe, Princes Town, Sangre Grande, San Juan/Laventille, Siparia, Tunapuna/Piarco</p> <p><strong>borough:</strong> Arima, Chaguanas, Point Fortin</p> <p><strong>cities:</strong> Port of Spain, San Fernando</p> <p><strong>ward:</strong> Tobago</p>"
+      "text": "9 regions, 3 boroughs, 2 cities, 1 ward regions: Couva/Tabaquite/Talparo, Diego Martin, Mayaro/Rio Claro, Penal/Debe, Princes Town, Sangre Grande, San Juan/Laventille, Siparia, Tunapuna/Piarco borough: Arima, Chaguanas, Point Fortin cities: Port of Spain, San Fernando ward: Tobago"
     },
     "Independence": {
       "text": "31 August 1962 (from the UK)"
@@ -467,27 +467,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1962; latest 1976"
+        "text": "Previous 1962; latest 1976"
       },
       "amendments": {
-        "text": "proposed by Parliament; passage of amendments affecting constitutional provisions, such as human rights and freedoms or citizenship, requires at least two-thirds majority vote by the membership of both houses and assent of the president; passage of amendments, such as the powers and authorities of the executive, legislative, and judicial branches of government, and the procedure for amending the constitution, requires at least three-quarters majority vote by the House membership, two-thirds majority vote by the Senate membership, and assent of the president; amended many times, last in 2007"
+        "text": "Proposed by Parliament; passage of amendments affecting constitutional provisions, such as human rights and freedoms or citizenship, requires at least two-thirds majority vote by the membership of both houses and assent of the president; passage of amendments, such as the powers and authorities of the executive, legislative, and judicial branches of government, and the procedure for amending the constitution, requires at least three-quarters majority vote by the House membership, two-thirds majority vote by the Senate membership, and assent of the president; amended many times, last in 2007"
       }
     },
     "Legal system": {
       "text": "English common law; judicial review of legislative acts in the Supreme Court"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+      "text": "Has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "yes"
+        "text": "Yes"
       },
       "citizenship by descent only": {
-        "text": "yes"
+        "text": "Yes"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "8 years"
@@ -507,7 +507,7 @@
         "text": "Cabinet appointed from among members of Parliament"
       },
       "elections/appointments": {
-        "text": "president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 19 January 2018 (next to be held by February 2023); the president usually appoints the leader of the majority party in the House of Representatives as prime minister"
+        "text": "President indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 19 January 2018 (next to be held by February 2023); the president usually appoints the leader of the majority party in the House of Representatives as prime minister"
       },
       "election results": {
         "text": "Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she is Trinidad and Tabago's first female head of state"
@@ -515,15 +515,15 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives 42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)"
+        "text": "Bicameral Parliament consists of:Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)House of Representatives 42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)"
       },
       "elections": {
-        "text": "Senate - last appointments on 23 September 2015 (next in 2020)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)"
+        "text": "Senate - last appointments on 23 September 2015 (next in 2020)House of Representatives - last held on 10 August 2020 (next to be held in 2025)"
       },
       "election results": {
-        "text": "Senate - percent by party - NA; seats by party - NA; composition - men 21, women 10, percent of women 32.3%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - NA"
+        "text": "Senate - percent by party - NA; seats by party - NA; composition - men 21, women 10, percent of women 32.3%House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - NA"
       },
-      "note": "<strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)"
+      "note": "Note: Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)"
     },
     "Judicial branch": {
       "highest courts": {
@@ -537,7 +537,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Congress of the People or COP [Kirt SINNETTE]<br>People's National Movement or PNM [Keith ROWLEY]<br>Progressive Democratic Patriots (Tobago) [Watson DUKE]<br>United National Congress or UNC [Kamla PERSAD-BISSESSAR]"
+      "text": "Congress of the People or COP [Kirt SINNETTE]People's National Movement or PNM [Keith ROWLEY]Progressive Democratic Patriots (Tobago) [Watson DUKE]United National Congress or UNC [Kamla PERSAD-BISSESSAR]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), Paris Club (associate), UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -556,7 +556,7 @@
         "text": "[1] (202) 785-3130"
       },
       "email address and website": {
-        "text": "<br>embdcinfo@foreign.gov.tt<br><br>https://foreign.gov.tt/missions-consuls/tt-missions-abroad/diplomatic-missions/embassy-washington-dc-us/"
+        "text": "Embdcinfo@foreign.gov.tthttps://foreign.gov.tt/missions-consuls/tt-missions-abroad/diplomatic-missions/embassy-washington-dc-us/"
       },
       "consulate(s) general": {
         "text": "Miami, New York"
@@ -570,7 +570,7 @@
         "text": "15 Queen's Park West, Port of Spain"
       },
       "mailing address": {
-        "text": "3410 Port of Spain Place, Washington DC&nbsp; 20521-3410"
+        "text": "3410 Port of Spain Place, Washington DC; 20521-3410"
       },
       "telephone": {
         "text": "(868) 622-6371"
@@ -579,14 +579,14 @@
         "text": "(868) 822-5905"
       },
       "email address and website": {
-        "text": "<br>acspos@state.gov<br><br>https://tt.usembassy.gov/"
+        "text": "Acspos@state.govhttps://tt.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "red with a white-edged black diagonal band from the upper hoist side to the lower fly side; the colors represent the elements of earth, water, and fire; black stands for the wealth of the land and the dedication of the people; white symbolizes the sea surrounding the islands, the purity of the country's aspirations, and equality; red symbolizes the warmth and energy of the sun, the vitality of the land, and the courage and friendliness of its people"
+      "text": "Red with a white-edged black diagonal band from the upper hoist side to the lower fly side; the colors represent the elements of earth, water, and fire; black stands for the wealth of the land and the dedication of the people; white symbolizes the sea surrounding the islands, the purity of the country's aspirations, and equality; red symbolizes the warmth and energy of the sun, the vitality of the land, and the courage and friendliness of its people"
     },
     "National symbol(s)": {
-      "text": "scarlet ibis (bird of Trinidad), cocrico (bird of Tobago), Chaconia flower; national colors: red, white, black"
+      "text": "Scarlet ibis (bird of Trinidad), cocrico (bird of Tobago), Chaconia flower; national colors: red, white, black"
     },
     "National anthem": {
       "name": {
@@ -595,12 +595,12 @@
       "lyrics/music": {
         "text": "Patrick Stanislaus CASTAGNE"
       },
-      "note": "<strong>note:</strong> adopted 1962; song originally created to serve as an anthem for the West Indies Federation; adopted by Trinidad and Tobago following the Federation's dissolution in 1962"
+      "note": "Note: adopted 1962; song originally created to serve as an anthem for the West Indies Federation; adopted by Trinidad and Tobago following the Federation's dissolution in 1962"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Trinidad and Tobago relies on its energy sector for much of its economic activity, and has one of the highest per capita incomes in Latin America. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP has slowed down since then, contracting during 2009-12, making small gains in 2013 and contracting again in 2014-17. Trinidad and Tobago is buffered by considerable foreign reserves and a sovereign wealth fund that equals about one-and-a-half times the national budget, but the country is still in a recession and the government faces the dual challenge of gas shortages and a low price environment. Large-scale energy projects in the last quarter of 2017 are helping to mitigate the gas shortages.</p><p></p><p>Energy production and downstream industrial use dominate the economy. Oil and gas typically account for about 40% of GDP and 80% of exports but less than 5% of employment. Trinidad and Tobago is home to one of the largest natural gas liquefaction facilities in the Western Hemisphere. The country produces about nine times more natural gas than crude oil on an energy equivalent basis with gas contributing about two-thirds of energy sector government revenue. The US is the country’s largest trading partner, accounting for 28% of its total imports and 48% of its exports.</p><p></p><p>Economic diversification is a longstanding government talking point, and Trinidad and Tobago has much potential due to its stable, democratic government and its educated, English speaking workforce. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. Unfortunately, a host of other factors, including low labor productivity, inefficient government bureaucracy, and corruption, have hampered economic development.</p>"
+      "text": "Trinidad and Tobago relies on its energy sector for much of its economic activity, and has one of the highest per capita incomes in Latin America. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP has slowed down since then, contracting during 2009-12, making small gains in 2013 and contracting again in 2014-17. Trinidad and Tobago is buffered by considerable foreign reserves and a sovereign wealth fund that equals about one-and-a-half times the national budget, but the country is still in a recession and the government faces the dual challenge of gas shortages and a low price environment. Large-scale energy projects in the last quarter of 2017 are helping to mitigate the gas shortages.Energy production and downstream industrial use dominate the economy. Oil and gas typically account for about 40% of GDP and 80% of exports but less than 5% of employment. Trinidad and Tobago is home to one of the largest natural gas liquefaction facilities in the Western Hemisphere. The country produces about nine times more natural gas than crude oil on an energy equivalent basis with gas contributing about two-thirds of energy sector government revenue. The US is the country’s largest trading partner, accounting for 28% of its total imports and 48% of its exports.Economic diversification is a longstanding government talking point, and Trinidad and Tobago has much potential due to its stable, democratic government and its educated, English speaking workforce. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. Unfortunately, a host of other factors, including low labor productivity, inefficient government bureaucracy, and corruption, have hampered economic development."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -612,7 +612,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$36.48 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2017": {
@@ -635,7 +635,7 @@
       "Real GDP per capita 2018": {
         "text": "$26,300 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$24.031 billion (2019 est.)"
@@ -688,10 +688,10 @@
       }
     },
     "Agricultural products": {
-      "text": "poultry, fruit, coconuts, citrus fruit, milk, plantains, maize, oranges, eggs, gourds"
+      "text": "Poultry, fruit, coconuts, citrus fruit, milk, plantains, maize, oranges, eggs, gourds"
     },
     "Industries": {
-      "text": "petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea, steel products, beverages, food processing, cement, cotton textiles"
+      "text": "Petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea, steel products, beverages, food processing, cement, cotton textiles"
     },
     "Industrial production growth rate": {
       "text": "-4.3% (2017 est.)"
@@ -785,7 +785,7 @@
       "text": "United States 33%, Guyana 9%, Spain 6%, China 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "natural gas, industrial alcohols, crude petroleum, ammonia, iron products, refined petroleum (2019)"
+      "text": "Natural gas, industrial alcohols, crude petroleum, ammonia, iron products, refined petroleum (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -799,7 +799,7 @@
       "text": "United States 40%, Guyana 19%, China 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, excavation machinery, shipping containers, iron, cars (2019)"
+      "text": "Refined petroleum, excavation machinery, shipping containers, iron, cars (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -930,15 +930,15 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)"
+        "text": "Excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)"
       },
       "domestic": {
-        "text": "fixed-line over 23 per 100 persons and mobile-cellular teledensity 142 per 100 persons (2020)"
+        "text": "Fixed-line over 23 per 100 persons and mobile-cellular teledensity 142 per 100 persons (2020)"
       },
       "international": {
-        "text": "country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020)"
+        "text": "Country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "6 free-to-air TV networks, 2 of which are state-owned; 24 subscription providers (cable and satellite); over 36 radio frequencies (2019)"
@@ -1016,7 +1016,7 @@
         "text": "105"
       },
       "by type": {
-        "text": "general cargo 1, other 104 (2021)"
+        "text": "General cargo 1, other 104 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1034,7 +1034,7 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS) (2021)",
-      "note": "note - the Ministry of National Security oversees defense, immigration, and the police"
+      "note": "Note - the Ministry of National Security oversees defense, immigration, and the police"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
@@ -1054,22 +1054,22 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)"
+      "text": "Approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2021)"
+      "text": "The TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2021)"
     },
     "Military service age and obligation": {
       "text": "18-25 years of age for voluntary military service (men and women; some age variations between services, reserves); no conscription (2021)",
-      "note": "note - as of 2017, women comprised about 14% of the active military"
+      "note": "Note - as of 2017, women comprised about 14% of the active military"
     },
     "Military - note": {
-      "text": "<p>as of 2021, the primary responsibilities for the TTDF were conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement</p> <p> </p>"
+      "text": "As of 2021, the primary responsibilities for the TTDF were conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement  "
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's EEZ; in 2005, Barbados and Trinidad and Tobago agreed to compulsory international arbitration under UN Convention on the Law of the Sea challenging whether the northern limit of Trinidad and Tobago's and Venezuela's maritime boundary extends into Barbadian waters; Guyana has expressed its intention to include itself in the arbitration, as the Trinidad and Tobago-Venezuela maritime boundary may also extend into its waters</p>"
+      "text": "Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's EEZ; in 2005, Barbados and Trinidad and Tobago agreed to compulsory international arbitration under UN Convention on the Law of the Sea challenging whether the northern limit of Trinidad and Tobago's and Venezuela's maritime boundary extends into Barbadian waters; Guyana has expressed its intention to include itself in the arbitration, as the Trinidad and Tobago-Venezuela maritime boundary may also extend into its waters"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1077,7 +1077,7 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>a transit point for illegal drugs destined for Europe, North America, and the rest of the Caribbean; drug trafficking organizations use proximity to Venezuela, porous borders, vulnerabilities at ports of entry, limited law enforcement capacity and resources, and law enforcement corruption to traffic illicit drugs;  marijuana the only locally-produced illicit drug</p> <p> </p>"
+      "text": "A transit point for illegal drugs destined for Europe, North America, and the rest of the Caribbean; drug trafficking organizations use proximity to Venezuela, porous borders, vulnerabilities at ports of entry, limited law enforcement capacity and resources, and law enforcement corruption to traffic illicit drugs;  marijuana the only locally-produced illicit drug  "
     }
   }
 }

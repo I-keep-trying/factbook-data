@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>Guam was settled by Austronesian people around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including the Micronesians in the first millennium A.D., and island Southeast Asians around 900. Society was stratified with higher classes living along the coast and lower classes living inland. Spanish explorer Ferdinand MAGELLAN was the first European to see Guam in 1521 and Spain claimed the island in 1565 as it served as a refueling stop for ships between Mexico and the Philippines. Spain formally colonized Guam in 1668. Spain’s brutal repression of Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population from more than 100,000 to less than 5,000 by the 1700s. Spain tried to repopulate the island by forcing people from nearby islands to settle on Guam and preventing them from escaping.<br><br>Guam became a hub for whalers and traders in the western Pacific in the early 1800s. During the 1898 Spanish-American War, the US Navy occupied Guam and set up a military administration. The US Navy opposed local control of government despite repeated petitions by Chamorro. Japan invaded Guam in 1941 and instituted a repressive regime. During the US recapture of Guam in 1944, the island’s two largest villages were destroyed. After World War II, political pressure from local Chamorro leaders led to Guam being established as an unincorporated organized territory in 1950 with US citizenship granted to all Chamorro. In a referendum in 1982, more than 75% of voters chose closer relations with the US over independence, although no change in status was made because of disagreements on the future right of Chamorro self-determination. The US military holds about 29% of Guam’s land and stations several thousand troops on the island. The installations are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability.</p>"
+      "text": "Guam was settled by Austronesian people around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including the Micronesians in the first millennium A.D., and island Southeast Asians around 900. Society was stratified with higher classes living along the coast and lower classes living inland. Spanish explorer Ferdinand MAGELLAN was the first European to see Guam in 1521 and Spain claimed the island in 1565 as it served as a refueling stop for ships between Mexico and the Philippines. Spain formally colonized Guam in 1668. Spain’s brutal repression of Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population from more than 100,000 to less than 5,000 by the 1700s. Spain tried to repopulate the island by forcing people from nearby islands to settle on Guam and preventing them from escaping.Guam became a hub for whalers and traders in the western Pacific in the early 1800s. During the 1898 Spanish-American War, the US Navy occupied Guam and set up a military administration. The US Navy opposed local control of government despite repeated petitions by Chamorro. Japan invaded Guam in 1941 and instituted a repressive regime. During the US recapture of Guam in 1944, the island’s two largest villages were destroyed. After World War II, political pressure from local Chamorro leaders led to Guam being established as an unincorporated organized territory in 1950 with US citizenship granted to all Chamorro. In a referendum in 1982, more than 75% of voters chose closer relations with the US over independence, although no change in status was made because of disagreements on the future right of Chamorro self-determination. The US military holds about 29% of Guam’s land and stations several thousand troops on the island. The installations are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability."
     }
   },
   "Geography": {
@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "three times the size of Washington, DC"
+      "text": "Three times the size of Washington, DC"
     },
     "Land boundaries": {
       "total": {
@@ -45,10 +45,10 @@
       }
     },
     "Climate": {
-      "text": "tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation"
+      "text": "Tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation"
     },
     "Terrain": {
-      "text": "volcanic origin, surrounded by coral reefs; relatively flat coralline limestone plateau (source of most fresh water), with steep coastal cliffs and narrow coastal plains in north, low hills in center, mountains in south"
+      "text": "Volcanic origin, surrounded by coral reefs; relatively flat coralline limestone plateau (source of most fresh water), with steep coastal cliffs and narrow coastal plains in north, low hills in center, mountains in south"
     },
     "Elevation": {
       "highest point": {
@@ -59,20 +59,20 @@
       }
     },
     "Natural resources": {
-      "text": "aquatic wildlife (supporting tourism), fishing (largely undeveloped)"
+      "text": "Aquatic wildlife (supporting tourism), fishing (largely undeveloped)"
     },
     "Land use": {
       "agricultural land": {
         "text": "33.4% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 1.9% (2018 est.)"
+        "text": "Arable land: 1.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 16.7% (2018 est.)"
+        "text": "Permanent crops: 16.7% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 14.8% (2018 est.)"
+        "text": "Permanent pasture: 14.8% (2018 est.)"
       },
       "forest": {
         "text": "47.9% (2018 est.)"
@@ -85,13 +85,13 @@
       "text": "2 sq km (2012)"
     },
     "Population distribution": {
-      "text": "no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo"
+      "text": "No large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo"
     },
     "Natural hazards": {
-      "text": "frequent squalls during rainy season; relatively rare but potentially destructive typhoons (June to December)"
+      "text": "Frequent squalls during rainy season; relatively rare but potentially destructive typhoons (June to December)"
     },
     "Geography - note": {
-      "text": "largest and southernmost island in the Mariana Islands archipelago and the largest island in Micronesia; strategic location in western North Pacific Ocean"
+      "text": "Largest and southernmost island in the Mariana Islands archipelago and the largest island in Micronesia; strategic location in western North Pacific Ocean"
     }
   },
   "People and Society": {
@@ -170,7 +170,7 @@
       "text": "-10.98 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo"
+      "text": "No large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo"
     },
     "Urbanization": {
       "urban population": {
@@ -236,22 +236,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 99.7% of population"
+        "text": "Total: 99.7% of population"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0.3% of population (2020 est.)"
+        "text": "Total: 0.3% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -259,22 +259,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 89.8% of population (2015 est.)"
+        "text": "Urban: 89.8% of population (2015 est.)"
       },
       "improved: rural": {
-        "text": "rural: 89.8% of population (2015 est.)"
+        "text": "Rural: 89.8% of population (2015 est.)"
       },
       "improved: total": {
-        "text": "total: 89.8% of population (2015 est.)"
+        "text": "Total: 89.8% of population (2015 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 10.2% of population (2015 est.)"
+        "text": "Urban: 10.2% of population (2015 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 10.2% of population (2015 est.)"
+        "text": "Rural: 10.2% of population (2015 est.)"
       },
       "unimproved: total": {
-        "text": "total: 10.2% of population (2015 est.)"
+        "text": "Total: 10.2% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -306,23 +306,23 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "fresh water scarcity; reef damage; inadequate sewage treatment; extermination of native bird populations by the rapid proliferation of the brown tree snake, an exotic, invasive species"
+      "text": "Fresh water scarcity; reef damage; inadequate sewage treatment; extermination of native bird populations by the rapid proliferation of the brown tree snake, an exotic, invasive species"
     },
     "Climate": {
-      "text": "tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation"
+      "text": "Tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation"
     },
     "Land use": {
       "agricultural land": {
         "text": "33.4% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 1.9% (2018 est.)"
+        "text": "Arable land: 1.9% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 16.7% (2018 est.)"
+        "text": "Permanent crops: 16.7% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 14.8% (2018 est.)"
+        "text": "Permanent pasture: 14.8% (2018 est.)"
       },
       "forest": {
         "text": "47.9% (2018 est.)"
@@ -364,13 +364,13 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Guam"
       },
       "local long form": {
-        "text": "none"
+        "text": "None"
       },
       "local short form": {
         "text": "Guahan"
@@ -379,14 +379,14 @@
         "text": "GU"
       },
       "etymology": {
-        "text": "the native Chamorro name for the island \"Guahan\" (meaning \"we have\" or \"ours\") was changed to Guam in the 1898 Treaty of Paris, whereby Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US"
+        "text": "The native Chamorro name for the island \"Guahan\" (meaning \"we have\" or \"ours\") was changed to Guam in the 1898 Treaty of Paris, whereby Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US"
       }
     },
     "Government type": {
-      "text": "unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches"
+      "text": "Unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches"
     },
     "Dependency status": {
-      "text": "unincorporated organized territory of the US with policy relations between Guam and the&nbsp;federal government&nbsp;under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
+      "text": "Unincorporated organized territory of the US with policy relations between Guam and the;federal government;under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
     },
     "Capital": {
       "name": {
@@ -399,38 +399,38 @@
         "text": "UTC+10 (15 hours ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the name is derived from the Chamoru word \"haga,\" meaning \"blood\", and may refer to the bloodlines of the various families that established the original settlement"
+        "text": "The name is derived from the Chamoru word \"haga,\" meaning \"blood\", and may refer to the bloodlines of the various families that established the original settlement"
       }
     },
     "Administrative divisions": {
-      "text": "none (territory of the US)"
+      "text": "None (territory of the US)"
     },
     "Independence": {
-      "text": "none (territory of the US)"
+      "text": "None (territory of the US)"
     },
     "National holiday": {
       "text": "Discovery Day (or Magellan Day), first Monday in March (1521)"
     },
     "Constitution": {
       "history": {
-        "text": "effective 1 July 1950 (Guam Act of 1950 serves as a constitution)"
+        "text": "Effective 1 July 1950 (Guam Act of 1950 serves as a constitution)"
       },
       "amendments": {
-        "text": "amended many times, last in 2015"
+        "text": "Amended many times, last in 2015"
       }
     },
     "Legal system": {
-      "text": "common law modeled on US system; US federal laws apply"
+      "text": "Common law modeled on US system; US federal laws apply"
     },
     "Citizenship": {
-      "text": "see United States"
+      "text": "See United States"
     },
     "Suffrage": {
       "text": "18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "<p>President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)</p>"
+        "text": "President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)"
       },
       "head of government": {
         "text": "Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019)"
@@ -439,21 +439,21 @@
         "text": "Cabinet appointed by the governor with the consent of the Legislature"
       },
       "elections/appointments": {
-        "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022)"
+        "text": "President and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022)"
       },
       "election results": {
-        "text": "Lourdes LEON GUERRERO elected governor; percent of vote - &nbsp;Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor"
+        "text": "Lourdes LEON GUERRERO elected governor; percent of vote - ;Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>Guam directly elects 1 member by simple majority vote to serve a 2-year term as the delegate to the US House of Representatives; note - the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote"
+        "text": "Unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)Guam directly elects 1 member by simple majority vote to serve a 2-year term as the delegate to the US House of Representatives; note - the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote"
       },
       "elections": {
-        "text": "Guam Legislature - last held on 3 November 2020 (next to be held on 5 November 2022)<br>delegate to the US House of Representatives - last held on 3 November 2020 with runoff on 17 November (next to be held on 5 November 2022)"
+        "text": "Guam Legislature - last held on 3 November 2020 (next to be held on 5 November 2022)delegate to the US House of Representatives - last held on 3 November 2020 with runoff on 17 November (next to be held on 5 November 2022)"
       },
       "election results": {
-        "text": "Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%<br>Guam delegate to the US House of Representatives - Democratic Party 1 (man)"
+        "text": "Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%Guam delegate to the US House of Representatives - Democratic Party 1 (man)"
       }
     },
     "Judicial branch": {
@@ -461,32 +461,32 @@
         "text": "Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court"
       },
       "judge selection and term of office": {
-        "text": "justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life subject to retention election every 10 years"
+        "text": "Justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life subject to retention election every 10 years"
       },
       "subordinate courts": {
         "text": "Superior Court of Guam - includes several divisions; US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)"
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party [Joaquin \"Kin\" PEREZ]<br>Republican Party [Jerry CRISOSTOMO]"
+      "text": "Democratic Party [Joaquin \"Kin\" PEREZ]Republican Party [Jerry CRISOSTOMO]"
     },
     "International organization participation": {
       "text": "AOSIS (observer), IOC, PIF (observer), SPC, UPU"
     },
     "Diplomatic representation in the US": {
-      "text": "none (territory of the US)"
+      "text": "None (territory of the US)"
     },
     "Diplomatic representation from the US": {
       "embassy": {
-        "text": "none (territory of the US)"
+        "text": "None (territory of the US)"
       }
     },
     "Flag description": {
-      "text": "territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression",
-      "note": "<strong>note:</strong> the US flag is the national flag"
+      "text": "Territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression",
+      "note": "Note: the US flag is the national flag"
     },
     "National symbol(s)": {
-      "text": "coconut tree; national colors: deep blue, red"
+      "text": "Coconut tree; national colors: deep blue, red"
     },
     "National anthem": {
       "name": {
@@ -495,7 +495,7 @@
       "lyrics/music": {
         "text": "Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ramon Manalisay SABLAN"
       },
-      "note": "<strong>note:</strong> adopted 1919; the local anthem is also known as \"Guam Hymn\"; as a territory of the United States, \"The Star-Spangled Banner,\" which generally follows the playing of \"Stand Ye Guamanians,\" is official (see United States)"
+      "note": "Note: adopted 1919; the local anthem is also known as \"Guam Hymn\"; as a territory of the United States, \"The Star-Spangled Banner,\" which generally follows the playing of \"Stand Ye Guamanians,\" is official (see United States)"
     }
   },
   "Economy": {
@@ -578,17 +578,17 @@
       }
     },
     "Agricultural products": {
-      "text": "fruits, copra, vegetables; eggs, pork, poultry, beef"
+      "text": "Fruits, copra, vegetables; eggs, pork, poultry, beef"
     },
     "Industries": {
-      "text": "national defense, tourism, construction, transshipment services, concrete products, printing and publishing, food processing, textiles"
+      "text": "National defense, tourism, construction, transshipment services, concrete products, printing and publishing, food processing, textiles"
     },
     "Industrial production growth rate": {
       "text": "NA"
     },
     "Labor force": {
       "text": "73,210 (2016 est.)",
-      "note": "<strong>note:</strong> includes only the civilian labor force"
+      "note": "Note: includes only the civilian labor force"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -668,7 +668,7 @@
       "text": "South Korea 31%, Hong Kong 27%, Taiwan 18%, Philippines 7% (2019)"
     },
     "Exports - commodities": {
-      "text": "scrap iron, electric batteries, gas turbines, scrap copper, beauty products (2019)"
+      "text": "Scrap iron, electric batteries, gas turbines, scrap copper, beauty products (2019)"
     },
     "Imports": {
       "Imports 2016": {
@@ -682,13 +682,13 @@
       "text": "Singapore 33%, Japan 21%, South Korea 18%, Hong Kong 9%, Malaysia 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, trunks/cases, cars, insulated wire, broadcasting equipment (2019)"
+      "text": "Refined petroleum, trunks/cases, cars, insulated wire, broadcasting equipment (2019)"
     },
     "Debt - external": {
-      "text": "<p>NA</p>"
+      "text": "NA"
     },
     "Exchange rates": {
-      "text": "<p>the US dollar is used</p>"
+      "text": "The US dollar is used"
     }
   },
   "Energy": {
@@ -783,18 +783,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "integrated with US facilities for direct dialing, including free use of 800 numbers (2020)"
+        "text": "Integrated with US facilities for direct dialing, including free use of 800 numbers (2020)"
       },
       "domestic": {
-        "text": "three major companies provide both fixed-line and mobile services, as well as access to the Internet; fixed-line subscriptions in 2018 were 42 per 100 and 62 per 100 mobile-cellular subscriptions in 2004 (2019)"
+        "text": "Three major companies provide both fixed-line and mobile services, as well as access to the Internet; fixed-line subscriptions in 2018 were 42 per 100 and 62 per 100 mobile-cellular subscriptions in 2004 (2019)"
       },
       "international": {
-        "text": "country code - 1-671; major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable submarine cables between Asia, Australia, and the US (Guam is a transpacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)"
+        "text": "Country code - 1-671; major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable submarine cables between Asia, Australia, and the US (Guam is a transpacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "about a dozen TV channels, including digital channels; multi-channel cable TV services are available; roughly 20 radio stations"
+      "text": "About a dozen TV channels, including digital channels; multi-channel cable TV services are available; roughly 20 radio stations"
     },
     "Internet country code": {
       "text": ".gu"
@@ -857,7 +857,7 @@
         "text": "3"
       },
       "by type": {
-        "text": "other 3 (2021)"
+        "text": "Other 3 (2021)"
       }
     },
     "Ports and terminals": {
@@ -868,12 +868,12 @@
   },
   "Military and Security": {
     "Military - note": {
-      "text": "defense is the responsibility of the US"
+      "text": "Defense is the responsibility of the US"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     }
   }
 }

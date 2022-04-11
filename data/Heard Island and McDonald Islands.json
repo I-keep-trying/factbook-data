@@ -1,12 +1,12 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>American sailor John HEARD discovered Heard Island in 1853 and thought it was a glacier that had broken away from Antarctica. Fellow American William MCDONALD discovered the McDonald Islands the following year. Starting in 1855, sealers lived on the islands harvesting elephant seal oil; by the time the practice was ended in 1877, most of the islands’ seals were killed. The UK formally claimed the islands in 1910 and Australian explorer Douglas MAWSON visited Heard Island in 1929. In 1947, the UK transferred the islands to Australia for its Antarctica research, but Australia closed the research station on Heard Island in 1954 when it opened a new research station on the Antarctic continent. McDonald Island has been an active volcano since it emerged from dormancy in 1992, and the island doubled in size after an eruption in 1996. In 1997, the islands were named a UNESCO World Heritage Site. Populated by a large number of bird species, seals, and penguins, the islands are primarily used for research with limited fishing being permitted in the surrounding waters.</p> <p style=\"margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;\"> </p>"
+      "text": "American sailor John HEARD discovered Heard Island in 1853 and thought it was a glacier that had broken away from Antarctica. Fellow American William MCDONALD discovered the McDonald Islands the following year. Starting in 1855, sealers lived on the islands harvesting elephant seal oil; by the time the practice was ended in 1877, most of the islands’ seals were killed. The UK formally claimed the islands in 1910 and Australian explorer Douglas MAWSON visited Heard Island in 1929. In 1947, the UK transferred the islands to Australia for its Antarctica research, but Australia closed the research station on Heard Island in 1954 when it opened a new research station on the Antarctic continent. McDonald Island has been an active volcano since it emerged from dormancy in 1992, and the island doubled in size after an eruption in 1996. In 1997, the islands were named a UNESCO World Heritage Site. Populated by a large number of bird species, seals, and penguins, the islands are primarily used for research with limited fishing being permitted in the surrounding waters. "
     }
   },
   "Geography": {
     "Location": {
-      "text": "islands in the Indian Ocean, about two-thirds of the way from Madagascar to Antarctica"
+      "text": "Islands in the Indian Ocean, about two-thirds of the way from Madagascar to Antarctica"
     },
     "Geographic coordinates": {
       "text": "53 06 S, 72 31 E"
@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly more than two times the size of Washington, DC"
+      "text": "Slightly more than two times the size of Washington, DC"
     },
     "Land boundaries": {
       "total": {
@@ -45,7 +45,7 @@
       }
     },
     "Climate": {
-      "text": "antarctic"
+      "text": "Antarctic"
     },
     "Terrain": {
       "text": "Heard Island - 80% ice-covered, bleak and mountainous, dominated by a large massif (Big Ben) and an active volcano (Mawson Peak); McDonald Islands - small and rocky"
@@ -59,7 +59,7 @@
       }
     },
     "Natural resources": {
-      "text": "fish"
+      "text": "Fish"
     },
     "Land use": {
       "agricultural land": {
@@ -78,7 +78,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "uninhabited"
+      "text": "Uninhabited"
     },
     "Age structure": {
       "0-14 years": {
@@ -122,22 +122,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       }
     },
     "Current Health Expenditure": {
@@ -145,22 +145,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -181,10 +181,10 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "none; uninhabited and mostly ice covered"
+      "text": "None; uninhabited and mostly ice covered"
     },
     "Climate": {
-      "text": "antarctic"
+      "text": "Antarctic"
     },
     "Land use": {
       "agricultural land": {
@@ -207,25 +207,25 @@
         "text": "HIMI"
       },
       "etymology": {
-        "text": "named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854"
+        "text": "Named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854"
       }
     },
     "Dependency status": {
-      "text": "territory of Australia; administered from Canberra by the Department of Agriculture, Water and the Environment (Australian Antarctic Division)"
+      "text": "Territory of Australia; administered from Canberra by the Department of Agriculture, Water and the Environment (Australian Antarctic Division)"
     },
     "Legal system": {
-      "text": "the laws of Australia apply where applicable"
+      "text": "The laws of Australia apply where applicable"
     },
     "Diplomatic representation in the US": {
-      "text": "none (territory of Australia)"
+      "text": "None (territory of Australia)"
     },
     "Diplomatic representation from the US": {
       "embassy": {
-        "text": "none (territory of Australia)"
+        "text": "None (territory of Australia)"
       }
     },
     "Flag description": {
-      "text": "the flag of Australia is used"
+      "text": "The flag of Australia is used"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -248,17 +248,17 @@
   },
   "Transportation": {
     "Ports and terminals": {
-      "text": "none; offshore anchorage only"
+      "text": "None; offshore anchorage only"
     }
   },
   "Military and Security": {
     "Military - note": {
-      "text": "defense is the responsibility of Australia; Australia conducts fisheries patrols"
+      "text": "Defense is the responsibility of Australia; Australia conducts fisheries patrols"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     }
   }
 }

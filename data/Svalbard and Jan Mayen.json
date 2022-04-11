@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly more than twice the size of Washington, DC"
+      "text": "Slightly more than twice the size of Washington, DC"
     },
     "Land boundaries": {
       "total": {
@@ -51,10 +51,10 @@
       }
     },
     "Climate": {
-      "text": "arctic maritime with frequent storms and persistent fog"
+      "text": "Arctic maritime with frequent storms and persistent fog"
     },
     "Terrain": {
-      "text": "volcanic island, partly covered by glaciers"
+      "text": "Volcanic island, partly covered by glaciers"
     },
     "Elevation": {
       "highest point": {
@@ -63,10 +63,10 @@
       "lowest point": {
         "text": "Norwegian Sea 0 m"
       },
-      "note": "<strong>note:</strong> Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905"
+      "note": "Note: Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905"
     },
     "Natural resources": {
-      "text": "none"
+      "text": "None"
     },
     "Land use": {
       "agricultural land": {
@@ -80,16 +80,16 @@
       "text": "0 sq km (2012)"
     },
     "Natural hazards": {
-      "text": "<p>dominated by the volcano Beerenberg</p><p><strong>volcanism:</strong> Beerenberg (2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985</p>"
+      "text": "Dominated by the volcano Beerenbergvolcanism: Beerenberg (2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985"
     },
     "Geography - note": {
-      "text": "barren volcanic spoon-shaped island with some moss and grass flora; island consists of two parts: a larger northeast Nord-Jan (the spoon \"bowl\") and the smaller Sor-Jan (the \"handle\"), linked by a 2.5 km-wide isthmus (the \"stem\") with two large lakes, Sorlaguna (South Lagoon) and Nordlaguna (North Lagoon)"
+      "text": "Barren volcanic spoon-shaped island with some moss and grass flora; island consists of two parts: a larger northeast Nord-Jan (the spoon \"bowl\") and the smaller Sor-Jan (the \"handle\"), linked by a 2.5 km-wide isthmus (the \"stem\") with two large lakes, Sorlaguna (South Lagoon) and Nordlaguna (North Lagoon)"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "no indigenous inhabitants",
-      "note": "<strong>note:</strong> military personnel operate the the weather and coastal services radio station"
+      "text": "No indigenous inhabitants",
+      "note": "Note: military personnel operate the the weather and coastal services radio station"
     },
     "Age structure": {
       "0-14 years": {
@@ -133,22 +133,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: NA"
+        "text": "Total: NA"
       }
     },
     "Current Health Expenditure": {
@@ -172,10 +172,10 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "pollutants transported from southerly latitudes by winds, ocean currents, and rivers accumulate in the food chains of native animals; climate change"
+      "text": "Pollutants transported from southerly latitudes by winds, ocean currents, and rivers accumulate in the food chains of native animals; climate change"
     },
     "Climate": {
-      "text": "arctic maritime with frequent storms and persistent fog"
+      "text": "Arctic maritime with frequent storms and persistent fog"
     },
     "Land use": {
       "agricultural land": {
@@ -189,23 +189,23 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Jan Mayen"
       },
       "etymology": {
-        "text": "named after Dutch Captain Jan Jacobszoon MAY, one of the first explorers to reach the island in 1614"
+        "text": "Named after Dutch Captain Jan Jacobszoon MAY, one of the first explorers to reach the island in 1614"
       }
     },
     "Dependency status": {
-      "text": "territory of Norway; since August 1994, administered from Oslo through the county governor (fylkesmann) of Nordland; however, authority has been delegated to a station commander of the Norwegian Defense Communication Service; in 2010, Norway designated the majority of Jan Mayen as a nature reserve"
+      "text": "Territory of Norway; since August 1994, administered from Oslo through the county governor (fylkesmann) of Nordland; however, authority has been delegated to a station commander of the Norwegian Defense Communication Service; in 2010, Norway designated the majority of Jan Mayen as a nature reserve"
     },
     "Legal system": {
-      "text": "the laws of Norway apply where applicable&nbsp;"
+      "text": "The laws of Norway apply where applicable;"
     },
     "Flag description": {
-      "text": "the flag of Norway is used"
+      "text": "The flag of Norway is used"
     }
   },
   "Economy": {
@@ -215,7 +215,7 @@
   },
   "Communications": {
     "Broadcast media": {
-      "text": "a coastal radio station has been remotely operated since 1994"
+      "text": "A coastal radio station has been remotely operated since 1994"
     },
     "Internet users": {
       "total": {
@@ -238,17 +238,17 @@
       }
     },
     "Ports and terminals": {
-      "text": "none; offshore anchorage only"
+      "text": "None; offshore anchorage only"
     }
   },
   "Military and Security": {
     "Military - note": {
-      "text": "defense is the responsibility of Norway"
+      "text": "Defense is the responsibility of Norway"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>none</p>"
+      "text": "None"
     }
   }
 }

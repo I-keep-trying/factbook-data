@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly smaller than Pennsylvania; about the same size as Kentucky"
+      "text": "Slightly smaller than Pennsylvania; about the same size as Kentucky"
     },
     "Land boundaries": {
       "total": {
@@ -48,10 +48,10 @@
       }
     },
     "Climate": {
-      "text": "temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers"
+      "text": "Temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers"
     },
     "Terrain": {
-      "text": "mostly plateau interspersed with mountain peaks, icefields; coast deeply indented by bays and fiords"
+      "text": "Mostly plateau interspersed with mountain peaks, icefields; coast deeply indented by bays and fiords"
     },
     "Elevation": {
       "highest point": {
@@ -65,20 +65,20 @@
       }
     },
     "Natural resources": {
-      "text": "fish, hydropower, geothermal power, diatomite"
+      "text": "Fish, hydropower, geothermal power, diatomite"
     },
     "Land use": {
       "agricultural land": {
         "text": "18.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 1.2% (2018 est.)"
+        "text": "Arable land: 1.2% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 17.5% (2018 est.)"
+        "text": "Permanent pasture: 17.5% (2018 est.)"
       },
       "forest": {
         "text": "0.3% (2018 est.)"
@@ -94,10 +94,10 @@
       "text": "Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west"
     },
     "Natural hazards": {
-      "text": "<p>earthquakes and volcanic activity</p><p><strong>volcanism:</strong> Iceland, situated on top of a hotspot, experiences severe volcanic activity; Eyjafjallajokull (1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (1,512 m), which has a high probability of eruption in the very near future, potentially disrupting air traffic; Grimsvoetn and Hekla are Iceland's most active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar</p>"
+      "text": "Earthquakes and volcanic activityvolcanism: Iceland, situated on top of a hotspot, experiences severe volcanic activity; Eyjafjallajokull (1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (1,512 m), which has a high probability of eruption in the very near future, potentially disrupting air traffic; Grimsvoetn and Hekla are Iceland's most active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar"
     },
     "Geography - note": {
-      "text": "strategic location between Greenland and Europe; westernmost European country; Reykjavik is the northernmost national capital in the world; more land covered by glaciers than in all of continental Europe"
+      "text": "Strategic location between Greenland and Europe; westernmost European country; Reykjavik is the northernmost national capital in the world; more land covered by glaciers than in all of continental Europe"
     }
   },
   "People and Society": {
@@ -114,7 +114,7 @@
     },
     "Ethnic groups": {
       "text": "Icelandic 81.3%, Polish 5.6%, Danish 1%, other 12.1% (2021 est.)",
-      "note": "<strong>note</strong>: data represent population by country of birth"
+      "note": "Note: data represent population by country of birth"
     },
     "Languages": {
       "text": "Icelandic, English, Nordic languages, German"
@@ -249,22 +249,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -278,22 +278,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "Rural: 100% of population"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "Rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "Total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -301,11 +301,11 @@
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "&lt;500 (2020)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "HIV/AIDS - deaths": {
       "text": "&lt;100 (2020)",
-      "note": "<strong>note: </strong>estimate does not include children"
+      "note": "Note: estimate does not include children"
     },
     "Obesity - adult prevalence rate": {
       "text": "21.9% (2016)"
@@ -341,7 +341,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "water pollution from fertilizer runoff"
+      "text": "Water pollution from fertilizer runoff"
     },
     "Environment - international agreements": {
       "party to": {
@@ -363,20 +363,20 @@
       }
     },
     "Climate": {
-      "text": "temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers"
+      "text": "Temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers"
     },
     "Land use": {
       "agricultural land": {
         "text": "18.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 1.2% (2018 est.)"
+        "text": "Arable land: 1.2% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 0% (2018 est.)"
+        "text": "Permanent crops: 0% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 17.5% (2018 est.)"
+        "text": "Permanent pasture: 17.5% (2018 est.)"
       },
       "forest": {
         "text": "0.3% (2018 est.)"
@@ -448,7 +448,7 @@
       }
     },
     "Government type": {
-      "text": "unitary parliamentary republic"
+      "text": "Unitary parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -461,7 +461,7 @@
         "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the name means \"smoky bay\" in Icelandic and refers to the steamy, smoke-like vapors discharged by hot springs in the area"
+        "text": "The name means \"smoky bay\" in Icelandic and refers to the steamy, smoke-like vapors discharged by hot springs in the area"
       }
     },
     "Administrative divisions": {
@@ -475,27 +475,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "several previous; latest ratified 16 June 1944, effective 17 June 1944 (at independence)"
+        "text": "Several previous; latest ratified 16 June 1944, effective 17 June 1944 (at independence)"
       },
       "amendments": {
-        "text": "proposed by the Althingi; passage requires approval by the Althingi and by the next elected Althingi, and confirmation by the president of the republic; proposed amendments to Article 62 of the constitution &ndash; that the Evangelical Lutheran Church shall be the state church of Iceland &ndash; also require passage by referendum; amended many times, last in 2013"
+        "text": "Proposed by the Althingi; passage requires approval by the Althingi and by the next elected Althingi, and confirmation by the president of the republic; proposed amendments to Article 62 of the constitution &ndash; that the Evangelical Lutheran Church shall be the state church of Iceland &ndash; also require passage by referendum; amended many times, last in 2013"
       }
     },
     "Legal system": {
-      "text": "civil law system influenced by the Danish model"
+      "text": "Civil law system influenced by the Danish model"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+      "text": "Has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "no"
+        "text": "No"
       },
       "citizenship by descent only": {
-        "text": "at least one parent must be a citizen of Iceland"
+        "text": "At least one parent must be a citizen of Iceland"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "3 to 7 years"
@@ -512,10 +512,10 @@
         "text": "Prime Minister Katrin JAKOBSDOTTIR (since 30 November 2017)"
       },
       "cabinet": {
-        "text": "Cabinet appointed by the president upon the recommendation of the prime minister&nbsp;"
+        "text": "Cabinet appointed by the president upon the recommendation of the prime minister;"
       },
       "elections/appointments": {
-        "text": "president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 27 June 2020 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition becomes prime minister"
+        "text": "President directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 27 June 2020 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition becomes prime minister"
       },
       "election results": {
         "text": "Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%"
@@ -523,13 +523,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)"
+        "text": "Unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 25 September 2021 (next to be held in 2025)"
+        "text": "Last held on 25 September 2021 (next to be held in 2025)"
       },
       "election results": {
-        "text": "<p>percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, SDA 9.9%, People's Party 8.8%, Pirate Party 8.6%, Reform Party 8.3%. CP 5.4%, other 4.7%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%</p>"
+        "text": "Percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, SDA 9.9%, People's Party 8.8%, Pirate Party 8.6%, Reform Party 8.3%. CP 5.4%, other 4.7%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%"
       }
     },
     "Judicial branch": {
@@ -537,14 +537,14 @@
         "text": "Supreme Court or Haestirettur (consists of 9 judges)"
       },
       "judge selection and term of office": {
-        "text": "judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period"
+        "text": "Judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period"
       },
       "subordinate courts": {
         "text": "Appellate Court or Landsrettur; 8 district courts; Labor Court"
       }
     },
     "Political parties and leaders": {
-      "text": "<p>Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON] <br>Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON]  <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR] <br>People's Party (Flokkur Folksins) [Inga SAELAND] <br>Pirate Party (Piratar) [Halldora MOGENSEN] <br>Progressive Party (Framsoknarflokkurinn) or PP [Sigurdur Ingi JOHANNSSON]<br>Reform Party (Vidreisn) [Thorgerdur Katrin GUNNARSDOTTIR] <br>Social Democratic Alliance (Samfylkingin) or SDA [Logi Mar EINARSSON]</p>"
+      "text": "Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON] Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON]  Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR] People's Party (Flokkur Folksins) [Inga SAELAND] Pirate Party (Piratar) [Halldora MOGENSEN] Progressive Party (Framsoknarflokkurinn) or PP [Sigurdur Ingi JOHANNSSON]Reform Party (Vidreisn) [Thorgerdur Katrin GUNNARSDOTTIR] Social Democratic Alliance (Samfylkingin) or SDA [Logi Mar EINARSSON]"
     },
     "International organization participation": {
       "text": "Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -563,7 +563,7 @@
         "text": "[1] (202) 265-6656"
       },
       "email address and website": {
-        "text": "<br>washington@mfa.is<br><br>https://www.government.is/diplomatic-missions/embassy-of-iceland-in-washington-d.c/"
+        "text": "Washington@mfa.ishttps://www.government.is/diplomatic-missions/embassy-of-iceland-in-washington-d.c/"
       },
       "consulate(s) general": {
         "text": "New York"
@@ -586,14 +586,14 @@
         "text": "[354] 562-9118"
       },
       "email address and website": {
-        "text": "<br>ReykjavikConsular@state.gov<br><br>https://is.usembassy.gov/"
+        "text": "ReykjavikConsular@state.govhttps://is.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean"
+      "text": "Blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean"
     },
     "National symbol(s)": {
-      "text": "gyrfalcon; national colors: blue, white, red"
+      "text": "Gyrfalcon; national colors: blue, white, red"
     },
     "National anthem": {
       "name": {
@@ -602,7 +602,7 @@
       "lyrics/music": {
         "text": "Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON"
       },
-      "note": "<strong>note:</strong> adopted 1944; also known as \"O, Gud vors lands\" (O, God of Our Land), the anthem was originally written and performed in 1874"
+      "note": "Note: adopted 1944; also known as \"O, Gud vors lands\" (O, God of Our Land), the anthem was originally written and performed in 1874"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -615,7 +615,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Iceland's economy combines a capitalist structure and free-market principles with an extensive welfare system. Except for a brief period during the 2008 crisis, Iceland has in recent years achieved high growth, low unemployment, and a remarkably even distribution of income. Iceland's economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of tourism, software production, and biotechnology. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector, boosted economic growth, and sparked some interest from high-tech firms looking to establish data centers using cheap green energy.</p><p></p><p>Tourism, aluminum smelting, and fishing are the pillars of the economy. For decades the Icelandic economy depended heavily on fisheries, but tourism has now surpassed fishing and aluminum as Iceland’s main export industry. Tourism accounted for 8.6% of Iceland’s GDP in 2016, and 39% of total exports of merchandise and services. From 2010 to 2017, the number of tourists visiting Iceland increased by nearly 400%. Since 2010, tourism has become a main driver of Icelandic economic growth, with the number of tourists reaching 4.5 times the Icelandic population in 2016. Iceland remains sensitive to fluctuations in world prices for its main exports, and to fluctuations in the exchange rate of the Icelandic Krona.</p><p></p><p>Following the privatization of the banking sector in the early 2000s, domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled nearly nine times the country's GDP, became unsustainable. Iceland's three largest banks collapsed in late 2008. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. Three new banks were established to take over the domestic assets of the collapsed banks. Two of them have majority ownership by the state, which intends to re-privatize them.</p><p></p><p>Since the collapse of Iceland's financial sector, government economic priorities have included stabilizing the krona, implementing capital controls, reducing Iceland's high budget deficit, containing inflation, addressing high household debt, restructuring the financial sector, and diversifying the economy. Capital controls were lifted in March 2017, but some financial protections, such as reserve requirements for specified investments connected to new inflows of foreign currency, remain in place.</p>"
+      "text": "Iceland's economy combines a capitalist structure and free-market principles with an extensive welfare system. Except for a brief period during the 2008 crisis, Iceland has in recent years achieved high growth, low unemployment, and a remarkably even distribution of income. Iceland's economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of tourism, software production, and biotechnology. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector, boosted economic growth, and sparked some interest from high-tech firms looking to establish data centers using cheap green energy.Tourism, aluminum smelting, and fishing are the pillars of the economy. For decades the Icelandic economy depended heavily on fisheries, but tourism has now surpassed fishing and aluminum as Iceland’s main export industry. Tourism accounted for 8.6% of Iceland’s GDP in 2016, and 39% of total exports of merchandise and services. From 2010 to 2017, the number of tourists visiting Iceland increased by nearly 400%. Since 2010, tourism has become a main driver of Icelandic economic growth, with the number of tourists reaching 4.5 times the Icelandic population in 2016. Iceland remains sensitive to fluctuations in world prices for its main exports, and to fluctuations in the exchange rate of the Icelandic Krona.Following the privatization of the banking sector in the early 2000s, domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled nearly nine times the country's GDP, became unsustainable. Iceland's three largest banks collapsed in late 2008. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. Three new banks were established to take over the domestic assets of the collapsed banks. Two of them have majority ownership by the state, which intends to re-privatize them.Since the collapse of Iceland's financial sector, government economic priorities have included stabilizing the krona, implementing capital controls, reducing Iceland's high budget deficit, containing inflation, addressing high household debt, restructuring the financial sector, and diversifying the economy. Capital controls were lifted in March 2017, but some financial protections, such as reserve requirements for specified investments connected to new inflows of foreign currency, remain in place."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -627,7 +627,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$20.01 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -650,7 +650,7 @@
       "Real GDP per capita 2018": {
         "text": "$56,700 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$24.614 billion (2019 est.)"
@@ -709,10 +709,10 @@
       }
     },
     "Agricultural products": {
-      "text": "milk, mutton, poultry, potatoes, barley, pork, eggs, beef, other meat, sheep skins"
+      "text": "Milk, mutton, poultry, potatoes, barley, pork, eggs, beef, other meat, sheep skins"
     },
     "Industries": {
-      "text": "tourism, fish processing; aluminum smelting;; geothermal power, hydropower; medical/pharmaceutical products"
+      "text": "Tourism, fish processing; aluminum smelting;; geothermal power, hydropower; medical/pharmaceutical products"
     },
     "Industrial production growth rate": {
       "text": "2.4% (2017 est.)"
@@ -792,7 +792,7 @@
       "text": "42.4% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -817,7 +817,7 @@
       "text": "Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, France 7%, Canada 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "aluminum and aluminum products, fish products, aircraft, iron alloys, animal meal (2019)"
+      "text": "Aluminum and aluminum products, fish products, aircraft, iron alloys, animal meal (2019)"
     },
     "Imports": {
       "Imports 2020": {
@@ -834,7 +834,7 @@
       "text": "Norway 11%, Netherlands 10%, Germany 8%, Denmark 8%, United States 7%, United Kingdom 6%, China 6%, Sweden 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, aluminum oxide, carbon/graphite electronics, cars, packaged medicines (2019)"
+      "text": "Refined petroleum, aluminum oxide, carbon/graphite electronics, cars, packaged medicines (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -965,18 +965,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "small but most progressive telecom market in Europe; telecom infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network; near universal fixed broadband service of at least 100Mb/s by the end of 2021; operator aims for national 5G coverage by end of 2022; good competition among mobile and broadband markets; investment by operators and government in support of NGN, particularly in rural areas; submarine cable to Ireland; importer of broadcasting equipment from Vietnam and China (2020)"
+        "text": "Small but most progressive telecom market in Europe; telecom infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network; near universal fixed broadband service of at least 100Mb/s by the end of 2021; operator aims for national 5G coverage by end of 2022; good competition among mobile and broadband markets; investment by operators and government in support of NGN, particularly in rural areas; submarine cable to Ireland; importer of broadcasting equipment from Vietnam and China (2020)"
       },
       "domestic": {
-        "text": "liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market; roughly 31 per 100 for fixed line and nearing 124 per 100 for mobile-cellular subscriptions (2020)"
+        "text": "Liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market; roughly 31 per 100 for fixed line and nearing 124 per 100 for mobile-cellular subscriptions (2020)"
       },
       "international": {
-        "text": "country code - 354; landing points for the CANTAT-3, FARICE-1, Greenland Connect and DANICE&nbsp;submarine cable system that provides connectivity to Canada, the Faroe Islands, Greenland, UK, Denmark, and Germany;&nbsp;satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2019)"
+        "text": "Country code - 354; landing points for the CANTAT-3, FARICE-1, Greenland Connect and DANICE;submarine cable system that provides connectivity to Canada, the Faroe Islands, Greenland, UK, Denmark, and Germany;;satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV and RUV 2, though RUV 2 is used less frequently);  RUV broadcasts nationally, every household in Iceland is required to have RUV as it doubles as the emergency broadcast network; RUV also operates stringer offices in the north (Akureyri) and the east (Egilsstadir) but operations are all run out of RUV headquarters in Reykjavik;  there are 3 privately owned TV stations;  Stod 2 (Channel 2) is owned by Syn, following 365 Media and Vodafone merger, and is headquartered in Reykjavik;  Syn also operates 4 sports channels under Stod 2;  N4 is the only television station headquartered outside of Reykjavik, in Akureyri, with local programming for the north, south, and east of Iceland;  Hringbraut is the newest station and is headquartered in Reykjavik;  all of these television stations have nationwide penetration as 100% of households have multi-channel services though digital and/or fiber-optic connections <p>RUV operates 3 radio stations (RAS 1, RAS2, and Rondo) as well as 4 regional stations (but they mostly act as range extenders for RUV radio broadcasts nationwide);  there is 1 privately owned radio conglomerate, Syn (4 stations), that broadcasts nationwide, and 3 other radio stations that broadcast to the most densely populated regions of the country.  In addition there are upwards of 20 radio stations that operate regionally</p> (2019)"
+      "text": "State-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV and RUV 2, though RUV 2 is used less frequently);  RUV broadcasts nationally, every household in Iceland is required to have RUV as it doubles as the emergency broadcast network; RUV also operates stringer offices in the north (Akureyri) and the east (Egilsstadir) but operations are all run out of RUV headquarters in Reykjavik;  there are 3 privately owned TV stations;  Stod 2 (Channel 2) is owned by Syn, following 365 Media and Vodafone merger, and is headquartered in Reykjavik;  Syn also operates 4 sports channels under Stod 2;  N4 is the only television station headquartered outside of Reykjavik, in Akureyri, with local programming for the north, south, and east of Iceland;  Hringbraut is the newest station and is headquartered in Reykjavik;  all of these television stations have nationwide penetration as 100% of households have multi-channel services though digital and/or fiber-optic connections RUV operates 3 radio stations (RAS 1, RAS2, and Rondo) as well as 4 regional stations (but they mostly act as range extenders for RUV radio broadcasts nationwide);  there is 1 privately owned radio conglomerate, Syn (4 stations), that broadcasts nationwide, and 3 other radio stations that broadcast to the most densely populated regions of the country.  In addition there are upwards of 20 radio stations that operate regionally (2019)"
     },
     "Internet country code": {
       "text": ".is"
@@ -1065,7 +1065,7 @@
         "text": "41"
       },
       "by type": {
-        "text": "general cargo 5, oil tanker 2, other 34 (2021)"
+        "text": "General cargo 5, oil tanker 2, other 34 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1076,21 +1076,21 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Ministry of Interior: Icelandic Coast Guard (includes both air and maritime elements); Icelandic National Police (2021)"
+      "text": "No regular military forces; Ministry of Interior: Icelandic Coast Guard (includes both air and maritime elements); Icelandic National Police (2021)"
     },
     "Military and security service personnel strengths": {
-      "text": "the Icelandic Coast Guard has approximately 250 personnel (2021)"
+      "text": "The Icelandic Coast Guard has approximately 250 personnel (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2021)"
+      "text": "The Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2021)"
     },
     "Military - note": {
-      "text": "Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br> <p>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> <p> </p>"
+      "text": "Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU) Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009  "
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; the European Free Trade Association Surveillance Authority filed a suit against Iceland, claiming the country violated the Agreement on the European Economic Area in failing to pay minimum compensation to Icesave depositors</p>"
+      "text": "Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; the European Free Trade Association Surveillance Authority filed a suit against Iceland, claiming the country violated the Agreement on the European Economic Area in failing to pay minimum compensation to Icesave depositors"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {

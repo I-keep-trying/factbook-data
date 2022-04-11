@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "almost twice the size of Texas; slightly smaller than Alaska"
+      "text": "Almost twice the size of Texas; slightly smaller than Alaska"
     },
     "Land boundaries": {
       "total": {
@@ -51,10 +51,10 @@
       }
     },
     "Climate": {
-      "text": "varies from tropical in east to dry desert in west; temperate to frigid in Andes"
+      "text": "Varies from tropical in east to dry desert in west; temperate to frigid in Andes"
     },
     "Terrain": {
-      "text": "western coastal plain (costa), high and rugged Andes in center (sierra), eastern lowland jungle of Amazon Basin (selva)"
+      "text": "Western coastal plain (costa), high and rugged Andes in center (sierra), eastern lowland jungle of Amazon Basin (selva)"
     },
     "Elevation": {
       "highest point": {
@@ -68,20 +68,20 @@
       }
     },
     "Natural resources": {
-      "text": "copper, silver, gold, petroleum, timber, fish, iron ore, coal, phosphate, potash, hydropower, natural gas"
+      "text": "Copper, silver, gold, petroleum, timber, fish, iron ore, coal, phosphate, potash, hydropower, natural gas"
     },
     "Land use": {
       "agricultural land": {
         "text": "18.8% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 3.1% (2018 est.)"
+        "text": "Arable land: 3.1% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1.1% (2018 est.)"
+        "text": "Permanent crops: 1.1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 14.6% (2018 est.)"
+        "text": "Permanent pasture: 14.6% (2018 est.)"
       },
       "forest": {
         "text": "53% (2018 est.)"
@@ -99,7 +99,7 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Amazon river source (shared with Brazil [m]) - 6,400 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Amazon river source (shared with Brazil [m]) - 6,400 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Amazon (6,145,186 sq km)"
@@ -108,13 +108,13 @@
       "text": "Amazon Basin"
     },
     "Population distribution": {
-      "text": "approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated"
+      "text": "Approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated"
     },
     "Natural hazards": {
-      "text": "<p>earthquakes, tsunamis, flooding, landslides, mild volcanic activity</p><p><strong>volcanism:</strong> volcanic activity in the Andes Mountains; Ubinas (5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under \"Geography - note\"</p>"
+      "text": "Earthquakes, tsunamis, flooding, landslides, mild volcanic activityvolcanism: volcanic activity in the Andes Mountains; Ubinas (5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under \"Geography - note\""
     },
     "Geography - note": {
-      "text": "<p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br><br><strong>note 4:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato </p>"
+      "text": "Note 1: shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River note 2: Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Firenote 3: on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animalsnote 4: the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato "
     }
   },
   "People and Society": {
@@ -137,14 +137,14 @@
         "text": "Spanish (official) 82.9%, Quechua (official) 13.6%, Aymara (official) 1.6%, Ashaninka 0.3%, other native languages (includes a large number of minor Amazonian languages) 0.8%, other (includes foreign languages and sign language) 0.2%, none 0.1%, unspecified 0.7% (2017 est.)"
       },
       "major-language sample(s)": {
-        "text": "<br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information."
+        "text": "La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)The World Factbook, the indispensable source for basic information."
       }
     },
     "Religions": {
       "text": "Roman Catholic 60%, Christian 14.6% (includes Evangelical 11.1%, other 3.5%), other 0.3%, none 4%, unspecified 21.1% (2017 est.)"
     },
     "Demographic profile": {
-      "text": "<p>Peru's urban and coastal communities have benefited much more from recent economic growth than rural, Afro-Peruvian, indigenous, and poor populations of the Amazon and mountain regions. The poverty rate has dropped substantially during the last decade but remains stubbornly high at about 30% (more than 55% in rural areas). After remaining almost static for about a decade, Peru's malnutrition rate began falling in 2005, when the government introduced a coordinated strategy focusing on hygiene, sanitation, and clean water. School enrollment has improved, but achievement scores reflect ongoing problems with educational quality. Many poor children temporarily or permanently drop out of school to help support their families. About a quarter to a third of Peruvian children aged 6 to 14 work, often putting in long hours at hazardous mining or construction sites.</p><p>Peru was a country of immigration in the 19th and early 20th centuries, but has become a country of emigration in the last few decades. Beginning in the 19th century, Peru brought in Asian contract laborers mainly to work on coastal plantations. Populations of Chinese and Japanese descent - among the largest in Latin America - are economically and culturally influential in Peru today. Peruvian emigration began rising in the 1980s due to an economic crisis and a violent internal conflict, but outflows have stabilized in the last few years as economic conditions have improved. Nonetheless, more than 2 million Peruvians have emigrated in the last decade, principally to the US, Spain, and Argentina.</p>"
+      "text": "Peru's urban and coastal communities have benefited much more from recent economic growth than rural, Afro-Peruvian, indigenous, and poor populations of the Amazon and mountain regions. The poverty rate has dropped substantially during the last decade but remains stubbornly high at about 30% (more than 55% in rural areas). After remaining almost static for about a decade, Peru's malnutrition rate began falling in 2005, when the government introduced a coordinated strategy focusing on hygiene, sanitation, and clean water. School enrollment has improved, but achievement scores reflect ongoing problems with educational quality. Many poor children temporarily or permanently drop out of school to help support their families. About a quarter to a third of Peruvian children aged 6 to 14 work, often putting in long hours at hazardous mining or construction sites.Peru was a country of immigration in the 19th and early 20th centuries, but has become a country of emigration in the last few decades. Beginning in the 19th century, Peru brought in Asian contract laborers mainly to work on coastal plantations. Populations of Chinese and Japanese descent - among the largest in Latin America - are economically and culturally influential in Peru today. Peruvian emigration began rising in the 1980s due to an economic crisis and a violent internal conflict, but outflows have stabilized in the last few years as economic conditions have improved. Nonetheless, more than 2 million Peruvians have emigrated in the last decade, principally to the US, Spain, and Argentina."
     },
     "Age structure": {
       "0-14 years": {
@@ -201,7 +201,7 @@
       "text": "-1.76 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated"
+      "text": "Approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated"
     },
     "Urbanization": {
       "urban population": {
@@ -239,7 +239,7 @@
     },
     "Mother's mean age at first birth": {
       "text": "21.9 years (2013 est.)",
-      "note": "<strong>note:</strong> median age at first birth among women 25-49"
+      "note": "Note: median age at first birth among women 25-49"
     },
     "Maternal mortality ratio": {
       "text": "88 deaths/100,000 live births (2017 est.)"
@@ -274,22 +274,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 97.2% of population"
+        "text": "Urban: 97.2% of population"
       },
       "improved: rural": {
-        "text": "rural: 82.4% of population"
+        "text": "Rural: 82.4% of population"
       },
       "improved: total": {
-        "text": "total: 94% of population"
+        "text": "Total: 94% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 2.8% of population"
+        "text": "Urban: 2.8% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 17.6% of population"
+        "text": "Rural: 17.6% of population"
       },
       "unimproved: total": {
-        "text": "total: 6% of population (2020 est.)"
+        "text": "Total: 6% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -303,22 +303,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 93.6% of population"
+        "text": "Urban: 93.6% of population"
       },
       "improved: rural": {
-        "text": "rural: 65.3% of population"
+        "text": "Rural: 65.3% of population"
       },
       "improved: total": {
-        "text": "total: 87.4% of population"
+        "text": "Total: 87.4% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 6.4% of population"
+        "text": "Urban: 6.4% of population"
       },
       "unimproved: rural": {
-        "text": "rural: 34.7% of population"
+        "text": "Rural: 34.7% of population"
       },
       "unimproved: total": {
-        "text": "total: 12.6% of population (2020 est.)"
+        "text": "Total: 12.6% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -332,15 +332,15 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "very high (2020)"
+        "text": "Very high (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+        "text": "Bacterial diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "dengue fever, malaria, and Bartonellosis (Oroya fever)"
+        "text": "Dengue fever, malaria, and Bartonellosis (Oroya fever)"
       },
-      "note": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 October 2021, Peru has reported a total of 2,179,316 cases of COVID-19 or 6,609.63 cumulative cases of COVID-19 per 100,000 population with 605.07 cumulative deaths per 100,000 population; as of 3 October 2021, 48.51% of the population has received at least one dose of COVID-19 vaccine"
+      "note": "Note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 October 2021, Peru has reported a total of 2,179,316 cases of COVID-19 or 6,609.63 cumulative cases of COVID-19 per 100,000 population with 605.07 cumulative deaths per 100,000 population; as of 3 October 2021, 48.51% of the population has received at least one dose of COVID-19 vaccine"
     },
     "Obesity - adult prevalence rate": {
       "text": "19.7% (2016)"
@@ -353,7 +353,7 @@
     },
     "Literacy": {
       "definition": {
-        "text": "age 15 and over can read and write"
+        "text": "Age 15 and over can read and write"
       },
       "total population": {
         "text": "94.5%"
@@ -390,14 +390,14 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "deforestation (some the result of illegal logging); overgrazing of the slopes of the costa and sierra leading to soil erosion; desertification; air pollution in Lima; pollution of rivers and coastal waters from municipal and mining wastes; overfishing"
+      "text": "Deforestation (some the result of illegal logging); overgrazing of the slopes of the costa and sierra leading to soil erosion; desertification; air pollution in Lima; pollution of rivers and coastal waters from municipal and mining wastes; overfishing"
     },
     "Environment - international agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
       "signed, but not ratified": {
-        "text": "none of the selected agreements"
+        "text": "None of the selected agreements"
       }
     },
     "Air pollutants": {
@@ -412,20 +412,20 @@
       }
     },
     "Climate": {
-      "text": "varies from tropical in east to dry desert in west; temperate to frigid in Andes"
+      "text": "Varies from tropical in east to dry desert in west; temperate to frigid in Andes"
     },
     "Land use": {
       "agricultural land": {
         "text": "18.8% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "arable land: 3.1% (2018 est.)"
+        "text": "Arable land: 3.1% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "permanent crops: 1.1% (2018 est.)"
+        "text": "Permanent crops: 1.1% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "permanent pasture: 14.6% (2018 est.)"
+        "text": "Permanent pasture: 14.6% (2018 est.)"
       },
       "forest": {
         "text": "53% (2018 est.)"
@@ -454,15 +454,15 @@
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "very high (2020)"
+        "text": "Very high (2020)"
       },
       "food or waterborne diseases": {
-        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+        "text": "Bacterial diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "dengue fever, malaria, and Bartonellosis (Oroya fever)"
+        "text": "Dengue fever, malaria, and Bartonellosis (Oroya fever)"
       },
-      "note": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 October 2021, Peru has reported a total of 2,179,316 cases of COVID-19 or 6,609.63 cumulative cases of COVID-19 per 100,000 population with 605.07 cumulative deaths per 100,000 population; as of 3 October 2021, 48.51% of the population has received at least one dose of COVID-19 vaccine"
+      "note": "Note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 October 2021, Peru has reported a total of 2,179,316 cases of COVID-19 or 6,609.63 cumulative cases of COVID-19 per 100,000 population with 605.07 cumulative deaths per 100,000 population; as of 3 October 2021, 48.51% of the population has received at least one dose of COVID-19 vaccine"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
@@ -481,7 +481,7 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Amazon river source (shared with Brazil [m]) - 6,400 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+      "text": "Amazon river source (shared with Brazil [m]) - 6,400 kmnote – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Amazon (6,145,186 sq km)"
@@ -519,11 +519,11 @@
         "text": "Peru"
       },
       "etymology": {
-        "text": "exact meaning is obscure, but the name may derive from a native word \"biru\" meaning \"river\""
+        "text": "Exact meaning is obscure, but the name may derive from a native word \"biru\" meaning \"river\""
       }
     },
     "Government type": {
-      "text": "presidential republic"
+      "text": "Presidential republic"
     },
     "Capital": {
       "name": {
@@ -536,12 +536,12 @@
         "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "the word \"Lima\" derives from the Spanish pronunciation of \"Limaq,\" the native name for the valley in which the city was founded in 1535; \"limaq\" means \"talker\" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church"
+        "text": "The word \"Lima\" derives from the Spanish pronunciation of \"Limaq,\" the native name for the valley in which the city was founded in 1535; \"limaq\" means \"talker\" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church"
       }
     },
     "Administrative divisions": {
       "text": "25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali",
-      "note": "<strong>note:</strong> Callao, the largest port in Peru, is also referred to as a constitutional province, the only province of the Callao region"
+      "note": "Note: Callao, the largest port in Peru, is also referred to as a constitutional province, the only province of the Callao region"
     },
     "Independence": {
       "text": "28 July 1821 (from Spain)"
@@ -551,27 +551,27 @@
     },
     "Constitution": {
       "history": {
-        "text": "several previous; latest promulgated 29 December 1993, enacted 31 December 1993"
+        "text": "Several previous; latest promulgated 29 December 1993, enacted 31 December 1993"
       },
       "amendments": {
-        "text": "proposed by Congress, by the president of the republic with the approval of the \"Cabinet, \" or by petition of at least 0.3% of voters; passage requires absolute majority approval by the Congress membership, followed by approval in a referendum; a referendum is not required if Congress approves the amendment by greater than two-thirds majority vote in each of two successive sessions; amended many times, last in 2021"
+        "text": "Proposed by Congress, by the president of the republic with the approval of the \"Cabinet, \" or by petition of at least 0.3% of voters; passage requires absolute majority approval by the Congress membership, followed by approval in a referendum; a referendum is not required if Congress approves the amendment by greater than two-thirds majority vote in each of two successive sessions; amended many times, last in 2021"
       }
     },
     "Legal system": {
-      "text": "civil law system"
+      "text": "Civil law system"
     },
     "International law organization participation": {
-      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
-        "text": "yes"
+        "text": "Yes"
       },
       "citizenship by descent only": {
-        "text": "yes"
+        "text": "Yes"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "Yes"
       },
       "residency requirement for naturalization": {
         "text": "2 years"
@@ -591,22 +591,22 @@
         "text": "Council of Ministers appointed by the president"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 11 April 2021 with a runoff on 6 June 2021 (next to be held in April 2026)"
+        "text": "President directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 11 April 2021 with a runoff on 6 June 2021 (next to be held in April 2026)"
       },
       "election results": {
-        "text": "<br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (Free Peru) 18.9%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 13.4%, Rafael LOPEZ ALIAGA Cazorla (Popular Renewal) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (Popular Action) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (VN) 5.7%, Daniel Belizario URRESTI Elera (We Can Peru) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones (Free Peru) 50.1%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Popular Force) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%"
+        "text": "2021: Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (Free Peru) 18.9%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 13.4%, Rafael LOPEZ ALIAGA Cazorla (Popular Renewal) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (Popular Action) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (VN) 5.7%, Daniel Belizario URRESTI Elera (We Can Peru) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones (Free Peru) 50.1%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 49.9%2016: Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Popular Force) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%"
       },
-      "note": "<strong>note: </strong>President Martin Alberto VIZCARRA Cornejo assumed office after President Pedro Pablo KUCZYNSKI Godard resigned from office on 21 March 2018; after VIZCARRA was impeached on 9 November 2020, the constitutional line of succession led to the inauguration of the President of the Peruvian Congress, Manuel Arturo MERINO, as President of Peru on 10 November 2020; following his resignation only days later on 15 November 2020, Francisco Rafael SAGASTI Hochhausler - who had been elected by the legislature to be the new President of Congress on 16 November 2020 - was then sworn in as President of Peru on 17 November 2020 by line of succession and remained president until the inauguration of Jose Pedro CASTILLO Terrones, winner of the 2021 presidential election<strong><br><br>note:</strong> Prime Minister Anibal TORRES Vasquez (since 8 February 2022) does not exercise executive power; this power rests with the president"
+      "note": "Note: President Martin Alberto VIZCARRA Cornejo assumed office after President Pedro Pablo KUCZYNSKI Godard resigned from office on 21 March 2018; after VIZCARRA was impeached on 9 November 2020, the constitutional line of succession led to the inauguration of the President of the Peruvian Congress, Manuel Arturo MERINO, as President of Peru on 10 November 2020; following his resignation only days later on 15 November 2020, Francisco Rafael SAGASTI Hochhausler - who had been elected by the legislature to be the new President of Congress on 16 November 2020 - was then sworn in as President of Peru on 17 November 2020 by line of succession and remained president until the inauguration of Jose Pedro CASTILLO Terrones, winner of the 2021 presidential electionnote: Prime Minister Anibal TORRES Vasquez (since 8 February 2022) does not exercise executive power; this power rests with the president"
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)"
+        "text": "Unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)"
       },
       "elections": {
-        "text": "last held on 11 April 2021 (next to be held in April 2026)"
+        "text": "Last held on 11 April 2021 (next to be held in April 2026)"
       },
       "election results": {
-        "text": "<br>percent of vote by party/coalition - Free Peru 13.41%, Popular Force 11.34%, AP 9.02%, Popular Renewal 9.33%, APP 7.54%, Avanza Pais 7.54%, JP 6.59%, We Are Peru 6.13%, We Can Peru 5.83%, Purple Party 5.42%; <br><br>seats by party/coalition - Free Peru 37, Popular Force 24, AP 16, APP 15, Popular Renewal 13, Avanza Pais 7, We Are Peru 5, We Can Peru 5, JP 5, Purple Party 3; composition - men 96, women 34, percent of women 26.2%"
+        "text": "Percent of vote by party/coalition - Free Peru 13.41%, Popular Force 11.34%, AP 9.02%, Popular Renewal 9.33%, APP 7.54%, Avanza Pais 7.54%, JP 6.59%, We Are Peru 6.13%, We Can Peru 5.83%, Purple Party 5.42%; seats by party/coalition - Free Peru 37, Popular Force 24, AP 16, APP 15, Popular Renewal 13, Avanza Pais 7, We Are Peru 5, We Can Peru 5, JP 5, Purple Party 3; composition - men 96, women 34, percent of women 26.2%"
       }
     },
     "Judicial branch": {
@@ -614,14 +614,14 @@
         "text": "Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)"
       },
       "judge selection and term of office": {
-        "text": "justices proposed by the National Board of Justice (a 7-member independent body), nominated by the president, and confirmed by the Congress; justices can serve until mandatory retirement at age 70"
+        "text": "Justices proposed by the National Board of Justice (a 7-member independent body), nominated by the president, and confirmed by the Congress; justices can serve until mandatory retirement at age 70"
       },
       "subordinate courts": {
         "text": "Court of Constitutional Guarantees; Superior Courts or Cortes Superiores; specialized civil, criminal, and mixed courts; 2 types of peace courts in which professional judges and selected members of the local communities preside"
       }
     },
     "Political parties and leaders": {
-      "text": "<p>Alliance for Progress (Alianza para el Progreso) or APP [Cesar ACUNA Peralta] <br>American Popular Revolutionary Alliance or APRA [Cesar TRELLES Lara]<br>Broad Front (Frente Amplio; also known as El Frente Amplio por Justicia, Vida y Libertad) (coalition includes Nuevo Peru [Veronika MENDOZA], Tierra y Libertad [Marco ARANA Zegarra], and Fuerza Social [Susana VILLARAN de la Puente]<br>Free Peru (Peru Libre) [Vladimir CERRON Rojas]<br>National Solidarity (Solidaridad Nacional) or SN [Luis CASTANEDA Lossio]<br>National Victory (Victoria Nacional) or VN [George FORSYTH Sommer]<br>Peru Posible or PP (coalition includes Accion Popular and Somos Peru) [Alejandro TOLEDO Manrique]<br>Peruvian Aprista Party (Partido Aprista Peruano) or PAP [Javier VELASQUEZ Quesquen] (also referred to by its original name Alianza Popular Revolucionaria Americana or APRA)<br>Peruvian Nationalist Party [Ollanta HUMALA]<br>Peruvians for Change (Peruanos Por el Kambio) or PPK [Pedro Pablo KUCZYNSKI]<br>Popular Action (Accion Popular) or AP [Mesias GUEVARA Amasifuen]<br>Popular Christian Party (Partido Popular Cristiano) or PPC [Lourdes FLORES Nano]<br>Popular Force (Fuerza Popular; formerly Fuerza 2011) [Keiko FUJIMORI Higuchi]<br>Popular Renewal (Renovacion Popular) [Rafael LOPEZ ALIAGA]<br>Purple Party (Partido Morado) [Julio Armando GUZMAN Caceres]<br>Social Integration Party (Avanza Pais - Partido de Integracion Social) [Pedro CENAS Casamayor]<br>Together For Peru (Juntos por el Peru) or JP [Robert SANCHEZ Palomino]<br>We Are Peru (Somos Peru) [Patricia LI]<br>We Can Peru (Podemos Peru) [Jose Leon LUNA Galvez]</p>"
+      "text": "Alliance for Progress (Alianza para el Progreso) or APP [Cesar ACUNA Peralta] American Popular Revolutionary Alliance or APRA [Cesar TRELLES Lara]Broad Front (Frente Amplio; also known as El Frente Amplio por Justicia, Vida y Libertad) (coalition includes Nuevo Peru [Veronika MENDOZA], Tierra y Libertad [Marco ARANA Zegarra], and Fuerza Social [Susana VILLARAN de la Puente]Free Peru (Peru Libre) [Vladimir CERRON Rojas]National Solidarity (Solidaridad Nacional) or SN [Luis CASTANEDA Lossio]National Victory (Victoria Nacional) or VN [George FORSYTH Sommer]Peru Posible or PP (coalition includes Accion Popular and Somos Peru) [Alejandro TOLEDO Manrique]Peruvian Aprista Party (Partido Aprista Peruano) or PAP [Javier VELASQUEZ Quesquen] (also referred to by its original name Alianza Popular Revolucionaria Americana or APRA)Peruvian Nationalist Party [Ollanta HUMALA]Peruvians for Change (Peruanos Por el Kambio) or PPK [Pedro Pablo KUCZYNSKI]Popular Action (Accion Popular) or AP [Mesias GUEVARA Amasifuen]Popular Christian Party (Partido Popular Cristiano) or PPC [Lourdes FLORES Nano]Popular Force (Fuerza Popular; formerly Fuerza 2011) [Keiko FUJIMORI Higuchi]Popular Renewal (Renovacion Popular) [Rafael LOPEZ ALIAGA]Purple Party (Partido Morado) [Julio Armando GUZMAN Caceres]Social Integration Party (Avanza Pais - Partido de Integracion Social) [Pedro CENAS Casamayor]Together For Peru (Juntos por el Peru) or JP [Robert SANCHEZ Palomino]We Are Peru (Somos Peru) [Patricia LI]We Can Peru (Podemos Peru) [Jose Leon LUNA Galvez]"
     },
     "International organization participation": {
       "text": "APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -640,7 +640,7 @@
         "text": "[1] (202) 659-8124"
       },
       "email address and website": {
-        "text": "<br>Webadmin@embassyofperu.us"
+        "text": "Webadmin@embassyofperu.us"
       },
       "consulate(s) general": {
         "text": "Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC"
@@ -654,7 +654,7 @@
         "text": "Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33"
       },
       "mailing address": {
-        "text": "3230 Lima Place, Washington DC&nbsp; 20521-3230"
+        "text": "3230 Lima Place, Washington DC; 20521-3230"
       },
       "telephone": {
         "text": "[51] (1) 618-2000"
@@ -663,14 +663,14 @@
         "text": "[51] (1) 618-2724"
       },
       "email address and website": {
-        "text": "<br>LimaACS@state.gov<br><br>https://pe.usembassy.gov/"
+        "text": "LimaACS@state.govhttps://pe.usembassy.gov/"
       }
     },
     "Flag description": {
-      "text": "three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace"
+      "text": "Three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace"
     },
     "National symbol(s)": {
-      "text": "vicuna (a camelid related to the llama); national colors: red, white"
+      "text": "Vicuna (a camelid related to the llama); national colors: red, white"
     },
     "National anthem": {
       "name": {
@@ -679,7 +679,7 @@
       "lyrics/music": {
         "text": "Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO"
       },
-      "note": "<strong>note:</strong> adopted 1822; the song won a national anthem contest"
+      "note": "Note: adopted 1822; the song won a national anthem contest"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -692,7 +692,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Peru's economy reflects its varied topography - an arid lowland coastal region, the central high sierra of the Andes, and the dense forest of the Amazon. A wide range of important mineral resources are found in the mountainous and coastal areas, and Peru's coastal waters provide excellent fishing grounds. Peru is the world's second largest producer of silver and copper.</p><p></p><p>The Peruvian economy grew by an average of 5.6% per year from 2009-13 with a stable exchange rate and low inflation. This growth was due partly to high international prices for Peru's metals and minerals exports, which account for 55% of the country's total exports. Growth slipped from 2014 to 2017, due to weaker world prices for these resources. Despite Peru's strong macroeconomic performance, dependence on minerals and metals exports and imported foodstuffs makes the economy vulnerable to fluctuations in world prices.</p><p></p><p>Peru's rapid expansion coupled with cash transfers and other programs have helped to reduce the national poverty rate by over 35 percentage points since 2004, but inequality persists and continued to pose a challenge for the Ollanta HUMALA administration, which championed a policy of social inclusion and a more equitable distribution of income. Poor infrastructure hinders the spread of growth to Peru's non-coastal areas. The HUMALA administration passed several economic stimulus packages in 2014 to bolster growth, including reforms to environmental regulations in order to spur investment in Peru’s lucrative mining sector, a move that was opposed by some environmental groups. However, in 2015, mining investment fell as global commodity prices remained low and social conflicts plagued the sector.</p><p></p><p>Peru's free trade policy continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, Japan, the EU, the European Free Trade Association, Chile, Thailand, Costa Rica, Panama, Venezuela, Honduras, concluded negotiations with Guatemala and the Trans-Pacific Partnership, and begun trade talks with El Salvador, India, and Turkey. Peru also has signed a trade pact with Chile, Colombia, and Mexico, called the Pacific Alliance, that seeks integration of services, capital, investment and movement of people. Since the US-Peru Trade Promotion Agreement entered into force in February 2009, total trade between Peru and the US has doubled. President Pedro Pablo KUCZYNSKI succeeded HUMALA in July 2016 and is focusing on economic reforms and free market policies aimed at boosting investment in Peru. Mining output increased significantly in 2016-17, which helped Peru attain one of the highest GDP growth rates in Latin America, and Peru should maintain strong growth in 2018. However, economic performance was depressed by delays in infrastructure mega-projects and the start of a corruption scandal associated with a Brazilian firm. Massive flooding in early 2017 also was a drag on growth, offset somewhat by additional public spending aimed at recovery efforts.</p>"
+      "text": "Peru's economy reflects its varied topography - an arid lowland coastal region, the central high sierra of the Andes, and the dense forest of the Amazon. A wide range of important mineral resources are found in the mountainous and coastal areas, and Peru's coastal waters provide excellent fishing grounds. Peru is the world's second largest producer of silver and copper.The Peruvian economy grew by an average of 5.6% per year from 2009-13 with a stable exchange rate and low inflation. This growth was due partly to high international prices for Peru's metals and minerals exports, which account for 55% of the country's total exports. Growth slipped from 2014 to 2017, due to weaker world prices for these resources. Despite Peru's strong macroeconomic performance, dependence on minerals and metals exports and imported foodstuffs makes the economy vulnerable to fluctuations in world prices.Peru's rapid expansion coupled with cash transfers and other programs have helped to reduce the national poverty rate by over 35 percentage points since 2004, but inequality persists and continued to pose a challenge for the Ollanta HUMALA administration, which championed a policy of social inclusion and a more equitable distribution of income. Poor infrastructure hinders the spread of growth to Peru's non-coastal areas. The HUMALA administration passed several economic stimulus packages in 2014 to bolster growth, including reforms to environmental regulations in order to spur investment in Peru’s lucrative mining sector, a move that was opposed by some environmental groups. However, in 2015, mining investment fell as global commodity prices remained low and social conflicts plagued the sector.Peru's free trade policy continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, Japan, the EU, the European Free Trade Association, Chile, Thailand, Costa Rica, Panama, Venezuela, Honduras, concluded negotiations with Guatemala and the Trans-Pacific Partnership, and begun trade talks with El Salvador, India, and Turkey. Peru also has signed a trade pact with Chile, Colombia, and Mexico, called the Pacific Alliance, that seeks integration of services, capital, investment and movement of people. Since the US-Peru Trade Promotion Agreement entered into force in February 2009, total trade between Peru and the US has doubled. President Pedro Pablo KUCZYNSKI succeeded HUMALA in July 2016 and is focusing on economic reforms and free market policies aimed at boosting investment in Peru. Mining output increased significantly in 2016-17, which helped Peru attain one of the highest GDP growth rates in Latin America, and Peru should maintain strong growth in 2018. However, economic performance was depressed by delays in infrastructure mega-projects and the start of a corruption scandal associated with a Brazilian firm. Massive flooding in early 2017 also was a drag on growth, offset somewhat by additional public spending aimed at recovery efforts."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -704,7 +704,7 @@
       "Real GDP (purchasing power parity) 2018": {
         "text": "$408.87 billion note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
@@ -727,7 +727,7 @@
       "Real GDP per capita 2018": {
         "text": "$12,800 note: data are in 2017 dollars (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
+      "note": "Note: data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$230.707 billion (2019 est.)"
@@ -742,7 +742,7 @@
       "Inflation rate (consumer prices) 2017": {
         "text": "2.8% (2017 est.)"
       },
-      "note": "<strong>note:</strong> data are for metropolitan Lima, annual average"
+      "note": "Note: data are for metropolitan Lima, annual average"
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -787,17 +787,17 @@
       }
     },
     "Agricultural products": {
-      "text": "sugar cane, potatoes, rice, plantains, milk, poultry, maize, cassava, oil palm fruit, grapes"
+      "text": "Sugar cane, potatoes, rice, plantains, milk, poultry, maize, cassava, oil palm fruit, grapes"
     },
     "Industries": {
-      "text": "mining and refining of minerals; steel, metal fabrication; petroleum extraction and refining, natural gas and natural gas liquefaction; fishing and fish processing, cement, glass, textiles, clothing, food processing, beer, soft drinks, rubber, machinery, electrical machinery, chemicals, furniture"
+      "text": "Mining and refining of minerals; steel, metal fabrication; petroleum extraction and refining, natural gas and natural gas liquefaction; fishing and fish processing, cement, glass, textiles, clothing, food processing, beer, soft drinks, rubber, machinery, electrical machinery, chemicals, furniture"
     },
     "Industrial production growth rate": {
       "text": "2.7% (2017 est.)"
     },
     "Labor force": {
       "text": "3.421 million (2020 est.)",
-      "note": "<strong>note:</strong> individuals older than 14 years of age"
+      "note": "Note: individuals older than 14 years of age"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -817,7 +817,7 @@
       "Unemployment rate 2018": {
         "text": "6.73% (2018 est.)"
       },
-      "note": "<strong>note:</strong> data are for metropolitan Lima; widespread underemployment"
+      "note": "Note: data are for metropolitan Lima; widespread underemployment"
     },
     "Unemployment, youth ages 15-24": {
       "total": {
@@ -867,13 +867,13 @@
       "Public debt 2016": {
         "text": "24.5% of GDP (2016 est.)"
       },
-      "note": "<strong>note:</strong> data cover general government debt, and includes debt instruments issued by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data include debt issued by subnational entities"
+      "note": "Note: data cover general government debt, and includes debt instruments issued by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data include debt issued by subnational entities"
     },
     "Taxes and other revenues": {
       "text": "27.1% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "Calendar year"
     },
     "Current account balance": {
       "Current account balance 2019": {
@@ -898,7 +898,7 @@
       "text": "China 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "copper, gold, refined petroleum, zinc, fishmeal, tropical fruits, lead, iron, molybdenum (2019)"
+      "text": "Copper, gold, refined petroleum, zinc, fishmeal, tropical fruits, lead, iron, molybdenum (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -915,7 +915,7 @@
       "text": "China 24%, United States 22%, Brazil 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, crude petroleum, cars, broadcasting equipment, delivery trucks (2019)"
+      "text": "Refined petroleum, crude petroleum, cars, broadcasting equipment, delivery trucks (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -935,7 +935,7 @@
     },
     "Exchange rates": {
       "currency": {
-        "text": "nuevo sol (PEN) per US dollar -"
+        "text": "Nuevo sol (PEN) per US dollar -"
       },
       "Exchange rates 2020": {
         "text": "3.599 (2020 est.)"
@@ -1052,15 +1052,15 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "economic impact on telcom services during pandemic due to consumer unemployment; good mobile operator competition with LTE services; fixed-line tele-density remains among lowest in South America, with obstacles to growth including widespread poverty, fixed-to-mobile substitution, expensive telephone services, and geographical inaccessibility in the Andean mountains and Amazon jungles; government investment in underserved areas with fiber backbone; government facilitated virtual learning during pandemic via tablets with Internet connectivity; 3G network and new LTE services expanded providing mobile broadband to rural communities, though low penetration still exists; major importer of broadcasting equipment and computers from China (2020)"
+        "text": "Economic impact on telcom services during pandemic due to consumer unemployment; good mobile operator competition with LTE services; fixed-line tele-density remains among lowest in South America, with obstacles to growth including widespread poverty, fixed-to-mobile substitution, expensive telephone services, and geographical inaccessibility in the Andean mountains and Amazon jungles; government investment in underserved areas with fiber backbone; government facilitated virtual learning during pandemic via tablets with Internet connectivity; 3G network and new LTE services expanded providing mobile broadband to rural communities, though low penetration still exists; major importer of broadcasting equipment and computers from China (2020)"
       },
       "domestic": {
-        "text": "fixed-line teledensity is nearly 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019)"
+        "text": "Fixed-line teledensity is nearly 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019)"
       },
       "international": {
-        "text": "country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)"
+        "text": "Country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 2,000 radio stations including a substantial number of indigenous language stations (2019)"
@@ -1169,7 +1169,7 @@
       "paved": {
         "text": "26,916 km"
       },
-      "note": "<strong>note:</strong> includes 24,593 km of national roads (14,748 km paved), 24,235 km of departmental roads (2,340 km paved), and 91,844 km of local roads (1,611 km paved)"
+      "note": "Note: includes 24,593 km of national roads (14,748 km paved), 24,235 km of departmental roads (2,340 km paved), and 91,844 km of local roads (1,611 km paved)"
     },
     "Waterways": {
       "text": "8,808 km (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca) (2011)"
@@ -1179,7 +1179,7 @@
         "text": "98"
       },
       "by type": {
-        "text": "general cargo 1, oil tanker 8, other 89 (2021)"
+        "text": "General cargo 1, oil tanker 8, other 89 (2021)"
       }
     },
     "Ports and terminals": {
@@ -1219,34 +1219,34 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "information varies; approximately 95,000 active personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2021)"
+      "text": "Information varies; approximately 95,000 active personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2021)"
+      "text": "The Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2021)"
     },
     "Military service age and obligation": {
       "text": "18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (abolished in 1999) (2021)",
-      "note": "note - as of 2019, women made up about 10% of the active duty military"
+      "note": "Note - as of 2019, women made up about 10% of the active duty military"
     },
     "Military deployments": {
       "text": "220 Central African Republic (MINUSCA) (Oct 2021)"
     },
     "Military - note": {
-      "text": "<p>as of 2021, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a special combined military-police command, including 3 army infantry battalions</p>"
+      "text": "As of 2021, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T), particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a special combined military-police command, including 3 army infantry battalions"
     },
     "Maritime threats": {
-      "text": "the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2020, eight attacks against a commercial vessels were reported, down from 10 attacks in 2019; all of these occurred in the main port of Callao"
+      "text": "The International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2020, eight attacks against a commercial vessels were reported, down from 10 attacks in 2019; all of these occurred in the main port of Callao"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Shining Path (Sendero Luminoso)",
-      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "Note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>Chile and Ecuador rejected Peru's November 2005 unilateral legislation to shift the axis of their joint treaty-defined maritime boundaries along the parallels of latitude to equidistance lines which favor Peru; organized illegal narcotics operations in Colombia have penetrated Peru's shared border; Peru rejects Bolivia's claim to restore maritime access through a sovereign corridor through Chile along the Peruvian border</p>"
+      "text": "Chile and Ecuador rejected Peru's November 2005 unilateral legislation to shift the axis of their joint treaty-defined maritime boundaries along the parallels of latitude to equidistance lines which favor Peru; organized illegal narcotics operations in Colombia have penetrated Peru's shared border; Peru rejects Bolivia's claim to restore maritime access through a sovereign corridor through Chile along the Peruvian border"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1257,7 +1257,7 @@
       }
     },
     "Illicit drugs": {
-      "text": "world&rsquo;s second-largest producer of cocaine, with an estimated 88,200 hectares under coca cultivation in 2020; cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States; major importer of precursor chemicals for cocaine production"
+      "text": "World&rsquo;s second-largest producer of cocaine, with an estimated 88,200 hectares under coca cultivation in 2020; cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States; major importer of precursor chemicals for cocaine production"
     }
   }
 }

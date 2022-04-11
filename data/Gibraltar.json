@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>Strategically important, Gibraltar was reluctantly ceded to Great Britain by Spain in the 1713 Treaty of Utrecht; the British garrison was formally declared a colony in 1830. In a referendum held in 1967, Gibraltarians voted overwhelmingly to remain a British dependency. The subsequent granting of autonomy in 1969 by the UK led Spain to close the border and sever all communication links. Between 1997 and 2002, the UK and Spain held a series of talks on establishing temporary joint sovereignty over Gibraltar. In response to these talks, the Gibraltar Government called a referendum in late 2002 in which the majority of citizens voted overwhelmingly against any sharing of sovereignty with Spain. Since late 2004, Spain, the UK, and Gibraltar have held tripartite talks with the aim of cooperatively resolving problems that affect the local population, and work continues on cooperation agreements in areas such as taxation and financial services; communications and maritime security; policy, legal and customs services; environmental protection; and education and visa services. A new noncolonial constitution came into force in 2007, and the European Court of First Instance recognized Gibraltar's right to regulate its own tax regime in December 2008. The UK retains responsibility for defense, foreign relations, internal security, and financial stability.</p> <p>Spain and the UK continue to spar over the territory. Throughout 2009, a dispute over Gibraltar's claim to territorial waters extending out three miles gave rise to periodic non-violent maritime confrontations between Spanish and UK naval patrols and in 2013, the British reported a record number of entries by Spanish vessels into waters claimed by Gibraltar following a dispute over Gibraltar's creation of an artificial reef in those waters. Spain renewed its demands for an eventual return of Gibraltar to Spanish control after the UK’s June 2016 vote to leave the EU, but London has dismissed any connection between the vote and its continued sovereignty over Gibraltar. </p>"
+      "text": "Strategically important, Gibraltar was reluctantly ceded to Great Britain by Spain in the 1713 Treaty of Utrecht; the British garrison was formally declared a colony in 1830. In a referendum held in 1967, Gibraltarians voted overwhelmingly to remain a British dependency. The subsequent granting of autonomy in 1969 by the UK led Spain to close the border and sever all communication links. Between 1997 and 2002, the UK and Spain held a series of talks on establishing temporary joint sovereignty over Gibraltar. In response to these talks, the Gibraltar Government called a referendum in late 2002 in which the majority of citizens voted overwhelmingly against any sharing of sovereignty with Spain. Since late 2004, Spain, the UK, and Gibraltar have held tripartite talks with the aim of cooperatively resolving problems that affect the local population, and work continues on cooperation agreements in areas such as taxation and financial services; communications and maritime security; policy, legal and customs services; environmental protection; and education and visa services. A new noncolonial constitution came into force in 2007, and the European Court of First Instance recognized Gibraltar's right to regulate its own tax regime in December 2008. The UK retains responsibility for defense, foreign relations, internal security, and financial stability. Spain and the UK continue to spar over the territory. Throughout 2009, a dispute over Gibraltar's claim to territorial waters extending out three miles gave rise to periodic non-violent maritime confrontations between Spanish and UK naval patrols and in 2013, the British reported a record number of entries by Spanish vessels into waters claimed by Gibraltar following a dispute over Gibraltar's creation of an artificial reef in those waters. Spain renewed its demands for an eventual return of Gibraltar to Spanish control after the UK’s June 2016 vote to leave the EU, but London has dismissed any connection between the vote and its continued sovereignty over Gibraltar. "
     }
   },
   "Geography": {
@@ -26,7 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "more than 10 times the size of The National Mall in Washington, D.C."
+      "text": "More than 10 times the size of The National Mall in Washington, D.C."
     },
     "Land boundaries": {
       "total": {
@@ -48,7 +48,7 @@
       "text": "Mediterranean with mild winters and warm summers"
     },
     "Terrain": {
-      "text": "a narrow coastal lowland borders the Rock of Gibraltar"
+      "text": "A narrow coastal lowland borders the Rock of Gibraltar"
     },
     "Elevation": {
       "highest point": {
@@ -59,7 +59,7 @@
       }
     },
     "Natural resources": {
-      "text": "none"
+      "text": "None"
     },
     "Land use": {
       "agricultural land": {
@@ -73,10 +73,10 @@
       "text": "NA"
     },
     "Natural hazards": {
-      "text": "occasional droughts; no streams or large bodies of water on the peninsula (all potable water comes from desalination)"
+      "text": "Occasional droughts; no streams or large bodies of water on the peninsula (all potable water comes from desalination)"
     },
     "Geography - note": {
-      "text": "<p><strong>note 1:</strong> strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea</p> <p><strong>note 2:</strong> one of only two British territories where traffic drives on the right, the other being the island of Diego Garcia in the British Indian Ocean Territory</p>"
+      "text": "Note 1: strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea note 2: one of only two British territories where traffic drives on the right, the other being the island of Diego Garcia in the British Indian Ocean Territory"
     }
   },
   "People and Society": {
@@ -93,7 +93,7 @@
     },
     "Ethnic groups": {
       "text": "Gibraltarian 79%, other British 13.2%, Spanish 2.1%, Moroccan 1.6%, other EU 2.4%, other 1.6% (2012 est.)",
-      "note": "<strong>note:</strong> data represent population by nationality"
+      "note": "Note: data represent population by nationality"
     },
     "Languages": {
       "text": "English (used in schools and for official purposes), Spanish, Italian, Portuguese"
@@ -219,22 +219,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020)"
+        "text": "Total: 0% of population (2020)"
       }
     },
     "Current Health Expenditure": {
@@ -242,22 +242,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "Urban: 100% of population"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "Total: 100% of population"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "Urban: 0% of population"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020)"
+        "text": "Total: 0% of population (2020)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -278,7 +278,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "limited natural freshwater resources: more than 90% of drinking water supplied by desalination, the remainder from stored rainwater; a separate supply of saltwater used for sanitary services"
+      "text": "Limited natural freshwater resources: more than 90% of drinking water supplied by desalination, the remainder from stored rainwater; a separate supply of saltwater used for sanitary services"
     },
     "Air pollutants": {
       "carbon dioxide emissions": {
@@ -313,20 +313,20 @@
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "None"
       },
       "conventional short form": {
         "text": "Gibraltar"
       },
       "etymology": {
-        "text": "from the Spanish derivation of the Arabic \"Jabal Tariq,\" which means \"Mountain of Tariq\" and which refers to the Rock of Gibraltar"
+        "text": "From the Spanish derivation of the Arabic \"Jabal Tariq,\" which means \"Mountain of Tariq\" and which refers to the Rock of Gibraltar"
       }
     },
     "Government type": {
-      "text": "parliamentary democracy (Parliament); self-governing overseas territory of the UK"
+      "text": "Parliamentary democracy (Parliament); self-governing overseas territory of the UK"
     },
     "Dependency status": {
-      "text": "overseas territory of the UK"
+      "text": "Overseas territory of the UK"
     },
     "Capital": {
       "name": {
@@ -342,31 +342,31 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "etymology": {
-        "text": "from the Spanish derivation of the Arabic \"Jabal Tariq,\" which means \"Mountain of Tariq\" and which refers to the Rock of Gibraltar"
+        "text": "From the Spanish derivation of the Arabic \"Jabal Tariq,\" which means \"Mountain of Tariq\" and which refers to the Rock of Gibraltar"
       }
     },
     "Administrative divisions": {
-      "text": "none (overseas territory of the UK)"
+      "text": "None (overseas territory of the UK)"
     },
     "Independence": {
-      "text": "none (overseas territory of the UK)"
+      "text": "None (overseas territory of the UK)"
     },
     "National holiday": {
       "text": "National Day, 10 September (1967); note - day of the national referendum to decide whether to remain with the UK or join Spain"
     },
     "Constitution": {
       "history": {
-        "text": "previous 1969; latest passed by referendum 30 November 2006, entered into effect 14 December 2006, entered into force 2 January 2007"
+        "text": "Previous 1969; latest passed by referendum 30 November 2006, entered into effect 14 December 2006, entered into force 2 January 2007"
       },
       "amendments": {
-        "text": "proposed by Parliament and requires prior consent of the British monarch (through the Secretary of State); passage requires at least three-fourths majority vote in Parliament followed by simple majority vote in a referendum; note &ndash; only sections 1 through 15 in Chapter 1 (Protection of Fundamental Rights and Freedoms) can be amended by Parliament"
+        "text": "Proposed by Parliament and requires prior consent of the British monarch (through the Secretary of State); passage requires at least three-fourths majority vote in Parliament followed by simple majority vote in a referendum; note &ndash; only sections 1 through 15 in Chapter 1 (Protection of Fundamental Rights and Freedoms) can be amended by Parliament"
       }
     },
     "Legal system": {
-      "text": "the laws of the UK, where applicable, apply"
+      "text": "The laws of the UK, where applicable, apply"
     },
     "Citizenship": {
-      "text": "see United Kingdom"
+      "text": "See United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal; and British citizens with six months residence or more"
@@ -382,18 +382,18 @@
         "text": "Council of Ministers appointed from among the 17 elected members of Parliament by the governor in consultation with the chief minister"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed chief minister by the governor"
+        "text": "The monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed chief minister by the governor"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament (18 seats; 17 members directly elected in a single nationwide constituency by majority vote and 1 appointed by Parliament as speaker; members serve 4-year terms) (e.g. 2019)"
+        "text": "Unicameral Parliament (18 seats; 17 members directly elected in a single nationwide constituency by majority vote and 1 appointed by Parliament as speaker; members serve 4-year terms) (e.g. 2019)"
       },
       "elections": {
-        "text": "last held on 17 October 2019 (next to be held in 2023) (e.g. 2019)"
+        "text": "Last held on 17 October 2019 (next to be held in 2023) (e.g. 2019)"
       },
       "election results": {
-        "text": "percent of vote by party - GSLP-Liberal Alliance 52.5% (GSLP 37.0%, LPG 15.5%), GSD 25.6%; seats by party - GSLP-Liberal Alliance 10 (GSLP 7, LPG 3), GSD 6; composition of elected members -&nbsp;men 15, women 2, percent of women 11.8% (e.g. 2019)"
+        "text": "Percent of vote by party - GSLP-Liberal Alliance 52.5% (GSLP 37.0%, LPG 15.5%), GSD 25.6%; seats by party - GSLP-Liberal Alliance 10 (GSLP 7, LPG 3), GSD 6; composition of elected members -;men 15, women 2, percent of women 11.8% (e.g. 2019)"
       }
     },
     "Judicial branch": {
@@ -408,21 +408,21 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG [Joseph GARCIA]<br>Gibraltar Social Democrats or GSD [Keith AZOPARDI]<br>Gibraltar Socialist Labor Party or GSLP [Fabian PICARDO]<br>GSLP-Liberal Alliance (includes GSLP and LPG)<br>Together Gibraltar or TG [Marlene HASSAN-NAHON]"
+      "text": "Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG [Joseph GARCIA]Gibraltar Social Democrats or GSD [Keith AZOPARDI]Gibraltar Socialist Labor Party or GSLP [Fabian PICARDO]GSLP-Liberal Alliance (includes GSLP and LPG)Together Gibraltar or TG [Marlene HASSAN-NAHON]"
     },
     "International organization participation": {
       "text": "ICC (NGOs), Interpol (subbureau), UPU"
     },
     "Diplomatic representation in the US": {
-      "text": "none (overseas territory of the UK)"
+      "text": "None (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
       "embassy": {
-        "text": "none (overseas territory of the UK)"
+        "text": "None (overseas territory of the UK)"
       }
     },
     "Flag description": {
-      "text": "two horizontal bands of white (top, double width) and red with a three-towered red castle in the center of the white band; hanging from the castle gate is a gold key centered in the red band; the design is that of Gibraltar's coat of arms granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, while the key represents Gibraltar's strategic importance - the key to the Mediterranean"
+      "text": "Two horizontal bands of white (top, double width) and red with a three-towered red castle in the center of the white band; hanging from the castle gate is a gold key centered in the red band; the design is that of Gibraltar's coat of arms granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, while the key represents Gibraltar's strategic importance - the key to the Mediterranean"
     },
     "National symbol(s)": {
       "text": "Barbary macaque; national colors: red, white, yellow"
@@ -434,12 +434,12 @@
       "lyrics/music": {
         "text": "Peter EMBERLEY"
       },
-      "note": "<strong>note:</strong> adopted 1994; serves as a local anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+      "note": "Note: adopted 1994; serves as a local anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Self-sufficient Gibraltar benefits from an extensive shipping trade, offshore banking, and its position as an international conference center. Tax rates are low to attract foreign investment. The British military presence has been sharply reduced and now contributes about 7% to the local economy, compared with 60% in 1984. In recent years, Gibraltar has seen major structural change from a public to a private sector economy, but changes in government spending still have a major impact on the level of employment.</p><p></p><p>The financial sector, tourism (over 11 million visitors in 2012), gaming revenues, shipping services fees, and duties on consumer goods also generate revenue. The financial sector, tourism, and the shipping sector contribute 30%, 30%, and 25%, respectively, of GDP. Telecommunications, e-commerce, and e-gaming account for the remaining 15%.</p>"
+      "text": "Self-sufficient Gibraltar benefits from an extensive shipping trade, offshore banking, and its position as an international conference center. Tax rates are low to attract foreign investment. The British military presence has been sharply reduced and now contributes about 7% to the local economy, compared with 60% in 1984. In recent years, Gibraltar has seen major structural change from a public to a private sector economy, but changes in government spending still have a major impact on the level of employment.The financial sector, tourism (over 11 million visitors in 2012), gaming revenues, shipping services fees, and duties on consumer goods also generate revenue. The financial sector, tourism, and the shipping sector contribute 30%, 30%, and 25%, respectively, of GDP. Telecommunications, e-commerce, and e-gaming account for the remaining 15%."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2014": {
@@ -451,7 +451,7 @@
       "Real GDP (purchasing power parity) 2012": {
         "text": "$2 billion (2012 est.)"
       },
-      "note": "<strong>note:</strong> data are in 2014 dollars"
+      "note": "Note: data are in 2014 dollars"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2014": {
@@ -487,10 +487,10 @@
       }
     },
     "Agricultural products": {
-      "text": "none"
+      "text": "None"
     },
     "Industries": {
-      "text": "tourism, banking and finance, ship repairing, tobacco"
+      "text": "Tourism, banking and finance, ship repairing, tobacco"
     },
     "Industrial production growth rate": {
       "text": "NA"
@@ -562,7 +562,7 @@
       "text": "Poland 31%, Netherlands 27%, France 11%, Germany 8%, United States 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "cars, ships, refined petroleum, fish, recreational boats (2019)"
+      "text": "Cars, ships, refined petroleum, fish, recreational boats (2019)"
     },
     "Imports": {
       "Imports 2004": {
@@ -573,10 +573,10 @@
       "text": "Spain 19%, US 12%, India 12%, Italy 12%, Netherlands 11%, United Kingdom 7%, Greece 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, recreational boats, cars, coal tar oil, crude petroleum (2019)"
+      "text": "Refined petroleum, recreational boats, cars, coal tar oil, crude petroleum (2019)"
     },
     "Debt - external": {
-      "text": "<p>NA</p>"
+      "text": "NA"
     },
     "Exchange rates": {
       "currency": {
@@ -694,10 +694,10 @@
         "text": "Gibraltar&rsquo;s population is urban based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2019)"
       },
       "domestic": {
-        "text": "automatic exchange facilities; over 50 per 100 fixed-line and 120 per 100 mobile-cellular (2019)"
+        "text": "Automatic exchange facilities; over 50 per 100 fixed-line and 120 per 100 mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables;&nbsp;radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
+        "text": "Country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables;;radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
       }
     },
     "Broadcast media": {
@@ -753,7 +753,7 @@
         "text": "202"
       },
       "by type": {
-        "text": "bulk carrier 8, container ship 19, general cargo 55, oil tanker 20, other 100 (2021)"
+        "text": "Bulk carrier 8, container ship 19, general cargo 55, oil tanker 20, other 100 (2021)"
       }
     },
     "Ports and terminals": {
@@ -767,12 +767,12 @@
       "text": "Royal Gibraltar Regiment (2021)"
     },
     "Military - note": {
-      "text": "defense is the responsibility of the UK (2021)"
+      "text": "Defense is the responsibility of the UK (2021)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "<p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar even greater autonomy</p>"
+      "text": "In 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar even greater autonomy"
     }
   }
 }
