@@ -45,10 +45,10 @@
       }
     },
     "Climate": {
-      "text": "Tropical; hot and humid; modified by southeast trade winds; rainy season (November to March)"
+      "text": "Tropical; Hot and humid; Modified by southeast trade winds; Rainy season (November to March)"
     },
     "Terrain": {
-      "text": "Rugged volcanic formation; rocky coastline with cliffs"
+      "text": "Rugged volcanic formation; Rocky coastline with cliffs"
     },
     "Elevation": {
       "highest point": {
@@ -79,10 +79,10 @@
       "text": "Less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown"
     },
     "Natural hazards": {
-      "text": "Occasional tropical cyclones (especially November to March), but generally only heavy tropical storms; landslides"
+      "text": "Occasional tropical cyclones (especially November to March), but generally only heavy tropical storms; Landslides"
     },
     "Geography - note": {
-      "text": "Britain's most isolated dependency; only the larger island of Pitcairn is inhabited but it has no port or natural harbor; supplies must be transported by rowed longboat from larger ships stationed offshore"
+      "text": "Britain's most isolated dependency; Only the larger island of Pitcairn is inhabited but it has no port or natural harbor; Supplies must be transported by rowed longboat from larger ships stationed offshore"
     }
   },
   "People and Society": {
@@ -260,7 +260,7 @@
       "text": "Deforestation (only a small portion of the original forest remains because of burning and clearing for settlement)"
     },
     "Climate": {
-      "text": "Tropical; hot and humid; modified by southeast trade winds; rainy season (November to March)"
+      "text": "Tropical; Hot and humid; Modified by southeast trade winds; Rainy season (November to March)"
     },
     "Land use": {
       "agricultural land": {
@@ -333,7 +333,7 @@
     },
     "Constitution": {
       "history": {
-        "text": "Several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010"
+        "text": "Several previous; Latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010"
       },
       "amendments": {
         "text": "Reviewed 10 Jun '21; NC"
@@ -346,11 +346,11 @@
       "text": "See United Kingdom"
     },
     "Suffrage": {
-      "text": "18 years of age; universal with three years residency"
+      "text": "18 years of age; Universal with three years residency"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Laura CLARK (since 25 January 2018)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); Represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Laura CLARK (since 25 January 2018)"
       },
       "head of government": {
         "text": "Mayor and Chairman of the Island Council Charlene WARREN-PEU (since 1 January 2020)"
@@ -359,7 +359,7 @@
         "text": "None"
       },
       "elections/appointments": {
-        "text": "The monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on;6 November 2019 (next to be held not later than December 2022)"
+        "text": "The monarchy is hereditary; Governor and commissioner appointed by the monarch; Island mayor directly elected by majority popular vote for a 3-year term; Election last held on;6 November 2019 (next to be held not later than December 2022)"
       },
       "election results": {
         "text": "Charlene WARREN-PEU elected mayor and chairman of the Island Council; Island Council vote - NA"
@@ -367,21 +367,21 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "Unicameral Island Council (10 seats; 4 members directly elected by proportional representation vote, 1 nominated by the elected Council members, 2 appointed by the governor, and 3 ex-officio members - the governor, deputy governor, and commissioner; elected members serve 1-year terms)"
+        "text": "Unicameral Island Council (10 seats; 4 members directly elected by proportional representation vote, 1 nominated by the elected Council members, 2 appointed by the governor, and 3 ex-officio members - the governor, deputy governor, and commissioner; Elected members serve 1-year terms)"
       },
       "elections": {
         "text": "Last held in November 2017 (next to be held not later than December 2019)"
       },
       "election results": {
-        "text": "Percent of vote - NA; seats - 5 independent; composition - men 5, women 5, percent of women 50%"
+        "text": "Percent of vote - NA; Seats - 5 independent; Composition - men 5, women 5, percent of women 50%"
       }
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)"
+        "text": "Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); Note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)"
       },
       "judge selection and term of office": {
-        "text": "All judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the Queen of England through the Secretary of State; all judges can serve until retirement, normally at age 75"
+        "text": "All judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the Queen of England through the Secretary of State; All judges can serve until retirement, normally at age 75"
       },
       "subordinate courts": {
         "text": "Magistrate's Court"
@@ -402,7 +402,7 @@
       }
     },
     "Flag description": {
-      "text": "Blue with the flag of the UK in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor surmounted by a bible (both the anchor and the bible were items found on the HMS Bounty); sitting on the crest is a Pitcairn Island wheelbarrow from which springs a flowering twig of miro (a local plant)"
+      "text": "Blue with the flag of the UK in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; The green, yellow, and blue of the shield represents the island rising from the ocean; The green field features a yellow anchor surmounted by a bible (both the anchor and the bible were items found on the HMS Bounty); Sitting on the crest is a Pitcairn Island wheelbarrow from which springs a flowering twig of miro (a local plant)"
     },
     "National anthem": {
       "name": {
@@ -411,7 +411,7 @@
       "lyrics/music": {
         "text": "Unknown/Frederick M. LEHMAN"
       },
-      "note": "Note: serves as a local anthem; as a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)"
+      "note": "Note: serves as a local anthem; As a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)"
     }
   },
   "Economy": {
@@ -422,7 +422,7 @@
       "text": "NA"
     },
     "Agricultural products": {
-      "text": "Honey; wide variety of fruits and vegetables; goats, chickens; fish"
+      "text": "Honey; Wide variety of fruits and vegetables; Goats, chickens; Fish"
     },
     "Industries": {
       "text": "Postage stamps, handicrafts, beekeeping, honey"
@@ -431,7 +431,7 @@
       "text": "15 (2004)"
     },
     "Labor force - by occupation": {
-      "text": "Note: no business community in the usual sense; some public works; subsistence farming and fishing"
+      "text": "Note: no business community in the usual sense; Some public works; Subsistence farming and fishing"
     },
     "Budget": {
       "revenues": {
@@ -486,15 +486,15 @@
   "Communications": {
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Satellite-based phone services; rural connectivity a challenge; 2G services widespread; demand for mobile broadband due to mobile services providing Internet source; the launch of the Kacific-1 satellite in 2019 will improve telecommunications in the region (2020)"
+        "text": "Satellite-based phone services; Rural connectivity a challenge; 2G services widespread; Demand for mobile broadband due to mobile services providing Internet source; The launch of the Kacific-1 satellite in 2019 will improve telecommunications in the region (2020)"
       },
       "domestic": {
         "text": "Local phone service with international connections via Internet (2018)"
       },
       "international": {
-        "text": "Country code - 872; satellite earth station - 1 Inmarsat"
+        "text": "Country code - 872; Satellite earth station - 1 Inmarsat"
       },
-      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "Satellite TV from Fiji-based Sky Pacific offering a wide range of international channels"

@@ -1,32 +1,33 @@
 {
   "Introduction": {
     "Background": {
-      "text": "The Danes secured control over the southern Virgin Islands of Saint Thomas, Saint John, and Saint Croix during the 17th and early 18th centuries. Sugarcane, produced by African slave labor, drove the islands' economy during the 18th and early 19th centuries. In 1917, the US purchased the Danish holdings, which had been in economic decline since the abolition of slavery in 1848. On 6 September 2017, Hurricane Irma passed over the northern Virgin Islands of Saint Thomas and Saint John and inflicted severe damage to structures, roads, the airport on Saint Thomas, communications, and electricity. Less than two weeks later, Hurricane Maria passed over the island of Saint Croix in the southern Virgin Islands, inflicting considerable damage with heavy winds and flooding rains."
+      "text": "First inhabited by Arawak and later by Carib Indians, the Virgin Islands were settled by the Dutch in 1648 and then annexed by the English in 1672. The islands were part of the British colony of the Leeward Islands from 1872-1960; They were granted autonomy in 1967. The economy is closely tied to the larger and more populous US Virgin Islands to the west; The US dollar is the legal currency. On 6 September 2017, Hurricane Irma devastated the island of Tortola. An estimated 80% of residential and business structures were destroyed or damaged, communications disrupted, and local roads rendered impassable."
     }
   },
   "Geography": {
     "Location": {
-      "text": "Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico"
+      "text": "Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico"
     },
     "Geographic coordinates": {
-      "text": "18 20 N, 64 50 W"
+      "text": "18 30 N, 64 30 W"
     },
     "Map references": {
       "text": "Central America and the Caribbean"
     },
     "Area": {
       "total": {
-        "text": "1,910 sq km"
+        "text": "151 sq km"
       },
       "land": {
-        "text": "346 sq km"
+        "text": "151 sq km"
       },
       "water": {
-        "text": "1,564 sq km"
-      }
+        "text": "0 sq km"
+      },
+      "note": "Note: comprised of 16 inhabited and more than 20 uninhabited islands; Includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke"
     },
     "Area - comparative": {
-      "text": "Twice the size of Washington, DC"
+      "text": "About 0.9 times the size of Washington, DC"
     },
     "Land boundaries": {
       "total": {
@@ -34,174 +35,173 @@
       }
     },
     "Coastline": {
-      "text": "188 km"
+      "text": "80 km"
     },
     "Maritime claims": {
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
+      "exclusive fishing zone": {
         "text": "200 nm"
       }
     },
     "Climate": {
-      "text": "Subtropical, tempered by easterly trade winds, relatively low humidity, little seasonal temperature variation; rainy season September to November"
+      "text": "Subtropical; Humid; Temperatures moderated by trade winds"
     },
     "Terrain": {
-      "text": "Mostly hilly to rugged and mountainous with little flat land"
+      "text": "Coral islands relatively flat; Volcanic islands steep, hilly"
     },
     "Elevation": {
       "highest point": {
-        "text": "Crown Mountain 474 m"
+        "text": "Mount Sage 521 m"
       },
       "lowest point": {
         "text": "Caribbean Sea 0 m"
       }
     },
     "Natural resources": {
-      "text": "Pleasant climate, beaches foster tourism"
+      "text": "NEGL; Pleasant climate, beaches foster tourism"
     },
     "Land use": {
       "agricultural land": {
-        "text": "11.5% (2018 est.)"
+        "text": "46.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "Arable land: 2.9% (2018 est.)"
+        "text": "Arable land: 6.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "Permanent crops: 2.9% (2018 est.)"
+        "text": "Permanent crops: 6.7% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "Permanent pasture: 5.7% (2018 est.)"
+        "text": "Permanent pasture: 33.3% (2018 est.)"
       },
       "forest": {
-        "text": "57.4% (2018 est.)"
+        "text": "24.3% (2018 est.)"
       },
       "other": {
-        "text": "31.1% (2018 est.)"
+        "text": "29% (2018 est.)"
       }
     },
     "Irrigated land": {
-      "text": "1 sq km (2012)"
+      "text": "NA"
     },
     "Population distribution": {
-      "text": "While overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix"
+      "text": "A fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations"
     },
     "Natural hazards": {
-      "text": "Several hurricanes in recent years; frequent and severe droughts and floods; occasional earthquakes"
+      "text": "Hurricanes and tropical storms (July to October)"
     },
     "Geography - note": {
-      "text": "Important location along the Anegada Passage - a key shipping lane for the Panama Canal; Saint Thomas has one of the best natural deepwater harbors in the Caribbean"
+      "text": "Strong ties to nearby US Virgin Islands and Puerto Rico"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "105,870 (July 2021 est.)"
+      "text": "37,891 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
-        "text": "Virgin Islander(s) (US citizens)"
+        "text": "British Virgin Islander(s)"
       },
       "adjective": {
-        "text": "Virgin Islander"
+        "text": "British Virgin Islander"
       }
     },
     "Ethnic groups": {
-      "text": "Black 76%, White 15.6%, Asian 1.4%, other 4.9%, mixed 2.1% (2010 est.)",
-      "note": "Note: 17.4% self-identify as Latino"
+      "text": "African/Black 76.3%, Latino 5.5%, White 5.4%, mixed 5.3%, Indian 2.1%, East Indian 1.6%, other 3%, unspecified 0.8% (2010 est.)"
     },
     "Languages": {
-      "text": "English 71.6%, Spanish or Spanish Creole 17.2%, French or French Creole 8.6%, other 2.5% (2010 est.)"
+      "text": "English (official)"
     },
     "Religions": {
-      "text": "Protestant 59% (Baptist 42%, Episcopalian 17%), Roman Catholic 34%, other 7%"
+      "text": "Protestant 70.2% (Methodist 17.6%, Church of God 10.4%, Anglican 9.5%, Seventh Day Adventist 9.0%, Pentecostal 8.2%, Baptist 7.4%, New Testament Church of God 6.9%, other Protestant 1.2%), Roman Catholic 8.9%, Jehovah's Witness 2.5%, Hindu 1.9%, other 6.2%, none 7.9%, unspecified 2.4% (2010 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "19.71% (male 10,671/female 10,192)"
+        "text": "16.48% (male 3,088/female 3,156)"
       },
       "15-24 years": {
-        "text": "10.16% (male 5,219/female 5,535)"
+        "text": "12.22% (male 2,212/female 2,418)"
       },
       "25-54 years": {
-        "text": "36.07% (male 17,844/female 20,342)"
+        "text": "47.84% (male 8,476/female 9,652)"
       },
       "55-64 years": {
-        "text": "14.24% (male 7,222/female 7,859)"
+        "text": "12.83% (male 2,242/female 2,521)"
       },
       "65 years and over": {
-        "text": "19.82% (male 9,424/female 11,562) (2021 est.)"
+        "text": "10.63% (male 1,921/female 2,105) (2021 est.)"
       }
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "66"
+        "text": "NA"
       },
       "youth dependency ratio": {
-        "text": "32"
+        "text": "NA"
       },
       "elderly dependency ratio": {
-        "text": "34"
+        "text": "NA"
       },
       "potential support ratio": {
-        "text": "2.9 (2020 est.)"
+        "text": "NA"
       }
     },
     "Median age": {
       "total": {
-        "text": "41.8 years"
+        "text": "37.2 years"
       },
       "male": {
-        "text": "40.6 years"
+        "text": "37 years"
       },
       "female": {
-        "text": "42.8 years (2020 est.)"
+        "text": "37.5 years (2020 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-0.42% (2021 est.)"
+      "text": "1.96% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.63 births/1,000 population (2022 est.)"
+      "text": "10.95 births/1,000 population (2022 est.)"
     },
     "Death rate": {
-      "text": "8.78 deaths/1,000 population (2022 est.)"
+      "text": "5.38 deaths/1,000 population (2022 est.)"
     },
     "Net migration rate": {
-      "text": "-7.42 migrant(s)/1,000 population (2021 est.)"
+      "text": "13.93 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "While overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix"
+      "text": "A fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations"
     },
     "Urbanization": {
       "urban population": {
-        "text": "96.1% of total population (2022)"
+        "text": "49.3% of total population (2022)"
       },
       "rate of urbanization": {
-        "text": "-0.11% annual rate of change (2020-25 est.)"
+        "text": "1.73% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
-      "text": "52,000 CHARLOTTE AMALIE (capital) (2018)"
+      "text": "15,000 ROAD TOWN (capital) (2018)"
     },
     "Sex ratio": {
       "at birth": {
-        "text": "1.06 male(s)/female"
-      },
-      "0-14 years": {
         "text": "1.05 male(s)/female"
       },
+      "0-14 years": {
+        "text": "0.97 male(s)/female"
+      },
       "15-24 years": {
-        "text": "0.95 male(s)/female"
+        "text": "0.92 male(s)/female"
       },
       "25-54 years": {
         "text": "0.88 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.91 male(s)/female"
+        "text": "0.94 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.81 male(s)/female"
+        "text": "0.92 male(s)/female"
       },
       "total population": {
         "text": "0.91 male(s)/female (2020 est.)"
@@ -209,50 +209,38 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "7.81 deaths/1,000 live births"
+        "text": "14.56 deaths/1,000 live births"
       },
       "male": {
-        "text": "8.82 deaths/1,000 live births"
+        "text": "17.39 deaths/1,000 live births"
       },
       "female": {
-        "text": "6.74 deaths/1,000 live births (2021 est.)"
+        "text": "11.58 deaths/1,000 live births (2021 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.05 years"
+        "text": "79.44 years"
       },
       "male": {
-        "text": "76.84 years"
+        "text": "77.94 years"
       },
       "female": {
-        "text": "83.45 years (2021 est.)"
+        "text": "81.03 years (2021 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.01 children born/woman (2021 est.)"
+      "text": "1.34 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "NA"
     },
     "Drinking water source": {
-      "improved: urban": {
-        "text": "Urban: NA"
-      },
-      "improved: rural": {
-        "text": "Rural: NA"
-      },
       "improved: total": {
-        "text": "Total: 98.7% of population"
-      },
-      "unimproved: urban": {
-        "text": "Urban: NA"
-      },
-      "unimproved: rural": {
-        "text": "Rural: NA"
+        "text": "Total: 99.9% of population"
       },
       "unimproved: total": {
-        "text": "Total: 1.3% of population (2020 est.)"
+        "text": "Total: 0.1% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -260,22 +248,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "Urban: NA"
+        "text": "Urban: 97.5% of population"
       },
       "improved: rural": {
-        "text": "Rural: NA"
+        "text": "Rural: 97.5% of population"
       },
       "improved: total": {
-        "text": "Total: 99.4% of population"
+        "text": "Total: 97.5% of population"
       },
       "unimproved: urban": {
-        "text": "Urban: NA"
+        "text": "Urban: 2.5% of population"
       },
       "unimproved: rural": {
-        "text": "Rural: NA"
+        "text": "Rural: 2.5% of population"
       },
       "unimproved: total": {
-        "text": "Total: 0.6% of population (2020 est.)"
+        "text": "Total: 2.5% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -291,52 +279,63 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "NA"
+      "text": "2.9% of GDP (2019)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "12 years (2018)"
+      }
     }
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "Lack of natural freshwater resources; protection of coral reefs; solid waste management; coastal development; increased boating and overfishing"
+      "text": "Limited natural freshwater resources except for a few seasonal streams and springs on Tortola; Most of the islands' water supply comes from desalination plants; Sewage and mining/industry waste contribute to water pollution, threatening coral reefs"
+    },
+    "Air pollutants": {
+      "carbon dioxide emissions": {
+        "text": "0.21 megatons (2016 est.)"
+      }
     },
     "Climate": {
-      "text": "Subtropical, tempered by easterly trade winds, relatively low humidity, little seasonal temperature variation; rainy season September to November"
+      "text": "Subtropical; Humid; Temperatures moderated by trade winds"
     },
     "Land use": {
       "agricultural land": {
-        "text": "11.5% (2018 est.)"
+        "text": "46.7% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "Arable land: 2.9% (2018 est.)"
+        "text": "Arable land: 6.7% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "Permanent crops: 2.9% (2018 est.)"
+        "text": "Permanent crops: 6.7% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "Permanent pasture: 5.7% (2018 est.)"
+        "text": "Permanent pasture: 33.3% (2018 est.)"
       },
       "forest": {
-        "text": "57.4% (2018 est.)"
+        "text": "24.3% (2018 est.)"
       },
       "other": {
-        "text": "31.1% (2018 est.)"
+        "text": "29% (2018 est.)"
       }
     },
     "Urbanization": {
       "urban population": {
-        "text": "96.1% of total population (2022)"
+        "text": "49.3% of total population (2022)"
       },
       "rate of urbanization": {
-        "text": "-0.11% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Revenue from forest resources": {
-      "forest revenues": {
-        "text": "0% of GDP (2017 est.)"
+        "text": "1.73% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "146,500 tons (2012 est.)"
+        "text": "21,099 tons (2000 est.)"
       }
     }
   },
@@ -346,242 +345,224 @@
         "text": "None"
       },
       "conventional short form": {
-        "text": "Virgin Islands"
-      },
-      "former": {
-        "text": "Danish West Indies"
+        "text": "British Virgin Islands"
       },
       "abbreviation": {
-        "text": "VI"
+        "text": "BVI"
       },
       "etymology": {
-        "text": "The myriad islets, cays, and rocks surrounding the major islands reminded Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)"
+        "text": "The myriad islets, cays, and rocks surrounding the major islands reminded explorer Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)"
       }
     },
     "Government type": {
-      "text": "Unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches"
+      "text": "Overseas Territory of the UK with limited self-government; Parliamentary democracy"
     },
     "Dependency status": {
-      "text": "Unincorporated organized territory of the US with policy relations between the Virgin Islands and the federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
+      "text": "Overseas Territory of the UK; Internal self-governing"
     },
     "Capital": {
       "name": {
-        "text": "Charlotte Amalie"
+        "text": "Road Town"
       },
       "geographic coordinates": {
-        "text": "18 21 N, 64 56 W"
+        "text": "18 25 N, 64 37 W"
       },
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
       "etymology": {
-        "text": "Originally called Taphus in Danish - meaning \"tap house\" or \"beer house\" because of its many beer halls - the town received a more dignified name in 1691 when it was named Charlotte Amalie in honor of Danish King Christian V&rsquo;s wife, Charlotte Amalie of Hesse-Kassel (1650&ndash;1714)"
+        "text": "Name refers to the nautical term \"roadstead\" or \"roads,\" a body of water less sheltered than a harbor but where where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells"
       }
     },
     "Administrative divisions": {
-      "text": "None (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 islands at the second order; Saint Croix, Saint John, Saint Thomas"
+      "text": "None (overseas territory of the UK)"
     },
     "Independence": {
-      "text": "None (territory of the US)"
+      "text": "None (Overseas Territory of the UK)"
     },
     "National holiday": {
-      "text": "Transfer Day (from Denmark to the US), 31 March (1917)"
+      "text": "Territory Day, 1 July (1956)"
     },
     "Constitution": {
       "history": {
-        "text": "22 July 1954 - the Revised Organic Act of the Virgin Islands functions as a constitution for this US territory"
+        "text": "Several previous; Latest effective 15 June 2007 (The Virgin Islands Constitution Order 2007)"
       },
       "amendments": {
-        "text": "Amended several times, last in 2012"
+        "text": "Initiated by any elected member of the House of Assembly; Passage requires simple majority vote by the elected members of the Assembly and assent by the governor on behalf of the monarch; Amended 2015"
       }
     },
     "Legal system": {
-      "text": "US common law"
+      "text": "English common law"
     },
     "Citizenship": {
-      "text": "See United States"
+      "text": "See United Kingdom"
     },
     "Suffrage": {
-      "text": "18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections"
+      "text": "18 years of age; Universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); Represented by Governor John J. RANKIN (since 29 January 2021)"
       },
       "head of government": {
-        "text": "Governor Albert BRYAN, Jr. (since 7 January 2019), Lieutenant Governor Tregenza ROACH (since 7 January 2019)"
+        "text": "Premier Andrew FAHIE (since 26 February 2019)"
       },
       "cabinet": {
-        "text": "Territorial Cabinet appointed by the governor and confirmed by the Senate"
+        "text": "Executive Council appointed by the governor from members of the House of Assembly"
       },
       "elections/appointments": {
-        "text": "President and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Virgin Islands do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on;6 November 2018 with a runoff on 20 November 2018 (next to be held in November 2022)"
-      },
-      "election results": {
-        "text": "Albert BRYAN, Jr. elected governor in the second round; percent of vote in first round - Albert BRYAN, Jr. (Democratic Party) 38.1%, Kenneth MAPP (independent) 33.5%, Adlah \"Foncie\" DONASTORG, Jr. (independent) 16.5%, other 11.9%; percent of vote in second round- Albert BRYAN, Jr. (Democratic Party) 54.5%, Kenneth MAPP (independent) 45.2%, other .3%"
+        "text": "The monarchy is hereditary; Governor appointed by the monarch; Following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "Unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term"
+        "text": "Unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; Members serve 4-year terms)"
       },
       "elections": {
-        "text": "Legislature of the Virgin Islands last held on 6 November 2018 (next to be held in November 2020)US House of Representatives last held on 6 November 2018 (next to be held in November 2020)"
+        "text": "Last held on 25 February 2019 (next to be held in 2023)"
       },
       "election results": {
-        "text": "Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 13, independents 2; composition - men 11, women 4, percent of women 26.7%delegate to US House of Representatives - seat by party - Democratic Party 1; composition - 1 woman"
-      },
-      "note": "Note: the Virgin Islands to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote"
+        "text": "Percent of vote by party - VIP 46.5%, NDP 28.2%, PVIM 17.4%, PU 8%; Seats by party - VIP 8, NDP 3, PVIM 1, PU 1; Composition as of March 2022 - men 11, women 4, percent of women 26.7%"
+      }
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "Supreme Court of the Virgin Islands (consists of the chief justice and 2 associate justices); note - court established by the US Congress in 2004 and assumed appellate jurisdiction in 2007"
+        "text": "The Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; The ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; The Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands"
       },
       "judge selection and term of office": {
-        "text": "Justices appointed by the governor and confirmed by the Virgin Islands Senate; justices serve initial 10-year terms and upon reconfirmation, during the extent of good behavior; chief justice elected to position by peers for a 3-year term"
+        "text": "Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; Other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
       },
       "subordinate courts": {
-        "text": "Superior Court (Territorial Court renamed in 2004); US Court of Appeals for the Third Circuit (has appellate jurisdiction over the District Court of the Virgin Islands; it is a territorial court and is not associated with a US federal judicial district); District Court of the Virgin Islands"
+        "text": "Magistrates' Courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party [Stacey PLASKELL]Independent Citizens' Movement or ICM [Dale BLYDEN]Republican Party [John CANEGATA]"
+      "text": "National Democratic Party or NDP [Myron WALWYN]People's Empowerment Party or PEP [Alvin CHRISTOPHER]Progressive Virgin Islands Movement or PVIM [Ronnie SKELTON]Progressives United or PU [Julian FRASER]Virgin Islands Party or VIP [Andrew FAHIE]"
     },
     "International organization participation": {
-      "text": "AOSIS (observer), Interpol (subbureau), IOC, UPU, WFTU (NGOs)"
+      "text": "Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "text": "None (territory of the US)"
+      "text": "None (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
-      "text": "None (territory of the US)"
+      "embassy": {
+        "text": "None (overseas territory of the UK)"
+      }
     },
     "Flag description": {
-      "text": "White field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left with a superimposed shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, the letters stand for the Virgin Islands"
+      "text": "Blue with the flag of the UK in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; The coat of arms depicts a woman flanked on either side by a vertical column of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); The islands were named by COLUMBUS in 1493 in honor of Saint Ursula and her 11 virgin followers (some sources say 11,000) who reputedly were martyred by the Huns in the 4th or 5th century; The figure on the banner holding a lamp represents the saint; The other lamps symbolize her followers"
+    },
+    "National symbol(s)": {
+      "text": "Zenaida dove, white cedar flower; National colors: yellow, green, red, white, blue"
     },
     "National anthem": {
-      "name": {
-        "text": "Virgin Islands March"
-      },
-      "lyrics/music": {
-        "text": "Multiple/Alton Augustus ADAMS, Sr."
-      },
-      "note": "Note: adopted 1963; serves as a local anthem; as a territory of the US, \"The Star-Spangled Banner\" is official (see United States)"
+      "text": "Note: as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Tourism, trade, other services, and rum production are the primary economic activities of the US Virgin Islands (USVI), accounting for most of its GDP and employment. The USVI receives between 2.5 and 3 million tourists a year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms, as evidenced by the destruction from two major hurricanes in 2017. Recovery and rebuilding have continued, but full recovery from these back-to-back hurricanes is years away. The USVI government estimates it will need $7.5 billion, almost twice the territory’s GDP, to rebuild the territory.The agriculture sector is small and most food is imported. In 2016, government spending (both federal and territorial together) accounted for about 27% of GDP while exports of goods and services, including spending by tourists, accounted for nearly 47%. Federal programs and grants, including rum tax cover-over totaling $482.3 million in 2016, contributed 32.2% of the territory’s total revenues. The economy picked up 0.9% in 2016 and had appeared to be progressing before the 2017 hurricanes severely damaged the territory’s infrastructure and the economy."
+      "text": "The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism, which generates an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959.Livestock raising is the most important agricultural activity; Poor soils limit the islands' ability to meet domestic food requirements.In the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business."
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$500 million (2017 est.)"
+      },
       "Real GDP (purchasing power parity) 2016": {
-        "text": "$3.872 billion (2016 est.)"
+        "text": "$490.2 million (2016 est.)"
       },
       "Real GDP (purchasing power parity) 2015": {
-        "text": "$3.759 billion (2015 est.)"
-      },
-      "Real GDP (purchasing power parity) 2014": {
-        "text": "$3.622 billion (2014 est.)"
-      },
-      "note": "Note: data are in 2013 dollars"
+        "text": "$481.1 million (2015 est.)"
+      }
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "2% (2017 est.)"
+      },
       "Real GDP growth rate 2016": {
-        "text": "0.9% (2016 est.)"
+        "text": "1.9% (2016 est.)"
       },
       "Real GDP growth rate 2015": {
-        "text": "0.3% (2015 est.)"
-      },
-      "Real GDP growth rate 2014": {
-        "text": "-1% (2014 est.)"
+        "text": "1.8% (2015 est.)"
       }
     },
     "Real GDP per capita": {
-      "Real GDP per capita 2016": {
-        "text": "$37,000 (2016 est.)"
-      },
-      "Real GDP per capita 2015": {
-        "text": "$35,800 (2015 est.)"
-      },
-      "Real GDP per capita 2014": {
-        "text": "$34,500 (2014 est.)"
+      "Real GDP per capita 2017": {
+        "text": "$34,200 (2017 est.)"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$5.182 billion (2016 est.)"
+      "text": "$1.028 billion (2017 est.)"
     },
     "Inflation rate (consumer prices)": {
-      "Inflation rate (consumer prices) 2016": {
-        "text": "1% (2016 est.)"
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.1% (2017 est.)"
       },
-      "Inflation rate (consumer prices) 2015": {
-        "text": "2.6% (2015 est.)"
+      "Inflation rate (consumer prices) 2016": {
+        "text": "1.1% (2016 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "2% (2012 est.)"
+        "text": "0.2% (2017 est.)"
       },
       "industry": {
-        "text": "20% (2012 est.)"
+        "text": "6.8% (2017 est.)"
       },
       "services": {
-        "text": "78% (2012 est.)"
+        "text": "93.1% (2017 est.)"
       }
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "68.2% (2016 est.)"
+        "text": "25.1% (2017 est.)"
       },
       "government consumption": {
-        "text": "26.8% (2016 est.)"
+        "text": "7.5% (2017 est.)"
       },
       "investment in fixed capital": {
-        "text": "7.5% (2016 est.)"
+        "text": "21.7% (2017 est.)"
       },
       "investment in inventories": {
-        "text": "15% NA (2016 est.)"
+        "text": "20.4% (2017 est.)"
       },
       "exports of goods and services": {
-        "text": "46.7% (2016 est.)"
+        "text": "94.7% (2017 est.)"
       },
       "imports of goods and services": {
-        "text": "-64.3% (2016 est.)"
+        "text": "-69.4% (2017 est.)"
       }
     },
     "Agricultural products": {
-      "text": "Fruit, vegetables, sorghum; Senepol cattle"
+      "text": "Fruits, vegetables; Livestock, poultry; Fish"
     },
     "Industries": {
-      "text": "Tourism, watch assembly, rum distilling, construction, pharmaceuticals, electronics"
+      "text": "Tourism, light industry, construction, rum, concrete block, offshore banking center"
     },
     "Industrial production growth rate": {
-      "text": "NA"
+      "text": "1.1% (2017 est.)"
     },
     "Labor force": {
-      "text": "48,550 (2016 est.)"
+      "text": "12,770 (2004)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "1%"
+        "text": "0.6%"
       },
       "industry": {
-        "text": "19%"
+        "text": "40%"
       },
       "services": {
-        "text": "80% (2003 est.)"
+        "text": "59.4% (2005)"
       }
     },
     "Unemployment rate": {
-      "Unemployment rate 2017": {
-        "text": "10.4% (2017 est.)"
-      },
-      "Unemployment rate 2016": {
-        "text": "11% (2016 est.)"
+      "Unemployment rate 2015": {
+        "text": "2.9% (2015 est.)"
       }
     },
     "Population below poverty line": {
-      "text": "28.9% (2002 est.)"
+      "text": "NA"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -593,59 +574,61 @@
     },
     "Budget": {
       "revenues": {
-        "text": "1.496 billion (2016 est.)"
+        "text": "400 million (2017 est.)"
       },
       "expenditures": {
-        "text": "1.518 billion (2016 est.)"
+        "text": "400 million (2017 est.)"
       }
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.4% (of GDP) (2016 est.)"
-    },
-    "Public debt": {
-      "Public debt 2016": {
-        "text": "53.3% of GDP (2016 est.)"
-      },
-      "Public debt 2014": {
-        "text": "45.9% of GDP (2014 est.)"
-      }
+      "text": "0% (of GDP) (2017 est.)"
     },
     "Taxes and other revenues": {
-      "text": "28.9% (of GDP) (2016 est.)"
+      "text": "38.9% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
-      "text": "1 October - 30 September"
+      "text": "1 April - 31 March"
+    },
+    "Current account balance": {
+      "Current account balance 2011": {
+        "text": "$362.6 million (2011 est.)"
+      },
+      "Current account balance 2010": {
+        "text": "$279.8 million (2010 est.)"
+      }
     },
     "Exports": {
-      "Exports 2016": {
-        "text": "$1.81 billion (2016 est.)"
+      "Exports 2017": {
+        "text": "$23 million (2017 est.)"
       },
       "Exports 2015": {
-        "text": "$1.537 billion (2015 est.)"
+        "text": "$23 million (2015 est.)"
       }
     },
     "Exports - partners": {
-      "text": "Haiti 14%, Guadeloupe 7%, Malaysia 7%, Martinique 7%, Barbados 7%, British Virgin Islands 5% (2019)"
+      "text": "Malta 30%, Seychelles 29%, Switzerland 14% (2019)"
     },
     "Exports - commodities": {
-      "text": "Refined petroleum, jewelry, recreational boats, watches, rum (2019)"
+      "text": "Recreational boats, aircraft, diamonds, paintings, precious stones (2019)"
     },
     "Imports": {
-      "Imports 2016": {
-        "text": "$2.489 billion (2016 est.)"
+      "Imports 2017": {
+        "text": "$300 million NA (2017 est.)"
       },
-      "Imports 2015": {
-        "text": "$1.549 billion (2015 est.)"
+      "Imports 2016": {
+        "text": "$210 million (2016 est.)"
       }
     },
     "Imports - partners": {
-      "text": "India 18%, Algeria 14%, South Korea 9%, Argentina 9%, Sweden 7%, Brazil 5% (2019)"
+      "text": "Germany 32%, United States 22%%, Italy 9%, France 7%, Seychelles 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "Refined petroleum, crude petroleum, rubber piping, jewelry, beer (2019)"
+      "text": "Recreational boats, aircraft, refined petroleum, cars, furniture (2019)"
     },
     "Debt - external": {
-      "text": "NA"
+      "Debt - external 1997": {
+        "text": "$36.1 million (1997)"
+      }
     },
     "Exchange rates": {
       "text": "The US dollar is used"
@@ -658,10 +641,10 @@
       }
     },
     "Electricity - production": {
-      "text": "704 million kWh (2016 est.)"
+      "text": "126.3 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "654.7 million kWh (2016 est.)"
+      "text": "117.5 million kWh (2016 est.)"
     },
     "Electricity - exports": {
       "text": "0 kWh (2016 est.)"
@@ -670,10 +653,10 @@
       "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "325,000 kW (2016 est.)"
+      "text": "45,200 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "98% of total installed capacity (2016 est.)"
+      "text": "97% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
       "text": "0% of total installed capacity (2017 est.)"
@@ -682,7 +665,7 @@
       "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "2% of total installed capacity (2017 est.)"
+      "text": "3% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
       "text": "0 bbl/day (2018 est.)"
@@ -700,13 +683,13 @@
       "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1,240 bbl/day (2016 est.)"
+      "text": "20,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "3,285 bbl/day (2015 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "23,480 bbl/day (2015 est.)"
+      "text": "1,227 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
       "text": "0 cu m (2017 est.)"
@@ -727,26 +710,119 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "76,000 (2018)"
+        "text": "7,311 (2019)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "72.41 (2017 est.)"
+        "text": "24.35 (2019 est.)"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total subscriptions": {
+        "text": "35,163 (2020)"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "116.3 (2020 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Modern system with total digital switching, uses fiber-optic cable and microwave radio relay; good interisland and international connections; broadband access; expansion of;FttP (Fiber to the Home) markets; LTE launches; regulatory development and expansion in several markets point to investment and focus on data (2020)"
+        "text": "Good overall telephone service; Major;expansion sectors include the mobile telephony and data segments, which continue to;appeal to;operator investment; Several operators licensed to provide services within individual markets, most of them are small and localized; Telecommunication contributes to overall GDP (2020)"
       },
       "domestic": {
-        "text": "Full range of services available; fixed-line roughly 72 per 100 persons, no recent teledensity numbers available for mobile-cellular usage, although it was approximately 75 per 100 in 2010 (2018)"
+        "text": "Fixed-line connections exceed 24 per 100 persons and mobile cellular subscribership is roughly 116 per 100 persons (2020)"
       },
       "international": {
-        "text": "Country code - 1-340; landing points for the BSCS, St Thomas-ST Croix System, Southern Caribbean Fiber, Americas II, GCN, MAC, PAN-AM and SAC submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2020)"
+        "text": "Country code - 1-284; Landing points for PCCS, ECFS, CBUS, Deep Blue Cable, East-West, PAN-AM, Americas-1, Southern Caribbean Fiber, Columbus- IIb, St Thomas - St Croix System, Taino-Carib, and Americas I- North;via submarine cable to Caribbean, Central and South America, and US (2019)"
       },
-      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "About a dozen TV broadcast stations including 1 public TV station; multi-channel cable and satellite TV services are available; 24 radio stations"
+      "text": "1 private TV station; Multi-channel TV is available from cable and satellite subscription services; About a half-dozen private radio stations"
+    },
+    "Internet country code": {
+      "text": ".vg"
+    },
+    "Internet users": {
+      "total": {
+        "text": "23,700 (2022 est.)"
+      },
+      "percent of population": {
+        "text": "77.7% (2022 est.)"
+      }
+    },
+    "Broadband - fixed subscriptions": {
+      "total": {
+        "text": "6,738 (2020)"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "22.29 (2020 est.)"
+      }
+    }
+  },
+  "Transportation": {
+    "Civil aircraft registration country code prefix": {
+      "text": "VP-L"
+    },
+    "Airports": {
+      "total": {
+        "text": "4 (2020)"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2019)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2013)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "200 km (2007)"
+      },
+      "paved": {
+        "text": "200 km (2007)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "30"
+      },
+      "by type": {
+        "text": "General cargo 3, other 27 (2021)"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Road Harbor"
+      }
+    }
+  },
+  "Military and Security": {
+    "Military - note": {
+      "text": "Defense is the responsibility of the UK"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "None"
+    },
+    "Illicit drugs": {
+      "text": "Transshipment point for South American narcotics destined for the US and Europe; Large offshore financial center makes it vulnerable to money laundering"
+    }
+  }
+}e; 24 radio stations"
     },
     "Internet country code": {
       "text": ".vi"

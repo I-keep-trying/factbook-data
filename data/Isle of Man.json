@@ -45,7 +45,7 @@
       }
     },
     "Climate": {
-      "text": "Temperate; cool summers and mild winters; overcast about a third of the time"
+      "text": "Temperate; Cool summers and mild winters; Overcast about a third of the time"
     },
     "Terrain": {
       "text": "Hills in north and south bisected by central valley"
@@ -307,10 +307,10 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "Air pollution, marine pollution; waste disposal (both household and industrial)"
+      "text": "Air pollution, marine pollution; Waste disposal (both household and industrial)"
     },
     "Climate": {
-      "text": "Temperate; cool summers and mild winters; overcast about a third of the time"
+      "text": "Temperate; Cool summers and mild winters; Overcast about a third of the time"
     },
     "Land use": {
       "agricultural land": {
@@ -389,27 +389,27 @@
         "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
       },
       "daylight saving time": {
-        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+        "text": "+1hr, begins last Sunday in March; Ends last Sunday in October"
       },
       "etymology": {
         "text": "Name derives from the Dhoo and Glass Rivers, which flow through the valley in which the town is located and which in Manx mean the \"dark\" and the \"light\" rivers respectively"
       }
     },
     "Administrative divisions": {
-      "text": "None; there are no first-order administrative divisions as defined by the US Government, but there are 24 local authorities each with its own elections"
+      "text": "None; There are no first-order administrative divisions as defined by the US Government, but there are 24 local authorities each with its own elections"
     },
     "Independence": {
       "text": "None (British Crown dependency)"
     },
     "National holiday": {
-      "text": "Tynwald Day, 5 July (1417); date Tynwald Day was first recorded"
+      "text": "Tynwald Day, 5 July (1417); Date Tynwald Day was first recorded"
     },
     "Constitution": {
       "history": {
         "text": "Development of the Isle of Man constitution dates to at least the 14th century"
       },
       "amendments": {
-        "text": "Proposed as a bill in the House of Keys, by the \"Government,\" by a \"Member of the House,\" or through petition to the House or Legislative Council; passage normally requires three separate readings and approval of at least 13 House members; following both House and Council agreement, assent is required by the lieutenant governor on behalf of the Crown; the constitution has been expanded and amended many times, last in 2020"
+        "text": "Proposed as a bill in the House of Keys, by the \"Government,\" by a \"Member of the House,\" or through petition to the House or Legislative Council; Passage normally requires three separate readings and approval of at least 13 House members; Following both House and Council agreement, assent is required by the lieutenant governor on behalf of the Crown; The constitution has been expanded and amended many times, last in 2020"
       }
     },
     "Legal system": {
@@ -419,11 +419,11 @@
       "text": "See United Kingdom"
     },
     "Suffrage": {
-      "text": "16 years of age; universal"
+      "text": "16 years of age; Universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)"
+        "text": "Lord of Mann Queen ELIZABETH II (since 6 February 1952); Represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)"
       },
       "head of government": {
         "text": "Chief Minister Alfred CANNAN (since 12 October 2021)"
@@ -432,7 +432,7 @@
         "text": "Council of Ministers appointed by the lieutenant governor"
       },
       "elections/appointments": {
-        "text": "The monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 23 September 2021"
+        "text": "The monarchy is hereditary; Lieutenant governor appointed by the monarch; Chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); Election last held on 23 September 2021"
       },
       "election results": {
         "text": "Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24"
@@ -440,24 +440,24 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "Bicameral Tynwald or the High Court of Tynwald consists of:Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)"
+        "text": "Bicameral Tynwald or the High Court of Tynwald consists of:Legislative Council (11 seats; Includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; Elected members serve 4-year terms) House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)"
       },
       "elections": {
         "text": "Legislative Council - last held 29 February 2020 (next to be held on 28 February 2022)House of Keys - last held on 23 September 2021 (next to be held in September 2026)"
       },
       "election results": {
-        "text": "Legislative Council - composition (as of 2021) - men 6, women 3, 2 vacancies; percent of women 27.3% House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Prty 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1, Green Party 0; composition – men 14, women 10, percent of women 41.7%; note - total Tynwald percent of women 37.1%"
+        "text": "Legislative Council - composition (as of 2021) - men 6, women 3, 2 vacancies; Percent of women 27.3% House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Prty 5.1%, Green Party 3.3% independent 86.3%; Seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1, Green Party 0; Composition – men 14, women 10, percent of women 41.7%; Note - total Tynwald percent of women 37.1%"
       }
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "Isle of Man High Court of Justice (consists of 3 permanent judges or \"deemsters\" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)"
+        "text": "Isle of Man High Court of Justice (consists of 3 permanent judges or \"deemsters\" and 1 judge of appeal; Organized into the Staff of Government Division or Court of Appeal and the Civil Division); The Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; Note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)"
       },
       "judge selection and term of office": {
-        "text": "Deemsters appointed by the Lord Chancellor of England on the nomination of the lieutenant governor; deemsters can serve until age 70"
+        "text": "Deemsters appointed by the Lord Chancellor of England on the nomination of the lieutenant governor; Deemsters can serve until age 70"
       },
       "subordinate courts": {
-        "text": "High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts"
+        "text": "High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; Specialized courts"
       }
     },
     "Political parties and leaders": {
@@ -476,10 +476,10 @@
       }
     },
     "Flag description": {
-      "text": "Red with the Three Legs of Man emblem (triskelion), in the center; the three legs are joined at the thigh and bent at the knee; in order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; the flag is based on the coat of arms of the last recognized Norse King of Mann, Magnus III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol"
+      "text": "Red with the Three Legs of Man emblem (triskelion), in the center; The three legs are joined at the thigh and bent at the knee; In order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; The flag is based on the coat of arms of the last recognized Norse King of Mann, Magnus III (r. 1252-65); The triskelion has its roots in an early Celtic sun symbol"
     },
     "National symbol(s)": {
-      "text": "Triskelion (a motif of three legs); national colors: red, white"
+      "text": "Triskelion (a motif of three legs); National colors: red, white"
     },
     "National anthem": {
       "name": {
@@ -488,12 +488,12 @@
       "lyrics/music": {
         "text": "William Henry GILL [English], John J. KNEEN [Manx]/traditional"
       },
-      "note": "Note: adopted 2003, in use since 1907; serves as a local anthem; as a British Crown dependency, \"God Save the Queen\" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present"
+      "note": "Note: adopted 2003, in use since 1907; Serves as a local anthem; As a British Crown dependency, \"God Save the Queen\" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Financial services, manufacturing, and tourism are key sectors of the economy. The government offers low taxes and other incentives to high-technology companies and financial institutions to locate on the island; this has paid off in expanding employment opportunities in high-income industries. As a result, agriculture and fishing, once the mainstays of the economy, have declined in their contributions to GDP. The Isle of Man also attracts online gambling sites and the film industry. Online gambling sites provided about 10% of the islands income in 2014. The Isle of Man currently enjoys free access to EU markets and trade is mostly with the UK. The Isle of Man’s trade relationship with the EU derives from the United Kingdom’s EU membership and will need to be renegotiated in light of the United Kingdom’s decision to withdraw from the bloc. A transition period is expected to allow the free movement of goods and agricultural products to the EU until the end of 2020 or until a new settlement is negotiated."
+      "text": "Financial services, manufacturing, and tourism are key sectors of the economy. The government offers low taxes and other incentives to high-technology companies and financial institutions to locate on the island; This has paid off in expanding employment opportunities in high-income industries. As a result, agriculture and fishing, once the mainstays of the economy, have declined in their contributions to GDP. The Isle of Man also attracts online gambling sites and the film industry. Online gambling sites provided about 10% of the islands income in 2014. The Isle of Man currently enjoys free access to EU markets and trade is mostly with the UK. The Isle of Man’s trade relationship with the EU derives from the United Kingdom’s EU membership and will need to be renegotiated in light of the United Kingdom’s decision to withdraw from the bloc. A transition period is expected to allow the free movement of goods and agricultural products to the EU until the end of 2020 or until a new settlement is negotiated."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2015": {
@@ -560,7 +560,7 @@
       }
     },
     "Agricultural products": {
-      "text": "Cereals, vegetables; cattle, sheep, pigs, poultry"
+      "text": "Cereals, vegetables; Cattle, sheep, pigs, poultry"
     },
     "Industries": {
       "text": "Financial services, light manufacturing, tourism"
@@ -702,12 +702,12 @@
         "text": "Landline, telefax, mobile cellular telephone system"
       },
       "international": {
-        "text": "Country code - 44; fiber-optic cable, microwave radio relay, satellite earth station, submarine cable"
+        "text": "Country code - 44; Fiber-optic cable, microwave radio relay, satellite earth station, submarine cable"
       },
-      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "National public radio broadcasts over 3 FM stations and 1 AM station; 2 commercial broadcasters operating with 1 having multiple FM stations; receives radio and TV services via relays from British TV and radio broadcasters"
+      "text": "National public radio broadcasts over 3 FM stations and 1 AM station; 2 commercial broadcasters operating with 1 having multiple FM stations; Receives radio and TV services via relays from British TV and radio broadcasters"
     },
     "Internet country code": {
       "text": ".im"

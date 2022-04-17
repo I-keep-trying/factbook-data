@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Greenland, the world's largest island, is about 80% ice-capped. Vikings reached the island in the 10th century from Iceland; Danish colonization began in the 18th century, and Greenland became an integral part of the Danish Realm in 1953. It joined the European Community (now the EU) with Denmark in 1973 but withdrew in 1985 over a dispute centered on stringent fishing quotas. Greenland remains a member of the Overseas Countries and Territories Association of the EU. Greenland was granted self-government in 1979 by the Danish parliament; the law went into effect the following year. Greenland voted in favor of increased self-rule in November 2008 and acquired greater responsibility for internal affairs when the Act on Greenland Self-Government was signed into law in June 2009. Denmark, however, continues to exercise control over several policy areas on behalf of Greenland, including foreign affairs, security, and financial policy in consultation with Greenland's Self-Rule Government."
+      "text": "Greenland, the world's largest island, is about 80% ice-capped. Vikings reached the island in the 10th century from Iceland; Danish colonization began in the 18th century, and Greenland became an integral part of the Danish Realm in 1953. It joined the European Community (now the EU) with Denmark in 1973 but withdrew in 1985 over a dispute centered on stringent fishing quotas. Greenland remains a member of the Overseas Countries and Territories Association of the EU. Greenland was granted self-government in 1979 by the Danish parliament; The law went into effect the following year. Greenland voted in favor of increased self-rule in November 2008 and acquired greater responsibility for internal affairs when the Act on Greenland Self-Government was signed into law in June 2009. Denmark, however, continues to exercise control over several policy areas on behalf of Greenland, including foreign affairs, security, and financial policy in consultation with Greenland's Self-Rule Government."
     }
   },
   "Geography": {
@@ -45,7 +45,7 @@
       }
     },
     "Climate": {
-      "text": "Arctic to subarctic; cool summers, cold winters"
+      "text": "Arctic to subarctic; Cool summers, cold winters"
     },
     "Terrain": {
       "text": "Flat to gradually sloping icecap covers all but a narrow, mountainous, barren, rocky coast"
@@ -88,13 +88,13 @@
       "text": "NA"
     },
     "Population distribution": {
-      "text": "Settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited"
+      "text": "Settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; Interior is uninhabited"
     },
     "Natural hazards": {
       "text": "Continuous permafrost over northern two-thirds of the island"
     },
     "Geography - note": {
-      "text": "Dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice sheet after that of Antarctica covering an area of 1.71 million sq km (660,000 sq mi) or about 79% of the island, and containing 2.85 million cu km (684 thousand cu mi) of ice (this is almost 7% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 7.2 m (24 ft)"
+      "text": "Dominates North Atlantic Ocean between North America and Europe; Sparse population confined to small settlements along coast; Close to one-quarter of the population lives in the capital, Nuuk; World's second largest ice sheet after that of Antarctica covering an area of 1.71 million sq km (660,000 sq mi) or about 79% of the island, and containing 2.85 million cu km (684 thousand cu mi) of ice (this is almost 7% of all of the world's fresh water); If all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 7.2 m (24 ft)"
     }
   },
   "People and Society": {
@@ -174,7 +174,7 @@
       "text": "-5.07 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "Settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited"
+      "text": "Settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; Interior is uninhabited"
     },
     "Urbanization": {
       "urban population": {
@@ -319,7 +319,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "Especially vulnerable to climate change and disruption of the Arctic environment; preservation of the Inuit traditional way of life, including whaling and seal hunting"
+      "text": "Especially vulnerable to climate change and disruption of the Arctic environment; Preservation of the Inuit traditional way of life, including whaling and seal hunting"
     },
     "Air pollutants": {
       "carbon dioxide emissions": {
@@ -327,7 +327,7 @@
       }
     },
     "Climate": {
-      "text": "Arctic to subarctic; cool summers, cold winters"
+      "text": "Arctic to subarctic; Cool summers, cold winters"
     },
     "Land use": {
       "agricultural land": {
@@ -393,7 +393,7 @@
       "text": "Parliamentary democracy (Parliament of Greenland or Inatsisartut)"
     },
     "Dependency status": {
-      "text": "Part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979"
+      "text": "Part of the Kingdom of Denmark; Self-governing overseas administrative division of Denmark since 1979"
     },
     "Capital": {
       "name": {
@@ -406,7 +406,7 @@
         "text": "UTC-3 (2 hours ahead of Washington, DC, during Standard Time)"
       },
       "daylight saving time": {
-        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+        "text": "+1hr, begins last Sunday in March; Ends last Sunday in October"
       },
       "time zone note": {
         "text": "Greenland has four time zones"
@@ -417,17 +417,17 @@
     },
     "Administrative divisions": {
       "text": "5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq",
-      "note": "Note: Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly"
+      "note": "Note: Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; The national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly"
     },
     "Independence": {
-      "text": "None (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland)"
+      "text": "None (extensive self-rule as part of the Kingdom of Denmark; Foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland)"
     },
     "National holiday": {
-      "text": "National Day, June 21; note - marks the summer solstice and the longest day of the year in the Northern Hemisphere"
+      "text": "National Day, June 21; Note - marks the summer solstice and the longest day of the year in the Northern Hemisphere"
     },
     "Constitution": {
       "history": {
-        "text": "Previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); latest 21 June 2009 (Greenland Self-Government Act) (2021)"
+        "text": "Previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); Latest 21 June 2009 (Greenland Self-Government Act) (2021)"
       }
     },
     "Legal system": {
@@ -437,7 +437,7 @@
       "text": "See Denmark"
     },
     "Suffrage": {
-      "text": "18 years of age; universal"
+      "text": "18 years of age; Universal"
     },
     "Executive branch": {
       "chief of state": {
@@ -450,7 +450,7 @@
         "text": "Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut) on the basis of the strength of parties"
       },
       "elections/appointments": {
-        "text": "The monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term"
+        "text": "The monarchy is hereditary; High commissioner appointed by the monarch; Premier indirectly elected by Parliament for a 4-year term"
       },
       "election results": {
         "text": "Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%"
@@ -458,21 +458,21 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "Unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)Greenland elects 2 members to the Danish Parliament to serve 4-year terms"
+        "text": "Unicameral Parliament or Inatsisartut (31 seats; Members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)Greenland elects 2 members to the Danish Parliament to serve 4-year terms"
       },
       "elections": {
         "text": "Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)"
       },
       "election results": {
-        "text": "Greenland Parliament - percent of vote by party - IA 36.6%, S 29.5%, N 12%, D 9.1%, A 6.9%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women"
+        "text": "Greenland Parliament - percent of vote by party - IA 36.6%, S 29.5%, N 12%, D 9.1%, A 6.9%, other 3.8%; Seats by party - IA 12, S 10, PN 4, D 3, A 2; Composition - men 21, women 10, percent of women 32.2%Greenland members in Danish Parliament - percent of vote by party - NA; Seats by party - IA 1, S 1; Composition - 2 women"
       }
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)"
+        "text": "High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); Note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)"
       },
       "judge selection and term of office": {
-        "text": "Judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70"
+        "text": "Judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; Judges appointed for life with retirement at age 70"
       },
       "subordinate courts": {
         "text": "Court of Greenland; 18 district or magistrates' courts"
@@ -486,7 +486,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Kenneth HOEGH, Head of Representation; note - Greenland also has offices in the Danish consulates in Chicago and New York"
+        "text": "Kenneth HOEGH, Head of Representation; Note - Greenland also has offices in the Danish consulates in Chicago and New York"
       },
       "chancery": {
         "text": "Greenland Representation3200 Whitehaven Street, NWWashington, DC  20008"
@@ -513,10 +513,10 @@
       }
     },
     "Flag description": {
-      "text": "Two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark"
+      "text": "Two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; The design represents the sun reflecting off a field of ice; The colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark"
     },
     "National symbol(s)": {
-      "text": "Polar bear; national colors: red, white"
+      "text": "Polar bear; National colors: red, white"
     },
     "National anthem": {
       "name": {
@@ -525,11 +525,11 @@
       "lyrics/music": {
         "text": "Henrik LUND/Jonathan PETERSEN"
       },
-      "note": "Note: adopted 1916; the government also recognizes \"Nuna asiilasooq\" as a secondary anthem"
+      "note": "Note: adopted 1916; The government also recognizes \"Nuna asiilasooq\" as a secondary anthem"
     },
     "National heritage": {
       "total World Heritage Sites": {
-        "text": "3 (2 cultural, 1 natural); note - excerpted from the Denmark entry"
+        "text": "3 (2 cultural, 1 natural); Note - excerpted from the Denmark entry"
       },
       "selected World Heritage Site locales": {
         "text": "Ilulissat Icefjord (n); Kujataa, Norse and Inuit Farming (c); Aasivissuit&ndash;Nipisat, Inuit Hunting Ground (c)"
@@ -620,7 +620,7 @@
       "text": "Sheep, cattle, reindeer, fish, shellfish"
     },
     "Industries": {
-      "text": "Fish processing (mainly shrimp and Greenland halibut); anorthosite and ruby mining; handicrafts, hides and skins, small shipyards"
+      "text": "Fish processing (mainly shrimp and Greenland halibut); Anorthosite and ruby mining; Handicrafts, hides and skins, small shipyards"
     },
     "Industrial production growth rate": {
       "text": "NA"
@@ -837,18 +837,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland (2018)"
+        "text": "Adequate domestic and international service provided by satellite, cables, and microwave radio relay; The fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; Satellites cover north and east Greenland for domestic and foreign telecommunications; A marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland (2018)"
       },
       "domestic": {
         "text": "Nearly 13 per 100 for fixed-line subscriptions and 109 per 100 for mobile-cellular (2019)"
       },
       "international": {
-        "text": "Country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)"
+        "text": "Country code - 299; Landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada; Satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)"
       },
-      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "The Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)"
+      "text": "The Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; A few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)"
     },
     "Internet country code": {
       "text": ".gl"
@@ -919,7 +919,7 @@
       }
     },
     "Roadways": {
-      "text": "Note: although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air"
+      "text": "Note: although there are short roads in towns, there are no roads between towns; Inter-urban transport is either by sea or by air"
     },
     "Merchant marine": {
       "total": {

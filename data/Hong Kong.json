@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Seized by the UK in 1841, Hong Kong was formally ceded by China the following year at the end of the First Opium War; the Kowloon Peninsula was added in 1860 at the end of the Second Opium War, and was further extended when Britain obtained a 99-year lease of the New Territories in 1898. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region of the People's Republic of China on 1 July 1997. In this agreement, China promised that, under its \"one country, two systems\" formula, China's socialist economic and strict political system would not be imposed on Hong Kong and that Hong Kong would enjoy a \"high degree of autonomy\" in all matters except foreign and defense affairs for the subsequent 50 years. Since the turnover, Hong Kong has continued to enjoy success as an international financial center. However, dissatisfaction with the Hong Kong Government and growing Chinese political influence has been a central issue and led to considerable civil unrest. In June 2020, the Chinese Government passed a security law for Hong Kong that would criminalize acts such as those interpreted as secession, subversion, terrorism, and collusion with foreign or external forces. Critics said the law effectively curtailed protests and freedom of speech and was widely viewed as reducing Hong Kong&rsquo;s autonomy, while Beijing said it would return stability. The law was met with widespread international condemnation and criticism that it effectively ended the \"one country, two systems\" guiding principle of Hong Kong&rsquo;s Basic Law. Since its passing, authorities have used the law to detain pro-democracy activists and politicians, oust opposition lawmakers, and raid media offices. In March 2021, Beijing reduced the number of directly elected seats in Hong Kong&rsquo;s legislature, furthering its efforts to curtail political opposition and protests."
+      "text": "Seized by the UK in 1841, Hong Kong was formally ceded by China the following year at the end of the First Opium War; The Kowloon Peninsula was added in 1860 at the end of the Second Opium War, and was further extended when Britain obtained a 99-year lease of the New Territories in 1898. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region of the People's Republic of China on 1 July 1997. In this agreement, China promised that, under its \"one country, two systems\" formula, China's socialist economic and strict political system would not be imposed on Hong Kong and that Hong Kong would enjoy a \"high degree of autonomy\" in all matters except foreign and defense affairs for the subsequent 50 years. Since the turnover, Hong Kong has continued to enjoy success as an international financial center. However, dissatisfaction with the Hong Kong Government and growing Chinese political influence has been a central issue and led to considerable civil unrest. In June 2020, the Chinese Government passed a security law for Hong Kong that would criminalize acts such as those interpreted as secession, subversion, terrorism, and collusion with foreign or external forces. Critics said the law effectively curtailed protests and freedom of speech and was widely viewed as reducing Hong Kong&rsquo;s autonomy, while Beijing said it would return stability. The law was met with widespread international condemnation and criticism that it effectively ended the \"one country, two systems\" guiding principle of Hong Kong&rsquo;s Basic Law. Since its passing, authorities have used the law to detain pro-democracy activists and politicians, oust opposition lawmakers, and raid media offices. In March 2021, Beijing reduced the number of directly elected seats in Hong Kong&rsquo;s legislature, furthering its efforts to curtail political opposition and protests."
     }
   },
   "Geography": {
@@ -45,10 +45,10 @@
       }
     },
     "Climate": {
-      "text": "Subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall"
+      "text": "Subtropical monsoon; Cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall"
     },
     "Terrain": {
-      "text": "Hilly to mountainous with steep slopes; lowlands in north"
+      "text": "Hilly to mountainous with steep slopes; Lowlands in north"
     },
     "Elevation": {
       "highest point": {
@@ -332,7 +332,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "Air and water pollution from rapid urbanization; urban waste pollution; industrial pollution"
+      "text": "Air and water pollution from rapid urbanization; Urban waste pollution; Industrial pollution"
     },
     "Air pollutants": {
       "carbon dioxide emissions": {
@@ -340,7 +340,7 @@
       }
     },
     "Climate": {
-      "text": "Subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall"
+      "text": "Subtropical monsoon; Cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall"
     },
     "Land use": {
       "agricultural land": {
@@ -414,7 +414,7 @@
       }
     },
     "Government type": {
-      "text": "Presidential limited democracy; a special administrative region of the People's Republic of China"
+      "text": "Presidential limited democracy; A special administrative region of the People's Republic of China"
     },
     "Dependency status": {
       "text": "Special administrative region of the People's Republic of China"
@@ -426,14 +426,14 @@
       "text": "None (special administrative region of China)"
     },
     "National holiday": {
-      "text": "National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day"
+      "text": "National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); Note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day"
     },
     "Constitution": {
       "history": {
-        "text": "Several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution); note - since 1990, China's National People's Congress has interpreted specific articles of the Basic Law"
+        "text": "Several previous (governance documents while under British authority); Latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution); Note - since 1990, China's National People's Congress has interpreted specific articles of the Basic Law"
       },
       "amendments": {
-        "text": "Proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, or the Special Administrative Region of Hong Kong; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Council of Hong Kong, approval by two thirds of Hong Kong&rsquo;s deputies to the NPC, and approval by the Hong Kong chief executive; final passage requires approval by the NPC"
+        "text": "Proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, or the Special Administrative Region of Hong Kong; Submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Council of Hong Kong, approval by two thirds of Hong Kong&rsquo;s deputies to the NPC, and approval by the Hong Kong chief executive; Final passage requires approval by the NPC"
       }
     },
     "Legal system": {
@@ -443,7 +443,7 @@
       "text": "See China"
     },
     "Suffrage": {
-      "text": "18 years of age in direct elections for half of the Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials"
+      "text": "18 years of age in direct elections for half of the Legislative Council seats and all of the seats in 18 district councils; Universal for permanent residents living in the territory of Hong Kong for the past 7 years; Note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials"
     },
     "Executive branch": {
       "chief of state": {
@@ -456,7 +456,7 @@
         "text": ";Executive Council or ExCo appointed by the chief executive;"
       },
       "elections/appointments": {
-        "text": "President indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 26 March 2017 (next to be held in 2022)"
+        "text": "President indirectly elected by National People's Congress for a 5-year term (eligible for a second term); Election last held on 17 March 2018 (next to be held in March 2023); Chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); Election last held on 26 March 2017 (next to be held in 2022)"
       },
       "election results": {
         "text": "Carrie LAM elected chief executive; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23"
@@ -465,36 +465,36 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "Unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; 5 at large \"super-seat\" members directly elected by all of Hong Kong&rsquo;s eligible voters who do not participate in a functional constituency; members serve 4-year terms)"
+        "text": "Unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; 5 at large \"super-seat\" members directly elected by all of Hong Kong&rsquo;s eligible voters who do not participate in a functional constituency; Members serve 4-year terms)"
       },
       "elections": {
-        "text": "Last held on 4 September 2016; (scheduled for September 2020, but delayed until 19 December 2021); note - byelection held on 11 March and 25 November 2018 to fill 5 seats left vacant after 5 legislators were removed from office"
+        "text": "Last held on 4 September 2016; (scheduled for September 2020, but delayed until 19 December 2021); Note - byelection held on 11 March and 25 November 2018 to fill 5 seats left vacant after 5 legislators were removed from office"
       },
       "election results": {
-        "text": "Percent of vote by block - pro-democracy 36%; pro-Beijing 40.2%, localist 19%, other 4.8%; seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); pro-democracy 23 (Democratic Party 7, Civic Party 6, PP-LSD 2, Professional Commons 2, Labor 1, NWSC 1, PTU 1, other democrats 3), localists 6 (ALLinHK 2, CP-PPI-HKRO 1, Demosisto 1, Democracy Groundwork 1, other localist 1), non-aligned independent 1; composition - men 59, women 11, percent of women 15.7%; note - 2 localists were barred from taking office in November 2016 and 4 pro-democracy legislators were removed in July 2017; two pan-democratic, two DAB, and one pro-establishment candidates won the byelections in 2018 to fill the seats vacated by the 5 legislators removed from office; one pro-democracy seat remains unfilled pending a court appeal; percent of vote by block as of March 2019 - pro-Beijing 62% pro-democracy 38%; seats by block/party as of March 2019 - pro-Beijing 43 (DAB 13, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 11); pro-democracy 26 (Democratic Party 7, Civic Party 5, Professional Commons 2, Civic Passion 1, Labor 1 PTU 1, Council Front 6, independent 3); composition as of March 2019 - men 58, women 11; percent of women 15.7%  "
+        "text": "Percent of vote by block - pro-democracy 36%; Pro-Beijing 40.2%, localist 19%, other 4.8%; Seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); Pro-democracy 23 (Democratic Party 7, Civic Party 6, PP-LSD 2, Professional Commons 2, Labor 1, NWSC 1, PTU 1, other democrats 3), localists 6 (ALLinHK 2, CP-PPI-HKRO 1, Demosisto 1, Democracy Groundwork 1, other localist 1), non-aligned independent 1; Composition - men 59, women 11, percent of women 15.7%; Note - 2 localists were barred from taking office in November 2016 and 4 pro-democracy legislators were removed in July 2017; Two pan-democratic, two DAB, and one pro-establishment candidates won the byelections in 2018 to fill the seats vacated by the 5 legislators removed from office; One pro-democracy seat remains unfilled pending a court appeal; Percent of vote by block as of March 2019 - pro-Beijing 62% pro-democracy 38%; Seats by block/party as of March 2019 - pro-Beijing 43 (DAB 13, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 11); Pro-democracy 26 (Democratic Party 7, Civic Party 5, Professional Commons 2, Civic Passion 1, Labor 1 PTU 1, Council Front 6, independent 3); Composition as of March 2019 - men 58, women 11; Percent of women 15.7%  "
       }
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge"
+        "text": "Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); Note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge"
       },
       "judge selection and term of office": {
-        "text": "All judges appointed by the Hong Kong Chief Executive upon the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice, other judges, and judicial and legal professionals; permanent judges serve until normal retirement at age 65, but term can be extended; non-permanent judges appointed for renewable 3-year terms without age limit"
+        "text": "All judges appointed by the Hong Kong Chief Executive upon the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice, other judges, and judicial and legal professionals; Permanent judges serve until normal retirement at age 65, but term can be extended; Non-permanent judges appointed for renewable 3-year terms without age limit"
       },
       "subordinate courts": {
-        "text": "High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates' courts; specialized tribunals"
+        "text": "High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); Magistrates' courts; Specialized tribunals"
       }
     },
     "Political parties and leaders": {
       "text": "Parties: ALLinHK (alliance of 6 localist groups)Business and Professional Alliance or BPA [LO Wai-kwok]Civic Party [Alan LEONG]Civic Passion or CP [CHENG Chung-tai] (part of Civic Passion-Proletariat Political Institute-Hong Kong Resurgence Order alliance or CP-PPI-HKRO that dissolved after the 2016 election)Democracy Groundwork [LAU Siu-lai]Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry LEE Wai-king]Democratic Party [LO Kin-hei]Demosisto [Ivan LAM] (announced cessation of all operations, 30 June 2020)Federation of Trade Unions or FTU [Stanley NG Chau-pei]Labor Party [Steven KWOK Wing-kin]League of Social Democrats or LSD [Raphael WONG Ho-ming]Liberal Party [Felix CHUNG Kwok-pan]Neighborhood and Workers Service Center or NWSC [LEUNG Yui-chung]New People's Party or NPP [Regina IP Lau Su-yee]People Power or PP [TAM Tak-chi]Youngspiration [Sixtus \"Baggio\" LEUNG Chung-hang]other: Professional Commons [Charles Peter MOK] (think tank)Professional Teachers Union or PTU",
-      "note": "Note: political blocks include: pro-democracy - Civic Party, Democratic Party, Labor Party, LSD, NWSC, PP, Professional Commons, PTU; pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA; localist - ALLinHK, CP, Democracy Groundwork, Demosisto; there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies"
+      "note": "Note: political blocks include: pro-democracy - Civic Party, Democratic Party, Labor Party, LSD, NWSC, PP, Professional Commons, PTU; Pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA; Localist - ALLinHK, CP, Democracy Groundwork, Demosisto; There is no political party ordinance, so there are no registered political parties; Politically active groups register as societies or companies"
     },
     "International organization participation": {
       "text": "ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "None (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; Eddie MAK, JP (since 3 July 2018) is the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] 202 331-8947; FAX: [1] 202 331-8958; hketo@hketowashington.gov.hk"
+        "text": "None (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; Eddie MAK, JP (since 3 July 2018) is the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region; Address: 1520 18th Street NW, Washington, DC 20036; Telephone: [1] 202 331-8947; FAX: [1] 202 331-8958; Hketo@hketowashington.gov.hk"
       },
       "HKETO offices": {
         "text": "New York, San Francisco"
@@ -502,7 +502,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Consul General Hanscom SMITH (since July 2019); note - also accredited to Macau"
+        "text": "Consul General Hanscom SMITH (since July 2019); Note - also accredited to Macau"
       },
       "embassy": {
         "text": "26 Garden Road, Central, Hong Kong"
@@ -521,10 +521,10 @@
       }
     },
     "Flag description": {
-      "text": "Red with a stylized, white, five-petal Bauhinia flower in the center; each petal contains a small, red, five-pointed star in its middle; the red color is the same as that on the Chinese flag and represents the motherland; the fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; the five stars echo those on the flag of China"
+      "text": "Red with a stylized, white, five-petal Bauhinia flower in the center; Each petal contains a small, red, five-pointed star in its middle; The red color is the same as that on the Chinese flag and represents the motherland; The fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; The five stars echo those on the flag of China"
     },
     "National symbol(s)": {
-      "text": "Orchid tree flower; national colors: red, white"
+      "text": "Orchid tree flower; National colors: red, white"
     },
     "National anthem": {
       "text": "Note: as a Special Administrative Region of China, \"Yiyongjun Jinxingqu\" is the official anthem (see China)"
@@ -892,18 +892,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Excellent domestic and international services; some of the highest peak average broadband speeds and penetration rates in the world; HK government helps subsidize 5G projects and aims to be among earliest adopters of 5G mobile technology; almost all households have access to high-speed broadband connectivity through fiber; high mobile subscribership reflects tourism and multiple-device culture; government has organized the development of smart city and digital economy to encourage social inclusion and economic development, including health care, education, and utilities; US prevented use of Pacific Light submarine cable network due to security issues (2020)"
+        "text": "Excellent domestic and international services; Some of the highest peak average broadband speeds and penetration rates in the world; HK government helps subsidize 5G projects and aims to be among earliest adopters of 5G mobile technology; Almost all households have access to high-speed broadband connectivity through fiber; High mobile subscribership reflects tourism and multiple-device culture; Government has organized the development of smart city and digital economy to encourage social inclusion and economic development, including health care, education, and utilities; US prevented use of Pacific Light submarine cable network due to security issues (2020)"
       },
       "domestic": {
-        "text": "Microwave radio relay links and extensive fiber-optic network; fixed-line is over 52 per 100 and mobile-cellular is nearly 292 subscriptions per 100 (2020)"
+        "text": "Microwave radio relay links and extensive fiber-optic network; Fixed-line is over 52 per 100 and mobile-cellular is nearly 292 subscriptions per 100 (2020)"
       },
       "international": {
-        "text": "Country code - 852;;landing points for the APG, ASE, EAC-C2C, HK-G,;Bay-to-Bay Express Cable System, H2 Cable,;HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG;and FEA;submarine cables that provide connections to Asia, US, Australia, the Middle East, and;Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2019)"
+        "text": "Country code - 852; Landing points for the APG, ASE, EAC-C2C, HK-G,;Bay-to-Bay Express Cable System, H2 Cable,;HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG;and FEA;submarine cables that provide connections to Asia, US, Australia, the Middle East, and;Europe; Satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); Coaxial cable to Guangzhou, China (2019)"
       },
-      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "4 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019)"
+      "text": "4 commercial terrestrial TV networks each with multiple stations; Multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; Note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019)"
     },
     "Internet country code": {
       "text": ".hk"
@@ -989,7 +989,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "No regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit)the Hong Kong garrison of China's People's Liberation Army (PLA) includes elements of the PLA Army, PLA Navy, and PLA Air Force; these forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command (2021)"
+      "text": "No regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit)the Hong Kong garrison of China's People's Liberation Army (PLA) includes elements of the PLA Army, PLA Navy, and PLA Air Force; These forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command (2021)"
     },
     "Military - note": {
       "text": "Defense is the responsibility of China"
@@ -997,18 +997,18 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Hong Kong plans to reduce its 2,800-hectare Frontier Closed Area (FCA) to 400 hectares by 2015; the FCA was established in 1951 as a buffer zone between Hong Kong and mainland China to prevent illegal migration from and the smuggling of goods"
+      "text": "Hong Kong plans to reduce its 2,800-hectare Frontier Closed Area (FCA) to 400 hectares by 2015; The FCA was established in 1951 as a buffer zone between Hong Kong and mainland China to prevent illegal migration from and the smuggling of goods"
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "Human traffickers exploit domestic and foreign victims in Hong Kong, and traffickers also exploit victims from Hong Kong abroad; traffickers exploit women from Eastern Europe, Africa, and Southeast Asia in sex trafficking; some women in Hong Kong &ndash; often with the assistance of their families &ndash; deceive Indian and Pakistani men into arranged marriages involving forced domestic service, bonded labor in construction and other physically demanding industries, and other forms of abuse via exploitative contracts; drug trafficking syndicates coerced South American women to carry drugs into Hong Kong; employment agencies hired foreign domestic workers under false pretenses and forced them into commercial sex, sometimes through debt-based coercion"
+        "text": "Human traffickers exploit domestic and foreign victims in Hong Kong, and traffickers also exploit victims from Hong Kong abroad; Traffickers exploit women from Eastern Europe, Africa, and Southeast Asia in sex trafficking; Some women in Hong Kong &ndash; Often with the assistance of their families &ndash; Deceive Indian and Pakistani men into arranged marriages involving forced domestic service, bonded labor in construction and other physically demanding industries, and other forms of abuse via exploitative contracts; Drug trafficking syndicates coerced South American women to carry drugs into Hong Kong; Employment agencies hired foreign domestic workers under false pretenses and forced them into commercial sex, sometimes through debt-based coercion"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List &mdash; ;Hong Kong does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Hong Kong is hiring and training 98 new employees within the immigration, customs, labor, and justice departments dedicated to trafficking issues; authorities screened more than 7,000 vulnerable individuals for trafficking; the labor department introduced a victim identification mechanism to its division offices; the government provided anti-trafficking training to various officials; the government did not investigate, prosecute, or convict any cases of labor trafficking, investigated fewer sex trafficking cases, and did not provide victims any government-funded services; the government continued to penalize victims for unlawful acts traffickers compelled them to commit; no legislation was enacted to fully criminalize all forms of trafficking (2020)"
+        "text": "Tier 2 Watch List &mdash; ;Hong Kong does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Hong Kong is hiring and training 98 new employees within the immigration, customs, labor, and justice departments dedicated to trafficking issues; Authorities screened more than 7,000 vulnerable individuals for trafficking; The labor department introduced a victim identification mechanism to its division offices; The government provided anti-trafficking training to various officials; The government did not investigate, prosecute, or convict any cases of labor trafficking, investigated fewer sex trafficking cases, and did not provide victims any government-funded services; The government continued to penalize victims for unlawful acts traffickers compelled them to commit; No legislation was enacted to fully criminalize all forms of trafficking (2020)"
       }
     },
     "Illicit drugs": {
-      "text": "Modern banking system provides conduit for money laundering; groups involved in money laundering range from local street organizations to sophisticated international syndicates involved in assorted criminal activities, including drug trafficking; major source of precursor chemicals used in the production of illicit narcotics"
+      "text": "Modern banking system provides conduit for money laundering; Groups involved in money laundering range from local street organizations to sophisticated international syndicates involved in assorted criminal activities, including drug trafficking; Major source of precursor chemicals used in the production of illicit narcotics"
     }
   }
 }

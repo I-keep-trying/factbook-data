@@ -5,7 +5,7 @@ const countryDirList = require('./countryDirList')
 
 const urls = []
 
-// create individual json file for each country
+// create file for data dump
 
 const createNew = () => {
   try {
@@ -71,3 +71,5 @@ fs.readFile('./data.json', (error, data) => {
 
   fetchAll()
 })
+
+

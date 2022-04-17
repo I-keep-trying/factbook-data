@@ -49,10 +49,10 @@
       }
     },
     "Climate": {
-      "text": "Mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus"
+      "text": "Mostly desert; Hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; Cold weather with snow or sleet periodically in Damascus"
     },
     "Terrain": {
-      "text": "Primarily semiarid and desert plateau; narrow coastal plain; mountains in west"
+      "text": "Primarily semiarid and desert plateau; Narrow coastal plain; Mountains in west"
     },
     "Elevation": {
       "highest point": {
@@ -98,14 +98,14 @@
       "text": "Indian Ocean drainage: (Persian Gulf) Tigris and Euphrates (918,044 sq km)"
     },
     "Population distribution": {
-      "text": "Significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley",
+      "text": "Significant population density along the Mediterranean coast; Larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); More than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley",
       "note": "Note: the ongoing civil war has altered the population distribution"
     },
     "Natural hazards": {
       "text": "Dust storms, sandstormsvolcanism: Syria's two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border have not erupted in centuries"
     },
     "Geography - note": {
-      "text": "The capital of Damascus - located at an oasis fed by the Barada River - is thought to be one of the world's oldest continuously inhabited cities; there are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)"
+      "text": "The capital of Damascus - located at an oasis fed by the Barada River - is thought to be one of the world's oldest continuously inhabited cities; There are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)"
     }
   },
   "People and Society": {
@@ -133,7 +133,7 @@
       }
     },
     "Religions": {
-      "text": "Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%",
+      "text": "Muslim 87% (official; Includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%",
       "note": "Note:  the Christian population may be considerably smaller as a result of Christians fleeing the country during the ongoing civil war"
     },
     "Age structure": {
@@ -191,7 +191,7 @@
       "text": "34.34 migrant(s)/1,000 population NA (2021 est.)"
     },
     "Population distribution": {
-      "text": "Significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley",
+      "text": "Significant population density along the Mediterranean coast; Larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); More than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley",
       "note": "Note: the ongoing civil war has altered the population distribution"
     },
     "Urbanization": {
@@ -365,7 +365,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "Deforestation; overgrazing; soil erosion; desertification; depletion of water resources; water pollution from raw sewage and petroleum refining wastes; inadequate potable water"
+      "text": "Deforestation; Overgrazing; Soil erosion; Desertification; Depletion of water resources; Water pollution from raw sewage and petroleum refining wastes; Inadequate potable water"
     },
     "Environment - international agreements": {
       "party to": {
@@ -387,7 +387,7 @@
       }
     },
     "Climate": {
-      "text": "Mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus"
+      "text": "Mostly desert; Hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; Cold weather with snow or sleet periodically in Damascus"
     },
     "Land use": {
       "agricultural land": {
@@ -419,7 +419,7 @@
     },
     "Food insecurity": {
       "exceptional shortfall in aggregate food production/supplies": {
-        "text": "Due to civil conflict and a stagnant economy - a nationwide food security assessment estimates that about 12.4 million people (60% of the overall population) are now food insecure in 2021, 5.4 million more than at the end of 2019, mostly due to constrained livelihood opportunities and a rapidly worsening economy; although some international food assistance is being provided, Syrian refugees are also pressuring host communities' resources in neighboring countries (2021)"
+        "text": "Due to civil conflict and a stagnant economy - a nationwide food security assessment estimates that about 12.4 million people (60% of the overall population) are now food insecure in 2021, 5.4 million more than at the end of 2019, mostly due to constrained livelihood opportunities and a rapidly worsening economy; Although some international food assistance is being provided, Syrian refugees are also pressuring host communities' resources in neighboring countries (2021)"
       }
     },
     "Waste and recycling": {
@@ -472,11 +472,11 @@
         "text": "United Arab Republic (with Egypt)"
       },
       "etymology": {
-        "text": "Name ultimately derived from the ancient Assyrians who dominated northern Mesopotamia, but whose reach also extended westward to the Levant; over time, the name came to be associated more with the western area"
+        "text": "Name ultimately derived from the ancient Assyrians who dominated northern Mesopotamia, but whose reach also extended westward to the Levant; Over time, the name came to be associated more with the western area"
       }
     },
     "Government type": {
-      "text": "Presidential republic; highly authoritarian regime"
+      "text": "Presidential republic; Highly authoritarian regime"
     },
     "Capital": {
       "name": {
@@ -489,10 +489,10 @@
         "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
       },
       "daylight saving time": {
-        "text": "+1hr, begins midnight on the last Friday in March; ends at midnight on the last Friday in October"
+        "text": "+1hr, begins midnight on the last Friday in March; Ends at midnight on the last Friday in October"
       },
       "etymology": {
-        "text": "Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain"
+        "text": "Damascus is a very old city; Its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain"
       }
     },
     "Administrative divisions": {
@@ -502,28 +502,28 @@
       "text": "17 April 1946 (from League of Nations mandate under French administration)"
     },
     "National holiday": {
-      "text": "Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leaving of the last French troops and the proclamation of full independence"
+      "text": "Independence Day (Evacuation Day), 17 April (1946); Note - celebrates the leaving of the last French troops and the proclamation of full independence"
     },
     "Constitution": {
       "history": {
-        "text": "Several previous; latest issued 15 February 2012, passed by referendum and effective 27 February 2012; note - UN-sponsored talks, which began in late 2019 between delegates from government and opposition forces to draft a new constitution, are ongoing; delegates met twice in 2021"
+        "text": "Several previous; Latest issued 15 February 2012, passed by referendum and effective 27 February 2012; Note - UN-sponsored talks, which began in late 2019 between delegates from government and opposition forces to draft a new constitution, are ongoing; Delegates met twice in 2021"
       },
       "amendments": {
-        "text": "Proposed by the president of the republic or by one third of the People&rsquo;s Assembly members; following review by a special Assembly committee, passage requires at least three-quarters majority vote by the Assembly and approval by the president"
+        "text": "Proposed by the president of the republic or by one third of the People&rsquo;s Assembly members; Following review by a special Assembly committee, passage requires at least three-quarters majority vote by the Assembly and approval by the president"
       }
     },
     "Legal system": {
       "text": "Mixed legal system of civil and Islamic (sharia) law (for family courts)"
     },
     "International law organization participation": {
-      "text": "Has not submitted an ICJ jurisdiction declaration; non-party state to the ICC"
+      "text": "Has not submitted an ICJ jurisdiction declaration; Non-party state to the ICC"
     },
     "Citizenship": {
       "citizenship by birth": {
         "text": "No"
       },
       "citizenship by descent only": {
-        "text": "The father must be a citizen of Syria; if the father is unknown or stateless, the mother must be a citizen of Syria"
+        "text": "The father must be a citizen of Syria; If the father is unknown or stateless, the mother must be a citizen of Syria"
       },
       "dual citizenship recognized": {
         "text": "Yes"
@@ -533,7 +533,7 @@
       }
     },
     "Suffrage": {
-      "text": "18 years of age; universal"
+      "text": "18 years of age; Universal"
     },
     "Executive branch": {
       "chief of state": {
@@ -546,21 +546,21 @@
         "text": "Council of Ministers appointed by the president"
       },
       "elections/appointments": {
-        "text": "President directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 26 May 2021(next to be held in 2028); the president appoints the vice presidents, prime minister, and deputy prime ministers"
+        "text": "President directly elected by simple majority popular vote for a 7-year term (eligible for a second term); Election last held on 26 May 2021(next to be held in 2028); The president appoints the vice presidents, prime minister, and deputy prime ministers"
       },
       "election results": {
-        "text": "Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party)95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, Abdullah Sallum ABDULLAH (Socialist Unionist Party) 1.5%"
+        "text": "Bashar al-ASAD elected president; Percent of vote - Bashar al-ASAD (Ba'th Party)95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, Abdullah Sallum ABDULLAH (Socialist Unionist Party) 1.5%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "Unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)"
+        "text": "Unicameral People's Assembly or Majlis al-Shaab (250 seats; Members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)"
       },
       "elections": {
         "text": "Last held on 19 July 2020 (next to be held in 2024)"
       },
       "election results": {
-        "text": "Percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2%"
+        "text": "Percent of vote by party - NPF 80%, other 20%; Seats by party - NPF 200, other 50; Composition - men 217, women 33, percent of women 13.2%"
       }
     },
     "Judicial branch": {
@@ -568,10 +568,10 @@
         "text": "Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)"
       },
       "judge selection and term of office": {
-        "text": "Court of Cassation judges appointed by the Supreme Judicial Council (SJC), a judicial management body headed by the minister of justice with 7 members, including the national president; judge tenure NA; Supreme Constitutional Court judges nominated by the president and appointed by the SJC; judges serve 4-year renewable terms"
+        "text": "Court of Cassation judges appointed by the Supreme Judicial Council (SJC), a judicial management body headed by the minister of justice with 7 members, including the national president; Judge tenure NA; Supreme Constitutional Court judges nominated by the president and appointed by the SJC; Judges serve 4-year renewable terms"
       },
       "subordinate courts": {
-        "text": "Courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012)"
+        "text": "Courts of first instance; Magistrates' courts; Religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012)"
       }
     },
     "Political parties and leaders": {
@@ -582,7 +582,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); note &ndash; embassy closed in March 2014"
+        "text": "Ambassador (vacant); Note &ndash; Embassy closed in March 2014"
       },
       "chancery": {
         "text": "2215 Wyoming Avenue NW, Washington, DC 20008"
@@ -597,7 +597,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria"
+        "text": "Ambassador (vacant); Note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria"
       },
       "mailing address": {
         "text": "6110 Damascus Place, Washington DC; 20521-6110"
@@ -607,11 +607,11 @@
       }
     },
     "Flag description": {
-      "text": "Three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980",
-      "note": "Note: similar to the flag of Yemen, which has a plain white band; Iraq, which has an Arabic inscription centered in the white band; and that of Egypt, which has a gold Eagle of Saladin centered in the white band"
+      "text": "Three equal horizontal bands of red (top), white, and black; Two small, green, five-pointed stars in a horizontal line centered in the white band; The band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); Identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; The current design dates to 1980",
+      "note": "Note: similar to the flag of Yemen, which has a plain white band; Iraq, which has an Arabic inscription centered in the white band; And that of Egypt, which has a gold Eagle of Saladin centered in the white band"
     },
     "National symbol(s)": {
-      "text": "Hawk; national colors: red, white, black, green"
+      "text": "Hawk; National colors: red, white, black, green"
     },
     "National anthem": {
       "name": {
@@ -620,7 +620,7 @@
       "lyrics/music": {
         "text": "Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL"
       },
-      "note": "Note: adopted 1936, restored 1961; between 1958 and 1961, while Syria was a member of the United Arab Republic with Egypt, the country had a different anthem"
+      "note": "Note: adopted 1936, restored 1961; Between 1958 and 1961, while Syria was a member of the United Arab Republic with Egypt, the country had a different anthem"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -960,18 +960,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Syria&rsquo;s telecom sector has paid a heavy toll from years of civil war and destruction leading to major disruptions to the network; operators focusing on rebuilding damaged networks, though lack of basic infrastructure, including power and security, hamper efforts; fairly high mobile penetration for region; remote areas rely on expensive satellite communications; mobile broadband infrastructure is predominantly 3G for about 85% of the population with some LTE ; international aid network provides emergency Internet and telecom services when necessary; ;government restrictions of Internet freedom; major importer of broadcasting equipment from UAE (2020)"
+        "text": "Syria&rsquo;s telecom sector has paid a heavy toll from years of civil war and destruction leading to major disruptions to the network; Operators focusing on rebuilding damaged networks, though lack of basic infrastructure, including power and security, hamper efforts; Fairly high mobile penetration for region; Remote areas rely on expensive satellite communications; Mobile broadband infrastructure is predominantly 3G for about 85% of the population with some LTE ; International aid network provides emergency Internet and telecom services when necessary; ;government restrictions of Internet freedom; Major importer of broadcasting equipment from UAE (2020)"
       },
       "domestic": {
-        "text": "The number of fixed-line connections increased markedly prior to the civil war in 2011 and now stands at over 16 per 100; mobile-cellular service is just over 95 per 100 persons (2020)"
+        "text": "The number of fixed-line connections increased markedly prior to the civil war in 2011 and now stands at over 16 per 100; Mobile-cellular service is just over 95 per 100 persons (2020)"
       },
       "international": {
-        "text": "Country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)"
+        "text": "Country code - 963; Landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; Satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); Coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; Participant in Medarabtel (2019)"
       },
-      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "State-run TV and radio broadcast networks;;state operates 2 TV networks and;5 satellite channels; roughly two-thirds of Syrian homes have a satellite dish providing access to foreign TV broadcasts; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content (2018)"
+      "text": "State-run TV and radio broadcast networks; State operates 2 TV networks and;5 satellite channels; Roughly two-thirds of Syrian homes have a satellite dish providing access to foreign TV broadcasts; 3 state-run radio channels; First private radio station launched in 2005; Private radio broadcasters prohibited from transmitting news or political content (2018)"
     },
     "Internet country code": {
       "text": ".sy"
@@ -1100,28 +1100,28 @@
       "text": "Since the start of the civil war, Syria has allocated an estimated 6-7% of GDP to military expenditures annually"
     },
     "Military and security service personnel strengths": {
-      "text": "Current estimates not available; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) have taken significant losses in personnel due to casualties and desertions; prior to the civil war, the SAF had approximately 300,000 active duty troops, including 200-225,000 Army, plus about 300,000 reserve forces (2021)"
+      "text": "Current estimates not available; Since the start of the civil war in 2011, the Syrian Armed Forces (SAF) have taken significant losses in personnel due to casualties and desertions; Prior to the civil war, the SAF had approximately 300,000 active duty troops, including 200-225,000 Army, plus about 300,000 reserve forces (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "The SAF's inventory is comprised mostly of Russian and Soviet-era equipment; since 2010, Russia has supplied nearly all of Syria's imported weapons systems, although China and Iran have also provided military equipment (2021)"
+      "text": "The SAF's inventory is comprised mostly of Russian and Soviet-era equipment; Since 2010, Russia has supplied nearly all of Syria's imported weapons systems, although China and Iran have also provided military equipment (2021)"
     },
     "Military service age and obligation": {
-      "text": "18-42 years of age for compulsory and voluntary military service; conscript service obligation is 18 months; women are not conscripted but may volunteer to serve (2021)",
+      "text": "18-42 years of age for compulsory and voluntary military service; Conscript service obligation is 18 months; Women are not conscripted but may volunteer to serve (2021)",
       "note": "Note - the SAF is largely comprised of conscripts"
     },
     "Military - note": {
-      "text": "The UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of November 2021, UNDOF consisted of about 1,250 personnel as of 2022, multiple actors were conducting military operations in Syria in support of the ASAD government or Syrian opposition forces, as well in pursuit of their own security goals, such counterterrorism; operations have included air strikes, direct ground combat, and sponsoring proxy forces, as well as providing non-lethal military support, including advisors, technicians, arms and equipment, funding, intelligence, and training: pro-ASAD elements operating in Syria have included Lebanese Hezbollah, Iranian, Iranian-backed Shia militia, and Russian forces; since early in the civil war, the ASAD government has relied on Lebanese Hezbollah (see Appendix T for further information), as well as Iran and Iranian-backed forces, for combat operations and to hold territory; Iran has provided military advisors and combat troops from the Iranian Revolutionary Guard Corps (including the Qods Force; see Appendix T for further information), as well as intelligence, logistical, material, technical, and financial support; it has funded, trained, equipped, and led Shia militia/paramilitary units comprised of both Syrian and non-Syrian personnel, primarily from Afghanistan, Iraq, and Pakistan; Russia intervened at the request of the ASAD government in 2015 and has since provided air support, special operations forces, military advisors, private military contractors, training, arms, and equipment; Iranian and Russian support has also included assisting Syria in combating the Islamic State of Iraq and ash-Sham (ISIS; see Appendix T) terrorist group Turkey intervened militarily in 2016 to combat Kurdish militants and ISIS, support select Syrian opposition forces, and establish a buffer along portions of its border with Syria; as of 2022, Turkey continued to maintain a considerable military presence in northern Syria; it has armed and trained militia/proxy forces, such as the Syrian National Army, which was formed in late 2017 of Syrian Arab and Turkmen rebel factions in the Halab (Aleppo) province and northwestern Syria the US and some regional and European states have at times backed Syrian opposition forces militarily and/or conducted military operations, primarily against ISIS; the US has operated in Syria since 2015 with ground forces and air strikes; as of 2022, the majority the ground forces were deployed in the Eastern Syria Security Area (ESSA, which includes parts of Hasakah and Dayr az Zawr provinces east of the Euphrates River) in support of operations by the Syrian Democratic Forces against ISIS, while the remainder were in southeast Syria around Tanf supporting counter-ISIS operations by the Jaysh Mughawir al-Thawra (MaT, or Revolutionary Commando Army) Syrian opposition force; the US has also conducted air strikes against Syrian military targets in response to Syrian Government use of chemical weapons against opposition forces and civilians; in addition, France, Jordan, Qatar, Saudi Arabia, and the UK have provided forms of military assistance to opposition forces and/or conducted operations against ISIS, including air strikes Israel has conducted hundreds of military air strikes in Syria, mostly targeting Hezbollah, Iranian, and/or Iranian-backed militia targets the Syrian Democratic Forces (SDF) are an anti-ASAD regime coalition of forces composed primarily of Kurdish, Sunni Arab, and Syriac Christian fighters; it is dominated and led by Kurdish forces, particularly the People’s Protection Units (YPG) militia; the SDF began to receive US support in 2015 and as of 2021 was the main local US partner in its counter-ISIS campaign; the SDF has internal security, anti-terror, and commando units; Turkey views the SDF as an extension of the Kurdistan Workers’ Party (PKK), a US-designated terrorist organization (see Appendix T) the ISIS terrorist group (see Appendix T) lost its last territorial stronghold to SDF forces in 2019, but continued to maintain a low-level insurgency as of 2022; in addition, the SDF held about 10,000 captured suspected ISIS fighters in detention facilities across northern Syria, including 2,000 from countries other than Iraq and Syria as of 2021, the Hay'at Tahrir al-Sham (HTS; formerly known as al-Nusrah Front) terrorist organization (see Appendix T) was the dominate militant group in northwest Syria and asserted considerable influence and control over the so-called Syrian Salvation Government in the Iblib de-escalation zone; as of 2021, the group had an estimated 10,000 fighters"
+      "text": "The UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; As of November 2021, UNDOF consisted of about 1,250 personnel as of 2022, multiple actors were conducting military operations in Syria in support of the ASAD government or Syrian opposition forces, as well in pursuit of their own security goals, such counterterrorism; Operations have included air strikes, direct ground combat, and sponsoring proxy forces, as well as providing non-lethal military support, including advisors, technicians, arms and equipment, funding, intelligence, and training: pro-ASAD elements operating in Syria have included Lebanese Hezbollah, Iranian, Iranian-backed Shia militia, and Russian forces; Since early in the civil war, the ASAD government has relied on Lebanese Hezbollah (see Appendix T for further information), as well as Iran and Iranian-backed forces, for combat operations and to hold territory; Iran has provided military advisors and combat troops from the Iranian Revolutionary Guard Corps (including the Qods Force; See Appendix T for further information), as well as intelligence, logistical, material, technical, and financial support; It has funded, trained, equipped, and led Shia militia/paramilitary units comprised of both Syrian and non-Syrian personnel, primarily from Afghanistan, Iraq, and Pakistan; Russia intervened at the request of the ASAD government in 2015 and has since provided air support, special operations forces, military advisors, private military contractors, training, arms, and equipment; Iranian and Russian support has also included assisting Syria in combating the Islamic State of Iraq and ash-Sham (ISIS; See Appendix T) terrorist group Turkey intervened militarily in 2016 to combat Kurdish militants and ISIS, support select Syrian opposition forces, and establish a buffer along portions of its border with Syria; As of 2022, Turkey continued to maintain a considerable military presence in northern Syria; It has armed and trained militia/proxy forces, such as the Syrian National Army, which was formed in late 2017 of Syrian Arab and Turkmen rebel factions in the Halab (Aleppo) province and northwestern Syria the US and some regional and European states have at times backed Syrian opposition forces militarily and/or conducted military operations, primarily against ISIS; The US has operated in Syria since 2015 with ground forces and air strikes; As of 2022, the majority the ground forces were deployed in the Eastern Syria Security Area (ESSA, which includes parts of Hasakah and Dayr az Zawr provinces east of the Euphrates River) in support of operations by the Syrian Democratic Forces against ISIS, while the remainder were in southeast Syria around Tanf supporting counter-ISIS operations by the Jaysh Mughawir al-Thawra (MaT, or Revolutionary Commando Army) Syrian opposition force; The US has also conducted air strikes against Syrian military targets in response to Syrian Government use of chemical weapons against opposition forces and civilians; In addition, France, Jordan, Qatar, Saudi Arabia, and the UK have provided forms of military assistance to opposition forces and/or conducted operations against ISIS, including air strikes Israel has conducted hundreds of military air strikes in Syria, mostly targeting Hezbollah, Iranian, and/or Iranian-backed militia targets the Syrian Democratic Forces (SDF) are an anti-ASAD regime coalition of forces composed primarily of Kurdish, Sunni Arab, and Syriac Christian fighters; It is dominated and led by Kurdish forces, particularly the People’s Protection Units (YPG) militia; The SDF began to receive US support in 2015 and as of 2021 was the main local US partner in its counter-ISIS campaign; The SDF has internal security, anti-terror, and commando units; Turkey views the SDF as an extension of the Kurdistan Workers’ Party (PKK), a US-designated terrorist organization (see Appendix T) the ISIS terrorist group (see Appendix T) lost its last territorial stronghold to SDF forces in 2019, but continued to maintain a low-level insurgency as of 2022; In addition, the SDF held about 10,000 captured suspected ISIS fighters in detention facilities across northern Syria, including 2,000 from countries other than Iraq and Syria as of 2021, the Hay'at Tahrir al-Sham (HTS; Formerly known as al-Nusrah Front) terrorist organization (see Appendix T) was the dominate militant group in northwest Syria and asserted considerable influence and control over the so-called Syrian Salvation Government in the Iblib de-escalation zone; As of 2021, the group had an estimated 10,000 fighters"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras al-Din; Islamic Jihad Union; Islamic Revolutionary Guard Corps -- Qods Force; Islamic State of Iraq and ash-Sham; Kata'ib Hizballah; Kurdistan Workers' Party; Mujahidin Shura Council in the Environs of Jerusalem; al-Nusrah Front (Hay'at Tahrir al-Sham); al-Qa'ida; Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine",
+      "text": "Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras al-Din; Islamic Jihad Union; Islamic Revolutionary Guard Corps -- Qods Force; Islamic State of Iraq and ash-Sham; Kata'ib Hizballah; Kurdistan Workers' Party; Mujahidin Shura Council in the Environs of Jerusalem; Al-Nusrah Front (Hay'at Tahrir al-Sham); Al-Qa'ida; Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine",
       "note": "Note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights; 2004 Agreement and pending demarcation would settle border dispute with Jordan"
+      "text": "Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; Lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; Since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights; 2004 Agreement and pending demarcation would settle border dispute with Jordan"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1131,16 +1131,16 @@
         "text": "6.568 million (ongoing civil war since 2011) (2020)"
       },
       "stateless persons": {
-        "text": "160,000 (mid-year 2021); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war"
+        "text": "160,000 (mid-year 2021); Note - Syria's stateless population consists of Kurds and Palestinians; Stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; In 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; In 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; However, resolving the question of statelessness is not a priority given Syria's ongoing civil war"
       },
       "note": "Note: the ongoing civil war has resulted in more than 5.7 million registered Syrian refugees - dispersed in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of March 2022"
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "Due to Syria&rsquo;s civil war, hundreds of thousands of Syrians, foreign migrant workers, and refugees have fled the country and are vulnerable to human trafficking; the lack of security and inaccessibility of the majority of the country makes it impossible to conduct a thorough analysis of the impact of the ongoing conflict on the scope and magnitude of Syria&rsquo;s human trafficking situation; prior to the uprising, the Syrian armed forces and opposition forces used Syrian children in combat and support roles and as human shields"
+        "text": "Due to Syria&rsquo;s civil war, hundreds of thousands of Syrians, foreign migrant workers, and refugees have fled the country and are vulnerable to human trafficking; The lack of security and inaccessibility of the majority of the country makes it impossible to conduct a thorough analysis of the impact of the ongoing conflict on the scope and magnitude of Syria&rsquo;s human trafficking situation; Prior to the uprising, the Syrian armed forces and opposition forces used Syrian children in combat and support roles and as human shields"
       },
       "tier rating": {
-        "text": "Tier 3 &mdash; Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government does not hold any traffickers, including complicit officials, criminally accountable for trafficking; no trafficking victims were identified or received protection during the reporting period; government and pro-Syrian militias continued to forcibly recruit and use child soldiers; the government does not prevent armed opposition forces and designated terrorist organizations from recruiting children; authorities continued to arrest, detain, and severely abuse trafficking victims, including child soldiers, and punished them for unlawful acts traffickers compelled them to commit (2020)"
+        "text": "Tier 3 &mdash; Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; The government does not hold any traffickers, including complicit officials, criminally accountable for trafficking; No trafficking victims were identified or received protection during the reporting period; Government and pro-Syrian militias continued to forcibly recruit and use child soldiers; The government does not prevent armed opposition forces and designated terrorist organizations from recruiting children; Authorities continued to arrest, detain, and severely abuse trafficking victims, including child soldiers, and punished them for unlawful acts traffickers compelled them to commit (2020)"
       }
     },
     "Illicit drugs": {

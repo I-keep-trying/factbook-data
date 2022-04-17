@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "search": "node search.js",
+    "search-images": "node searchImages.js",
     "cleanup": "node cleanup.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.1",
     "node-fetch": "^2.6.7"
   }
 }

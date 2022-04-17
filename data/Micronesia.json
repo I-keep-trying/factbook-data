@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Each of the four states that compose the Federated States of Micronesia (FSM) - Chuuk, Kosrae, Pohnpei, and Yap - has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. Around the same time, Kosrae was united in a kingdom centered in Leluh by 1250. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another. Portuguese and Spanish explorers visited a few of the islands in the 1500s and Spain began exerting nominal, but not day-to-day, control over some of the islands - which they named the Caroline Islands - in the 1600s. Christian missionaries arrived in the 1800s, in particular to Chuuk and Kosrae. By the 1870s, nearly every Kosraean had converted to Christianity and religion continues to play an important role in daily life on the island. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944 during Operation Hailstone in World War II, destroying 250 Japanese planes and 40 ships. The US military largely bypassed the other islands in its leapfrog campaign across the Pacific. The FSM came under US administration as part of the Trust Territory of the Pacific Islands in 1947, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political statuses. In 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, is planning an independence referendum for 2022.Eligible Micronesians can live, work, and study in any part of the US and its territories without a visa - this privilege reduces stresses on the island economy and the environment. Micronesians serve in the US armed forces and military recruiting from the FSM, per capita, is higher than many US states."
+      "text": "Each of the four states that compose the Federated States of Micronesia (FSM) - Chuuk, Kosrae, Pohnpei, and Yap - has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. Around the same time, Kosrae was united in a kingdom centered in Leluh by 1250. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another. Portuguese and Spanish explorers visited a few of the islands in the 1500s and Spain began exerting nominal, but not day-to-day, control over some of the islands - which they named the Caroline Islands - in the 1600s. Christian missionaries arrived in the 1800s, in particular to Chuuk and Kosrae. By the 1870s, nearly every Kosraean had converted to Christianity and religion continues to play an important role in daily life on the island. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944 during Operation Hailstone in World War II, destroying 250 Japanese planes and 40 ships. The US military largely bypassed the other islands in its leapfrog campaign across the Pacific. The FSM came under US administration as part of the Trust Territory of the Pacific Islands in 1947, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political statuses. In 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; The COFA entered into force in 1986 and its funding was renewed in 2003. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, is planning an independence referendum for 2022.Eligible Micronesians can live, work, and study in any part of the US and its territories without a visa - this privilege reduces stresses on the island economy and the environment. Micronesians serve in the US armed forces and military recruiting from the FSM, per capita, is higher than many US states."
     }
   },
   "Geography": {
@@ -46,10 +46,10 @@
       }
     },
     "Climate": {
-      "text": "Tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage"
+      "text": "Tropical; Heavy year-round rainfall, especially in the eastern islands; Located on southern edge of the typhoon belt with occasionally severe damage"
     },
     "Terrain": {
-      "text": "Islands vary geologically from high mountainous islands to low, coral atolls; volcanic outcroppings on Pohnpei, Kosrae, and Chuuk"
+      "text": "Islands vary geologically from high mountainous islands to low, coral atolls; Volcanic outcroppings on Pohnpei, Kosrae, and Chuuk"
     },
     "Elevation": {
       "highest point": {
@@ -86,7 +86,7 @@
       "text": "0 sq km NA (2012)"
     },
     "Population distribution": {
-      "text": "The majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas"
+      "text": "The majority of the populaton lives in the coastal areas of the high islands; The mountainous interior is largely uninhabited; Less than half of the population lives in urban areas"
     },
     "Natural hazards": {
       "text": "Typhoons (June to December)"
@@ -171,7 +171,7 @@
       "text": "-20.9 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
-      "text": "The majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas"
+      "text": "The majority of the populaton lives in the coastal areas of the high islands; The mountainous interior is largely uninhabited; Less than half of the population lives in urban areas"
     },
     "Urbanization": {
       "urban population": {
@@ -315,7 +315,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "Overfishing; climate change; water pollution, toxic pollution from mining; solid waste disposal"
+      "text": "Overfishing; Climate change; Water pollution, toxic pollution from mining; Solid waste disposal"
     },
     "Environment - international agreements": {
       "party to": {
@@ -337,7 +337,7 @@
       }
     },
     "Climate": {
-      "text": "Tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage"
+      "text": "Tropical; Heavy year-round rainfall, especially in the eastern islands; Located on southern edge of the typhoon belt with occasionally severe damage"
     },
     "Land use": {
       "agricultural land": {
@@ -432,7 +432,7 @@
       "time zone note": {
         "text": "Micronesia has two time zones"
       },
-      "note": "Note: Palikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; it also serves as the Pohnpei state capital"
+      "note": "Note: Palikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; It also serves as the Pohnpei state capital"
     },
     "Administrative divisions": {
       "text": "4 states; Chuuk (Truk), Kosrae (Kosaie), Pohnpei (Ponape), Yap"
@@ -448,14 +448,14 @@
         "text": "Drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979"
       },
       "amendments": {
-        "text": "Proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states; amended 1990; note &ndash; at least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; a majority of affirmative votes is required to proceed; amended many times, last in 2019 (approval by referendum to hold a constitutional convention)"
+        "text": "Proposed by Congress, by a constitutional convention, or by public petition; Passage requires approval by at least three-fourths majority vote in at least three fourths of the states; Amended 1990; Note &ndash; At least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; A majority of affirmative votes is required to proceed; Amended many times, last in 2019 (approval by referendum to hold a constitutional convention)"
       }
     },
     "Legal system": {
       "text": "Mixed legal system of common and customary law"
     },
     "International law organization participation": {
-      "text": "Has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+      "text": "Has not submitted an ICJ jurisdiction declaration; Non-party state to the ICCt"
     },
     "Citizenship": {
       "citizenship by birth": {
@@ -472,11 +472,11 @@
       }
     },
     "Suffrage": {
-      "text": "18 years of age; universal"
+      "text": "18 years of age; Universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015); note - the president is both chief of state and head of government"
+        "text": "President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015); Note - the president is both chief of state and head of government"
       },
       "head of government": {
         "text": "President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015)"
@@ -485,7 +485,7 @@
         "text": "Cabinet includes the vice president and the heads of the 8 executive departments"
       },
       "elections/appointments": {
-        "text": "President and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 11 May 2019 (next to be held in 2023)"
+        "text": "President and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); Election last held on 11 May 2019 (next to be held in 2023)"
       },
       "election results": {
         "text": "David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president"
@@ -499,7 +499,7 @@
         "text": "Last held on 2 March 2021 (next to be held on March 2023)"
       },
       "election results": {
-        "text": "Percent of vote - NA; seats - independent 14; composition - men 14, women 0"
+        "text": "Percent of vote - NA; Seats - independent 14; Composition - men 14, women 0"
       }
     },
     "Judicial branch": {
@@ -507,7 +507,7 @@
         "text": "Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)"
       },
       "judge selection and term of office": {
-        "text": "Justices appointed by the FSM president with the approval of two-thirds of Congress; justices appointed for life"
+        "text": "Justices appointed by the FSM president with the approval of two-thirds of Congress; Justices appointed for life"
       },
       "subordinate courts": {
         "text": "The highest state-level courts are: Chuuk Supreme Court; Korsae State Court; Pohnpei State Court; Yap State Court"
@@ -560,10 +560,10 @@
       }
     },
     "Flag description": {
-      "text": "Light blue with four white five-pointed stars centered; the stars are arranged in a diamond pattern; blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap"
+      "text": "Light blue with four white five-pointed stars centered; The stars are arranged in a diamond pattern; Blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap"
     },
     "National symbol(s)": {
-      "text": "Four, five-pointed, white stars on a light blue field, hibiscus flower; national colors: light blue, white"
+      "text": "Four, five-pointed, white stars on a light blue field, hibiscus flower; National colors: light blue, white"
     },
     "National anthem": {
       "name": {
@@ -572,7 +572,7 @@
       "lyrics/music": {
         "text": "Unknown"
       },
-      "note": "Note: adopted 1991; also known as \"Across All Micronesia\"; the music is based on the 1820 German patriotic song \"Ich hab mich ergeben\", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' \"Festival Overture\" and Gustav Mahler's \"Third Symphony\""
+      "note": "Note: adopted 1991; Also known as \"Across All Micronesia\"; The music is based on the 1820 German patriotic song \"Ich hab mich ergeben\", which was the West German national anthem from 1949-1950; Variants of this tune are used in Johannes Brahms' \"Festival Overture\" and Gustav Mahler's \"Third Symphony\""
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -585,7 +585,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector."
+      "text": "Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; During which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector."
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2019": {
@@ -668,7 +668,7 @@
       "text": "Coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruit, eggs, beef"
     },
     "Industries": {
-      "text": "Tourism, construction; specialized aquaculture, craft items (shell and wood)"
+      "text": "Tourism, construction; Specialized aquaculture, craft items (shell and wood)"
     },
     "Industrial production growth rate": {
       "text": "NA"
@@ -884,15 +884,15 @@
         "text": "Adequate system, the demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region (2020)"
       },
       "domestic": {
-        "text": "Islands interconnected by shortwave radiotelephone, satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; mobile-cellular service available on the major islands; fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 21 per 100 (2019)"
+        "text": "Islands interconnected by shortwave radiotelephone, satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; Mobile-cellular service available on the major islands; Fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 21 per 100 (2019)"
       },
       "international": {
-        "text": "Country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US;;satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)"
+        "text": "Country code - 691; Landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US; Satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "No TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half-dozen radio stations (2009)"
+      "text": "No TV broadcast stations; Each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; About a half-dozen radio stations (2009)"
     },
     "Internet country code": {
       "text": ".fm"

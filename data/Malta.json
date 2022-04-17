@@ -51,10 +51,10 @@
       }
     },
     "Climate": {
-      "text": "Mediterranean; mild, rainy winters; hot, dry summers"
+      "text": "Mediterranean; Mild, rainy winters; Hot, dry summers"
     },
     "Terrain": {
-      "text": "Mostly low, rocky, flat to dissected plains; many coastal cliffs"
+      "text": "Mostly low, rocky, flat to dissected plains; Many coastal cliffs"
     },
     "Elevation": {
       "highest point": {
@@ -97,7 +97,7 @@
       "text": "Occasional droughts"
     },
     "Geography - note": {
-      "text": "The country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing oil exploration on the continental shelf between their countries, although no commercially viable reserves have been found as of 2017"
+      "text": "The country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; Numerous bays provide good harbors; Malta and Tunisia are discussing oil exploration on the continental shelf between their countries, although no commercially viable reserves have been found as of 2017"
     }
   },
   "People and Society": {
@@ -353,7 +353,7 @@
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "Limited natural freshwater resources; increasing reliance on desalination; deforestation; wildlife preservation"
+      "text": "Limited natural freshwater resources; Increasing reliance on desalination; Deforestation; Wildlife preservation"
     },
     "Environment - international agreements": {
       "party to": {
@@ -375,7 +375,7 @@
       }
     },
     "Climate": {
-      "text": "Mediterranean; mild, rainy winters; hot, dry summers"
+      "text": "Mediterranean; Mild, rainy winters; Hot, dry summers"
     },
     "Land use": {
       "agricultural land": {
@@ -473,7 +473,7 @@
         "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
       },
       "daylight saving time": {
-        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+        "text": "+1hr, begins last Sunday in March; Ends last Sunday in October"
       },
       "etymology": {
         "text": "Named in honor of Jean de Valette, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565"
@@ -490,17 +490,17 @@
     },
     "Constitution": {
       "history": {
-        "text": "Many previous; latest adopted 21 September 1964"
+        "text": "Many previous; Latest adopted 21 September 1964"
       },
       "amendments": {
-        "text": "Proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic; amended many times, last in 2020"
+        "text": "Proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; Passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic; Amended many times, last in 2020"
       }
     },
     "Legal system": {
-      "text": "Mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law"
+      "text": "Mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes; Subject to European Union law"
     },
     "International law organization participation": {
-      "text": "Accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+      "text": "Accepts compulsory ICJ jurisdiction with reservations; Accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "citizenship by birth": {
@@ -517,7 +517,7 @@
       }
     },
     "Suffrage": {
-      "text": "18 years of age (16 in local council elections); universal"
+      "text": "18 years of age (16 in local council elections); Universal"
     },
     "Executive branch": {
       "chief of state": {
@@ -530,7 +530,7 @@
         "text": "Cabinet appointed by the president on the advice of the prime minister"
       },
       "elections/appointments": {
-        "text": "President indirectly elected by the House of Representatives for a single 5-year term; election last held on 2 April 2019 (next to be held by April 2024); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister"
+        "text": "President indirectly elected by the House of Representatives for a single 5-year term; Election last held on 2 April 2019 (next to be held by April 2024); Following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; Deputy prime minister appointed by the president on the advice of the prime minister"
       },
       "election results": {
         "text": "George VELLA (PL) elected president; House of Representatives vote - unanimous; Robert ABELA (PL) appointed prime minister"
@@ -538,13 +538,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "Unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process"
+        "text": "Unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; Members directly elected in 5 multi-seat constituencies by proportional representation vote; Members serve 5-year terms); Note - an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process"
       },
       "elections": {
         "text": "Last held on 26 March 2022 (next to be held in 2027)"
       },
       "election results": {
-        "text": "Percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38 PN 29; composition - men NA, women NA, percent of women NA%"
+        "text": "Percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; Seats by party - PL 38 PN 29; Composition - men NA, women NA, percent of women NA%"
       }
     },
     "Judicial branch": {
@@ -552,7 +552,7 @@
         "text": "Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)"
       },
       "judge selection and term of office": {
-        "text": "Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65"
+        "text": "Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; Judges of both courts serve until age 65"
       },
       "subordinate courts": {
         "text": "Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)"
@@ -599,10 +599,10 @@
       }
     },
     "Flag description": {
-      "text": "Two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field"
+      "text": "Two equal vertical bands of white (hoist side) and red; In the upper hoist-side corner is a representation of the George Cross, edged in red; According to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; An uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; In 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; Since independence in 1964, the George Cross bordered in red has appeared directly on the white field"
     },
     "National symbol(s)": {
-      "text": "Maltese eight-pointed cross; national colors: red, white"
+      "text": "Maltese eight-pointed cross; National colors: red, white"
     },
     "National anthem": {
       "name": {
@@ -611,7 +611,7 @@
       "lyrics/music": {
         "text": "Dun Karm PSAILA/Robert SAMMUT"
       },
-      "note": "Note: adopted 1945; written in the form of a prayer"
+      "note": "Note: adopted 1945; Written in the form of a prayer"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -796,7 +796,7 @@
       "Public debt 2016": {
         "text": "56.3% of GDP (2016 est.)"
       },
-      "note": "Note: Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds"
+      "note": "Note: Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; The data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); General government comprises the central, state, and local governments, and social security funds"
     },
     "Taxes and other revenues": {
       "text": "40.4% (of GDP) (2017 est.)"
@@ -975,18 +975,18 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Blessed with advantageous topography and tech-savvy consumers, Malta has one of the most advanced telecom systems in Europe, with high penetration of mobile and broadband; expansion of e-commerce; government and regulator measures in 2020 reduced consumer prices and allowed extensive FttP network and investment in LTE and fiber thru 2023; operator delivered fiber network to public schools in 2020; launch of 5G network by 2020; submarine cable to France and Egypt in progress (2020)"
+        "text": "Blessed with advantageous topography and tech-savvy consumers, Malta has one of the most advanced telecom systems in Europe, with high penetration of mobile and broadband; Expansion of e-commerce; Government and regulator measures in 2020 reduced consumer prices and allowed extensive FttP network and investment in LTE and fiber thru 2023; Operator delivered fiber network to public schools in 2020; Launch of 5G network by 2020; Submarine cable to France and Egypt in progress (2020)"
       },
       "domestic": {
-        "text": "Fixed-line approximately 59 per 100; persons and mobile-cellular subscribership 143 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2020)"
+        "text": "Fixed-line approximately 59 per 100; Persons and mobile-cellular subscribership 143 per 100 persons; Automatic system featuring submarine cable and microwave radio relay between islands (2020)"
       },
       "international": {
-        "text": "Country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
+        "text": "Country code - 356; Landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; Satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
       },
-      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)"
+      "text": "2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; Several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; Multi-channel cable and satellite TV services are available; Publicly owned radio broadcaster operates 3 stations; Roughly 20 commercial radio stations (2019)"
     },
     "Internet country code": {
       "text": ".mt"
@@ -1104,10 +1104,10 @@
       "text": "The small inventory of the Armed Forces of Malta consists of equipment from a mix of European countries, particularly Italy, and the US (2021)"
     },
     "Military service age and obligation": {
-      "text": "18-30 years of age for voluntary military service (men and women); no conscription (2021)"
+      "text": "18-30 years of age for voluntary military service (men and women); No conscription (2021)"
     },
     "Military - note": {
-      "text": "Malta maintains a security policy of neutrality, but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance  "
+      "text": "Malta maintains a security policy of neutrality, but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); It also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; In 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance  "
     }
   },
   "Transnational Issues": {

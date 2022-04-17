@@ -2,40 +2,6 @@ const fs = require('fs')
 const allData = require('./data2.json')
 const names = require('./countryNames.json')
 
-// clean up html tags etc., from raw data
-const cleanup = () => {
-  const regHtml = /<\w+>/g
-  const regHtml2 = /<\/?\w+>/g
-  const regStyle = /<p\s\w+=\\".+>\s<\/p>/g
-  const regUpper = /"text":\s"\w/g
-  const regUpper2 = /"note":\s"\w/g
-  fs.readFile('./data.json', (error, data) => {
-    if (error) {
-      console.log('fs.readFile error: ', error)
-    }
-    const dataString = data.toString()
-    const newData = dataString.replace(regStyle, '')
-    const newData2 = newData.replace(regHtml, '')
-    const newData3 = newData2.replace(regHtml2, '')
-    const testString2 = newData3.replace(
-      regUpper,
-      (str) => str.substring(0, 9) + str.charAt(9).toUpperCase()
-    )
-    const testString3 = testString2.replace(
-      regUpper2,
-      (str) => str.substring(0, 9) + str.charAt(9).toUpperCase()
-    )
-    fs.writeFile('./data2.json', testString3, (err) => {
-      if (err) {
-        console.log('Failed to write data: ',err)
-      }
-      console.log('Updated allData file successfully')
-    })
-  })
-}
-
-//cleanup()
-
 // create directories for each country if necessary
 const createNew = (name) => {
   try {
@@ -87,7 +53,7 @@ const findCountries = () =>
         } else if (
           name.toLocaleLowerCase().includes(findName.toLocaleLowerCase())
         ) {
-          console.log('name.includes(findName)', name)
+      //    console.log('name.includes(findName)', name)
           fs.readFile(`./data/${name}.json`, (error, data) => {
             if (error) {
               console.log(error)
@@ -106,7 +72,7 @@ const findCountries = () =>
         } else if (
           findName2.toLocaleLowerCase().includes(name.toLocaleLowerCase())
         ) {
-          console.log('findName2.includes(name)', name)
+     //     console.log('findName2.includes(name)', name)
           fs.readFile(`./data/${name}.json`, (error, data) => {
             if (error) {
               console.log(error)
@@ -125,7 +91,7 @@ const findCountries = () =>
         } else if (
           name.toLocaleLowerCase().includes(findName2.toLocaleLowerCase())
         ) {
-          console.log('name.includes(findName2)', name)
+     //     console.log('name.includes(findName2)', name)
           fs.readFile(`./data/${name}.json`, (error, data) => {
             if (error) {
               console.log(error)
