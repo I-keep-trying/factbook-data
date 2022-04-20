@@ -33,8 +33,11 @@ const findCountries = () =>
         item.Government['Country name']['conventional long form'].text
       return names.map((name) => {
         //    createNew(name)
-        if (findName.toLocaleLowerCase().includes(name.toLocaleLowerCase())) {
-          console.log('findName.includes(name)', name)
+        /*   if (
+          findName.toLocaleLowerCase() !== name.toLocaleLowerCase() &&
+          findName.toLocaleLowerCase().includes(name.toLocaleLowerCase())
+        ) {
+         // console.log('findName.includes(name)', name)
           fs.readFile(`./data/${name}.json`, (error, data) => {
             if (error) {
               console.log(error)
@@ -51,9 +54,10 @@ const findCountries = () =>
             )
           })
         } else if (
+          findName.toLocaleLowerCase() !== name.toLocaleLowerCase() &&
           name.toLocaleLowerCase().includes(findName.toLocaleLowerCase())
         ) {
-      //    console.log('name.includes(findName)', name)
+          //    console.log('name.includes(findName)', name)
           fs.readFile(`./data/${name}.json`, (error, data) => {
             if (error) {
               console.log(error)
@@ -70,9 +74,10 @@ const findCountries = () =>
             )
           })
         } else if (
+          findName2.toLocaleLowerCase() !== name.toLocaleLowerCase() &&
           findName2.toLocaleLowerCase().includes(name.toLocaleLowerCase())
         ) {
-     //     console.log('findName2.includes(name)', name)
+          //  console.log('findName.includes(name)', name)
           fs.readFile(`./data/${name}.json`, (error, data) => {
             if (error) {
               console.log(error)
@@ -89,9 +94,46 @@ const findCountries = () =>
             )
           })
         } else if (
+          findName2.toLocaleLowerCase() !== name.toLocaleLowerCase() &&
           name.toLocaleLowerCase().includes(findName2.toLocaleLowerCase())
         ) {
-     //     console.log('name.includes(findName2)', name)
+          //    console.log('name.includes(findName)', name)
+          fs.readFile(`./data/${name}.json`, (error, data) => {
+            if (error) {
+              console.log(error)
+            }
+            fs.writeFile(
+              `./data/${name}.json`,
+              JSON.stringify(item, null, 2),
+              (err) => {
+                if (err) {
+                  console.log('Failed to write data')
+                }
+                console.log('2: Updated data file successfully')
+              }
+            )
+          })
+        } else */ if (
+          findName.toLocaleLowerCase() === name.toLocaleLowerCase()
+        ) {
+          //     console.log('findName2.includes(name)', name)
+          fs.readFile(`./data/${name}.json`, (error, data) => {
+            if (error) {
+              console.log(error)
+            }
+            fs.writeFile(
+              `./data/${name}.json`,
+              JSON.stringify(item, null, 2),
+              (err) => {
+                if (err) {
+                  console.log('Failed to write data')
+                }
+                console.log('1: Updated data file successfully')
+              }
+            )
+          })
+        } else if (findName2.toLocaleLowerCase() === name.toLocaleLowerCase()) {
+          //     console.log('name.includes(findName2)', name)
           fs.readFile(`./data/${name}.json`, (error, data) => {
             if (error) {
               console.log(error)
@@ -109,8 +151,9 @@ const findCountries = () =>
           })
         }
       })
+    } else {
+      console.log('item undefined', item)
     }
-    console.log('item undefined')
     return
   })
 

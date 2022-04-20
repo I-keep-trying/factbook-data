@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "The first Austronesian settlers arrived in Samoa around 1000 B.C., and early Samoans traded and intermarried with Fijian and Tongan nobility. The fa’amatai system of titles and nobility developed, which dominates Samoan politics to this day; All but two seats in the legislature are reserved for matai, or heads of families. Dutch explorer Jacob ROGGEVEEN was the first European to spot the islands in 1722. Christian missionaries arrived in the 1830s, converting most of the population. In the 1850s, Apia became a center for Pacific trading and hosted an American commercial agent and British and German consuls. In 1892, American traders convinced the Samoan king to align his country’s date with the US, moving to the east of the International Date Line.Following the death of the Samoan king in 1841, rival families competed for his titles, devolving into civil war in 1886 with factions getting support from either Germany, the UK, or the US. All three countries sent warships to Apia in 1889, presaging a larger war, but a cyclone destroyed the ships and Malietoa LAUPEPA was installed as king. Upon LAUPEPA’s death in 1898, a second civil war over succession broke out. The war ended in 1899 and the Western powers abolished the monarchy, giving the western Samoan islands to Germany and the eastern Samoan islands to the US. The UK abandoned claims in Samoa and received former German territory in the Solomon Islands.The Mau, a non-violent popular movement to advocate for Samoan independence, formed in 1908. New Zealand annexed Samoa in 1914 after the outbreak of World War I. Opposition to New Zealand’s rule quickly grew. In 1918, a New Zealand ship introduced the Spanish flu, infecting 90% of the population and killing more than 20%. In 1929, New Zealand police shot into a crowd of peaceful protestors, killing 11, in an event known as Black Sunday. In 1962, Samoa became the first Polynesian nation to reestablish its independence as Western Samoa but dropped the “Western” from its name in 1997. The Human Rights Protection Party has dominated politics since 1982, especially under Prime Minister Sailele TUILAEPA, who has been in power since 1998.In the late 2000s, Samoa began making efforts to align more closely with Australia and New Zealand. In 2009, Samoa changed its driving orientation to the left side of the road, in line with other Commonwealth countries. In 2011, Samoa jumped forward one day - skipping December 30 - by moving to the west side of the International Date Line so that it was one hour ahead of New Zealand and three hours ahead of the east coast of Australia, rather than 23 and 21 hours behind, respectively."
+      "text": "Tutuila was settled by 1000 B.C. and the island served as a refuge for exiled chiefs and defeated warriors from the other Samoan islands. The Manu’a Islands developed its own traditional chiefdom that maintained its autonomy by controlling oceanic trade. In 1722, Dutch explorer Jacob ROGGEVEEN was the first European to sail through the Manu’a Islands, and he was followed by French explorer Louis Antoine DE BOUGAINVILLE in 1768. Whalers and missionaries arrived in American Samoa in the 1830s, but American and European traders tended to favor the port in Apia - now in independent Samoa - over the smaller and less-developed Pago Pago on Tutuila. In the mid-1800s, a dispute arose in Samoa over control of the Samoan archipelago, with different chiefs gaining support from Germany, the UK, and the US. In 1872, the high chief of Tutuila offered the US exclusive rights to Pago Pago in return for US protection, but the US rejected this offer. As fighting resumed, the US agreed to the chief’s request in 1878 and set up a coaling station at Pago Pago. In 1899, with continued disputes over succession, Germany and the US agreed to divide the Samoan islands, while the UK withdrew its claims in exchange for parts of the Solomon Islands. Local chiefs on Tutuila formally ceded their land to the US in 1900, followed by the chief of Manu’a in 1904. The territory was officially named “American Samoa” in 1911.The US administered the territory through the Department of the Navy, and in 1918, the naval governor instituted strict quarantine rules to prevent the spread of the Spanish flu, allowing American Samoa to avoid the deadly infection that ravaged the then-New Zealand administered territory of Samoa. In 1949, there was an attempt to organize the territory, granting it formal self-government, but local chiefs helped defeat the measure in the US Congress. Administration was transferred to the Department of the Interior in 1951, and in 1967, American Samoa adopted a constitution that provides significant protections for traditional Samoan land tenure rules, language, and culture. In 1977, after four attempts, voters approved a measure to directly elect their governor. Nevertheless, American Samoa officially remains an unorganized territory and people born in American Samoa are US nationals instead of US citizens, a status many American Samoans prefer. "
     }
   },
   "Geography": {
@@ -9,24 +9,25 @@
       "text": "Oceania, group of islands in the South Pacific Ocean, about halfway between Hawaii and New Zealand"
     },
     "Geographic coordinates": {
-      "text": "13 35 S, 172 20 W"
+      "text": "14 20 S, 170 00 W"
     },
     "Map references": {
       "text": "Oceania"
     },
     "Area": {
       "total": {
-        "text": "2,831 sq km"
+        "text": "224 sq km"
       },
       "land": {
-        "text": "2,821 sq km"
+        "text": "224 sq km"
       },
       "water": {
-        "text": "10 sq km"
-      }
+        "text": "0 sq km"
+      },
+      "note": "Note: includes Rose Atoll and Swains Island"
     },
     "Area - comparative": {
-      "text": "Slightly smaller than Rhode Island"
+      "text": "Slightly larger than Washington, DC"
     },
     "Land boundaries": {
       "total": {
@@ -34,261 +35,243 @@
       }
     },
     "Coastline": {
-      "text": "403 km"
+      "text": "116 km"
     },
     "Maritime claims": {
       "territorial sea": {
         "text": "12 nm"
-      },
-      "contiguous zone": {
-        "text": "24 nm"
       },
       "exclusive economic zone": {
         "text": "200 nm"
       }
     },
     "Climate": {
-      "text": "Tropical; Rainy season (November to April), dry season (May to October)"
+      "text": "Tropical marine, moderated by southeast trade winds; Annual rainfall averages about 3 m; Rainy season (November to April), dry season (May to October); Little seasonal temperature variation"
     },
     "Terrain": {
-      "text": "Two main islands (Savaii, Upolu) and several smaller islands and uninhabited islets; Narrow coastal plain with volcanic, rugged mountains in interior"
+      "text": "Five volcanic islands with rugged peaks and limited coastal plains, two coral atolls (Rose Atoll, Swains Island)"
     },
     "Elevation": {
       "highest point": {
-        "text": "Mount Silisili 1,857 m"
+        "text": "Lata Mountain 964 m"
       },
       "lowest point": {
         "text": "Pacific Ocean 0 m"
       }
     },
     "Natural resources": {
-      "text": "Hardwood forests, fish, hydropower"
+      "text": "Pumice, pumicite"
     },
     "Land use": {
       "agricultural land": {
-        "text": "12.4% (2018 est.)"
+        "text": "24.5% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "Arable land: 2.8% (2018 est.)"
+        "text": "Arable land: 15% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "Permanent crops: 7.8% (2018 est.)"
+        "text": "Permanent crops: 9.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "Permanent pasture: 1.8% (2018 est.)"
+        "text": "Permanent pasture: 0% (2018 est.)"
       },
       "forest": {
-        "text": "60.4% (2018 est.)"
+        "text": "75.5% (2018 est.)"
       },
       "other": {
-        "text": "27.2% (2018 est.)"
+        "text": "0% (2018 est.)"
       }
     },
     "Irrigated land": {
       "text": "0 sq km (2012)"
     },
-    "Population distribution": {
-      "text": "About three-quarters of the population lives on the island of Upolu"
-    },
     "Natural hazards": {
-      "text": "Occasional cyclones; Active volcanismvolcanism: Savai'I Island (1,858 m), which last erupted in 1911, is historically active"
+      "text": "Cyclones common from December to Marchvolcanism: limited volcanic activity on the Ofu and Olosega Islands; Neither has erupted since the 19th century"
     },
     "Geography - note": {
-      "text": "Occupies an almost central position within Polynesia"
+      "text": "Pago Pago has one of the best natural deepwater harbors in the South Pacific Ocean, sheltered by shape from rough seas and protected by peripheral mountains from high winds; Strategic location in the South Pacific Ocean"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "204,898 (July 2021 est.)"
+      "text": "46,366 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
-        "text": "Samoan(s)"
+        "text": "American Samoan(s) (US nationals)"
       },
       "adjective": {
-        "text": "Samoan"
+        "text": "American Samoan"
       }
     },
     "Ethnic groups": {
-      "text": "Samoan 96%, Samoan/New Zealander 2%, other 1.9% (2011 est.)",
-      "note": "Note: data represent the population by country of citizenship"
+      "text": "Pacific Islander 92.6% (includes Samoan 88.9%, Tongan 2.9%, other .8%), Asian 3.6% (includes Filipino 2.2%, other 1.4%), mixed 2.7%, other 1.2% (2010 est.)",
+      "note": "Note: data represent population by ethnic origin or race"
     },
     "Languages": {
-      "text": "Samoan (Polynesian) (official) 91.1%, Samoan/English 6.7%, English (official) 0.5%, other 0.2%, unspecified 1.6% (2006 est.)"
+      "text": "Samoan 88.6% (closely related to Hawaiian and other Polynesian languages), English 3.9%, Tongan 2.7%, other Pacific islander 3%, other 1.8% (2010 est.)",
+      "note": "Note: most people are bilingual"
     },
     "Religions": {
-      "text": "Protestant 54.9% (Congregationalist 29%, Methodist 12.4%, Assembly of God 6.8%, Seventh Day Adventist 4.4%, other Protestant 2.3%), Roman Catholic 18.8%, Church of Jesus Christ 16.9%, Worship Centre 2.8%, other Christian 3.6%, other 2.9% (includes Baha'i, Muslim), none 0.2% (2016 est.)"
+      "text": "Christian 98.3%, other &lt;1%, unaffiliated &lt;1% (2020 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "29.31% (male 30,825/female 28,900)"
+        "text": "27.76% (male 7,063/female 6,662)"
       },
       "15-24 years": {
-        "text": "19.61% (male 20,519/female 19,439)"
+        "text": "18.16% (male 4,521/female 4,458)"
       },
       "25-54 years": {
-        "text": "37.4% (male 39,011/female 37,200)"
+        "text": "37.49% (male 9,164/female 9,370)"
       },
       "55-64 years": {
-        "text": "7.5% (male 7,780/female 7,505)"
+        "text": "9.69% (male 2,341/female 2,447)"
       },
       "65 years and over": {
-        "text": "6.18% (male 5,513/female 7,082) (2020 est.)"
+        "text": "6.9% (male 1,580/female 1,831) (2020 est.)"
       }
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "73.3"
+        "text": "NA"
       },
       "youth dependency ratio": {
-        "text": "64.5"
+        "text": "NA"
       },
       "elderly dependency ratio": {
-        "text": "8.8"
+        "text": "NA"
       },
       "potential support ratio": {
-        "text": "11.4 (2020 est.)"
+        "text": "NA"
       }
     },
     "Median age": {
       "total": {
-        "text": "25.6 years"
+        "text": "27.2 years"
       },
       "male": {
-        "text": "25.3 years"
+        "text": "26.7 years"
       },
       "female": {
-        "text": "26 years (2020 est.)"
+        "text": "27.7 years (2020 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.61% (2021 est.)"
+      "text": "-2.1% (2021 est.)"
     },
     "Birth rate": {
-      "text": "19.21 births/1,000 population (2022 est.)"
+      "text": "16.7 births/1,000 population (2022 est.)"
     },
     "Death rate": {
-      "text": "5.37 deaths/1,000 population (2022 est.)"
+      "text": "6.1 deaths/1,000 population (2022 est.)"
     },
     "Net migration rate": {
-      "text": "-7.82 migrant(s)/1,000 population (2021 est.)"
-    },
-    "Population distribution": {
-      "text": "About three-quarters of the population lives on the island of Upolu"
+      "text": "-32.18 migrant(s)/1,000 population (2021 est.)"
     },
     "Urbanization": {
       "urban population": {
-        "text": "17.6% of total population (2022)"
+        "text": "87.2% of total population (2022)"
       },
       "rate of urbanization": {
-        "text": "-0.03% annual rate of change (2020-25 est.)"
+        "text": "0.26% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
-      "text": "36,000 APIA (capital) (2018)"
+      "text": "49,000 PAGO PAGO (capital) (2018)"
     },
     "Sex ratio": {
       "at birth": {
-        "text": "1.05 male(s)/female"
-      },
-      "0-14 years": {
-        "text": "1.07 male(s)/female"
-      },
-      "15-24 years": {
         "text": "1.06 male(s)/female"
       },
+      "0-14 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-24 years": {
+        "text": "1.01 male(s)/female"
+      },
       "25-54 years": {
-        "text": "1.05 male(s)/female"
+        "text": "0.98 male(s)/female"
       },
       "55-64 years": {
-        "text": "1.04 male(s)/female"
+        "text": "0.96 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.78 male(s)/female"
+        "text": "0.86 male(s)/female"
       },
       "total population": {
-        "text": "1.04 male(s)/female (2020 est.)"
+        "text": "1 male(s)/female (2020 est.)"
       }
-    },
-    "Mother's mean age at first birth": {
-      "text": "23.6 years (2009 est.)",
-      "note": "Note: median age at first birth among women 25-29"
-    },
-    "Maternal mortality ratio": {
-      "text": "43 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "18.75 deaths/1,000 live births"
+        "text": "10.25 deaths/1,000 live births"
       },
       "male": {
-        "text": "22.25 deaths/1,000 live births"
+        "text": "12.39 deaths/1,000 live births"
       },
       "female": {
-        "text": "15.07 deaths/1,000 live births (2021 est.)"
+        "text": "8 deaths/1,000 live births (2021 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "74.92 years"
+        "text": "75.06 years"
       },
       "male": {
-        "text": "72.01 years"
+        "text": "72.55 years"
       },
       "female": {
-        "text": "77.98 years (2021 est.)"
+        "text": "77.72 years (2021 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.46 children born/woman (2021 est.)"
+      "text": "2.28 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
-      "text": "16.6% (2019/20)"
+      "text": "NA"
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "Urban: 100% of population"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "Rural: 98% of population"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "Total: 98.4% of population"
+        "text": "Total: 99.8% of population"
       },
       "unimproved: urban": {
-        "text": "Urban: 0% of population"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "Rural: 2% of population"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "Total: 1.6% of population (2020 est.)"
+        "text": "Total: 0.2% of population (2020 est.)"
       }
     },
     "Current Health Expenditure": {
-      "text": "6.4% (2019)"
-    },
-    "Physicians density": {
-      "text": "0.35 physicians/1,000 population (2016)"
+      "text": "NA"
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "Urban: 99.5% of population"
+        "text": "Urban: NA"
       },
       "improved: rural": {
-        "text": "Rural: 99.5% of population"
+        "text": "Rural: NA"
       },
       "improved: total": {
-        "text": "Total: 99.5% of population"
+        "text": "Total: 99% of population"
       },
       "unimproved: urban": {
-        "text": "Urban: 0.5% of population"
+        "text": "Urban: NA"
       },
       "unimproved: rural": {
-        "text": "Rural: 0.5% of population"
+        "text": "Rural: NA"
       },
       "unimproved: total": {
-        "text": "Total: 0.5% of population (2020 est.)"
+        "text": "Total: 1% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -300,109 +283,51 @@
     "HIV/AIDS - deaths": {
       "text": "NA"
     },
-    "Major infectious diseases": {
-      "degree of risk": {
-        "text": "High (2020)"
-      },
-      "food or waterborne diseases": {
-        "text": "Bacterial diarrhea"
-      },
-      "vectorborne diseases": {
-        "text": "Malaria"
-      }
-    },
-    "Obesity - adult prevalence rate": {
-      "text": "47.3% (2016)"
-    },
     "Children under the age of 5 years underweight": {
-      "text": "3.4% (2019/20)"
+      "text": "NA"
     },
     "Education expenditures": {
-      "text": "4.8% of GDP (2020)"
-    },
-    "Literacy": {
-      "definition": {
-        "text": "Age 15 and over can read and write"
-      },
-      "total population": {
-        "text": "99.1%"
-      },
-      "male": {
-        "text": "99%"
-      },
-      "female": {
-        "text": "99.2% (2018)"
-      }
-    },
-    "Unemployment, youth ages 15-24": {
-      "total": {
-        "text": "31.9%"
-      },
-      "male": {
-        "text": "24.6%"
-      },
-      "female": {
-        "text": "43.4% (2017 est.)"
-      }
+      "text": "NA"
     }
   },
   "Environment": {
     "Environment - current issues": {
-      "text": "Soil erosion, deforestation, invasive species, overfishing"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands"
-      },
-      "signed, but not ratified": {
-        "text": "None of the selected agreements"
-      }
-    },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "10.56 micrograms per cubic meter (2016 est.)"
-      },
-      "carbon dioxide emissions": {
-        "text": "0.25 megatons (2016 est.)"
-      },
-      "methane emissions": {
-        "text": "0.27 megatons (2020 est.)"
-      }
+      "text": "Limited supply of drinking water; Pollution; Waste disposal; Coastal and stream alteration; Soil erosion"
     },
     "Climate": {
-      "text": "Tropical; Rainy season (November to April), dry season (May to October)"
+      "text": "Tropical marine, moderated by southeast trade winds; Annual rainfall averages about 3 m; Rainy season (November to April), dry season (May to October); Little seasonal temperature variation"
     },
     "Land use": {
       "agricultural land": {
-        "text": "12.4% (2018 est.)"
+        "text": "24.5% (2018 est.)"
       },
       "agricultural land: arable land": {
-        "text": "Arable land: 2.8% (2018 est.)"
+        "text": "Arable land: 15% (2018 est.)"
       },
       "agricultural land: permanent crops": {
-        "text": "Permanent crops: 7.8% (2018 est.)"
+        "text": "Permanent crops: 9.5% (2018 est.)"
       },
       "agricultural land: permanent pasture": {
-        "text": "Permanent pasture: 1.8% (2018 est.)"
+        "text": "Permanent pasture: 0% (2018 est.)"
       },
       "forest": {
-        "text": "60.4% (2018 est.)"
+        "text": "75.5% (2018 est.)"
       },
       "other": {
-        "text": "27.2% (2018 est.)"
+        "text": "0% (2018 est.)"
       }
     },
     "Urbanization": {
       "urban population": {
-        "text": "17.6% of total population (2022)"
+        "text": "87.2% of total population (2022)"
       },
       "rate of urbanization": {
-        "text": "-0.03% annual rate of change (2020-25 est.)"
+        "text": "0.26% annual rate of change (2020-25 est.)"
       }
     },
     "Revenue from forest resources": {
       "forest revenues": {
-        "text": "0.27% of GDP (2018 est.)"
+        "text": "0% of GDP (2018 est.)"
       }
     },
     "Revenue from coal": {
@@ -410,343 +335,254 @@
         "text": "0% of GDP (2018 est.)"
       }
     },
-    "Major infectious diseases": {
-      "degree of risk": {
-        "text": "High (2020)"
-      },
-      "food or waterborne diseases": {
-        "text": "Bacterial diarrhea"
-      },
-      "vectorborne diseases": {
-        "text": "Malaria"
-      }
-    },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "27,399 tons (2011 est.)"
-      },
-      "municipal solid waste recycled annually": {
-        "text": "9,864 tons (2013 est.)"
-      },
-      "percent of municipal solid waste recycled": {
-        "text": "36% (2013 est.)"
+        "text": "18,989 tons (2016 est.)"
       }
-    },
-    "Total renewable water resources": {
-      "text": "0 cubic meters (2017 est.)"
     }
   },
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "Independent State of Samoa"
+        "text": "American Samoa"
       },
       "conventional short form": {
-        "text": "Samoa"
-      },
-      "local long form": {
-        "text": "Malo Sa'oloto Tuto'atasi o Samoa"
-      },
-      "local short form": {
-        "text": "Samoa"
+        "text": "American Samoa"
       },
       "former": {
-        "text": "Western Samoa"
+        "text": "Eastern Samoa"
+      },
+      "abbreviation": {
+        "text": "AS"
       },
       "etymology": {
         "text": "The meaning of Samoa is disputed; Some modern explanations are that the \"sa\" connotes; \"sacred\" and \"moa\" indicates \"center,\" so the name can mean \"Holy Center\"; Alternatively, some assertions state that it can mean \"place of the sacred moa bird\" of Polynesian mythology; The name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); A plausible PPn reconstruction has the first syllable as \"sa'a\" meaning \"tribe or people\" and \"moa\" meaning \"deep sea or ocean\" to convey the meaning \"people of the deep sea\""
       }
     },
     "Government type": {
-      "text": "Parliamentary republic"
+      "text": "Unincorporated, unorganized Territory of the US with local self-government; Republican form of territorial government with separate executive, legislative, and judicial branches;"
+    },
+    "Dependency status": {
+      "text": "Unincorporated, unorganized Territory of the US; Administered by the Office of Insular Affairs, US Department of the Interior"
     },
     "Capital": {
       "name": {
-        "text": "Apia"
+        "text": "Pago Pago"
       },
       "geographic coordinates": {
-        "text": "13 49 S, 171 46 W"
+        "text": "14 16 S, 170 42 W"
       },
       "time difference": {
-        "text": "UTC+13 (18 hours ahead of Washington, DC, during Standard Time)"
+        "text": "UTC-11 (6 hours behind Washington, DC, during Standard Time)"
       },
-      "etymology": {
-        "text": "Name derives from the native village around which the capital was constructed in the 1850s; The village still exists within the larger modern capital"
-      }
+      "note": "Note: pronounced pahn-go pahn-go"
     },
     "Administrative divisions": {
-      "text": "11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga, Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea, Tuamasaga, Va'a-o-Fonoti, Vaisigano"
+      "text": "None (territory of the US); There are no first-order administrative divisions as defined by the US Government, but there are 3 districts and 2 islands* at the second order; Eastern, Manu'a, Rose Island*, Swains Island*, Western"
     },
     "Independence": {
-      "text": "1 January 1962 (from New Zealand-administered UN trusteeship)"
+      "text": "None (territory of the US)"
     },
     "National holiday": {
-      "text": "Independence Day Celebration, 1 June (1962); Note - 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June"
+      "text": "Flag Day, 17 April (1900)"
     },
     "Constitution": {
       "history": {
-        "text": "Several previous (preindependence); Latest 1 January 1962"
+        "text": "Adopted 17 October 1960; Revised 1 July 1967"
       },
       "amendments": {
-        "text": "Proposed as an act by the Legislative Assembly; Passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; Passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum; Amended several times, last in 2020"
+        "text": "Proposed by either house of the Legislative Assembly; Passage requires three-fifths majority vote by the membership of each house, approval by simple majority vote in a referendum, approval by the US Secretary of the Interior, and only by an act of; The US Congress; Amended several times, last in 2021"
       }
     },
     "Legal system": {
-      "text": "Mixed legal system of English common law and customary law; Judicial review of legislative acts with respect to fundamental rights of the citizen"
-    },
-    "International law organization participation": {
-      "text": "Has not submitted an ICJ jurisdiction declaration; Accepts ICCt jurisdiction"
+      "text": "Mixed legal system of US common law and customary law"
     },
     "Citizenship": {
-      "citizenship by birth": {
-        "text": "No"
-      },
-      "citizenship by descent only": {
-        "text": "At least one parent must be a citizen of Samoa"
-      },
-      "dual citizenship recognized": {
-        "text": "No"
-      },
-      "residency requirement for naturalization": {
-        "text": "5 years"
-      }
+      "text": "See United StatesNote: in accordance with US Code Title 8, Section 1408, persons born in American Samoa are US nationals but not US citizens"
     },
     "Suffrage": {
-      "text": "21 years of age; Universal"
+      "text": "18 years of age; Universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)"
+        "text": "President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)"
       },
       "head of government": {
-        "text": "Prime Minister FIAME Naomi Mata&rsquo;afa (since 24 May 2021)"
+        "text": "Governor Lemanu Peleti MAUGA (since 3 January 2021)"
       },
       "cabinet": {
-        "text": "Cabinet appointed by the chief of state on the prime minister's advice"
+        "text": "Cabinet consists of 12 department directors appointed by the governor with the consent of the Legislature or Fono"
       },
       "elections/appointments": {
-        "text": "Chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2- term limit); Election last held on 4 July 2017 (next to be held in 2022); Following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly"
+        "text": "President and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); Under the US Constitution, residents of unincorporated territories, such as American Samoa, do not vote in elections for US president and vice president; However, they may vote in Democratic and Republican presidential primary elections; Governor and lieutenant governor directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); Election last held on 3 November 2020 (next to be held in November 2024)"
       },
       "election results": {
-        "text": "TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi unanimously elected by the Legislative Assembly on 5 July 2017"
+        "text": "Lemanu Peleti MAUGA elected governor in first round; Percent of vote - Lemanu Peleti MAUGA (independent) 60.3%, Gaoteote Palaie TOFAU (independent) 21.9%, I'aulualo Fa'afetai TALIA (independent) 12.3%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "Unicameral Legislative Assembly or Fono (53 seats for 2021-2026 term); Members from 51 single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; Members serve 5-year terms)"
+        "text": "Bicameral Legislature or Fono consists of:Senate (18 seats; Members indirectly selected by regional governing councils to serve 4-year terms)House of Representatives (21 seats; 20 members directly elected by simple majority vote and 1 decided by public meeting on Swains Island; Members serve 2-year terms)"
       },
       "elections": {
-        "text": "Election last held on 9 April 2021 (next election to be held in 2026)"
+        "text": "Senate - last held on 3 November 2020 (next to be held in November 2024)House of Representatives - last held on 3 November 2020 (next to be held in November 2024)"
       },
       "election results": {
-        "text": "Percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; Seats by party – FAST 30, HRPP 22, independents 1; Composition - men 47, women 6, percent of women 11.3% note - on 29 November 2021, the Election Commissioner added two women seats to parliament, bringing the HRPP’s total from 20 to 22 seats"
-      }
+        "text": "Senate - percent of vote by party - NA; Seats by party - independent 18; Composition - men 17, women 1; Percent of women 5.6%House of Representatives - percent of vote by party - NA; Seats by party - NA; Composition - men 20, women 1; Percent of women 4.8%; Note total Legislature percent of women 5.1%5"
+      },
+      "note": "<strong id=\"tinymce\" class=\"mce-content-body \" style=\"font-size: 18px;\" contenteditable=\"true\" spellcheck=\"false\" data-id=\"field_notes\">note: American Samoa elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; The delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; Election of delegate last held on 3 November 2020 (next to be held in November 2022); Amata Coleman RADEWAGEN elected delegate; Amata Coleman RADEWAGEN (Republican Party) 83.5%, Oreta CHRICHTON (Democratic Party) 14.4%, Meleagi SUITONU-CHAPMAN (Democratic Party) 2.1%"
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)"
+        "text": "High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions); Note - American Samoa has no US federal courts"
       },
       "judge selection and term of office": {
-        "text": "Chief justice appointed by the chief of state upon the advice of the prime minister; Other Supreme Court judges appointed by the Judicial Service Commission, a 3-member body chaired by the chief justice and includes the attorney general and an appointee of the Minister of Justice; Judges normally serve until retirement at age 68"
+        "text": "Chief justice and associate chief justice appointed by the US Secretary of the Interior to serve for life; Samoan associate judges appointed by the governor to serve for life"
       },
       "subordinate courts": {
-        "text": "District Court; Magistrates' Courts; Land and Titles Courts; Village fono or village chief councils"
+        "text": "District and village courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Human Rights Protection Party or HRPP [TUILA'EPA Sailele Malielegaoi]Fa'atuatua i le Atua Samoa ua Tasi or FAST [FIAME Naomi Mata'afa]Tautua Samoa Party or TSP [Afualo Wood Uti SALELE]"
+      "text": "Democratic Party [Fagafaga Daniel LANGKILDE, chairman]Republican Party [William SWORD, chairman]"
     },
     "International organization participation": {
-      "text": "ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITU, ITUC (NGOs), MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO"
+      "text": "AOSIS (observer), Interpol (subbureau), IOC, PIF (observer), SPC"
     },
     "Diplomatic representation in the US": {
-      "chief of mission": {
-        "text": "Ambassador Pa’olelei LUTERU (since 7 July 2021)"
-      },
-      "chancery": {
-        "text": "685 Third Avenue, 44th Street, 11th Floor, Suite 1102, New York, NY 10017"
-      },
-      "telephone": {
-        "text": "[1] (212) 599-6196"
-      },
-      "FAX": {
-        "text": "[1] (212) 599-0797"
-      },
-      "email address and website": {
-        "text": "Samoanymission@outlook.comhttps://www.un.int/samoa/samoa/embassy-independent-state-samoa-united-states-america"
-      },
-      "consulate(s) general": {
-        "text": "Pago Pago (American Samoa)"
-      }
+      "text": "None (territory of the US)"
     },
     "Diplomatic representation from the US": {
-      "chief of mission": {
-        "text": "The US Ambassador to New Zealand is accredited to Samoa"
-      },
       "embassy": {
-        "text": "5th Floor, Accident Corporation Building, Matafele Apia"
-      },
-      "mailing address": {
-        "text": "4400 Apia Place, Washington DC 20521-4400"
-      },
-      "telephone": {
-        "text": "[685] 21-436 (2018)"
-      },
-      "FAX": {
-        "text": "[685] 22-030 (2018)"
-      },
-      "email address and website": {
-        "text": "ApiaConsular@state.govhttps://ws.usembassy.gov/"
+        "text": "None (territory of the US)"
       }
     },
     "Flag description": {
-      "text": "Red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars representing the Southern Cross constellation; Red stands for courage, blue represents freedom, and white signifies purity",
-      "note": "Note: similar to the flag of Taiwan"
+      "text": "Blue, with a white triangle edged in red that is based on the fly side and extends to the hoist side; A brown and white American bald eagle flying toward the hoist side is carrying 2 traditional Samoan symbols of authority, a war club known as a \"fa'alaufa'i\" (upper; Left talon), and a coconut-fiber fly whisk known as a \"fue\" (lower; Right talon); The combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the US and American Samoa"
     },
     "National symbol(s)": {
-      "text": "Southern Cross constellation (five, five-pointed stars); National colors: red, white, blue"
+      "text": "A fue (coconut fiber fly whisk; Representing wisdom) crossed with a to'oto'o (staff; Representing authority); National colors: red, white, blue"
     },
     "National anthem": {
       "name": {
-        "text": "\"O le Fu'a o le Sa'olotoga o Samoa\" (The Banner of Freedom)"
+        "text": "\"Amerika Samoa\" (American Samoa)"
       },
       "lyrics/music": {
-        "text": "Sauni Liga KURESA"
+        "text": "Mariota Tiumalu TUIASOSOPO/Napoleon Andrew TUITELELEAPAGA"
       },
-      "note": "Note: adopted 1962; Also known as \"Samoa Tula'i\" (Samoa Arise)"
+      "note": "Note: local anthem adopted 1950; As a territory of the United States, \"The Star-Spangled Banner\" is official (see United States)"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014."
+      "text": "American Samoa s a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and processing are the backbone of the private sector with processed fish products as the primary exports. The fish processing business accounted for 15.5% of employment in 2015.In late September 2009, an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. The US Federal Emergency Management Agency oversaw a relief program of nearly $25 million. Transfers from the US Government add substantially to American Samoa's economic well-being.Attempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism has some potential as a source of income and jobs."
     },
     "Real GDP (purchasing power parity)": {
-      "Real GDP (purchasing power parity) 2020": {
-        "text": "$1.25 billion note: data are in 2017 dollars (2020 est.)"
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$658 million (2016 est.)"
       },
-      "Real GDP (purchasing power parity) 2019": {
-        "text": "$1.28 billion note: data are in 2017 dollars (2019 est.)"
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$674.9 million (2015 est.)"
       },
-      "Real GDP (purchasing power parity) 2018": {
-        "text": "$1.24 billion note: data are in 2017 dollars (2018 est.)"
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$666.9 billion (2014 est.)"
       },
-      "note": "Note: data are in 2017 dollars"
+      "note": "Note: data are in 2016 US dollars"
     },
     "Real GDP growth rate": {
-      "Real GDP growth rate 2017": {
-        "text": "2.5% (2017 est.)"
-      },
       "Real GDP growth rate 2016": {
-        "text": "7.1% (2016 est.)"
+        "text": "-2.5% (2016 est.)"
       },
       "Real GDP growth rate 2015": {
-        "text": "1.6% (2015 est.)"
+        "text": "1.2% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "1% (2014 est.)"
       }
     },
     "Real GDP per capita": {
-      "Real GDP per capita 2020": {
-        "text": "$6,300 note: data are in 2017 dollars (2020 est.)"
+      "Real GDP per capita 2016": {
+        "text": "$11,200 (2016 est.)"
       },
-      "Real GDP per capita 2019": {
-        "text": "$6,500 note: data are in 2017 dollars (2019 est.)"
+      "Real GDP per capita 2015": {
+        "text": "$11,300 (2015 est.)"
       },
-      "Real GDP per capita 2018": {
-        "text": "$6,300 note: data are in 2017 dollars (2018 est.)"
-      },
-      "note": "Note: data are in 2017 dollars"
+      "Real GDP per capita 2014": {
+        "text": "$11,200 (2014 est.)"
+      }
     },
     "GDP (official exchange rate)": {
-      "text": "$841 million (2017 est.)"
+      "text": "$658 million (2016 est.)"
     },
     "Inflation rate (consumer prices)": {
-      "Inflation rate (consumer prices) 2017": {
-        "text": "1.3% (2017 est.)"
+      "Inflation rate (consumer prices) 2015": {
+        "text": "-0.5% (2015 est.)"
       },
-      "Inflation rate (consumer prices) 2016": {
-        "text": "0.1% (2016 est.)"
+      "Inflation rate (consumer prices) 2014": {
+        "text": "1.4% (2014 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "10.4% (2017 est.)"
+        "text": "27.4% (2012)"
       },
       "industry": {
-        "text": "23.6% (2017 est.)"
+        "text": "12.4% (2012)"
       },
       "services": {
-        "text": "66% (2017 est.)"
+        "text": "60.2% (2012)"
       }
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "NA"
+        "text": "66.4% (2016 est.)"
       },
       "government consumption": {
-        "text": "NA"
+        "text": "49.7% (2016 est.)"
       },
       "investment in fixed capital": {
-        "text": "NA"
+        "text": "7.3% (2016 est.)"
       },
       "investment in inventories": {
-        "text": "NA"
+        "text": "5.1% (2016 est.)"
       },
       "exports of goods and services": {
-        "text": "27.2% (2015 est.)"
+        "text": "65% (2016 est.)"
       },
       "imports of goods and services": {
-        "text": "-50.5% (2015 est.)"
+        "text": "-93.5% (2016 est.)"
       }
     },
     "Agricultural products": {
-      "text": "Coconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papayas, roots/tubers nes, pork"
+      "text": "Bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papayas; Dairy products, livestock"
     },
     "Industries": {
-      "text": "Food processing, building materials, auto parts"
+      "text": "Tuna canneries (largely supplied by foreign fishing vessels), handicrafts"
     },
     "Industrial production growth rate": {
-      "text": "-1.8% (2017 est.)"
+      "text": "NA"
     },
     "Labor force": {
-      "text": "50,700 (2016 est.)"
+      "text": "17,850 (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "65%"
+        "text": "NA"
       },
       "industry": {
-        "text": "6%"
+        "text": "15.5%"
       },
       "services": {
-        "text": "29% (2015 est.)"
+        "text": "46.4% (2015 est.)"
       }
     },
     "Unemployment rate": {
-      "Unemployment rate 2017": {
-        "text": "5.2% (2017 est.)"
-      },
-      "Unemployment rate 2016": {
-        "text": "5.5% (2016 est.)"
-      },
-      "note": "NA"
-    },
-    "Unemployment, youth ages 15-24": {
-      "total": {
-        "text": "31.9%"
-      },
-      "male": {
-        "text": "24.6%"
-      },
-      "female": {
-        "text": "43.4% (2017 est.)"
+      "Unemployment rate 2005": {
+        "text": "29.8% (2005)"
       }
     },
     "Population below poverty line": {
-      "text": "20.3% (2013 est.)"
-    },
-    "Gini Index coefficient - distribution of family income": {
-      "Gini Index coefficient - distribution of family income 2013": {
-        "text": "38.7 (2013 est.)"
-      }
+      "text": "NA"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -758,107 +594,67 @@
     },
     "Budget": {
       "revenues": {
-        "text": "237.3 million (2017 est.)"
+        "text": "249 million (2016 est.)"
       },
       "expenditures": {
-        "text": "276.8 million (2017 est.)"
+        "text": "262.5 million (2016 est.)"
       }
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4.7% (of GDP) (2017 est.)"
+      "text": "-2.1% (of GDP) (2016 est.)"
     },
     "Public debt": {
-      "Public debt 2017": {
-        "text": "49.1% of GDP (2017 est.)"
-      },
       "Public debt 2016": {
-        "text": "52.6% of GDP (2016 est.)"
+        "text": "12.2% of GDP (2016 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "28.2% (of GDP) (2017 est.)"
+      "text": "37.8% (of GDP) (2016 est.)"
     },
     "Fiscal year": {
-      "text": "June 1 - May 31"
-    },
-    "Current account balance": {
-      "Current account balance 2017": {
-        "text": "-$19 million (2017 est.)"
-      },
-      "Current account balance 2016": {
-        "text": "-$37 million (2016 est.)"
-      }
+      "text": "1 October - 30 September"
     },
     "Exports": {
-      "Exports 2018": {
-        "text": "$310 million note: data are in current year dollars (2018 est.)"
+      "Exports 2016": {
+        "text": "$428 million (2016 est.)"
+      },
+      "Exports 2015": {
+        "text": "$427 million (2015 est.)"
       }
     },
     "Exports - partners": {
-      "text": "American Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6%, Taiwan 5% (2019)"
+      "text": "Australia 25%, Ghana 19%, Indonesia 15.6%, Burma 10.4%, Portugal 5.1% (2017)"
     },
     "Exports - commodities": {
-      "text": "Refined petroleum, fish, fruit juice, coconut oil, beer (2019)"
+      "text": "Canned tuna"
     },
     "Imports": {
-      "Imports 2018": {
-        "text": "$430 million note: data are in current year dollars (2018 est.)"
-      },
       "Imports 2016": {
-        "text": "$312.6 million (2016 est.)"
+        "text": "$615 million (2016 est.)"
+      },
+      "Imports 2015": {
+        "text": "$657 million (2015 est.)"
       }
     },
     "Imports - partners": {
-      "text": "New Zealand 22%, China 16%, Singapore 13%, United States 10%, Australia 9%, South Korea 8%, Fiji 5% (2019)"
+      "text": "Fiji 10.7%, Singapore 10.4%, NZ 10.4%, South Korea 9.3%, Samoa 8.2%, Kenya 6.4%, Australia 5.2% (2017)"
     },
     "Imports - commodities": {
-      "text": "Refined petroleum, iron products, poultry meats, cars, insulated wiring (2019)"
-    },
-    "Reserves of foreign exchange and gold": {
-      "Reserves of foreign exchange and gold 31 December 2017": {
-        "text": "$133 million (31 December 2017 est.)"
-      },
-      "Reserves of foreign exchange and gold 31 December 2015": {
-        "text": "$122.5 million (31 December 2015 est.)"
-      }
+      "text": "Raw materials for canneries, food, petroleum products, machinery and parts"
     },
     "Debt - external": {
-      "Debt - external 31 December 2013": {
-        "text": "$447.2 million (31 December 2013 est.)"
-      }
+      "text": "NA"
     },
     "Exchange rates": {
-      "currency": {
-        "text": "Tala (SAT) per US dollar -"
-      },
-      "Exchange rates 2020": {
-        "text": "2.54712 (2020 est.)"
-      },
-      "Exchange rates 2019": {
-        "text": "2.65534 (2019 est.)"
-      },
-      "Exchange rates 2018": {
-        "text": "2.57069 (2018 est.)"
-      },
-      "Exchange rates 2014": {
-        "text": "2.5609 (2014 est.)"
-      },
-      "Exchange rates 2013": {
-        "text": "2.3318 (2013 est.)"
-      }
+      "text": "The US dollar is used"
     }
   },
   "Energy": {
-    "Electricity access": {
-      "electrification - total population": {
-        "text": "100% (2020)"
-      }
-    },
     "Electricity - production": {
-      "text": "132 million kWh (2016 est.)"
+      "text": "169 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "122.8 million kWh (2016 est.)"
+      "text": "157.2 million kWh (2016 est.)"
     },
     "Electricity - exports": {
       "text": "0 kWh (2016 est.)"
@@ -867,19 +663,19 @@
       "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "45,000 kW (2016 est.)"
+      "text": "43,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "48% of total installed capacity (2016 est.)"
+      "text": "98% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
       "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "23% of total installed capacity (2017 est.)"
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "29% of total installed capacity (2017 est.)"
+      "text": "2% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
       "text": "0 bbl/day (2018 est.)"
@@ -894,16 +690,16 @@
       "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "2,400 bbl/day (2016 est.)"
+      "text": "2,375 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "2,363 bbl/day (2015 est.)"
+      "text": "2,346 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
       "text": "0 cu m (2017 est.)"
@@ -924,121 +720,83 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "8,454 (2018)"
+        "text": "10,000 (2018 est.)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "4.33 (2018 est.)"
+        "text": "17.92 (2018 est.)"
       }
     },
     "Telephones - mobile cellular": {
-      "total subscriptions": {
-        "text": "124,211 (2018)"
-      },
       "subscriptions per 100 inhabitants": {
-        "text": "63.58 (2019 est.)"
+        "text": "4 (2004)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Development of infrastructure is hampered by geography of remote islands, vulnerable to devastating storms; Telecom sector has been inhibited by lack of international connectivity; Most households have at least one mobile phone; Businesses in the capital area have access to broadband and Wi-Fi; Rural islands have some access to Internet and Wi-Fi; Liberalized regulatory infrastructure and competition in the mobile market increased coverage and reduced cost; Access to submarine cables improved Internet data rates and reliability; Australian companies countering Chinese companies in the acquisition of Pacific operations; Importer of broadcasting equipment from USA (2020)"
+        "text": "Good telex, telegraph, facsimile, and cellular telephone services; One of the most complete and modern telecommunications systems in the South Pacific Islands; All inhabited islands have telephone connectivity"
       },
       "domestic": {
-        "text": "Fixed-line roughly 4 per 100 and mobile-cellular teledensity nearly 64 telephones per 100 persons (2019)"
+        "text": "Nearly 18 per 100 fixed-line teledensity, domestic satellite system with 1 Comsat earth station (2018)"
       },
       "international": {
-        "text": "Country code - 685; Landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji,;Wallis;&amp; Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau; Satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
+        "text": "Country code - 1-684; Landing points for the ASH, Southern Cross NEXT;and Hawaiki; Providing;connectivity to New Zealand, Australia, American Samoa, Hawaii, California, and;SAS connecting American Samoa with Samoa; Satellite earth station - 1 (Intelsat-Pacific Ocean) (2019)"
       },
       "note": "Note: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; Since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; Many network operators delayed upgrades to infrastructure; Progress towards 5G implementation was postponed or slowed in some countries; Consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; The crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
-      "text": "State-owned TV station privatized in 2008; 4 privately owned television broadcast stations; About a half-dozen privately owned radio stations and one state-owned radio station; TV and radio broadcasts of several stations from American Samoa are available (2019)"
+      "text": "3 TV stations; Multi-channel pay TV services are available; About a dozen radio stations, some of which are repeater stations"
     },
     "Internet country code": {
-      "text": ".ws"
+      "text": ".as"
     },
     "Internet users": {
       "total": {
-        "text": "67,000 (2021 est.)"
+        "text": "24,100 (2022 est.)"
       },
       "percent of population": {
-        "text": "33.61% (2019 est.)"
-      }
-    },
-    "Broadband - fixed subscriptions": {
-      "total": {
-        "text": "1,692 (2017 est.)"
-      },
-      "subscriptions per 100 inhabitants": {
-        "text": "Less than 1 (2019 est.)"
+        "text": "43.8% (2022 est.)"
       }
     }
   },
   "Transportation": {
-    "National air transport system": {
-      "number of registered air carriers": {
-        "text": "1 (2020)"
-      },
-      "inventory of registered aircraft operated by air carriers": {
-        "text": "4"
-      },
-      "annual passenger traffic on registered air carriers": {
-        "text": "137,770 (2018)"
-      }
-    },
-    "Civil aircraft registration country code prefix": {
-      "text": "5W"
-    },
     "Airports": {
       "total": {
-        "text": "4 (2013)"
+        "text": "3 (2020)"
       }
     },
     "Airports - with paved runways": {
       "total": {
-        "text": "1"
-      },
-      "2,438 to 3,047 m": {
-        "text": "1 (2019)"
-      }
-    },
-    "Airports - with unpaved runways": {
-      "total": {
         "text": "3"
       },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
       "under 914 m": {
-        "text": "3 (2013)"
+        "text": "1 (2019)"
       }
     },
     "Roadways": {
       "total": {
-        "text": "1,150 km (2018)"
-      }
-    },
-    "Merchant marine": {
-      "total": {
-        "text": "12"
-      },
-      "by type": {
-        "text": "General cargo 3, oil tanker 3, other 6 (2021)"
+        "text": "241 km (2016)"
       }
     },
     "Ports and terminals": {
       "major seaport(s)": {
-        "text": "Apia"
+        "text": "Pago Pago"
       }
     }
   },
   "Military and Security": {
-    "Military and security forces": {
-      "text": "No regular military forces; Samoa Police Force (Ministry of Police)"
-    },
     "Military - note": {
-      "text": "Samoa has no formal defense structure or regular armed forces; Informal defense ties exist with NZ, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship"
+      "text": "Defense is the responsibility of the US"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "None"
+      "text": "Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution"
     }
   }
 }

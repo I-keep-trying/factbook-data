@@ -2,6 +2,7 @@ const fs = require('fs')
 const fetch = require('node-fetch')
 const fbCountryCodes = require('./fbCountryCodes')
 const countryDirList = require('./countryDirList')
+const countryNames = require('./countryNames')
 
 const urls = []
 
@@ -42,7 +43,7 @@ const makeUrls = (countriesArr, codesArr) =>
     })
   })
 
-makeUrls(countryDirList, fbCountryCodes)
+makeUrls(countryDirList, fbCountryCodes) 
 
 // fetch data from all factbook files and save as one file
 
@@ -72,4 +73,34 @@ fs.readFile('./data.json', (error, data) => {
   fetchAll()
 })
 
+/* const urls2 = [
+  'https://raw.githubusercontent.com/I-keep-trying/factbook-data/master/data/Albania.json',
+  'https://raw.githubusercontent.com/I-keep-trying/factbook-data/master/data/Algeria.json',
+]
+const findEmpty = (countriesArr) =>
+  countriesArr.map((country) => {
+    return urls2.push(
+      `https://raw.githubusercontent.com/I-keep-trying/factbook-data/master/data/${country}.json`
+    )
+  })
 
+findEmpty(countryNames)
+
+async function fetchAll() {
+  const results = await Promise.all(
+    urls2.map((url) => fetch(url).then((r) => r.json()))
+  )
+  fs.writeFile(
+    './data.json',
+    JSON.stringify(results, null, 2),
+    (err) => {
+      if (err) {
+        console.log('Failed to write data')
+        return
+      }
+      console.log('Updated data file successfully')
+    }
+  ) 
+} */
+
+// fetchAll()
